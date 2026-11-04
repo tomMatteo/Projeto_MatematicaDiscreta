@@ -1,10997 +1,10997 @@
-pokemon('Abomasnow', 84).
-ability('Abomasnow', 'Snow Warning').
-item('Abomasnow', 'Light Clay').
-role('Abomasnow', 'Bulky Support').
-ability('Abomasnow','Bulky Support', 'Snow Warning').
-item('Abomasnow','Bulky Support', 'Light Clay').
-tera('Abomasnow','Bulky Support', 'Ghost').
-tera('Abomasnow','Bulky Support', 'Water').
-move('Abomasnow','Bulky Support', 'Aurora Veil').
-move('Abomasnow','Bulky Support', 'Blizzard').
-move('Abomasnow','Bulky Support', 'Earthquake').
-move('Abomasnow','Bulky Support', 'Ice Shard').
-move('Abomasnow','Bulky Support', 'Wood Hammer').
-pokemon('Alcremie', 90).
-ability('Alcremie', 'Aroma Veil').
-item('Alcremie', 'Leftovers').
-role('Alcremie', 'Bulky Setup').
-ability('Alcremie','Bulky Setup', 'Aroma Veil').
-item('Alcremie','Bulky Setup', 'Leftovers').
-tera('Alcremie','Bulky Setup', 'Poison').
-tera('Alcremie','Bulky Setup', 'Steel').
-move('Alcremie','Bulky Setup', 'Alluring Voice').
-move('Alcremie','Bulky Setup', 'Calm Mind').
-move('Alcremie','Bulky Setup', 'Psyshock').
-move('Alcremie','Bulky Setup', 'Recover').
-role('Alcremie', 'Tera Blast user').
-ability('Alcremie','Tera Blast user', 'Aroma Veil').
-item('Alcremie','Tera Blast user', 'Leftovers').
-tera('Alcremie','Tera Blast user', 'Ground').
-move('Alcremie','Tera Blast user', 'Alluring Voice').
-move('Alcremie','Tera Blast user', 'Calm Mind').
-move('Alcremie','Tera Blast user', 'Recover').
-move('Alcremie','Tera Blast user', 'Tera Blast').
-pokemon('Alomomola', 87).
-ability('Alomomola', 'Regenerator').
-item('Alomomola', 'Heavy-Duty Boots').
-item('Alomomola', 'Leftovers').
-item('Alomomola', 'Rocky Helmet').
-role('Alomomola', 'Fast Support').
-ability('Alomomola','Fast Support', 'Regenerator').
-item('Alomomola','Fast Support', 'Heavy-Duty Boots').
-tera('Alomomola','Fast Support', 'Poison').
-tera('Alomomola','Fast Support', 'Steel').
-move('Alomomola','Fast Support', 'Flip Turn').
-move('Alomomola','Fast Support', 'Protect').
-move('Alomomola','Fast Support', 'Scald').
-move('Alomomola','Fast Support', 'Wish').
-role('Alomomola', 'Bulky Support').
-ability('Alomomola','Bulky Support', 'Regenerator').
-item('Alomomola','Bulky Support', 'Leftovers').
-item('Alomomola','Bulky Support', 'Rocky Helmet').
-tera('Alomomola','Bulky Support', 'Poison').
-tera('Alomomola','Bulky Support', 'Steel').
-move('Alomomola','Bulky Support', 'Flip Turn').
-move('Alomomola','Bulky Support', 'Protect').
-move('Alomomola','Bulky Support', 'Scald').
-move('Alomomola','Bulky Support', 'Wish').
-pokemon('Altaria', 89).
-ability('Altaria', 'Natural Cure').
-item('Altaria', 'Heavy-Duty Boots').
-role('Altaria', 'Bulky Support').
-ability('Altaria','Bulky Support', 'Natural Cure').
-item('Altaria','Bulky Support', 'Heavy-Duty Boots').
-tera('Altaria','Bulky Support', 'Steel').
-move('Altaria','Bulky Support', 'Brave Bird').
-move('Altaria','Bulky Support', 'Defog').
-move('Altaria','Bulky Support', 'Earthquake').
-move('Altaria','Bulky Support', 'Haze').
-move('Altaria','Bulky Support', 'Roost').
-move('Altaria','Bulky Support', 'Will-O-Wisp').
-role('Altaria', 'Bulky Setup').
-ability('Altaria','Bulky Setup', 'Natural Cure').
-item('Altaria','Bulky Setup', 'Heavy-Duty Boots').
-tera('Altaria','Bulky Setup', 'Ground').
-tera('Altaria','Bulky Setup', 'Steel').
-move('Altaria','Bulky Setup', 'Brave Bird').
-move('Altaria','Bulky Setup', 'Dragon Dance').
-move('Altaria','Bulky Setup', 'Earthquake').
-move('Altaria','Bulky Setup', 'Roost').
-pokemon('Ambipom', 84).
-ability('Ambipom', 'Technician').
-item('Ambipom', 'Choice Band').
-item('Ambipom', 'Silk Scarf').
-role('Ambipom', 'Wallbreaker').
-ability('Ambipom','Wallbreaker', 'Technician').
-item('Ambipom','Wallbreaker', 'Silk Scarf').
-tera('Ambipom','Wallbreaker', 'Normal').
-move('Ambipom','Wallbreaker', 'Double-Edge').
-move('Ambipom','Wallbreaker', 'Fake Out').
-move('Ambipom','Wallbreaker', 'Knock Off').
-move('Ambipom','Wallbreaker', 'Low Kick').
-move('Ambipom','Wallbreaker', 'U-turn').
-role('Ambipom', 'Fast Attacker').
-ability('Ambipom','Fast Attacker', 'Technician').
-item('Ambipom','Fast Attacker', 'Choice Band').
-tera('Ambipom','Fast Attacker', 'Ice').
-move('Ambipom','Fast Attacker', 'Double-Edge').
-move('Ambipom','Fast Attacker', 'Knock Off').
-move('Ambipom','Fast Attacker', 'Low Kick').
-move('Ambipom','Fast Attacker', 'Triple Axel').
-move('Ambipom','Fast Attacker', 'U-turn').
-pokemon('Amoonguss', 82).
-ability('Amoonguss', 'Regenerator').
-item('Amoonguss', 'Leftovers').
-item('Amoonguss', 'Rocky Helmet').
-role('Amoonguss', 'Bulky Attacker').
-ability('Amoonguss','Bulky Attacker', 'Regenerator').
-item('Amoonguss','Bulky Attacker', 'Leftovers').
-item('Amoonguss','Bulky Attacker', 'Rocky Helmet').
-tera('Amoonguss','Bulky Attacker', 'Steel').
-tera('Amoonguss','Bulky Attacker', 'Water').
-move('Amoonguss','Bulky Attacker', 'Giga Drain').
-move('Amoonguss','Bulky Attacker', 'Sludge Bomb').
-move('Amoonguss','Bulky Attacker', 'Spore').
-move('Amoonguss','Bulky Attacker', 'Stomping Tantrum').
-role('Amoonguss', 'Bulky Support').
-ability('Amoonguss','Bulky Support', 'Regenerator').
-item('Amoonguss','Bulky Support', 'Leftovers').
-item('Amoonguss','Bulky Support', 'Rocky Helmet').
-tera('Amoonguss','Bulky Support', 'Steel').
-tera('Amoonguss','Bulky Support', 'Water').
-move('Amoonguss','Bulky Support', 'Clear Smog').
-move('Amoonguss','Bulky Support', 'Giga Drain').
-move('Amoonguss','Bulky Support', 'Sludge Bomb').
-move('Amoonguss','Bulky Support', 'Spore').
-move('Amoonguss','Bulky Support', 'Toxic').
-pokemon('Ampharos', 88).
-ability('Ampharos', 'Static').
-item('Ampharos', 'Assault Vest').
-item('Ampharos', 'Choice Specs').
-item('Ampharos', 'Life Orb').
-role('Ampharos', 'AV Pivot').
-ability('Ampharos','AV Pivot', 'Static').
-item('Ampharos','AV Pivot', 'Assault Vest').
-tera('Ampharos','AV Pivot', 'Fairy').
-move('Ampharos','AV Pivot', 'Dazzling Gleam').
-move('Ampharos','AV Pivot', 'Discharge').
-move('Ampharos','AV Pivot', 'Dragon Tail').
-move('Ampharos','AV Pivot', 'Focus Blast').
-move('Ampharos','AV Pivot', 'Thunderbolt').
-move('Ampharos','AV Pivot', 'Volt Switch').
-role('Ampharos', 'Wallbreaker').
-ability('Ampharos','Wallbreaker', 'Static').
-item('Ampharos','Wallbreaker', 'Choice Specs').
-item('Ampharos','Wallbreaker', 'Life Orb').
-tera('Ampharos','Wallbreaker', 'Electric').
-tera('Ampharos','Wallbreaker', 'Fairy').
-move('Ampharos','Wallbreaker', 'Agility').
-move('Ampharos','Wallbreaker', 'Dazzling Gleam').
-move('Ampharos','Wallbreaker', 'Focus Blast').
-move('Ampharos','Wallbreaker', 'Thunderbolt').
-move('Ampharos','Wallbreaker', 'Volt Switch').
-pokemon('Annihilape', 76).
-ability('Annihilape', 'Defiant').
-item('Annihilape', 'Chesto Berry').
-item('Annihilape', 'Leftovers').
-role('Annihilape', 'Bulky Setup').
-ability('Annihilape','Bulky Setup', 'Defiant').
-item('Annihilape','Bulky Setup', 'Chesto Berry').
-item('Annihilape','Bulky Setup', 'Leftovers').
-tera('Annihilape','Bulky Setup', 'Fairy').
-tera('Annihilape','Bulky Setup', 'Ghost').
-tera('Annihilape','Bulky Setup', 'Steel').
-tera('Annihilape','Bulky Setup', 'Water').
-move('Annihilape','Bulky Setup', 'Bulk Up').
-move('Annihilape','Bulky Setup', 'Drain Punch').
-move('Annihilape','Bulky Setup', 'Gunk Shot').
-move('Annihilape','Bulky Setup', 'Rage Fist').
-move('Annihilape','Bulky Setup', 'Rest').
-move('Annihilape','Bulky Setup', 'Taunt').
-pokemon('Appletun', 92).
-ability('Appletun', 'Thick Fat').
-item('Appletun', 'Leftovers').
-role('Appletun', 'Bulky Attacker').
-ability('Appletun','Bulky Attacker', 'Thick Fat').
-item('Appletun','Bulky Attacker', 'Leftovers').
-tera('Appletun','Bulky Attacker', 'Steel').
-move('Appletun','Bulky Attacker', 'Apple Acid').
-move('Appletun','Bulky Attacker', 'Draco Meteor').
-move('Appletun','Bulky Attacker', 'Dragon Pulse').
-move('Appletun','Bulky Attacker', 'Dragon Tail').
-move('Appletun','Bulky Attacker', 'Leech Seed').
-move('Appletun','Bulky Attacker', 'Recover').
-pokemon('Araquanid', 82).
-ability('Araquanid', 'Water Bubble').
-item('Araquanid', 'Heavy-Duty Boots').
-role('Araquanid', 'Bulky Attacker').
-ability('Araquanid','Bulky Attacker', 'Water Bubble').
-item('Araquanid','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Araquanid','Bulky Attacker', 'Ground').
-tera('Araquanid','Bulky Attacker', 'Steel').
-tera('Araquanid','Bulky Attacker', 'Water').
-move('Araquanid','Bulky Attacker', 'Hydro Pump').
-move('Araquanid','Bulky Attacker', 'Leech Life').
-move('Araquanid','Bulky Attacker', 'Liquidation').
-move('Araquanid','Bulky Attacker', 'Mirror Coat').
-move('Araquanid','Bulky Attacker', 'Sticky Web').
-pokemon('Arbok', 87).
-ability('Arbok', 'Intimidate').
-item('Arbok', 'Choice Band').
-item('Arbok', 'Focus Sash').
-item('Arbok', 'Leftovers').
-item('Arbok', 'Life Orb').
-role('Arbok', 'Bulky Setup').
-ability('Arbok','Bulky Setup', 'Intimidate').
-item('Arbok','Bulky Setup', 'Leftovers').
-tera('Arbok','Bulky Setup', 'Grass').
-tera('Arbok','Bulky Setup', 'Ground').
-move('Arbok','Bulky Setup', 'Coil').
-move('Arbok','Bulky Setup', 'Earthquake').
-move('Arbok','Bulky Setup', 'Gunk Shot').
-move('Arbok','Bulky Setup', 'Trailblaze').
-role('Arbok', 'Bulky Attacker').
-ability('Arbok','Bulky Attacker', 'Intimidate').
-item('Arbok','Bulky Attacker', 'Leftovers').
-tera('Arbok','Bulky Attacker', 'Dark').
-tera('Arbok','Bulky Attacker', 'Ground').
-move('Arbok','Bulky Attacker', 'Coil').
-move('Arbok','Bulky Attacker', 'Earthquake').
-move('Arbok','Bulky Attacker', 'Gunk Shot').
-move('Arbok','Bulky Attacker', 'Sucker Punch').
-role('Arbok', 'Fast Support').
-ability('Arbok','Fast Support', 'Intimidate').
-item('Arbok','Fast Support', 'Choice Band').
-item('Arbok','Fast Support', 'Focus Sash').
-item('Arbok','Fast Support', 'Leftovers').
-item('Arbok','Fast Support', 'Life Orb').
-tera('Arbok','Fast Support', 'Dark').
-tera('Arbok','Fast Support', 'Ground').
-move('Arbok','Fast Support', 'Earthquake').
-move('Arbok','Fast Support', 'Glare').
-move('Arbok','Fast Support', 'Gunk Shot').
-move('Arbok','Fast Support', 'Knock Off').
-move('Arbok','Fast Support', 'Sucker Punch').
-move('Arbok','Fast Support', 'Toxic Spikes').
-pokemon('Arboliva', 91).
-ability('Arboliva', 'Harvest').
-ability('Arboliva', 'Seed Sower').
-item('Arboliva', 'Leftovers').
-item('Arboliva', 'Sitrus Berry').
-role('Arboliva', 'Bulky Attacker').
-ability('Arboliva','Bulky Attacker', 'Seed Sower').
-item('Arboliva','Bulky Attacker', 'Leftovers').
-tera('Arboliva','Bulky Attacker', 'Grass').
-tera('Arboliva','Bulky Attacker', 'Ground').
-tera('Arboliva','Bulky Attacker', 'Poison').
-move('Arboliva','Bulky Attacker', 'Earth Power').
-move('Arboliva','Bulky Attacker', 'Energy Ball').
-move('Arboliva','Bulky Attacker', 'Hyper Voice').
-move('Arboliva','Bulky Attacker', 'Strength Sap').
-role('Arboliva', 'Bulky Support').
-ability('Arboliva','Bulky Support', 'Harvest').
-item('Arboliva','Bulky Support', 'Sitrus Berry').
-tera('Arboliva','Bulky Support', 'Poison').
-tera('Arboliva','Bulky Support', 'Water').
-move('Arboliva','Bulky Support', 'Hyper Voice').
-move('Arboliva','Bulky Support', 'Leech Seed').
-move('Arboliva','Bulky Support', 'Protect').
-move('Arboliva','Bulky Support', 'Substitute').
-pokemon('Arcanine', 84).
-ability('Arcanine', 'Intimidate').
-item('Arcanine', 'Heavy-Duty Boots').
-role('Arcanine', 'Bulky Attacker').
-ability('Arcanine','Bulky Attacker', 'Intimidate').
-item('Arcanine','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Arcanine','Bulky Attacker', 'Fighting').
-tera('Arcanine','Bulky Attacker', 'Normal').
-move('Arcanine','Bulky Attacker', 'Close Combat').
-move('Arcanine','Bulky Attacker', 'Extreme Speed').
-move('Arcanine','Bulky Attacker', 'Flare Blitz').
-move('Arcanine','Bulky Attacker', 'Morning Sun').
-move('Arcanine','Bulky Attacker', 'Roar').
-move('Arcanine','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Arcanine-Hisui', 79).
-ability('Arcanine-Hisui', 'Rock Head').
-item('Arcanine-Hisui', 'Choice Band').
-item('Arcanine-Hisui', 'Choice Scarf').
-item('Arcanine-Hisui', 'Heavy-Duty Boots').
-role('Arcanine-Hisui', 'Bulky Attacker').
-ability('Arcanine-Hisui','Bulky Attacker', 'Rock Head').
-item('Arcanine-Hisui','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Arcanine-Hisui','Bulky Attacker', 'Fire').
-tera('Arcanine-Hisui','Bulky Attacker', 'Grass').
-tera('Arcanine-Hisui','Bulky Attacker', 'Normal').
-tera('Arcanine-Hisui','Bulky Attacker', 'Rock').
-move('Arcanine-Hisui','Bulky Attacker', 'Extreme Speed').
-move('Arcanine-Hisui','Bulky Attacker', 'Flare Blitz').
-move('Arcanine-Hisui','Bulky Attacker', 'Head Smash').
-move('Arcanine-Hisui','Bulky Attacker', 'Morning Sun').
-role('Arcanine-Hisui', 'Fast Attacker').
-ability('Arcanine-Hisui','Fast Attacker', 'Rock Head').
-item('Arcanine-Hisui','Fast Attacker', 'Choice Band').
-item('Arcanine-Hisui','Fast Attacker', 'Choice Scarf').
-tera('Arcanine-Hisui','Fast Attacker', 'Fire').
-tera('Arcanine-Hisui','Fast Attacker', 'Normal').
-tera('Arcanine-Hisui','Fast Attacker', 'Rock').
-move('Arcanine-Hisui','Fast Attacker', 'Close Combat').
-move('Arcanine-Hisui','Fast Attacker', 'Extreme Speed').
-move('Arcanine-Hisui','Fast Attacker', 'Flare Blitz').
-move('Arcanine-Hisui','Fast Attacker', 'Head Smash').
-move('Arcanine-Hisui','Fast Attacker', 'Wild Charge').
-pokemon('Arceus', 68).
-ability('Arceus', 'Multitype').
-item('Arceus', 'Leftovers').
-item('Arceus', 'Life Orb').
-role('Arceus', 'Setup Sweeper').
-ability('Arceus','Setup Sweeper', 'Multitype').
-item('Arceus','Setup Sweeper', 'Life Orb').
-tera('Arceus','Setup Sweeper', 'Normal').
-move('Arceus','Setup Sweeper', 'Earthquake').
-move('Arceus','Setup Sweeper', 'Extreme Speed').
-move('Arceus','Setup Sweeper', 'Recover').
-move('Arceus','Setup Sweeper', 'Swords Dance').
-role('Arceus', 'Fast Bulky Setup').
-ability('Arceus','Fast Bulky Setup', 'Multitype').
-item('Arceus','Fast Bulky Setup', 'Leftovers').
-item('Arceus','Fast Bulky Setup', 'Life Orb').
-tera('Arceus','Fast Bulky Setup', 'Ghost').
-move('Arceus','Fast Bulky Setup', 'Earthquake').
-move('Arceus','Fast Bulky Setup', 'Extreme Speed').
-move('Arceus','Fast Bulky Setup', 'Recover').
-move('Arceus','Fast Bulky Setup', 'Shadow Claw').
-move('Arceus','Fast Bulky Setup', 'Swords Dance').
-pokemon('Arceus-Bug', 73).
-ability('Arceus-Bug', 'Multitype').
-item('Arceus-Bug', 'Insect Plate').
-role('Arceus-Bug', 'Bulky Setup').
-ability('Arceus-Bug','Bulky Setup', 'Multitype').
-item('Arceus-Bug','Bulky Setup', 'Insect Plate').
-tera('Arceus-Bug','Bulky Setup', 'Fire').
-tera('Arceus-Bug','Bulky Setup', 'Ground').
-move('Arceus-Bug','Bulky Setup', 'Calm Mind').
-move('Arceus-Bug','Bulky Setup', 'Earth Power').
-move('Arceus-Bug','Bulky Setup', 'Fire Blast').
-move('Arceus-Bug','Bulky Setup', 'Judgment').
-move('Arceus-Bug','Bulky Setup', 'Recover').
-pokemon('Arceus-Dark', 71).
-ability('Arceus-Dark', 'Multitype').
-item('Arceus-Dark', 'Dread Plate').
-role('Arceus-Dark', 'Bulky Setup').
-ability('Arceus-Dark','Bulky Setup', 'Multitype').
-item('Arceus-Dark','Bulky Setup', 'Dread Plate').
-tera('Arceus-Dark','Bulky Setup', 'Fairy').
-tera('Arceus-Dark','Bulky Setup', 'Poison').
-move('Arceus-Dark','Bulky Setup', 'Calm Mind').
-move('Arceus-Dark','Bulky Setup', 'Dazzling Gleam').
-move('Arceus-Dark','Bulky Setup', 'Judgment').
-move('Arceus-Dark','Bulky Setup', 'Recover').
-move('Arceus-Dark','Bulky Setup', 'Sludge Bomb').
-pokemon('Arceus-Dragon', 71).
-ability('Arceus-Dragon', 'Multitype').
-item('Arceus-Dragon', 'Draco Plate').
-role('Arceus-Dragon', 'Fast Bulky Setup').
-ability('Arceus-Dragon','Fast Bulky Setup', 'Multitype').
-item('Arceus-Dragon','Fast Bulky Setup', 'Draco Plate').
-tera('Arceus-Dragon','Fast Bulky Setup', 'Fire').
-move('Arceus-Dragon','Fast Bulky Setup', 'Calm Mind').
-move('Arceus-Dragon','Fast Bulky Setup', 'Fire Blast').
-move('Arceus-Dragon','Fast Bulky Setup', 'Judgment').
-move('Arceus-Dragon','Fast Bulky Setup', 'Recover').
-move('Arceus-Dragon','Fast Bulky Setup', 'Sludge Bomb').
-role('Arceus-Dragon', 'Bulky Setup').
-ability('Arceus-Dragon','Bulky Setup', 'Multitype').
-item('Arceus-Dragon','Bulky Setup', 'Draco Plate').
-tera('Arceus-Dragon','Bulky Setup', 'Fire').
-tera('Arceus-Dragon','Bulky Setup', 'Steel').
-move('Arceus-Dragon','Bulky Setup', 'Dragon Dance').
-move('Arceus-Dragon','Bulky Setup', 'Flare Blitz').
-move('Arceus-Dragon','Bulky Setup', 'Heavy Slam').
-move('Arceus-Dragon','Bulky Setup', 'Outrage').
-role('Arceus-Dragon', 'Setup Sweeper').
-ability('Arceus-Dragon','Setup Sweeper', 'Multitype').
-item('Arceus-Dragon','Setup Sweeper', 'Draco Plate').
-tera('Arceus-Dragon','Setup Sweeper', 'Fire').
-move('Arceus-Dragon','Setup Sweeper', 'Extreme Speed').
-move('Arceus-Dragon','Setup Sweeper', 'Flare Blitz').
-move('Arceus-Dragon','Setup Sweeper', 'Heavy Slam').
-move('Arceus-Dragon','Setup Sweeper', 'Outrage').
-move('Arceus-Dragon','Setup Sweeper', 'Swords Dance').
-pokemon('Arceus-Electric', 70).
-ability('Arceus-Electric', 'Multitype').
-item('Arceus-Electric', 'Zap Plate').
-role('Arceus-Electric', 'Bulky Setup').
-ability('Arceus-Electric','Bulky Setup', 'Multitype').
-item('Arceus-Electric','Bulky Setup', 'Zap Plate').
-tera('Arceus-Electric','Bulky Setup', 'Electric').
-tera('Arceus-Electric','Bulky Setup', 'Ice').
-move('Arceus-Electric','Bulky Setup', 'Calm Mind').
-move('Arceus-Electric','Bulky Setup', 'Ice Beam').
-move('Arceus-Electric','Bulky Setup', 'Judgment').
-move('Arceus-Electric','Bulky Setup', 'Recover').
-pokemon('Arceus-Fairy', 69).
-ability('Arceus-Fairy', 'Multitype').
-item('Arceus-Fairy', 'Pixie Plate').
-role('Arceus-Fairy', 'Bulky Setup').
-ability('Arceus-Fairy','Bulky Setup', 'Multitype').
-item('Arceus-Fairy','Bulky Setup', 'Pixie Plate').
-tera('Arceus-Fairy','Bulky Setup', 'Ground').
-tera('Arceus-Fairy','Bulky Setup', 'Steel').
-move('Arceus-Fairy','Bulky Setup', 'Calm Mind').
-move('Arceus-Fairy','Bulky Setup', 'Earth Power').
-move('Arceus-Fairy','Bulky Setup', 'Judgment').
-move('Arceus-Fairy','Bulky Setup', 'Recover').
-pokemon('Arceus-Fighting', 70).
-ability('Arceus-Fighting', 'Multitype').
-item('Arceus-Fighting', 'Fist Plate').
-role('Arceus-Fighting', 'Fast Bulky Setup').
-ability('Arceus-Fighting','Fast Bulky Setup', 'Multitype').
-item('Arceus-Fighting','Fast Bulky Setup', 'Fist Plate').
-tera('Arceus-Fighting','Fast Bulky Setup', 'Steel').
-move('Arceus-Fighting','Fast Bulky Setup', 'Body Press').
-move('Arceus-Fighting','Fast Bulky Setup', 'Cosmic Power').
-move('Arceus-Fighting','Fast Bulky Setup', 'Recover').
-move('Arceus-Fighting','Fast Bulky Setup', 'Stored Power').
-role('Arceus-Fighting', 'Bulky Setup').
-ability('Arceus-Fighting','Bulky Setup', 'Multitype').
-item('Arceus-Fighting','Bulky Setup', 'Fist Plate').
-tera('Arceus-Fighting','Bulky Setup', 'Steel').
-move('Arceus-Fighting','Bulky Setup', 'Body Press').
-move('Arceus-Fighting','Bulky Setup', 'Iron Defense').
-move('Arceus-Fighting','Bulky Setup', 'Recover').
-move('Arceus-Fighting','Bulky Setup', 'Shadow Ball').
-pokemon('Arceus-Fire', 72).
-ability('Arceus-Fire', 'Multitype').
-item('Arceus-Fire', 'Flame Plate').
-role('Arceus-Fire', 'Fast Bulky Setup').
-ability('Arceus-Fire','Fast Bulky Setup', 'Multitype').
-item('Arceus-Fire','Fast Bulky Setup', 'Flame Plate').
-tera('Arceus-Fire','Fast Bulky Setup', 'Fire').
-tera('Arceus-Fire','Fast Bulky Setup', 'Ground').
-move('Arceus-Fire','Fast Bulky Setup', 'Dragon Dance').
-move('Arceus-Fire','Fast Bulky Setup', 'Earthquake').
-move('Arceus-Fire','Fast Bulky Setup', 'Flare Blitz').
-move('Arceus-Fire','Fast Bulky Setup', 'Recover').
-role('Arceus-Fire', 'Setup Sweeper').
-ability('Arceus-Fire','Setup Sweeper', 'Multitype').
-item('Arceus-Fire','Setup Sweeper', 'Flame Plate').
-tera('Arceus-Fire','Setup Sweeper', 'Fire').
-tera('Arceus-Fire','Setup Sweeper', 'Ground').
-move('Arceus-Fire','Setup Sweeper', 'Earthquake').
-move('Arceus-Fire','Setup Sweeper', 'Extreme Speed').
-move('Arceus-Fire','Setup Sweeper', 'Flare Blitz').
-move('Arceus-Fire','Setup Sweeper', 'Recover').
-move('Arceus-Fire','Setup Sweeper', 'Swords Dance').
-role('Arceus-Fire', 'Bulky Setup').
-ability('Arceus-Fire','Bulky Setup', 'Multitype').
-item('Arceus-Fire','Bulky Setup', 'Flame Plate').
-tera('Arceus-Fire','Bulky Setup', 'Grass').
-tera('Arceus-Fire','Bulky Setup', 'Ground').
-move('Arceus-Fire','Bulky Setup', 'Calm Mind').
-move('Arceus-Fire','Bulky Setup', 'Earth Power').
-move('Arceus-Fire','Bulky Setup', 'Energy Ball').
-move('Arceus-Fire','Bulky Setup', 'Judgment').
-move('Arceus-Fire','Bulky Setup', 'Recover').
-pokemon('Arceus-Flying', 69).
-ability('Arceus-Flying', 'Multitype').
-item('Arceus-Flying', 'Sky Plate').
-role('Arceus-Flying', 'Bulky Setup').
-ability('Arceus-Flying','Bulky Setup', 'Multitype').
-item('Arceus-Flying','Bulky Setup', 'Sky Plate').
-tera('Arceus-Flying','Bulky Setup', 'Ground').
-tera('Arceus-Flying','Bulky Setup', 'Steel').
-move('Arceus-Flying','Bulky Setup', 'Calm Mind').
-move('Arceus-Flying','Bulky Setup', 'Earth Power').
-move('Arceus-Flying','Bulky Setup', 'Judgment').
-move('Arceus-Flying','Bulky Setup', 'Recover').
-pokemon('Arceus-Ghost', 69).
-ability('Arceus-Ghost', 'Multitype').
-item('Arceus-Ghost', 'Spooky Plate').
-role('Arceus-Ghost', 'Bulky Attacker').
-ability('Arceus-Ghost','Bulky Attacker', 'Multitype').
-item('Arceus-Ghost','Bulky Attacker', 'Spooky Plate').
-tera('Arceus-Ghost','Bulky Attacker', 'Dark').
-tera('Arceus-Ghost','Bulky Attacker', 'Fighting').
-move('Arceus-Ghost','Bulky Attacker', 'Calm Mind').
-move('Arceus-Ghost','Bulky Attacker', 'Focus Blast').
-move('Arceus-Ghost','Bulky Attacker', 'Judgment').
-move('Arceus-Ghost','Bulky Attacker', 'Recover').
-move('Arceus-Ghost','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Arceus-Grass', 73).
-ability('Arceus-Grass', 'Multitype').
-item('Arceus-Grass', 'Meadow Plate').
-role('Arceus-Grass', 'Setup Sweeper').
-ability('Arceus-Grass','Setup Sweeper', 'Multitype').
-item('Arceus-Grass','Setup Sweeper', 'Meadow Plate').
-tera('Arceus-Grass','Setup Sweeper', 'Ground').
-move('Arceus-Grass','Setup Sweeper', 'Calm Mind').
-move('Arceus-Grass','Setup Sweeper', 'Earth Power').
-move('Arceus-Grass','Setup Sweeper', 'Ice Beam').
-move('Arceus-Grass','Setup Sweeper', 'Judgment').
-role('Arceus-Grass', 'Bulky Setup').
-ability('Arceus-Grass','Bulky Setup', 'Multitype').
-item('Arceus-Grass','Bulky Setup', 'Meadow Plate').
-tera('Arceus-Grass','Bulky Setup', 'Fire').
-move('Arceus-Grass','Bulky Setup', 'Calm Mind').
-move('Arceus-Grass','Bulky Setup', 'Fire Blast').
-move('Arceus-Grass','Bulky Setup', 'Judgment').
-move('Arceus-Grass','Bulky Setup', 'Recover').
-pokemon('Arceus-Ground', 70).
-ability('Arceus-Ground', 'Multitype').
-item('Arceus-Ground', 'Earth Plate').
-role('Arceus-Ground', 'Fast Bulky Setup').
-ability('Arceus-Ground','Fast Bulky Setup', 'Multitype').
-item('Arceus-Ground','Fast Bulky Setup', 'Earth Plate').
-tera('Arceus-Ground','Fast Bulky Setup', 'Ground').
-tera('Arceus-Ground','Fast Bulky Setup', 'Steel').
-move('Arceus-Ground','Fast Bulky Setup', 'Dragon Dance').
-move('Arceus-Ground','Fast Bulky Setup', 'Earthquake').
-move('Arceus-Ground','Fast Bulky Setup', 'Recover').
-move('Arceus-Ground','Fast Bulky Setup', 'Stone Edge').
-role('Arceus-Ground', 'Bulky Setup').
-ability('Arceus-Ground','Bulky Setup', 'Multitype').
-item('Arceus-Ground','Bulky Setup', 'Earth Plate').
-tera('Arceus-Ground','Bulky Setup', 'Dragon').
-tera('Arceus-Ground','Bulky Setup', 'Fire').
-tera('Arceus-Ground','Bulky Setup', 'Steel').
-move('Arceus-Ground','Bulky Setup', 'Calm Mind').
-move('Arceus-Ground','Bulky Setup', 'Fire Blast').
-move('Arceus-Ground','Bulky Setup', 'Ice Beam').
-move('Arceus-Ground','Bulky Setup', 'Judgment').
-move('Arceus-Ground','Bulky Setup', 'Recover').
-role('Arceus-Ground', 'Setup Sweeper').
-ability('Arceus-Ground','Setup Sweeper', 'Multitype').
-item('Arceus-Ground','Setup Sweeper', 'Earth Plate').
-tera('Arceus-Ground','Setup Sweeper', 'Normal').
-move('Arceus-Ground','Setup Sweeper', 'Earthquake').
-move('Arceus-Ground','Setup Sweeper', 'Extreme Speed').
-move('Arceus-Ground','Setup Sweeper', 'Stone Edge').
-move('Arceus-Ground','Setup Sweeper', 'Swords Dance').
-pokemon('Arceus-Ice', 72).
-ability('Arceus-Ice', 'Multitype').
-item('Arceus-Ice', 'Icicle Plate').
-role('Arceus-Ice', 'Bulky Setup').
-ability('Arceus-Ice','Bulky Setup', 'Multitype').
-item('Arceus-Ice','Bulky Setup', 'Icicle Plate').
-tera('Arceus-Ice','Bulky Setup', 'Electric').
-tera('Arceus-Ice','Bulky Setup', 'Ground').
-move('Arceus-Ice','Bulky Setup', 'Calm Mind').
-move('Arceus-Ice','Bulky Setup', 'Earth Power').
-move('Arceus-Ice','Bulky Setup', 'Judgment').
-move('Arceus-Ice','Bulky Setup', 'Recover').
-move('Arceus-Ice','Bulky Setup', 'Thunderbolt').
-pokemon('Arceus-Poison', 70).
-ability('Arceus-Poison', 'Multitype').
-item('Arceus-Poison', 'Toxic Plate').
-role('Arceus-Poison', 'Fast Bulky Setup').
-ability('Arceus-Poison','Fast Bulky Setup', 'Multitype').
-item('Arceus-Poison','Fast Bulky Setup', 'Toxic Plate').
-tera('Arceus-Poison','Fast Bulky Setup', 'Ground').
-tera('Arceus-Poison','Fast Bulky Setup', 'Normal').
-move('Arceus-Poison','Fast Bulky Setup', 'Earthquake').
-move('Arceus-Poison','Fast Bulky Setup', 'Extreme Speed').
-move('Arceus-Poison','Fast Bulky Setup', 'Gunk Shot').
-move('Arceus-Poison','Fast Bulky Setup', 'Swords Dance').
-role('Arceus-Poison', 'Setup Sweeper').
-ability('Arceus-Poison','Setup Sweeper', 'Multitype').
-item('Arceus-Poison','Setup Sweeper', 'Toxic Plate').
-tera('Arceus-Poison','Setup Sweeper', 'Ground').
-move('Arceus-Poison','Setup Sweeper', 'Dragon Dance').
-move('Arceus-Poison','Setup Sweeper', 'Earthquake').
-move('Arceus-Poison','Setup Sweeper', 'Flare Blitz').
-move('Arceus-Poison','Setup Sweeper', 'Gunk Shot').
-move('Arceus-Poison','Setup Sweeper', 'Liquidation').
-move('Arceus-Poison','Setup Sweeper', 'Recover').
-move('Arceus-Poison','Setup Sweeper', 'Swords Dance').
-pokemon('Arceus-Psychic', 70).
-ability('Arceus-Psychic', 'Multitype').
-item('Arceus-Psychic', 'Mind Plate').
-role('Arceus-Psychic', 'Bulky Setup').
-ability('Arceus-Psychic','Bulky Setup', 'Multitype').
-item('Arceus-Psychic','Bulky Setup', 'Mind Plate').
-tera('Arceus-Psychic','Bulky Setup', 'Steel').
-move('Arceus-Psychic','Bulky Setup', 'Body Press').
-move('Arceus-Psychic','Bulky Setup', 'Cosmic Power').
-move('Arceus-Psychic','Bulky Setup', 'Recover').
-move('Arceus-Psychic','Bulky Setup', 'Stored Power').
-pokemon('Arceus-Rock', 74).
-ability('Arceus-Rock', 'Multitype').
-item('Arceus-Rock', 'Stone Plate').
-role('Arceus-Rock', 'Bulky Setup').
-ability('Arceus-Rock','Bulky Setup', 'Multitype').
-item('Arceus-Rock','Bulky Setup', 'Stone Plate').
-tera('Arceus-Rock','Bulky Setup', 'Dragon').
-tera('Arceus-Rock','Bulky Setup', 'Ground').
-move('Arceus-Rock','Bulky Setup', 'Calm Mind').
-move('Arceus-Rock','Bulky Setup', 'Earth Power').
-move('Arceus-Rock','Bulky Setup', 'Fire Blast').
-move('Arceus-Rock','Bulky Setup', 'Judgment').
-move('Arceus-Rock','Bulky Setup', 'Recover').
-role('Arceus-Rock', 'Setup Sweeper').
-ability('Arceus-Rock','Setup Sweeper', 'Multitype').
-item('Arceus-Rock','Setup Sweeper', 'Stone Plate').
-tera('Arceus-Rock','Setup Sweeper', 'Ground').
-move('Arceus-Rock','Setup Sweeper', 'Dragon Dance').
-move('Arceus-Rock','Setup Sweeper', 'Earthquake').
-move('Arceus-Rock','Setup Sweeper', 'Recover').
-move('Arceus-Rock','Setup Sweeper', 'Stone Edge').
-move('Arceus-Rock','Setup Sweeper', 'Swords Dance').
-pokemon('Arceus-Steel', 70).
-ability('Arceus-Steel', 'Multitype').
-item('Arceus-Steel', 'Iron Plate').
-role('Arceus-Steel', 'Bulky Support').
-ability('Arceus-Steel','Bulky Support', 'Multitype').
-item('Arceus-Steel','Bulky Support', 'Iron Plate').
-tera('Arceus-Steel','Bulky Support', 'Ghost').
-move('Arceus-Steel','Bulky Support', 'Earthquake').
-move('Arceus-Steel','Bulky Support', 'Judgment').
-move('Arceus-Steel','Bulky Support', 'Recover').
-move('Arceus-Steel','Bulky Support', 'Will-O-Wisp').
-role('Arceus-Steel', 'Bulky Setup').
-ability('Arceus-Steel','Bulky Setup', 'Multitype').
-item('Arceus-Steel','Bulky Setup', 'Iron Plate').
-tera('Arceus-Steel','Bulky Setup', 'Ghost').
-move('Arceus-Steel','Bulky Setup', 'Calm Mind').
-move('Arceus-Steel','Bulky Setup', 'Earth Power').
-move('Arceus-Steel','Bulky Setup', 'Judgment').
-move('Arceus-Steel','Bulky Setup', 'Recover').
-pokemon('Arceus-Water', 71).
-ability('Arceus-Water', 'Multitype').
-item('Arceus-Water', 'Splash Plate').
-role('Arceus-Water', 'Bulky Support').
-ability('Arceus-Water','Bulky Support', 'Multitype').
-item('Arceus-Water','Bulky Support', 'Splash Plate').
-tera('Arceus-Water','Bulky Support', 'Steel').
-move('Arceus-Water','Bulky Support', 'Calm Mind').
-move('Arceus-Water','Bulky Support', 'Ice Beam').
-move('Arceus-Water','Bulky Support', 'Judgment').
-move('Arceus-Water','Bulky Support', 'Recover').
-move('Arceus-Water','Bulky Support', 'Will-O-Wisp').
-pokemon('Archaludon', 77).
-ability('Archaludon', 'Stamina').
-item('Archaludon', 'Assault Vest').
-item('Archaludon', 'Leftovers').
-item('Archaludon', 'Lum Berry').
-role('Archaludon', 'Bulky Setup').
-ability('Archaludon','Bulky Setup', 'Stamina').
-item('Archaludon','Bulky Setup', 'Lum Berry').
-tera('Archaludon','Bulky Setup', 'Ground').
-move('Archaludon','Bulky Setup', 'Earthquake').
-move('Archaludon','Bulky Setup', 'Iron Head').
-move('Archaludon','Bulky Setup', 'Outrage').
-move('Archaludon','Bulky Setup', 'Swords Dance').
-role('Archaludon', 'Bulky Attacker').
-ability('Archaludon','Bulky Attacker', 'Stamina').
-item('Archaludon','Bulky Attacker', 'Assault Vest').
-item('Archaludon','Bulky Attacker', 'Leftovers').
-tera('Archaludon','Bulky Attacker', 'Fighting').
-move('Archaludon','Bulky Attacker', 'Body Press').
-move('Archaludon','Bulky Attacker', 'Draco Meteor').
-move('Archaludon','Bulky Attacker', 'Dragon Tail').
-move('Archaludon','Bulky Attacker', 'Flash Cannon').
-move('Archaludon','Bulky Attacker', 'Stealth Rock').
-move('Archaludon','Bulky Attacker', 'Thunder Wave').
-move('Archaludon','Bulky Attacker', 'Thunderbolt').
-pokemon('Ariados', 95).
-ability('Ariados', 'Insomnia').
-ability('Ariados', 'Swarm').
-item('Ariados', 'Focus Sash').
-item('Ariados', 'Heavy-Duty Boots').
-role('Ariados', 'Fast Support').
-ability('Ariados','Fast Support', 'Insomnia').
-ability('Ariados','Fast Support', 'Swarm').
-item('Ariados','Fast Support', 'Focus Sash').
-item('Ariados','Fast Support', 'Heavy-Duty Boots').
-tera('Ariados','Fast Support', 'Ghost').
-move('Ariados','Fast Support', 'Knock Off').
-move('Ariados','Fast Support', 'Megahorn').
-move('Ariados','Fast Support', 'Poison Jab').
-move('Ariados','Fast Support', 'Sticky Web').
-move('Ariados','Fast Support', 'Sucker Punch').
-move('Ariados','Fast Support', 'Toxic Spikes').
-pokemon('Armarouge', 80).
-ability('Armarouge', 'Weak Armor').
-item('Armarouge', 'Choice Specs').
-item('Armarouge', 'Power Herb').
-role('Armarouge', 'Setup Sweeper').
-ability('Armarouge','Setup Sweeper', 'Weak Armor').
-item('Armarouge','Setup Sweeper', 'Power Herb').
-tera('Armarouge','Setup Sweeper', 'Fire').
-tera('Armarouge','Setup Sweeper', 'Grass').
-move('Armarouge','Setup Sweeper', 'Armor Cannon').
-move('Armarouge','Setup Sweeper', 'Energy Ball').
-move('Armarouge','Setup Sweeper', 'Meteor Beam').
-move('Armarouge','Setup Sweeper', 'Psyshock').
-role('Armarouge', 'Wallbreaker').
-ability('Armarouge','Wallbreaker', 'Weak Armor').
-item('Armarouge','Wallbreaker', 'Choice Specs').
-tera('Armarouge','Wallbreaker', 'Fighting').
-tera('Armarouge','Wallbreaker', 'Fire').
-tera('Armarouge','Wallbreaker', 'Grass').
-tera('Armarouge','Wallbreaker', 'Psychic').
-move('Armarouge','Wallbreaker', 'Armor Cannon').
-move('Armarouge','Wallbreaker', 'Aura Sphere').
-move('Armarouge','Wallbreaker', 'Energy Ball').
-move('Armarouge','Wallbreaker', 'Focus Blast').
-move('Armarouge','Wallbreaker', 'Psyshock').
-pokemon('Articuno', 86).
-ability('Articuno', 'Pressure').
-item('Articuno', 'Heavy-Duty Boots').
-role('Articuno', 'Bulky Support').
-ability('Articuno','Bulky Support', 'Pressure').
-item('Articuno','Bulky Support', 'Heavy-Duty Boots').
-tera('Articuno','Bulky Support', 'Ground').
-tera('Articuno','Bulky Support', 'Steel').
-move('Articuno','Bulky Support', 'Brave Bird').
-move('Articuno','Bulky Support', 'Freeze-Dry').
-move('Articuno','Bulky Support', 'Haze').
-move('Articuno','Bulky Support', 'Roost').
-move('Articuno','Bulky Support', 'Substitute').
-move('Articuno','Bulky Support', 'U-turn').
-pokemon('Articuno-Galar', 84).
-ability('Articuno-Galar', 'Competitive').
-item('Articuno-Galar', 'Heavy-Duty Boots').
-role('Articuno-Galar', 'Fast Bulky Setup').
-ability('Articuno-Galar','Fast Bulky Setup', 'Competitive').
-item('Articuno-Galar','Fast Bulky Setup', 'Heavy-Duty Boots').
-tera('Articuno-Galar','Fast Bulky Setup', 'Steel').
-move('Articuno-Galar','Fast Bulky Setup', 'Calm Mind').
-move('Articuno-Galar','Fast Bulky Setup', 'Hurricane').
-move('Articuno-Galar','Fast Bulky Setup', 'Psyshock').
-move('Articuno-Galar','Fast Bulky Setup', 'Recover').
-pokemon('Avalugg', 88).
-ability('Avalugg', 'Sturdy').
-item('Avalugg', 'Heavy-Duty Boots').
-role('Avalugg', 'Bulky Support').
-ability('Avalugg','Bulky Support', 'Sturdy').
-item('Avalugg','Bulky Support', 'Heavy-Duty Boots').
-tera('Avalugg','Bulky Support', 'Fighting').
-move('Avalugg','Bulky Support', 'Avalanche').
-move('Avalugg','Bulky Support', 'Body Press').
-move('Avalugg','Bulky Support', 'Curse').
-move('Avalugg','Bulky Support', 'Rapid Spin').
-move('Avalugg','Bulky Support', 'Recover').
-pokemon('Avalugg-Hisui', 91).
-ability('Avalugg-Hisui', 'Sturdy').
-item('Avalugg-Hisui', 'Heavy-Duty Boots').
-role('Avalugg-Hisui', 'Bulky Attacker').
-ability('Avalugg-Hisui','Bulky Attacker', 'Sturdy').
-item('Avalugg-Hisui','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Avalugg-Hisui','Bulky Attacker', 'Flying').
-tera('Avalugg-Hisui','Bulky Attacker', 'Ghost').
-tera('Avalugg-Hisui','Bulky Attacker', 'Poison').
-move('Avalugg-Hisui','Bulky Attacker', 'Avalanche').
-move('Avalugg-Hisui','Bulky Attacker', 'Body Press').
-move('Avalugg-Hisui','Bulky Attacker', 'Rapid Spin').
-move('Avalugg-Hisui','Bulky Attacker', 'Recover').
-move('Avalugg-Hisui','Bulky Attacker', 'Stone Edge').
-pokemon('Azelf', 82).
-ability('Azelf', 'Levitate').
-item('Azelf', 'Assault Vest').
-item('Azelf', 'Choice Specs').
-item('Azelf', 'Focus Sash').
-item('Azelf', 'Leftovers').
-item('Azelf', 'Life Orb').
-role('Azelf', 'Fast Support').
-ability('Azelf','Fast Support', 'Levitate').
-item('Azelf','Fast Support', 'Assault Vest').
-item('Azelf','Fast Support', 'Focus Sash').
-item('Azelf','Fast Support', 'Leftovers').
-item('Azelf','Fast Support', 'Life Orb').
-tera('Azelf','Fast Support', 'Dark').
-tera('Azelf','Fast Support', 'Fire').
-move('Azelf','Fast Support', 'Encore').
-move('Azelf','Fast Support', 'Explosion').
-move('Azelf','Fast Support', 'Fire Blast').
-move('Azelf','Fast Support', 'Knock Off').
-move('Azelf','Fast Support', 'Psychic').
-move('Azelf','Fast Support', 'Stealth Rock').
-move('Azelf','Fast Support', 'Taunt').
-move('Azelf','Fast Support', 'U-turn').
-role('Azelf', 'Fast Attacker').
-ability('Azelf','Fast Attacker', 'Levitate').
-item('Azelf','Fast Attacker', 'Choice Specs').
-item('Azelf','Fast Attacker', 'Life Orb').
-tera('Azelf','Fast Attacker', 'Fairy').
-tera('Azelf','Fast Attacker', 'Fire').
-tera('Azelf','Fast Attacker', 'Psychic').
-move('Azelf','Fast Attacker', 'Dazzling Gleam').
-move('Azelf','Fast Attacker', 'Fire Blast').
-move('Azelf','Fast Attacker', 'Nasty Plot').
-move('Azelf','Fast Attacker', 'Psychic').
-move('Azelf','Fast Attacker', 'Psyshock').
-move('Azelf','Fast Attacker', 'U-turn').
-pokemon('Azumarill', 82).
-ability('Azumarill', 'Huge Power').
-item('Azumarill', 'Choice Band').
-item('Azumarill', 'Sitrus Berry').
-role('Azumarill', 'Bulky Attacker').
-ability('Azumarill','Bulky Attacker', 'Huge Power').
-item('Azumarill','Bulky Attacker', 'Choice Band').
-item('Azumarill','Bulky Attacker', 'Sitrus Berry').
-tera('Azumarill','Bulky Attacker', 'Water').
-move('Azumarill','Bulky Attacker', 'Aqua Jet').
-move('Azumarill','Bulky Attacker', 'Belly Drum').
-move('Azumarill','Bulky Attacker', 'Ice Spinner').
-move('Azumarill','Bulky Attacker', 'Knock Off').
-move('Azumarill','Bulky Attacker', 'Liquidation').
-move('Azumarill','Bulky Attacker', 'Play Rough').
-move('Azumarill','Bulky Attacker', 'Superpower').
-pokemon('Banette', 93).
-ability('Banette', 'Cursed Body').
-ability('Banette', 'Insomnia').
-item('Banette', 'Life Orb').
-role('Banette', 'Wallbreaker').
-ability('Banette','Wallbreaker', 'Cursed Body').
-ability('Banette','Wallbreaker', 'Insomnia').
-item('Banette','Wallbreaker', 'Life Orb').
-tera('Banette','Wallbreaker', 'Ghost').
-tera('Banette','Wallbreaker', 'Poison').
-move('Banette','Wallbreaker', 'Gunk Shot').
-move('Banette','Wallbreaker', 'Poltergeist').
-move('Banette','Wallbreaker', 'Shadow Sneak').
-move('Banette','Wallbreaker', 'Swords Dance').
-move('Banette','Wallbreaker', 'Thunder Wave').
-pokemon('Barraskewda', 81).
-ability('Barraskewda', 'Swift Swim').
-item('Barraskewda', 'Choice Band').
-role('Barraskewda', 'Wallbreaker').
-ability('Barraskewda','Wallbreaker', 'Swift Swim').
-item('Barraskewda','Wallbreaker', 'Choice Band').
-tera('Barraskewda','Wallbreaker', 'Fighting').
-tera('Barraskewda','Wallbreaker', 'Water').
-move('Barraskewda','Wallbreaker', 'Close Combat').
-move('Barraskewda','Wallbreaker', 'Flip Turn').
-move('Barraskewda','Wallbreaker', 'Poison Jab').
-move('Barraskewda','Wallbreaker', 'Psychic Fangs').
-move('Barraskewda','Wallbreaker', 'Throat Chop').
-move('Barraskewda','Wallbreaker', 'Waterfall').
-pokemon('Basculegion', 80).
-ability('Basculegion', 'Adaptability').
-item('Basculegion', 'Assault Vest').
-role('Basculegion', 'AV Pivot').
-ability('Basculegion','AV Pivot', 'Adaptability').
-item('Basculegion','AV Pivot', 'Assault Vest').
-tera('Basculegion','AV Pivot', 'Water').
-move('Basculegion','AV Pivot', 'Aqua Jet').
-move('Basculegion','AV Pivot', 'Flip Turn').
-move('Basculegion','AV Pivot', 'Shadow Ball').
-move('Basculegion','AV Pivot', 'Wave Crash').
-pokemon('Basculegion-F', 83).
-ability('Basculegion-F', 'Adaptability').
-item('Basculegion-F', 'Assault Vest').
-item('Basculegion-F', 'Choice Specs').
-role('Basculegion-F', 'AV Pivot').
-ability('Basculegion-F','AV Pivot', 'Adaptability').
-item('Basculegion-F','AV Pivot', 'Assault Vest').
-tera('Basculegion-F','AV Pivot', 'Water').
-move('Basculegion-F','AV Pivot', 'Flip Turn').
-move('Basculegion-F','AV Pivot', 'Hydro Pump').
-move('Basculegion-F','AV Pivot', 'Shadow Ball').
-move('Basculegion-F','AV Pivot', 'Wave Crash').
-role('Basculegion-F', 'Wallbreaker').
-ability('Basculegion-F','Wallbreaker', 'Adaptability').
-item('Basculegion-F','Wallbreaker', 'Choice Specs').
-tera('Basculegion-F','Wallbreaker', 'Water').
-move('Basculegion-F','Wallbreaker', 'Flip Turn').
-move('Basculegion-F','Wallbreaker', 'Hydro Pump').
-move('Basculegion-F','Wallbreaker', 'Ice Beam').
-move('Basculegion-F','Wallbreaker', 'Shadow Ball').
-pokemon('Basculin', 86).
-ability('Basculin', 'Adaptability').
-item('Basculin', 'Choice Band').
-role('Basculin', 'Wallbreaker').
-ability('Basculin','Wallbreaker', 'Adaptability').
-item('Basculin','Wallbreaker', 'Choice Band').
-tera('Basculin','Wallbreaker', 'Water').
-move('Basculin','Wallbreaker', 'Aqua Jet').
-move('Basculin','Wallbreaker', 'Double-Edge').
-move('Basculin','Wallbreaker', 'Flip Turn').
-move('Basculin','Wallbreaker', 'Wave Crash').
-pokemon('Bastiodon', 89).
-ability('Bastiodon', 'Soundproof').
-item('Bastiodon', 'Chesto Berry').
-role('Bastiodon', 'Bulky Setup').
-ability('Bastiodon','Bulky Setup', 'Soundproof').
-item('Bastiodon','Bulky Setup', 'Chesto Berry').
-tera('Bastiodon','Bulky Setup', 'Fighting').
-move('Bastiodon','Bulky Setup', 'Body Press').
-move('Bastiodon','Bulky Setup', 'Foul Play').
-move('Bastiodon','Bulky Setup', 'Iron Defense').
-move('Bastiodon','Bulky Setup', 'Rest').
-pokemon('Baxcalibur', 75).
-ability('Baxcalibur', 'Thermal Exchange').
-item('Baxcalibur', 'Choice Band').
-item('Baxcalibur', 'Heavy-Duty Boots').
-item('Baxcalibur', 'Loaded Dice').
-role('Baxcalibur', 'Bulky Setup').
-ability('Baxcalibur','Bulky Setup', 'Thermal Exchange').
-item('Baxcalibur','Bulky Setup', 'Loaded Dice').
-tera('Baxcalibur','Bulky Setup', 'Dragon').
-tera('Baxcalibur','Bulky Setup', 'Ground').
-move('Baxcalibur','Bulky Setup', 'Earthquake').
-move('Baxcalibur','Bulky Setup', 'Icicle Spear').
-move('Baxcalibur','Bulky Setup', 'Scale Shot').
-move('Baxcalibur','Bulky Setup', 'Swords Dance').
-role('Baxcalibur', 'Fast Attacker').
-ability('Baxcalibur','Fast Attacker', 'Thermal Exchange').
-item('Baxcalibur','Fast Attacker', 'Choice Band').
-tera('Baxcalibur','Fast Attacker', 'Dragon').
-tera('Baxcalibur','Fast Attacker', 'Ground').
-move('Baxcalibur','Fast Attacker', 'Earthquake').
-move('Baxcalibur','Fast Attacker', 'Glaive Rush').
-move('Baxcalibur','Fast Attacker', 'Ice Shard').
-move('Baxcalibur','Fast Attacker', 'Icicle Crash').
-role('Baxcalibur', 'Setup Sweeper').
-ability('Baxcalibur','Setup Sweeper', 'Thermal Exchange').
-item('Baxcalibur','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Baxcalibur','Setup Sweeper', 'Dragon').
-tera('Baxcalibur','Setup Sweeper', 'Ground').
-move('Baxcalibur','Setup Sweeper', 'Dragon Dance').
-move('Baxcalibur','Setup Sweeper', 'Earthquake').
-move('Baxcalibur','Setup Sweeper', 'Glaive Rush').
-move('Baxcalibur','Setup Sweeper', 'Icicle Crash').
-pokemon('Beartic', 91).
-ability('Beartic', 'Slush Rush').
-ability('Beartic', 'Swift Swim').
-item('Beartic', 'Choice Band').
-item('Beartic', 'Heavy-Duty Boots').
-role('Beartic', 'Wallbreaker').
-ability('Beartic','Wallbreaker', 'Slush Rush').
-ability('Beartic','Wallbreaker', 'Swift Swim').
-item('Beartic','Wallbreaker', 'Choice Band').
-item('Beartic','Wallbreaker', 'Heavy-Duty Boots').
-tera('Beartic','Wallbreaker', 'Fighting').
-tera('Beartic','Wallbreaker', 'Ground').
-move('Beartic','Wallbreaker', 'Aqua Jet').
-move('Beartic','Wallbreaker', 'Close Combat').
-move('Beartic','Wallbreaker', 'Earthquake').
-move('Beartic','Wallbreaker', 'Icicle Crash').
-move('Beartic','Wallbreaker', 'Snowscape').
-move('Beartic','Wallbreaker', 'Swords Dance').
-pokemon('Bellibolt', 84).
-ability('Bellibolt', 'Electromorphosis').
-item('Bellibolt', 'Leftovers').
-role('Bellibolt', 'Bulky Attacker').
-ability('Bellibolt','Bulky Attacker', 'Electromorphosis').
-item('Bellibolt','Bulky Attacker', 'Leftovers').
-tera('Bellibolt','Bulky Attacker', 'Electric').
-tera('Bellibolt','Bulky Attacker', 'Water').
-move('Bellibolt','Bulky Attacker', 'Muddy Water').
-move('Bellibolt','Bulky Attacker', 'Slack Off').
-move('Bellibolt','Bulky Attacker', 'Thunderbolt').
-move('Bellibolt','Bulky Attacker', 'Toxic').
-move('Bellibolt','Bulky Attacker', 'Volt Switch').
-pokemon('Bellossom', 84).
-ability('Bellossom', 'Chlorophyll').
-item('Bellossom', 'Leftovers').
-role('Bellossom', 'Bulky Setup').
-ability('Bellossom','Bulky Setup', 'Chlorophyll').
-item('Bellossom','Bulky Setup', 'Leftovers').
-tera('Bellossom','Bulky Setup', 'Fairy').
-tera('Bellossom','Bulky Setup', 'Poison').
-move('Bellossom','Bulky Setup', 'Giga Drain').
-move('Bellossom','Bulky Setup', 'Moonblast').
-move('Bellossom','Bulky Setup', 'Quiver Dance').
-move('Bellossom','Bulky Setup', 'Sludge Bomb').
-move('Bellossom','Bulky Setup', 'Strength Sap').
-role('Bellossom', 'Tera Blast user').
-ability('Bellossom','Tera Blast user', 'Chlorophyll').
-item('Bellossom','Tera Blast user', 'Leftovers').
-tera('Bellossom','Tera Blast user', 'Fire').
-tera('Bellossom','Tera Blast user', 'Rock').
-move('Bellossom','Tera Blast user', 'Giga Drain').
-move('Bellossom','Tera Blast user', 'Quiver Dance').
-move('Bellossom','Tera Blast user', 'Strength Sap').
-move('Bellossom','Tera Blast user', 'Tera Blast').
-pokemon('Bisharp', 79).
-ability('Bisharp', 'Defiant').
-item('Bisharp', 'Eviolite').
-role('Bisharp', 'Bulky Attacker').
-ability('Bisharp','Bulky Attacker', 'Defiant').
-item('Bisharp','Bulky Attacker', 'Eviolite').
-tera('Bisharp','Bulky Attacker', 'Flying').
-tera('Bisharp','Bulky Attacker', 'Ghost').
-move('Bisharp','Bulky Attacker', 'Iron Head').
-move('Bisharp','Bulky Attacker', 'Stealth Rock').
-move('Bisharp','Bulky Attacker', 'Sucker Punch').
-move('Bisharp','Bulky Attacker', 'Swords Dance').
-move('Bisharp','Bulky Attacker', 'Throat Chop').
-pokemon('Blastoise', 80).
-ability('Blastoise', 'Torrent').
-item('Blastoise', 'White Herb').
-role('Blastoise', 'Setup Sweeper').
-ability('Blastoise','Setup Sweeper', 'Torrent').
-item('Blastoise','Setup Sweeper', 'White Herb').
-tera('Blastoise','Setup Sweeper', 'Ground').
-tera('Blastoise','Setup Sweeper', 'Steel').
-tera('Blastoise','Setup Sweeper', 'Water').
-move('Blastoise','Setup Sweeper', 'Earthquake').
-move('Blastoise','Setup Sweeper', 'Hydro Pump').
-move('Blastoise','Setup Sweeper', 'Ice Beam').
-move('Blastoise','Setup Sweeper', 'Shell Smash').
-role('Blastoise', 'Tera Blast user').
-ability('Blastoise','Tera Blast user', 'Torrent').
-item('Blastoise','Tera Blast user', 'White Herb').
-tera('Blastoise','Tera Blast user', 'Electric').
-tera('Blastoise','Tera Blast user', 'Grass').
-move('Blastoise','Tera Blast user', 'Hydro Pump').
-move('Blastoise','Tera Blast user', 'Ice Beam').
-move('Blastoise','Tera Blast user', 'Shell Smash').
-move('Blastoise','Tera Blast user', 'Tera Blast').
-pokemon('Blaziken', 76).
-ability('Blaziken', 'Speed Boost').
-item('Blaziken', 'Life Orb').
-role('Blaziken', 'Setup Sweeper').
-ability('Blaziken','Setup Sweeper', 'Speed Boost').
-item('Blaziken','Setup Sweeper', 'Life Orb').
-tera('Blaziken','Setup Sweeper', 'Dark').
-tera('Blaziken','Setup Sweeper', 'Fighting').
-move('Blaziken','Setup Sweeper', 'Close Combat').
-move('Blaziken','Setup Sweeper', 'Flare Blitz').
-move('Blaziken','Setup Sweeper', 'Knock Off').
-move('Blaziken','Setup Sweeper', 'Protect').
-move('Blaziken','Setup Sweeper', 'Stone Edge').
-move('Blaziken','Setup Sweeper', 'Swords Dance').
-pokemon('Blissey', 85).
-ability('Blissey', 'Natural Cure').
-item('Blissey', 'Leftovers').
-role('Blissey', 'Bulky Support').
-ability('Blissey','Bulky Support', 'Natural Cure').
-item('Blissey','Bulky Support', 'Leftovers').
-tera('Blissey','Bulky Support', 'Dark').
-tera('Blissey','Bulky Support', 'Fairy').
-tera('Blissey','Bulky Support', 'Ghost').
-tera('Blissey','Bulky Support', 'Poison').
-move('Blissey','Bulky Support', 'Heal Bell').
-move('Blissey','Bulky Support', 'Seismic Toss').
-move('Blissey','Bulky Support', 'Soft-Boiled').
-move('Blissey','Bulky Support', 'Stealth Rock').
-move('Blissey','Bulky Support', 'Thunder Wave').
-pokemon('Bombirdier', 85).
-ability('Bombirdier', 'Big Pecks').
-ability('Bombirdier', 'Rocky Payload').
-item('Bombirdier', 'Choice Band').
-item('Bombirdier', 'Choice Scarf').
-item('Bombirdier', 'Heavy-Duty Boots').
-role('Bombirdier', 'Fast Attacker').
-ability('Bombirdier','Fast Attacker', 'Rocky Payload').
-item('Bombirdier','Fast Attacker', 'Choice Band').
-item('Bombirdier','Fast Attacker', 'Choice Scarf').
-item('Bombirdier','Fast Attacker', 'Heavy-Duty Boots').
-tera('Bombirdier','Fast Attacker', 'Rock').
-move('Bombirdier','Fast Attacker', 'Brave Bird').
-move('Bombirdier','Fast Attacker', 'Knock Off').
-move('Bombirdier','Fast Attacker', 'Roost').
-move('Bombirdier','Fast Attacker', 'Stone Edge').
-move('Bombirdier','Fast Attacker', 'Sucker Punch').
-move('Bombirdier','Fast Attacker', 'U-turn').
-role('Bombirdier', 'Bulky Support').
-ability('Bombirdier','Bulky Support', 'Big Pecks').
-item('Bombirdier','Bulky Support', 'Heavy-Duty Boots').
-tera('Bombirdier','Bulky Support', 'Dark').
-tera('Bombirdier','Bulky Support', 'Steel').
-move('Bombirdier','Bulky Support', 'Brave Bird').
-move('Bombirdier','Bulky Support', 'Knock Off').
-move('Bombirdier','Bulky Support', 'Roost').
-move('Bombirdier','Bulky Support', 'Stealth Rock').
-move('Bombirdier','Bulky Support', 'Sucker Punch').
-move('Bombirdier','Bulky Support', 'U-turn').
-pokemon('Brambleghast', 88).
-ability('Brambleghast', 'Wind Rider').
-item('Brambleghast', 'Heavy-Duty Boots').
-item('Brambleghast', 'Leftovers').
-role('Brambleghast', 'Fast Support').
-ability('Brambleghast','Fast Support', 'Wind Rider').
-item('Brambleghast','Fast Support', 'Heavy-Duty Boots').
-item('Brambleghast','Fast Support', 'Leftovers').
-tera('Brambleghast','Fast Support', 'Fairy').
-tera('Brambleghast','Fast Support', 'Steel').
-tera('Brambleghast','Fast Support', 'Water').
-move('Brambleghast','Fast Support', 'Leech Seed').
-move('Brambleghast','Fast Support', 'Poltergeist').
-move('Brambleghast','Fast Support', 'Power Whip').
-move('Brambleghast','Fast Support', 'Rapid Spin').
-move('Brambleghast','Fast Support', 'Spikes').
-move('Brambleghast','Fast Support', 'Strength Sap').
-move('Brambleghast','Fast Support', 'Substitute').
-pokemon('Braviary', 85).
-ability('Braviary', 'Defiant').
-item('Braviary', 'Heavy-Duty Boots').
-role('Braviary', 'Fast Bulky Setup').
-ability('Braviary','Fast Bulky Setup', 'Defiant').
-item('Braviary','Fast Bulky Setup', 'Heavy-Duty Boots').
-tera('Braviary','Fast Bulky Setup', 'Fighting').
-tera('Braviary','Fast Bulky Setup', 'Steel').
-move('Braviary','Fast Bulky Setup', 'Brave Bird').
-move('Braviary','Fast Bulky Setup', 'Bulk Up').
-move('Braviary','Fast Bulky Setup', 'Close Combat').
-move('Braviary','Fast Bulky Setup', 'Roost').
-pokemon('Braviary-Hisui', 85).
-ability('Braviary-Hisui', 'Sheer Force').
-ability('Braviary-Hisui', 'Tinted Lens').
-item('Braviary-Hisui', 'Choice Specs').
-item('Braviary-Hisui', 'Heavy-Duty Boots').
-item('Braviary-Hisui', 'Life Orb').
-role('Braviary-Hisui', 'Bulky Attacker').
-ability('Braviary-Hisui','Bulky Attacker', 'Tinted Lens').
-item('Braviary-Hisui','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Braviary-Hisui','Bulky Attacker', 'Fairy').
-tera('Braviary-Hisui','Bulky Attacker', 'Psychic').
-tera('Braviary-Hisui','Bulky Attacker', 'Steel').
-move('Braviary-Hisui','Bulky Attacker', 'Calm Mind').
-move('Braviary-Hisui','Bulky Attacker', 'Defog').
-move('Braviary-Hisui','Bulky Attacker', 'Esper Wing').
-move('Braviary-Hisui','Bulky Attacker', 'Hurricane').
-move('Braviary-Hisui','Bulky Attacker', 'Roost').
-role('Braviary-Hisui', 'Wallbreaker').
-ability('Braviary-Hisui','Wallbreaker', 'Tinted Lens').
-item('Braviary-Hisui','Wallbreaker', 'Choice Specs').
-tera('Braviary-Hisui','Wallbreaker', 'Fairy').
-tera('Braviary-Hisui','Wallbreaker', 'Fighting').
-tera('Braviary-Hisui','Wallbreaker', 'Psychic').
-tera('Braviary-Hisui','Wallbreaker', 'Steel').
-move('Braviary-Hisui','Wallbreaker', 'Esper Wing').
-move('Braviary-Hisui','Wallbreaker', 'Hurricane').
-move('Braviary-Hisui','Wallbreaker', 'U-turn').
-move('Braviary-Hisui','Wallbreaker', 'Vacuum Wave').
-role('Braviary-Hisui', 'Setup Sweeper').
-ability('Braviary-Hisui','Setup Sweeper', 'Sheer Force').
-item('Braviary-Hisui','Setup Sweeper', 'Life Orb').
-tera('Braviary-Hisui','Setup Sweeper', 'Fairy').
-tera('Braviary-Hisui','Setup Sweeper', 'Fire').
-tera('Braviary-Hisui','Setup Sweeper', 'Psychic').
-tera('Braviary-Hisui','Setup Sweeper', 'Steel').
-move('Braviary-Hisui','Setup Sweeper', 'Agility').
-move('Braviary-Hisui','Setup Sweeper', 'Heat Wave').
-move('Braviary-Hisui','Setup Sweeper', 'Hurricane').
-move('Braviary-Hisui','Setup Sweeper', 'Psychic').
-pokemon('Breloom', 83).
-ability('Breloom', 'Technician').
-item('Breloom', 'Life Orb').
-role('Breloom', 'Fast Attacker').
-ability('Breloom','Fast Attacker', 'Technician').
-item('Breloom','Fast Attacker', 'Life Orb').
-tera('Breloom','Fast Attacker', 'Fighting').
-tera('Breloom','Fast Attacker', 'Rock').
-move('Breloom','Fast Attacker', 'Bullet Seed').
-move('Breloom','Fast Attacker', 'Mach Punch').
-move('Breloom','Fast Attacker', 'Rock Tomb').
-move('Breloom','Fast Attacker', 'Spore').
-move('Breloom','Fast Attacker', 'Swords Dance').
-pokemon('Bronzong', 88).
-ability('Bronzong', 'Levitate').
-item('Bronzong', 'Chesto Berry').
-item('Bronzong', 'Leftovers').
-role('Bronzong', 'Bulky Setup').
-ability('Bronzong','Bulky Setup', 'Levitate').
-item('Bronzong','Bulky Setup', 'Chesto Berry').
-item('Bronzong','Bulky Setup', 'Leftovers').
-tera('Bronzong','Bulky Setup', 'Fighting').
-move('Bronzong','Bulky Setup', 'Body Press').
-move('Bronzong','Bulky Setup', 'Iron Defense').
-move('Bronzong','Bulky Setup', 'Iron Head').
-move('Bronzong','Bulky Setup', 'Psychic Noise').
-move('Bronzong','Bulky Setup', 'Rest').
-role('Bronzong', 'Bulky Support').
-ability('Bronzong','Bulky Support', 'Levitate').
-item('Bronzong','Bulky Support', 'Leftovers').
-tera('Bronzong','Bulky Support', 'Electric').
-tera('Bronzong','Bulky Support', 'Water').
-move('Bronzong','Bulky Support', 'Earthquake').
-move('Bronzong','Bulky Support', 'Hypnosis').
-move('Bronzong','Bulky Support', 'Iron Head').
-move('Bronzong','Bulky Support', 'Psychic').
-move('Bronzong','Bulky Support', 'Psychic Noise').
-move('Bronzong','Bulky Support', 'Stealth Rock').
-pokemon('Brute Bonnet', 80).
-ability('Brute Bonnet', 'Protosynthesis').
-item('Brute Bonnet', 'Leftovers').
-role('Brute Bonnet', 'Bulky Support').
-ability('Brute Bonnet','Bulky Support', 'Protosynthesis').
-item('Brute Bonnet','Bulky Support', 'Leftovers').
-tera('Brute Bonnet','Bulky Support', 'Dark').
-tera('Brute Bonnet','Bulky Support', 'Poison').
-move('Brute Bonnet','Bulky Support', 'Crunch').
-move('Brute Bonnet','Bulky Support', 'Seed Bomb').
-move('Brute Bonnet','Bulky Support', 'Spore').
-move('Brute Bonnet','Bulky Support', 'Sucker Punch').
-role('Brute Bonnet', 'Bulky Attacker').
-ability('Brute Bonnet','Bulky Attacker', 'Protosynthesis').
-item('Brute Bonnet','Bulky Attacker', 'Leftovers').
-tera('Brute Bonnet','Bulky Attacker', 'Fighting').
-tera('Brute Bonnet','Bulky Attacker', 'Poison').
-move('Brute Bonnet','Bulky Attacker', 'Close Combat').
-move('Brute Bonnet','Bulky Attacker', 'Crunch').
-move('Brute Bonnet','Bulky Attacker', 'Spore').
-move('Brute Bonnet','Bulky Attacker', 'Sucker Punch').
-pokemon('Bruxish', 85).
-ability('Bruxish', 'Strong Jaw').
-item('Bruxish', 'Choice Band').
-item('Bruxish', 'Choice Scarf').
-item('Bruxish', 'Life Orb').
-role('Bruxish', 'Fast Attacker').
-ability('Bruxish','Fast Attacker', 'Strong Jaw').
-item('Bruxish','Fast Attacker', 'Choice Band').
-item('Bruxish','Fast Attacker', 'Choice Scarf').
-item('Bruxish','Fast Attacker', 'Life Orb').
-tera('Bruxish','Fast Attacker', 'Dark').
-tera('Bruxish','Fast Attacker', 'Psychic').
-move('Bruxish','Fast Attacker', 'Aqua Jet').
-move('Bruxish','Fast Attacker', 'Crunch').
-move('Bruxish','Fast Attacker', 'Flip Turn').
-move('Bruxish','Fast Attacker', 'Ice Fang').
-move('Bruxish','Fast Attacker', 'Psychic Fangs').
-move('Bruxish','Fast Attacker', 'Swords Dance').
-move('Bruxish','Fast Attacker', 'Wave Crash').
-pokemon('Cacturne', 92).
-ability('Cacturne', 'Water Absorb').
-item('Cacturne', 'Life Orb').
-role('Cacturne', 'Setup Sweeper').
-ability('Cacturne','Setup Sweeper', 'Water Absorb').
-item('Cacturne','Setup Sweeper', 'Life Orb').
-tera('Cacturne','Setup Sweeper', 'Dark').
-tera('Cacturne','Setup Sweeper', 'Poison').
-move('Cacturne','Setup Sweeper', 'Knock Off').
-move('Cacturne','Setup Sweeper', 'Seed Bomb').
-move('Cacturne','Setup Sweeper', 'Sucker Punch').
-move('Cacturne','Setup Sweeper', 'Swords Dance').
-role('Cacturne', 'Wallbreaker').
-ability('Cacturne','Wallbreaker', 'Water Absorb').
-item('Cacturne','Wallbreaker', 'Life Orb').
-tera('Cacturne','Wallbreaker', 'Dark').
-tera('Cacturne','Wallbreaker', 'Grass').
-tera('Cacturne','Wallbreaker', 'Poison').
-move('Cacturne','Wallbreaker', 'Focus Blast').
-move('Cacturne','Wallbreaker', 'Knock Off').
-move('Cacturne','Wallbreaker', 'Leaf Storm').
-move('Cacturne','Wallbreaker', 'Spikes').
-move('Cacturne','Wallbreaker', 'Sucker Punch').
-move('Cacturne','Wallbreaker', 'Toxic Spikes').
-pokemon('Calyrex', 93).
-ability('Calyrex', 'Unnerve').
-item('Calyrex', 'Leftovers').
-role('Calyrex', 'Bulky Setup').
-ability('Calyrex','Bulky Setup', 'Unnerve').
-item('Calyrex','Bulky Setup', 'Leftovers').
-tera('Calyrex','Bulky Setup', 'Steel').
-move('Calyrex','Bulky Setup', 'Calm Mind').
-move('Calyrex','Bulky Setup', 'Encore').
-move('Calyrex','Bulky Setup', 'Giga Drain').
-move('Calyrex','Bulky Setup', 'Leech Seed').
-move('Calyrex','Bulky Setup', 'Psychic').
-move('Calyrex','Bulky Setup', 'Psyshock').
-role('Calyrex', 'Bulky Attacker').
-ability('Calyrex','Bulky Attacker', 'Unnerve').
-item('Calyrex','Bulky Attacker', 'Leftovers').
-tera('Calyrex','Bulky Attacker', 'Fighting').
-tera('Calyrex','Bulky Attacker', 'Steel').
-move('Calyrex','Bulky Attacker', 'Body Press').
-move('Calyrex','Bulky Attacker', 'Encore').
-move('Calyrex','Bulky Attacker', 'Giga Drain').
-move('Calyrex','Bulky Attacker', 'Leech Seed').
-move('Calyrex','Bulky Attacker', 'Psychic').
-move('Calyrex','Bulky Attacker', 'Psyshock').
-pokemon('Calyrex-Ice', 72).
-ability('Calyrex-Ice', 'As One (Glastrier)').
-item('Calyrex-Ice', 'Heavy-Duty Boots').
-item('Calyrex-Ice', 'Weakness Policy').
-role('Calyrex-Ice', 'Bulky Setup').
-ability('Calyrex-Ice','Bulky Setup', 'As One (Glastrier)').
-item('Calyrex-Ice','Bulky Setup', 'Weakness Policy').
-tera('Calyrex-Ice','Bulky Setup', 'Fighting').
-tera('Calyrex-Ice','Bulky Setup', 'Ground').
-move('Calyrex-Ice','Bulky Setup', 'Agility').
-move('Calyrex-Ice','Bulky Setup', 'Close Combat').
-move('Calyrex-Ice','Bulky Setup', 'Glacial Lance').
-move('Calyrex-Ice','Bulky Setup', 'High Horsepower').
-role('Calyrex-Ice', 'Wallbreaker').
-ability('Calyrex-Ice','Wallbreaker', 'As One (Glastrier)').
-item('Calyrex-Ice','Wallbreaker', 'Heavy-Duty Boots').
-tera('Calyrex-Ice','Wallbreaker', 'Fighting').
-tera('Calyrex-Ice','Wallbreaker', 'Ground').
-move('Calyrex-Ice','Wallbreaker', 'Close Combat').
-move('Calyrex-Ice','Wallbreaker', 'Glacial Lance').
-move('Calyrex-Ice','Wallbreaker', 'High Horsepower').
-move('Calyrex-Ice','Wallbreaker', 'Trick Room').
-pokemon('Calyrex-Shadow', 64).
-ability('Calyrex-Shadow', 'As One (Spectrier)').
-item('Calyrex-Shadow', 'Choice Specs').
-item('Calyrex-Shadow', 'Life Orb').
-role('Calyrex-Shadow', 'Fast Attacker').
-ability('Calyrex-Shadow','Fast Attacker', 'As One (Spectrier)').
-item('Calyrex-Shadow','Fast Attacker', 'Choice Specs').
-item('Calyrex-Shadow','Fast Attacker', 'Life Orb').
-tera('Calyrex-Shadow','Fast Attacker', 'Dark').
-tera('Calyrex-Shadow','Fast Attacker', 'Ghost').
-move('Calyrex-Shadow','Fast Attacker', 'Astral Barrage').
-move('Calyrex-Shadow','Fast Attacker', 'Nasty Plot').
-move('Calyrex-Shadow','Fast Attacker', 'Pollen Puff').
-move('Calyrex-Shadow','Fast Attacker', 'Psyshock').
-move('Calyrex-Shadow','Fast Attacker', 'Trick').
-pokemon('Camerupt', 91).
-ability('Camerupt', 'Solid Rock').
-item('Camerupt', 'Leftovers').
-role('Camerupt', 'Bulky Support').
-ability('Camerupt','Bulky Support', 'Solid Rock').
-item('Camerupt','Bulky Support', 'Leftovers').
-tera('Camerupt','Bulky Support', 'Grass').
-tera('Camerupt','Bulky Support', 'Water').
-move('Camerupt','Bulky Support', 'Earthquake').
-move('Camerupt','Bulky Support', 'Overheat').
-move('Camerupt','Bulky Support', 'Roar').
-move('Camerupt','Bulky Support', 'Stealth Rock').
-move('Camerupt','Bulky Support', 'Will-O-Wisp').
-pokemon('Carbink', 90).
-ability('Carbink', 'Clear Body').
-ability('Carbink', 'Sturdy').
-item('Carbink', 'Chesto Berry').
-item('Carbink', 'Leftovers').
-role('Carbink', 'Fast Bulky Setup').
-ability('Carbink','Fast Bulky Setup', 'Clear Body').
-ability('Carbink','Fast Bulky Setup', 'Sturdy').
-item('Carbink','Fast Bulky Setup', 'Chesto Berry').
-item('Carbink','Fast Bulky Setup', 'Leftovers').
-tera('Carbink','Fast Bulky Setup', 'Fighting').
-move('Carbink','Fast Bulky Setup', 'Body Press').
-move('Carbink','Fast Bulky Setup', 'Iron Defense').
-move('Carbink','Fast Bulky Setup', 'Moonblast').
-move('Carbink','Fast Bulky Setup', 'Rest').
-move('Carbink','Fast Bulky Setup', 'Rock Polish').
-pokemon('Ceruledge', 78).
-ability('Ceruledge', 'Weak Armor').
-item('Ceruledge', 'Heavy-Duty Boots').
-role('Ceruledge', 'Setup Sweeper').
-ability('Ceruledge','Setup Sweeper', 'Weak Armor').
-item('Ceruledge','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Ceruledge','Setup Sweeper', 'Fighting').
-tera('Ceruledge','Setup Sweeper', 'Fire').
-tera('Ceruledge','Setup Sweeper', 'Ghost').
-move('Ceruledge','Setup Sweeper', 'Bitter Blade').
-move('Ceruledge','Setup Sweeper', 'Close Combat').
-move('Ceruledge','Setup Sweeper', 'Poltergeist').
-move('Ceruledge','Setup Sweeper', 'Shadow Sneak').
-move('Ceruledge','Setup Sweeper', 'Swords Dance').
-pokemon('Cetitan', 82).
-ability('Cetitan', 'Sheer Force').
-ability('Cetitan', 'Slush Rush').
-ability('Cetitan', 'Thick Fat').
-item('Cetitan', 'Life Orb').
-item('Cetitan', 'Sitrus Berry').
-role('Cetitan', 'Bulky Setup').
-ability('Cetitan','Bulky Setup', 'Slush Rush').
-ability('Cetitan','Bulky Setup', 'Thick Fat').
-item('Cetitan','Bulky Setup', 'Sitrus Berry').
-tera('Cetitan','Bulky Setup', 'Ice').
-move('Cetitan','Bulky Setup', 'Belly Drum').
-move('Cetitan','Bulky Setup', 'Earthquake').
-move('Cetitan','Bulky Setup', 'Ice Shard').
-move('Cetitan','Bulky Setup', 'Ice Spinner').
-role('Cetitan', 'Wallbreaker').
-ability('Cetitan','Wallbreaker', 'Sheer Force').
-item('Cetitan','Wallbreaker', 'Life Orb').
-tera('Cetitan','Wallbreaker', 'Water').
-move('Cetitan','Wallbreaker', 'Earthquake').
-move('Cetitan','Wallbreaker', 'Ice Shard').
-move('Cetitan','Wallbreaker', 'Icicle Crash').
-move('Cetitan','Wallbreaker', 'Liquidation').
-move('Cetitan','Wallbreaker', 'Superpower').
-pokemon('Chandelure', 83).
-ability('Chandelure', 'Flame Body').
-ability('Chandelure', 'Flash Fire').
-item('Chandelure', 'Choice Scarf').
-item('Chandelure', 'Heavy-Duty Boots').
-item('Chandelure', 'Leftovers').
-role('Chandelure', 'Fast Attacker').
-ability('Chandelure','Fast Attacker', 'Flash Fire').
-item('Chandelure','Fast Attacker', 'Choice Scarf').
-tera('Chandelure','Fast Attacker', 'Fire').
-tera('Chandelure','Fast Attacker', 'Ghost').
-tera('Chandelure','Fast Attacker', 'Grass').
-move('Chandelure','Fast Attacker', 'Energy Ball').
-move('Chandelure','Fast Attacker', 'Fire Blast').
-move('Chandelure','Fast Attacker', 'Shadow Ball').
-move('Chandelure','Fast Attacker', 'Trick').
-role('Chandelure', 'Fast Bulky Setup').
-ability('Chandelure','Fast Bulky Setup', 'Flame Body').
-ability('Chandelure','Fast Bulky Setup', 'Flash Fire').
-item('Chandelure','Fast Bulky Setup', 'Heavy-Duty Boots').
-item('Chandelure','Fast Bulky Setup', 'Leftovers').
-tera('Chandelure','Fast Bulky Setup', 'Fire').
-tera('Chandelure','Fast Bulky Setup', 'Ghost').
-tera('Chandelure','Fast Bulky Setup', 'Grass').
-move('Chandelure','Fast Bulky Setup', 'Calm Mind').
-move('Chandelure','Fast Bulky Setup', 'Energy Ball').
-move('Chandelure','Fast Bulky Setup', 'Fire Blast').
-move('Chandelure','Fast Bulky Setup', 'Flame Charge').
-move('Chandelure','Fast Bulky Setup', 'Pain Split').
-move('Chandelure','Fast Bulky Setup', 'Shadow Ball').
-move('Chandelure','Fast Bulky Setup', 'Substitute').
-move('Chandelure','Fast Bulky Setup', 'Will-O-Wisp').
-pokemon('Chansey', 85).
-ability('Chansey', 'Natural Cure').
-item('Chansey', 'Eviolite').
-role('Chansey', 'Bulky Support').
-ability('Chansey','Bulky Support', 'Natural Cure').
-item('Chansey','Bulky Support', 'Eviolite').
-tera('Chansey','Bulky Support', 'Dark').
-tera('Chansey','Bulky Support', 'Fairy').
-tera('Chansey','Bulky Support', 'Ghost').
-tera('Chansey','Bulky Support', 'Poison').
-move('Chansey','Bulky Support', 'Heal Bell').
-move('Chansey','Bulky Support', 'Seismic Toss').
-move('Chansey','Bulky Support', 'Soft-Boiled').
-move('Chansey','Bulky Support', 'Stealth Rock').
-move('Chansey','Bulky Support', 'Thunder Wave').
-pokemon('Charizard', 85).
-ability('Charizard', 'Blaze').
-item('Charizard', 'Heavy-Duty Boots').
-role('Charizard', 'Setup Sweeper').
-ability('Charizard','Setup Sweeper', 'Blaze').
-item('Charizard','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Charizard','Setup Sweeper', 'Dragon').
-tera('Charizard','Setup Sweeper', 'Ground').
-move('Charizard','Setup Sweeper', 'Dragon Dance').
-move('Charizard','Setup Sweeper', 'Earthquake').
-move('Charizard','Setup Sweeper', 'Flare Blitz').
-move('Charizard','Setup Sweeper', 'Outrage').
-move('Charizard','Setup Sweeper', 'Swords Dance').
-role('Charizard', 'Fast Attacker').
-ability('Charizard','Fast Attacker', 'Blaze').
-item('Charizard','Fast Attacker', 'Heavy-Duty Boots').
-tera('Charizard','Fast Attacker', 'Dragon').
-tera('Charizard','Fast Attacker', 'Fire').
-tera('Charizard','Fast Attacker', 'Ground').
-move('Charizard','Fast Attacker', 'Earthquake').
-move('Charizard','Fast Attacker', 'Flamethrower').
-move('Charizard','Fast Attacker', 'Focus Blast').
-move('Charizard','Fast Attacker', 'Hurricane').
-move('Charizard','Fast Attacker', 'Will-O-Wisp').
-pokemon('Chesnaught', 84).
-ability('Chesnaught', 'Bulletproof').
-item('Chesnaught', 'Leftovers').
-item('Chesnaught', 'Rocky Helmet').
-role('Chesnaught', 'Fast Bulky Setup').
-ability('Chesnaught','Fast Bulky Setup', 'Bulletproof').
-item('Chesnaught','Fast Bulky Setup', 'Leftovers').
-tera('Chesnaught','Fast Bulky Setup', 'Steel').
-move('Chesnaught','Fast Bulky Setup', 'Body Press').
-move('Chesnaught','Fast Bulky Setup', 'Iron Defense').
-move('Chesnaught','Fast Bulky Setup', 'Synthesis').
-move('Chesnaught','Fast Bulky Setup', 'Trailblaze').
-role('Chesnaught', 'Bulky Support').
-ability('Chesnaught','Bulky Support', 'Bulletproof').
-item('Chesnaught','Bulky Support', 'Leftovers').
-item('Chesnaught','Bulky Support', 'Rocky Helmet').
-tera('Chesnaught','Bulky Support', 'Steel').
-tera('Chesnaught','Bulky Support', 'Water').
-move('Chesnaught','Bulky Support', 'Body Press').
-move('Chesnaught','Bulky Support', 'Knock Off').
-move('Chesnaught','Bulky Support', 'Spikes').
-move('Chesnaught','Bulky Support', 'Synthesis').
-move('Chesnaught','Bulky Support', 'Wood Hammer').
-pokemon('Chi-Yu', 77).
-ability('Chi-Yu', 'Beads of Ruin').
-item('Chi-Yu', 'Choice Scarf').
-item('Chi-Yu', 'Choice Specs').
-item('Chi-Yu', 'Heavy-Duty Boots').
-role('Chi-Yu', 'Fast Attacker').
-ability('Chi-Yu','Fast Attacker', 'Beads of Ruin').
-item('Chi-Yu','Fast Attacker', 'Choice Scarf').
-item('Chi-Yu','Fast Attacker', 'Choice Specs').
-tera('Chi-Yu','Fast Attacker', 'Dark').
-tera('Chi-Yu','Fast Attacker', 'Fire').
-move('Chi-Yu','Fast Attacker', 'Dark Pulse').
-move('Chi-Yu','Fast Attacker', 'Flamethrower').
-move('Chi-Yu','Fast Attacker', 'Overheat').
-move('Chi-Yu','Fast Attacker', 'Psychic').
-role('Chi-Yu', 'Setup Sweeper').
-ability('Chi-Yu','Setup Sweeper', 'Beads of Ruin').
-item('Chi-Yu','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Chi-Yu','Setup Sweeper', 'Dark').
-tera('Chi-Yu','Setup Sweeper', 'Fire').
-move('Chi-Yu','Setup Sweeper', 'Dark Pulse').
-move('Chi-Yu','Setup Sweeper', 'Fire Blast').
-move('Chi-Yu','Setup Sweeper', 'Nasty Plot').
-move('Chi-Yu','Setup Sweeper', 'Psychic').
-move('Chi-Yu','Setup Sweeper', 'Will-O-Wisp').
-pokemon('Chien-Pao', 72).
-ability('Chien-Pao', 'Sword of Ruin').
-item('Chien-Pao', 'Choice Band').
-item('Chien-Pao', 'Heavy-Duty Boots').
-role('Chien-Pao', 'Wallbreaker').
-ability('Chien-Pao','Wallbreaker', 'Sword of Ruin').
-item('Chien-Pao','Wallbreaker', 'Choice Band').
-tera('Chien-Pao','Wallbreaker', 'Dark').
-tera('Chien-Pao','Wallbreaker', 'Fighting').
-tera('Chien-Pao','Wallbreaker', 'Ice').
-move('Chien-Pao','Wallbreaker', 'Crunch').
-move('Chien-Pao','Wallbreaker', 'Ice Shard').
-move('Chien-Pao','Wallbreaker', 'Icicle Crash').
-move('Chien-Pao','Wallbreaker', 'Sacred Sword').
-move('Chien-Pao','Wallbreaker', 'Throat Chop').
-role('Chien-Pao', 'Setup Sweeper').
-ability('Chien-Pao','Setup Sweeper', 'Sword of Ruin').
-item('Chien-Pao','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Chien-Pao','Setup Sweeper', 'Dark').
-tera('Chien-Pao','Setup Sweeper', 'Fighting').
-tera('Chien-Pao','Setup Sweeper', 'Ice').
-move('Chien-Pao','Setup Sweeper', 'Ice Shard').
-move('Chien-Pao','Setup Sweeper', 'Icicle Crash').
-move('Chien-Pao','Setup Sweeper', 'Sacred Sword').
-move('Chien-Pao','Setup Sweeper', 'Sucker Punch').
-move('Chien-Pao','Setup Sweeper', 'Swords Dance').
-move('Chien-Pao','Setup Sweeper', 'Throat Chop').
-pokemon('Chimecho', 93).
-ability('Chimecho', 'Levitate').
-item('Chimecho', 'Leftovers').
-role('Chimecho', 'Bulky Attacker').
-ability('Chimecho','Bulky Attacker', 'Levitate').
-item('Chimecho','Bulky Attacker', 'Leftovers').
-tera('Chimecho','Bulky Attacker', 'Steel').
-move('Chimecho','Bulky Attacker', 'Cosmic Power').
-move('Chimecho','Bulky Attacker', 'Dazzling Gleam').
-move('Chimecho','Bulky Attacker', 'Recover').
-move('Chimecho','Bulky Attacker', 'Stored Power').
-role('Chimecho', 'Bulky Support').
-ability('Chimecho','Bulky Support', 'Levitate').
-item('Chimecho','Bulky Support', 'Leftovers').
-tera('Chimecho','Bulky Support', 'Dark').
-tera('Chimecho','Bulky Support', 'Electric').
-tera('Chimecho','Bulky Support', 'Poison').
-tera('Chimecho','Bulky Support', 'Steel').
-move('Chimecho','Bulky Support', 'Encore').
-move('Chimecho','Bulky Support', 'Heal Bell').
-move('Chimecho','Bulky Support', 'Knock Off').
-move('Chimecho','Bulky Support', 'Psychic Noise').
-move('Chimecho','Bulky Support', 'Recover').
-move('Chimecho','Bulky Support', 'Thunder Wave').
-role('Chimecho', 'Bulky Setup').
-ability('Chimecho','Bulky Setup', 'Levitate').
-item('Chimecho','Bulky Setup', 'Leftovers').
-tera('Chimecho','Bulky Setup', 'Electric').
-tera('Chimecho','Bulky Setup', 'Fairy').
-tera('Chimecho','Bulky Setup', 'Poison').
-tera('Chimecho','Bulky Setup', 'Steel').
-move('Chimecho','Bulky Setup', 'Calm Mind').
-move('Chimecho','Bulky Setup', 'Dazzling Gleam').
-move('Chimecho','Bulky Setup', 'Psychic Noise').
-move('Chimecho','Bulky Setup', 'Psyshock').
-move('Chimecho','Bulky Setup', 'Recover').
-pokemon('Cinccino', 83).
-ability('Cinccino', 'Technician').
-item('Cinccino', 'Loaded Dice').
-role('Cinccino', 'Fast Attacker').
-ability('Cinccino','Fast Attacker', 'Technician').
-item('Cinccino','Fast Attacker', 'Loaded Dice').
-tera('Cinccino','Fast Attacker', 'Grass').
-tera('Cinccino','Fast Attacker', 'Ice').
-tera('Cinccino','Fast Attacker', 'Normal').
-move('Cinccino','Fast Attacker', 'Bullet Seed').
-move('Cinccino','Fast Attacker', 'Tail Slap').
-move('Cinccino','Fast Attacker', 'Tidy Up').
-move('Cinccino','Fast Attacker', 'Triple Axel').
-move('Cinccino','Fast Attacker', 'U-turn').
-pokemon('Cinderace', 77).
-ability('Cinderace', 'Libero').
-item('Cinderace', 'Choice Band').
-item('Cinderace', 'Heavy-Duty Boots').
-role('Cinderace', 'Wallbreaker').
-ability('Cinderace','Wallbreaker', 'Libero').
-item('Cinderace','Wallbreaker', 'Choice Band').
-tera('Cinderace','Wallbreaker', 'Fire').
-move('Cinderace','Wallbreaker', 'Gunk Shot').
-move('Cinderace','Wallbreaker', 'High Jump Kick').
-move('Cinderace','Wallbreaker', 'Pyro Ball').
-move('Cinderace','Wallbreaker', 'U-turn').
-role('Cinderace', 'Fast Attacker').
-ability('Cinderace','Fast Attacker', 'Libero').
-item('Cinderace','Fast Attacker', 'Choice Band').
-item('Cinderace','Fast Attacker', 'Heavy-Duty Boots').
-tera('Cinderace','Fast Attacker', 'Fighting').
-move('Cinderace','Fast Attacker', 'Court Change').
-move('Cinderace','Fast Attacker', 'Gunk Shot').
-move('Cinderace','Fast Attacker', 'High Jump Kick').
-move('Cinderace','Fast Attacker', 'Pyro Ball').
-move('Cinderace','Fast Attacker', 'U-turn').
-role('Cinderace', 'Fast Support').
-ability('Cinderace','Fast Support', 'Libero').
-item('Cinderace','Fast Support', 'Heavy-Duty Boots').
-tera('Cinderace','Fast Support', 'Grass').
-move('Cinderace','Fast Support', 'Court Change').
-move('Cinderace','Fast Support', 'Pyro Ball').
-move('Cinderace','Fast Support', 'U-turn').
-move('Cinderace','Fast Support', 'Will-O-Wisp').
-pokemon('Clawitzer', 87).
-ability('Clawitzer', 'Mega Launcher').
-item('Clawitzer', 'Assault Vest').
-item('Clawitzer', 'Choice Specs').
-role('Clawitzer', 'Wallbreaker').
-ability('Clawitzer','Wallbreaker', 'Mega Launcher').
-item('Clawitzer','Wallbreaker', 'Choice Specs').
-tera('Clawitzer','Wallbreaker', 'Dark').
-tera('Clawitzer','Wallbreaker', 'Dragon').
-tera('Clawitzer','Wallbreaker', 'Fighting').
-move('Clawitzer','Wallbreaker', 'Aura Sphere').
-move('Clawitzer','Wallbreaker', 'Dark Pulse').
-move('Clawitzer','Wallbreaker', 'Dragon Pulse').
-move('Clawitzer','Wallbreaker', 'Ice Beam').
-move('Clawitzer','Wallbreaker', 'U-turn').
-move('Clawitzer','Wallbreaker', 'Water Pulse').
-role('Clawitzer', 'AV Pivot').
-ability('Clawitzer','AV Pivot', 'Mega Launcher').
-item('Clawitzer','AV Pivot', 'Assault Vest').
-tera('Clawitzer','AV Pivot', 'Dragon').
-move('Clawitzer','AV Pivot', 'Aura Sphere').
-move('Clawitzer','AV Pivot', 'Dark Pulse').
-move('Clawitzer','AV Pivot', 'Dragon Pulse').
-move('Clawitzer','AV Pivot', 'U-turn').
-move('Clawitzer','AV Pivot', 'Water Pulse').
-pokemon('Clefable', 83).
-ability('Clefable', 'Magic Guard').
-ability('Clefable', 'Unaware').
-item('Clefable', 'Leftovers').
-item('Clefable', 'Life Orb').
-role('Clefable', 'Bulky Setup').
-ability('Clefable','Bulky Setup', 'Magic Guard').
-ability('Clefable','Bulky Setup', 'Unaware').
-item('Clefable','Bulky Setup', 'Leftovers').
-item('Clefable','Bulky Setup', 'Life Orb').
-tera('Clefable','Bulky Setup', 'Fire').
-tera('Clefable','Bulky Setup', 'Steel').
-move('Clefable','Bulky Setup', 'Calm Mind').
-move('Clefable','Bulky Setup', 'Fire Blast').
-move('Clefable','Bulky Setup', 'Moonblast').
-move('Clefable','Bulky Setup', 'Moonlight').
-role('Clefable', 'Bulky Support').
-ability('Clefable','Bulky Support', 'Magic Guard').
-ability('Clefable','Bulky Support', 'Unaware').
-item('Clefable','Bulky Support', 'Leftovers').
-item('Clefable','Bulky Support', 'Life Orb').
-tera('Clefable','Bulky Support', 'Poison').
-tera('Clefable','Bulky Support', 'Steel').
-move('Clefable','Bulky Support', 'Fire Blast').
-move('Clefable','Bulky Support', 'Knock Off').
-move('Clefable','Bulky Support', 'Moonblast').
-move('Clefable','Bulky Support', 'Moonlight').
-move('Clefable','Bulky Support', 'Stealth Rock').
-move('Clefable','Bulky Support', 'Thunder Wave').
-pokemon('Clodsire', 81).
-ability('Clodsire', 'Unaware').
-ability('Clodsire', 'Water Absorb').
-item('Clodsire', 'Leftovers').
-role('Clodsire', 'Bulky Attacker').
-ability('Clodsire','Bulky Attacker', 'Unaware').
-ability('Clodsire','Bulky Attacker', 'Water Absorb').
-item('Clodsire','Bulky Attacker', 'Leftovers').
-tera('Clodsire','Bulky Attacker', 'Flying').
-tera('Clodsire','Bulky Attacker', 'Steel').
-move('Clodsire','Bulky Attacker', 'Curse').
-move('Clodsire','Bulky Attacker', 'Earthquake').
-move('Clodsire','Bulky Attacker', 'Gunk Shot').
-move('Clodsire','Bulky Attacker', 'Poison Jab').
-move('Clodsire','Bulky Attacker', 'Recover').
-move('Clodsire','Bulky Attacker', 'Stealth Rock').
-move('Clodsire','Bulky Attacker', 'Toxic Spikes').
-role('Clodsire', 'Bulky Support').
-ability('Clodsire','Bulky Support', 'Unaware').
-ability('Clodsire','Bulky Support', 'Water Absorb').
-item('Clodsire','Bulky Support', 'Leftovers').
-tera('Clodsire','Bulky Support', 'Flying').
-tera('Clodsire','Bulky Support', 'Steel').
-move('Clodsire','Bulky Support', 'Earthquake').
-move('Clodsire','Bulky Support', 'Gunk Shot').
-move('Clodsire','Bulky Support', 'Poison Jab').
-move('Clodsire','Bulky Support', 'Recover').
-move('Clodsire','Bulky Support', 'Spikes').
-move('Clodsire','Bulky Support', 'Toxic').
-pokemon('Cloyster', 80).
-ability('Cloyster', 'Skill Link').
-item('Cloyster', 'White Herb').
-role('Cloyster', 'Fast Attacker').
-ability('Cloyster','Fast Attacker', 'Skill Link').
-item('Cloyster','Fast Attacker', 'White Herb').
-tera('Cloyster','Fast Attacker', 'Ground').
-move('Cloyster','Fast Attacker', 'Drill Run').
-move('Cloyster','Fast Attacker', 'Icicle Spear').
-move('Cloyster','Fast Attacker', 'Rock Blast').
-move('Cloyster','Fast Attacker', 'Shell Smash').
-role('Cloyster', 'Setup Sweeper').
-ability('Cloyster','Setup Sweeper', 'Skill Link').
-item('Cloyster','Setup Sweeper', 'White Herb').
-tera('Cloyster','Setup Sweeper', 'Ice').
-tera('Cloyster','Setup Sweeper', 'Rock').
-move('Cloyster','Setup Sweeper', 'Hydro Pump').
-move('Cloyster','Setup Sweeper', 'Icicle Spear').
-move('Cloyster','Setup Sweeper', 'Rock Blast').
-move('Cloyster','Setup Sweeper', 'Shell Smash').
-pokemon('Coalossal', 89).
-ability('Coalossal', 'Flame Body').
-item('Coalossal', 'Heavy-Duty Boots').
-role('Coalossal', 'Bulky Support').
-ability('Coalossal','Bulky Support', 'Flame Body').
-item('Coalossal','Bulky Support', 'Heavy-Duty Boots').
-tera('Coalossal','Bulky Support', 'Ghost').
-tera('Coalossal','Bulky Support', 'Grass').
-tera('Coalossal','Bulky Support', 'Water').
-move('Coalossal','Bulky Support', 'Flamethrower').
-move('Coalossal','Bulky Support', 'Overheat').
-move('Coalossal','Bulky Support', 'Rapid Spin').
-move('Coalossal','Bulky Support', 'Spikes').
-move('Coalossal','Bulky Support', 'Stealth Rock').
-move('Coalossal','Bulky Support', 'Stone Edge').
-move('Coalossal','Bulky Support', 'Will-O-Wisp').
-pokemon('Cobalion', 80).
-ability('Cobalion', 'Justified').
-item('Cobalion', 'Leftovers').
-item('Cobalion', 'Life Orb').
-role('Cobalion', 'Bulky Setup').
-ability('Cobalion','Bulky Setup', 'Justified').
-item('Cobalion','Bulky Setup', 'Leftovers').
-tera('Cobalion','Bulky Setup', 'Fighting').
-tera('Cobalion','Bulky Setup', 'Ghost').
-tera('Cobalion','Bulky Setup', 'Water').
-move('Cobalion','Bulky Setup', 'Aura Sphere').
-move('Cobalion','Bulky Setup', 'Calm Mind').
-move('Cobalion','Bulky Setup', 'Flash Cannon').
-move('Cobalion','Bulky Setup', 'Vacuum Wave').
-role('Cobalion', 'Fast Bulky Setup').
-ability('Cobalion','Fast Bulky Setup', 'Justified').
-item('Cobalion','Fast Bulky Setup', 'Leftovers').
-item('Cobalion','Fast Bulky Setup', 'Life Orb').
-tera('Cobalion','Fast Bulky Setup', 'Fighting').
-move('Cobalion','Fast Bulky Setup', 'Close Combat').
-move('Cobalion','Fast Bulky Setup', 'Iron Head').
-move('Cobalion','Fast Bulky Setup', 'Stone Edge').
-move('Cobalion','Fast Bulky Setup', 'Swords Dance').
-move('Cobalion','Fast Bulky Setup', 'Taunt').
-role('Cobalion', 'Bulky Support').
-ability('Cobalion','Bulky Support', 'Justified').
-item('Cobalion','Bulky Support', 'Leftovers').
-tera('Cobalion','Bulky Support', 'Ghost').
-tera('Cobalion','Bulky Support', 'Water').
-move('Cobalion','Bulky Support', 'Body Press').
-move('Cobalion','Bulky Support', 'Iron Defense').
-move('Cobalion','Bulky Support', 'Iron Head').
-move('Cobalion','Bulky Support', 'Stealth Rock').
-move('Cobalion','Bulky Support', 'Thunder Wave').
-move('Cobalion','Bulky Support', 'Volt Switch').
-pokemon('Comfey', 85).
-ability('Comfey', 'Triage').
-item('Comfey', 'Leftovers').
-role('Comfey', 'Bulky Setup').
-ability('Comfey','Bulky Setup', 'Triage').
-item('Comfey','Bulky Setup', 'Leftovers').
-tera('Comfey','Bulky Setup', 'Fairy').
-tera('Comfey','Bulky Setup', 'Poison').
-tera('Comfey','Bulky Setup', 'Steel').
-move('Comfey','Bulky Setup', 'Calm Mind').
-move('Comfey','Bulky Setup', 'Draining Kiss').
-move('Comfey','Bulky Setup', 'Giga Drain').
-move('Comfey','Bulky Setup', 'Stored Power').
-role('Comfey', 'Tera Blast user').
-ability('Comfey','Tera Blast user', 'Triage').
-item('Comfey','Tera Blast user', 'Leftovers').
-tera('Comfey','Tera Blast user', 'Ground').
-move('Comfey','Tera Blast user', 'Calm Mind').
-move('Comfey','Tera Blast user', 'Draining Kiss').
-move('Comfey','Tera Blast user', 'Encore').
-move('Comfey','Tera Blast user', 'Giga Drain').
-move('Comfey','Tera Blast user', 'Synthesis').
-move('Comfey','Tera Blast user', 'Taunt').
-move('Comfey','Tera Blast user', 'Tera Blast').
-pokemon('Conkeldurr', 80).
-ability('Conkeldurr', 'Guts').
-item('Conkeldurr', 'Flame Orb').
-role('Conkeldurr', 'Wallbreaker').
-ability('Conkeldurr','Wallbreaker', 'Guts').
-item('Conkeldurr','Wallbreaker', 'Flame Orb').
-tera('Conkeldurr','Wallbreaker', 'Normal').
-move('Conkeldurr','Wallbreaker', 'Close Combat').
-move('Conkeldurr','Wallbreaker', 'Facade').
-move('Conkeldurr','Wallbreaker', 'Knock Off').
-move('Conkeldurr','Wallbreaker', 'Mach Punch').
-pokemon('Copperajah', 86).
-ability('Copperajah', 'Heavy Metal').
-ability('Copperajah', 'Sheer Force').
-item('Copperajah', 'Choice Band').
-item('Copperajah', 'Life Orb').
-role('Copperajah', 'Wallbreaker').
-ability('Copperajah','Wallbreaker', 'Sheer Force').
-item('Copperajah','Wallbreaker', 'Life Orb').
-tera('Copperajah','Wallbreaker', 'Fairy').
-move('Copperajah','Wallbreaker', 'Earthquake').
-move('Copperajah','Wallbreaker', 'Iron Head').
-move('Copperajah','Wallbreaker', 'Play Rough').
-move('Copperajah','Wallbreaker', 'Rock Slide').
-move('Copperajah','Wallbreaker', 'Stealth Rock').
-move('Copperajah','Wallbreaker', 'Superpower').
-role('Copperajah', 'Bulky Attacker').
-ability('Copperajah','Bulky Attacker', 'Heavy Metal').
-item('Copperajah','Bulky Attacker', 'Choice Band').
-tera('Copperajah','Bulky Attacker', 'Fire').
-tera('Copperajah','Bulky Attacker', 'Flying').
-move('Copperajah','Bulky Attacker', 'Earthquake').
-move('Copperajah','Bulky Attacker', 'Heat Crash').
-move('Copperajah','Bulky Attacker', 'Heavy Slam').
-move('Copperajah','Bulky Attacker', 'Knock Off').
-move('Copperajah','Bulky Attacker', 'Stone Edge').
-move('Copperajah','Bulky Attacker', 'Supercell Slam').
-move('Copperajah','Bulky Attacker', 'Superpower').
-pokemon('Corviknight', 80).
-ability('Corviknight', 'Mirror Armor').
-ability('Corviknight', 'Pressure').
-item('Corviknight', 'Leftovers').
-item('Corviknight', 'Rocky Helmet').
-role('Corviknight', 'Bulky Support').
-ability('Corviknight','Bulky Support', 'Mirror Armor').
-ability('Corviknight','Bulky Support', 'Pressure').
-item('Corviknight','Bulky Support', 'Leftovers').
-item('Corviknight','Bulky Support', 'Rocky Helmet').
-tera('Corviknight','Bulky Support', 'Dragon').
-move('Corviknight','Bulky Support', 'Body Press').
-move('Corviknight','Bulky Support', 'Brave Bird').
-move('Corviknight','Bulky Support', 'Defog').
-move('Corviknight','Bulky Support', 'Roost').
-move('Corviknight','Bulky Support', 'U-turn').
-pokemon('Crabominable', 90).
-ability('Crabominable', 'Iron Fist').
-item('Crabominable', 'Assault Vest').
-item('Crabominable', 'Choice Band').
-role('Crabominable', 'AV Pivot').
-ability('Crabominable','AV Pivot', 'Iron Fist').
-item('Crabominable','AV Pivot', 'Assault Vest').
-tera('Crabominable','AV Pivot', 'Fighting').
-tera('Crabominable','AV Pivot', 'Ground').
-tera('Crabominable','AV Pivot', 'Water').
-move('Crabominable','AV Pivot', 'Drain Punch').
-move('Crabominable','AV Pivot', 'Earthquake').
-move('Crabominable','AV Pivot', 'Ice Hammer').
-move('Crabominable','AV Pivot', 'Knock Off').
-role('Crabominable', 'Wallbreaker').
-ability('Crabominable','Wallbreaker', 'Iron Fist').
-item('Crabominable','Wallbreaker', 'Choice Band').
-tera('Crabominable','Wallbreaker', 'Fighting').
-tera('Crabominable','Wallbreaker', 'Ground').
-move('Crabominable','Wallbreaker', 'Close Combat').
-move('Crabominable','Wallbreaker', 'Drain Punch').
-move('Crabominable','Wallbreaker', 'Earthquake').
-move('Crabominable','Wallbreaker', 'Gunk Shot').
-move('Crabominable','Wallbreaker', 'Ice Hammer').
-move('Crabominable','Wallbreaker', 'Knock Off').
-pokemon('Cramorant', 86).
-ability('Cramorant', 'Gulp Missile').
-item('Cramorant', 'Heavy-Duty Boots').
-role('Cramorant', 'Bulky Support').
-ability('Cramorant','Bulky Support', 'Gulp Missile').
-item('Cramorant','Bulky Support', 'Heavy-Duty Boots').
-tera('Cramorant','Bulky Support', 'Ground').
-move('Cramorant','Bulky Support', 'Brave Bird').
-move('Cramorant','Bulky Support', 'Defog').
-move('Cramorant','Bulky Support', 'Roost').
-move('Cramorant','Bulky Support', 'Surf').
-pokemon('Crawdaunt', 84).
-ability('Crawdaunt', 'Adaptability').
-item('Crawdaunt', 'Choice Band').
-item('Crawdaunt', 'Life Orb').
-role('Crawdaunt', 'Setup Sweeper').
-ability('Crawdaunt','Setup Sweeper', 'Adaptability').
-item('Crawdaunt','Setup Sweeper', 'Life Orb').
-tera('Crawdaunt','Setup Sweeper', 'Water').
-move('Crawdaunt','Setup Sweeper', 'Aqua Jet').
-move('Crawdaunt','Setup Sweeper', 'Crabhammer').
-move('Crawdaunt','Setup Sweeper', 'Dragon Dance').
-move('Crawdaunt','Setup Sweeper', 'Knock Off').
-role('Crawdaunt', 'Fast Attacker').
-ability('Crawdaunt','Fast Attacker', 'Adaptability').
-item('Crawdaunt','Fast Attacker', 'Choice Band').
-item('Crawdaunt','Fast Attacker', 'Life Orb').
-tera('Crawdaunt','Fast Attacker', 'Fighting').
-move('Crawdaunt','Fast Attacker', 'Aqua Jet').
-move('Crawdaunt','Fast Attacker', 'Close Combat').
-move('Crawdaunt','Fast Attacker', 'Crabhammer').
-move('Crawdaunt','Fast Attacker', 'Dragon Dance').
-move('Crawdaunt','Fast Attacker', 'Knock Off').
-pokemon('Cresselia', 80).
-ability('Cresselia', 'Levitate').
-item('Cresselia', 'Leftovers').
-role('Cresselia', 'Bulky Setup').
-ability('Cresselia','Bulky Setup', 'Levitate').
-item('Cresselia','Bulky Setup', 'Leftovers').
-tera('Cresselia','Bulky Setup', 'Electric').
-tera('Cresselia','Bulky Setup', 'Fairy').
-tera('Cresselia','Bulky Setup', 'Poison').
-tera('Cresselia','Bulky Setup', 'Steel').
-move('Cresselia','Bulky Setup', 'Calm Mind').
-move('Cresselia','Bulky Setup', 'Moonblast').
-move('Cresselia','Bulky Setup', 'Moonlight').
-move('Cresselia','Bulky Setup', 'Psyshock').
-move('Cresselia','Bulky Setup', 'Thunderbolt').
-pokemon('Cryogonal', 89).
-ability('Cryogonal', 'Levitate').
-item('Cryogonal', 'Heavy-Duty Boots').
-role('Cryogonal', 'Bulky Support').
-ability('Cryogonal','Bulky Support', 'Levitate').
-item('Cryogonal','Bulky Support', 'Heavy-Duty Boots').
-tera('Cryogonal','Bulky Support', 'Poison').
-tera('Cryogonal','Bulky Support', 'Steel').
-move('Cryogonal','Bulky Support', 'Flash Cannon').
-move('Cryogonal','Bulky Support', 'Freeze-Dry').
-move('Cryogonal','Bulky Support', 'Haze').
-move('Cryogonal','Bulky Support', 'Rapid Spin').
-move('Cryogonal','Bulky Support', 'Recover').
-role('Cryogonal', 'Tera Blast user').
-ability('Cryogonal','Tera Blast user', 'Levitate').
-item('Cryogonal','Tera Blast user', 'Heavy-Duty Boots').
-tera('Cryogonal','Tera Blast user', 'Electric').
-move('Cryogonal','Tera Blast user', 'Ice Beam').
-move('Cryogonal','Tera Blast user', 'Rapid Spin').
-move('Cryogonal','Tera Blast user', 'Recover').
-move('Cryogonal','Tera Blast user', 'Tera Blast').
-pokemon('Cyclizar', 84).
-ability('Cyclizar', 'Regenerator').
-item('Cyclizar', 'Heavy-Duty Boots').
-role('Cyclizar', 'Fast Support').
-ability('Cyclizar','Fast Support', 'Regenerator').
-item('Cyclizar','Fast Support', 'Heavy-Duty Boots').
-tera('Cyclizar','Fast Support', 'Dragon').
-tera('Cyclizar','Fast Support', 'Fairy').
-tera('Cyclizar','Fast Support', 'Ghost').
-tera('Cyclizar','Fast Support', 'Steel').
-move('Cyclizar','Fast Support', 'Draco Meteor').
-move('Cyclizar','Fast Support', 'Knock Off').
-move('Cyclizar','Fast Support', 'Rapid Spin').
-move('Cyclizar','Fast Support', 'Shed Tail').
-move('Cyclizar','Fast Support', 'Taunt').
-pokemon('Dachsbun', 92).
-ability('Dachsbun', 'Well-Baked Body').
-item('Dachsbun', 'Leftovers').
-role('Dachsbun', 'Bulky Support').
-ability('Dachsbun','Bulky Support', 'Well-Baked Body').
-item('Dachsbun','Bulky Support', 'Leftovers').
-tera('Dachsbun','Bulky Support', 'Steel').
-move('Dachsbun','Bulky Support', 'Body Press').
-move('Dachsbun','Bulky Support', 'Play Rough').
-move('Dachsbun','Bulky Support', 'Protect').
-move('Dachsbun','Bulky Support', 'Wish').
-move('Dachsbun','Bulky Support', 'Yawn').
-pokemon('Darkrai', 77).
-ability('Darkrai', 'Bad Dreams').
-item('Darkrai', 'Leftovers').
-item('Darkrai', 'Life Orb').
-role('Darkrai', 'Setup Sweeper').
-ability('Darkrai','Setup Sweeper', 'Bad Dreams').
-item('Darkrai','Setup Sweeper', 'Leftovers').
-item('Darkrai','Setup Sweeper', 'Life Orb').
-tera('Darkrai','Setup Sweeper', 'Poison').
-move('Darkrai','Setup Sweeper', 'Dark Pulse').
-move('Darkrai','Setup Sweeper', 'Focus Blast').
-move('Darkrai','Setup Sweeper', 'Hypnosis').
-move('Darkrai','Setup Sweeper', 'Nasty Plot').
-move('Darkrai','Setup Sweeper', 'Sludge Bomb').
-move('Darkrai','Setup Sweeper', 'Substitute').
-pokemon('Decidueye', 88).
-ability('Decidueye', 'Overgrow').
-item('Decidueye', 'Assault Vest').
-item('Decidueye', 'Heavy-Duty Boots').
-item('Decidueye', 'Life Orb').
-role('Decidueye', 'Fast Support').
-ability('Decidueye','Fast Support', 'Overgrow').
-item('Decidueye','Fast Support', 'Assault Vest').
-item('Decidueye','Fast Support', 'Heavy-Duty Boots').
-item('Decidueye','Fast Support', 'Life Orb').
-tera('Decidueye','Fast Support', 'Dark').
-tera('Decidueye','Fast Support', 'Ghost').
-tera('Decidueye','Fast Support', 'Grass').
-move('Decidueye','Fast Support', 'Defog').
-move('Decidueye','Fast Support', 'Knock Off').
-move('Decidueye','Fast Support', 'Leaf Storm').
-move('Decidueye','Fast Support', 'Roost').
-move('Decidueye','Fast Support', 'Spirit Shackle').
-move('Decidueye','Fast Support', 'U-turn').
-role('Decidueye', 'Setup Sweeper').
-ability('Decidueye','Setup Sweeper', 'Overgrow').
-item('Decidueye','Setup Sweeper', 'Life Orb').
-tera('Decidueye','Setup Sweeper', 'Ghost').
-move('Decidueye','Setup Sweeper', 'Leaf Blade').
-move('Decidueye','Setup Sweeper', 'Poltergeist').
-move('Decidueye','Setup Sweeper', 'Shadow Sneak').
-move('Decidueye','Setup Sweeper', 'Swords Dance').
-pokemon('Decidueye-Hisui', 87).
-ability('Decidueye-Hisui', 'Scrappy').
-item('Decidueye-Hisui', 'Leftovers').
-role('Decidueye-Hisui', 'Bulky Attacker').
-ability('Decidueye-Hisui','Bulky Attacker', 'Scrappy').
-item('Decidueye-Hisui','Bulky Attacker', 'Leftovers').
-tera('Decidueye-Hisui','Bulky Attacker', 'Steel').
-tera('Decidueye-Hisui','Bulky Attacker', 'Water').
-move('Decidueye-Hisui','Bulky Attacker', 'Defog').
-move('Decidueye-Hisui','Bulky Attacker', 'Knock Off').
-move('Decidueye-Hisui','Bulky Attacker', 'Leaf Blade').
-move('Decidueye-Hisui','Bulky Attacker', 'Roost').
-move('Decidueye-Hisui','Bulky Attacker', 'Sucker Punch').
-move('Decidueye-Hisui','Bulky Attacker', 'Swords Dance').
-move('Decidueye-Hisui','Bulky Attacker', 'Triple Arrows').
-move('Decidueye-Hisui','Bulky Attacker', 'U-turn').
-pokemon('Dedenne', 88).
-ability('Dedenne', 'Cheek Pouch').
-item('Dedenne', 'Sitrus Berry').
-role('Dedenne', 'Fast Support').
-ability('Dedenne','Fast Support', 'Cheek Pouch').
-item('Dedenne','Fast Support', 'Sitrus Berry').
-tera('Dedenne','Fast Support', 'Flying').
-move('Dedenne','Fast Support', 'Dazzling Gleam').
-move('Dedenne','Fast Support', 'Nuzzle').
-move('Dedenne','Fast Support', 'Super Fang').
-move('Dedenne','Fast Support', 'Thunderbolt').
-move('Dedenne','Fast Support', 'U-turn').
-pokemon('Delibird', 100).
-ability('Delibird', 'Hustle').
-ability('Delibird', 'Insomnia').
-ability('Delibird', 'Vital Spirit').
-item('Delibird', 'Heavy-Duty Boots').
-role('Delibird', 'Fast Support').
-ability('Delibird','Fast Support', 'Insomnia').
-ability('Delibird','Fast Support', 'Vital Spirit').
-item('Delibird','Fast Support', 'Heavy-Duty Boots').
-tera('Delibird','Fast Support', 'Ghost').
-move('Delibird','Fast Support', 'Brave Bird').
-move('Delibird','Fast Support', 'Freeze-Dry').
-move('Delibird','Fast Support', 'Rapid Spin').
-move('Delibird','Fast Support', 'Spikes').
-role('Delibird', 'Fast Attacker').
-ability('Delibird','Fast Attacker', 'Hustle').
-item('Delibird','Fast Attacker', 'Heavy-Duty Boots').
-tera('Delibird','Fast Attacker', 'Flying').
-tera('Delibird','Fast Attacker', 'Ground').
-tera('Delibird','Fast Attacker', 'Ice').
-move('Delibird','Fast Attacker', 'Brave Bird').
-move('Delibird','Fast Attacker', 'Drill Run').
-move('Delibird','Fast Attacker', 'Ice Shard').
-move('Delibird','Fast Attacker', 'Ice Spinner').
-move('Delibird','Fast Attacker', 'Spikes').
-pokemon('Delphox', 84).
-ability('Delphox', 'Blaze').
-item('Delphox', 'Choice Scarf').
-item('Delphox', 'Choice Specs').
-item('Delphox', 'Heavy-Duty Boots').
-role('Delphox', 'Fast Attacker').
-ability('Delphox','Fast Attacker', 'Blaze').
-item('Delphox','Fast Attacker', 'Choice Scarf').
-item('Delphox','Fast Attacker', 'Choice Specs').
-item('Delphox','Fast Attacker', 'Heavy-Duty Boots').
-tera('Delphox','Fast Attacker', 'Fighting').
-tera('Delphox','Fast Attacker', 'Fire').
-tera('Delphox','Fast Attacker', 'Grass').
-move('Delphox','Fast Attacker', 'Fire Blast').
-move('Delphox','Fast Attacker', 'Focus Blast').
-move('Delphox','Fast Attacker', 'Grass Knot').
-move('Delphox','Fast Attacker', 'Nasty Plot').
-move('Delphox','Fast Attacker', 'Psyshock').
-pokemon('Deoxys', 74).
-ability('Deoxys', 'Pressure').
-item('Deoxys', 'Life Orb').
-role('Deoxys', 'Fast Attacker').
-ability('Deoxys','Fast Attacker', 'Pressure').
-item('Deoxys','Fast Attacker', 'Life Orb').
-tera('Deoxys','Fast Attacker', 'Dark').
-tera('Deoxys','Fast Attacker', 'Fighting').
-tera('Deoxys','Fast Attacker', 'Normal').
-tera('Deoxys','Fast Attacker', 'Psychic').
-move('Deoxys','Fast Attacker', 'Extreme Speed').
-move('Deoxys','Fast Attacker', 'Knock Off').
-move('Deoxys','Fast Attacker', 'Psycho Boost').
-move('Deoxys','Fast Attacker', 'Superpower').
-role('Deoxys', 'Wallbreaker').
-ability('Deoxys','Wallbreaker', 'Pressure').
-item('Deoxys','Wallbreaker', 'Life Orb').
-tera('Deoxys','Wallbreaker', 'Dark').
-tera('Deoxys','Wallbreaker', 'Fighting').
-tera('Deoxys','Wallbreaker', 'Psychic').
-move('Deoxys','Wallbreaker', 'Ice Beam').
-move('Deoxys','Wallbreaker', 'Knock Off').
-move('Deoxys','Wallbreaker', 'Psycho Boost').
-move('Deoxys','Wallbreaker', 'Superpower').
-pokemon('Deoxys-Attack', 72).
-ability('Deoxys-Attack', 'Pressure').
-item('Deoxys-Attack', 'Life Orb').
-role('Deoxys-Attack', 'Wallbreaker').
-ability('Deoxys-Attack','Wallbreaker', 'Pressure').
-item('Deoxys-Attack','Wallbreaker', 'Life Orb').
-tera('Deoxys-Attack','Wallbreaker', 'Dark').
-tera('Deoxys-Attack','Wallbreaker', 'Fighting').
-tera('Deoxys-Attack','Wallbreaker', 'Psychic').
-move('Deoxys-Attack','Wallbreaker', 'Ice Beam').
-move('Deoxys-Attack','Wallbreaker', 'Knock Off').
-move('Deoxys-Attack','Wallbreaker', 'Psycho Boost').
-move('Deoxys-Attack','Wallbreaker', 'Superpower').
-role('Deoxys-Attack', 'Fast Attacker').
-ability('Deoxys-Attack','Fast Attacker', 'Pressure').
-item('Deoxys-Attack','Fast Attacker', 'Life Orb').
-tera('Deoxys-Attack','Fast Attacker', 'Dark').
-tera('Deoxys-Attack','Fast Attacker', 'Fighting').
-tera('Deoxys-Attack','Fast Attacker', 'Normal').
-tera('Deoxys-Attack','Fast Attacker', 'Psychic').
-move('Deoxys-Attack','Fast Attacker', 'Extreme Speed').
-move('Deoxys-Attack','Fast Attacker', 'Knock Off').
-move('Deoxys-Attack','Fast Attacker', 'Psycho Boost').
-move('Deoxys-Attack','Fast Attacker', 'Superpower').
-pokemon('Deoxys-Defense', 84).
-ability('Deoxys-Defense', 'Pressure').
-item('Deoxys-Defense', 'Leftovers').
-item('Deoxys-Defense', 'Rocky Helmet').
-role('Deoxys-Defense', 'Bulky Support').
-ability('Deoxys-Defense','Bulky Support', 'Pressure').
-item('Deoxys-Defense','Bulky Support', 'Leftovers').
-item('Deoxys-Defense','Bulky Support', 'Rocky Helmet').
-tera('Deoxys-Defense','Bulky Support', 'Dark').
-tera('Deoxys-Defense','Bulky Support', 'Fairy').
-tera('Deoxys-Defense','Bulky Support', 'Steel').
-move('Deoxys-Defense','Bulky Support', 'Knock Off').
-move('Deoxys-Defense','Bulky Support', 'Psychic Noise').
-move('Deoxys-Defense','Bulky Support', 'Recover').
-move('Deoxys-Defense','Bulky Support', 'Spikes').
-move('Deoxys-Defense','Bulky Support', 'Stealth Rock').
-move('Deoxys-Defense','Bulky Support', 'Teleport').
-role('Deoxys-Defense', 'Bulky Setup').
-ability('Deoxys-Defense','Bulky Setup', 'Pressure').
-item('Deoxys-Defense','Bulky Setup', 'Leftovers').
-tera('Deoxys-Defense','Bulky Setup', 'Steel').
-move('Deoxys-Defense','Bulky Setup', 'Cosmic Power').
-move('Deoxys-Defense','Bulky Setup', 'Night Shade').
-move('Deoxys-Defense','Bulky Setup', 'Recover').
-move('Deoxys-Defense','Bulky Setup', 'Stored Power').
-pokemon('Deoxys-Speed', 82).
-ability('Deoxys-Speed', 'Pressure').
-item('Deoxys-Speed', 'Focus Sash').
-item('Deoxys-Speed', 'Leftovers').
-item('Deoxys-Speed', 'Life Orb').
-role('Deoxys-Speed', 'Setup Sweeper').
-ability('Deoxys-Speed','Setup Sweeper', 'Pressure').
-item('Deoxys-Speed','Setup Sweeper', 'Life Orb').
-tera('Deoxys-Speed','Setup Sweeper', 'Dark').
-tera('Deoxys-Speed','Setup Sweeper', 'Fighting').
-tera('Deoxys-Speed','Setup Sweeper', 'Psychic').
-move('Deoxys-Speed','Setup Sweeper', 'Dark Pulse').
-move('Deoxys-Speed','Setup Sweeper', 'Focus Blast').
-move('Deoxys-Speed','Setup Sweeper', 'Nasty Plot').
-move('Deoxys-Speed','Setup Sweeper', 'Psycho Boost').
-role('Deoxys-Speed', 'Fast Support').
-ability('Deoxys-Speed','Fast Support', 'Pressure').
-item('Deoxys-Speed','Fast Support', 'Focus Sash').
-item('Deoxys-Speed','Fast Support', 'Leftovers').
-item('Deoxys-Speed','Fast Support', 'Life Orb').
-tera('Deoxys-Speed','Fast Support', 'Dark').
-tera('Deoxys-Speed','Fast Support', 'Fighting').
-tera('Deoxys-Speed','Fast Support', 'Ghost').
-tera('Deoxys-Speed','Fast Support', 'Steel').
-move('Deoxys-Speed','Fast Support', 'Knock Off').
-move('Deoxys-Speed','Fast Support', 'Psycho Boost').
-move('Deoxys-Speed','Fast Support', 'Spikes').
-move('Deoxys-Speed','Fast Support', 'Stealth Rock').
-move('Deoxys-Speed','Fast Support', 'Superpower').
-move('Deoxys-Speed','Fast Support', 'Taunt').
-pokemon('Dewgong', 94).
-ability('Dewgong', 'Thick Fat').
-item('Dewgong', 'Assault Vest').
-item('Dewgong', 'Heavy-Duty Boots').
-role('Dewgong', 'Bulky Support').
-ability('Dewgong','Bulky Support', 'Thick Fat').
-item('Dewgong','Bulky Support', 'Assault Vest').
-item('Dewgong','Bulky Support', 'Heavy-Duty Boots').
-tera('Dewgong','Bulky Support', 'Dragon').
-tera('Dewgong','Bulky Support', 'Grass').
-tera('Dewgong','Bulky Support', 'Ground').
-tera('Dewgong','Bulky Support', 'Poison').
-tera('Dewgong','Bulky Support', 'Steel').
-move('Dewgong','Bulky Support', 'Encore').
-move('Dewgong','Bulky Support', 'Flip Turn').
-move('Dewgong','Bulky Support', 'Hydro Pump').
-move('Dewgong','Bulky Support', 'Ice Beam').
-move('Dewgong','Bulky Support', 'Knock Off').
-move('Dewgong','Bulky Support', 'Surf').
-role('Dewgong', 'Bulky Attacker').
-ability('Dewgong','Bulky Attacker', 'Thick Fat').
-item('Dewgong','Bulky Attacker', 'Assault Vest').
-item('Dewgong','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Dewgong','Bulky Attacker', 'Dragon').
-tera('Dewgong','Bulky Attacker', 'Grass').
-tera('Dewgong','Bulky Attacker', 'Ground').
-tera('Dewgong','Bulky Attacker', 'Poison').
-tera('Dewgong','Bulky Attacker', 'Steel').
-move('Dewgong','Bulky Attacker', 'Encore').
-move('Dewgong','Bulky Attacker', 'Flip Turn').
-move('Dewgong','Bulky Attacker', 'Knock Off').
-move('Dewgong','Bulky Attacker', 'Surf').
-move('Dewgong','Bulky Attacker', 'Triple Axel').
-pokemon('Dialga', 73).
-ability('Dialga', 'Pressure').
-item('Dialga', 'Assault Vest').
-item('Dialga', 'Leftovers').
-role('Dialga', 'Bulky Attacker').
-ability('Dialga','Bulky Attacker', 'Pressure').
-item('Dialga','Bulky Attacker', 'Leftovers').
-tera('Dialga','Bulky Attacker', 'Dragon').
-tera('Dialga','Bulky Attacker', 'Flying').
-tera('Dialga','Bulky Attacker', 'Steel').
-move('Dialga','Bulky Attacker', 'Draco Meteor').
-move('Dialga','Bulky Attacker', 'Fire Blast').
-move('Dialga','Bulky Attacker', 'Heavy Slam').
-move('Dialga','Bulky Attacker', 'Stealth Rock').
-move('Dialga','Bulky Attacker', 'Thunder Wave').
-role('Dialga', 'AV Pivot').
-ability('Dialga','AV Pivot', 'Pressure').
-item('Dialga','AV Pivot', 'Assault Vest').
-tera('Dialga','AV Pivot', 'Dragon').
-tera('Dialga','AV Pivot', 'Flying').
-tera('Dialga','AV Pivot', 'Steel').
-move('Dialga','AV Pivot', 'Draco Meteor').
-move('Dialga','AV Pivot', 'Dragon Tail').
-move('Dialga','AV Pivot', 'Fire Blast').
-move('Dialga','AV Pivot', 'Heavy Slam').
-pokemon('Dialga-Origin', 73).
-ability('Dialga-Origin', 'Pressure').
-item('Dialga-Origin', 'Adamant Crystal').
-role('Dialga-Origin', 'Fast Attacker').
-ability('Dialga-Origin','Fast Attacker', 'Pressure').
-item('Dialga-Origin','Fast Attacker', 'Adamant Crystal').
-tera('Dialga-Origin','Fast Attacker', 'Dragon').
-tera('Dialga-Origin','Fast Attacker', 'Flying').
-tera('Dialga-Origin','Fast Attacker', 'Steel').
-move('Dialga-Origin','Fast Attacker', 'Draco Meteor').
-move('Dialga-Origin','Fast Attacker', 'Fire Blast').
-move('Dialga-Origin','Fast Attacker', 'Flash Cannon').
-move('Dialga-Origin','Fast Attacker', 'Heavy Slam').
-move('Dialga-Origin','Fast Attacker', 'Stealth Rock').
-move('Dialga-Origin','Fast Attacker', 'Thunder Wave').
-role('Dialga-Origin', 'Bulky Attacker').
-ability('Dialga-Origin','Bulky Attacker', 'Pressure').
-item('Dialga-Origin','Bulky Attacker', 'Adamant Crystal').
-tera('Dialga-Origin','Bulky Attacker', 'Dragon').
-tera('Dialga-Origin','Bulky Attacker', 'Flying').
-tera('Dialga-Origin','Bulky Attacker', 'Steel').
-move('Dialga-Origin','Bulky Attacker', 'Draco Meteor').
-move('Dialga-Origin','Bulky Attacker', 'Dragon Tail').
-move('Dialga-Origin','Bulky Attacker', 'Fire Blast').
-move('Dialga-Origin','Bulky Attacker', 'Flash Cannon').
-move('Dialga-Origin','Bulky Attacker', 'Heavy Slam').
-move('Dialga-Origin','Bulky Attacker', 'Stealth Rock').
-pokemon('Diancie', 82).
-ability('Diancie', 'Clear Body').
-item('Diancie', 'Assault Vest').
-item('Diancie', 'Leftovers').
-role('Diancie', 'Bulky Attacker').
-ability('Diancie','Bulky Attacker', 'Clear Body').
-item('Diancie','Bulky Attacker', 'Assault Vest').
-item('Diancie','Bulky Attacker', 'Leftovers').
-tera('Diancie','Bulky Attacker', 'Fighting').
-move('Diancie','Bulky Attacker', 'Body Press').
-move('Diancie','Bulky Attacker', 'Diamond Storm').
-move('Diancie','Bulky Attacker', 'Earth Power').
-move('Diancie','Bulky Attacker', 'Moonblast').
-move('Diancie','Bulky Attacker', 'Rock Polish').
-move('Diancie','Bulky Attacker', 'Stealth Rock').
-role('Diancie', 'Bulky Setup').
-ability('Diancie','Bulky Setup', 'Clear Body').
-item('Diancie','Bulky Setup', 'Leftovers').
-tera('Diancie','Bulky Setup', 'Fairy').
-tera('Diancie','Bulky Setup', 'Water').
-move('Diancie','Bulky Setup', 'Calm Mind').
-move('Diancie','Bulky Setup', 'Diamond Storm').
-move('Diancie','Bulky Setup', 'Draining Kiss').
-move('Diancie','Bulky Setup', 'Earth Power').
-pokemon('Dipplin', 88).
-ability('Dipplin', 'Sticky Hold').
-item('Dipplin', 'Eviolite').
-role('Dipplin', 'Bulky Attacker').
-ability('Dipplin','Bulky Attacker', 'Sticky Hold').
-item('Dipplin','Bulky Attacker', 'Eviolite').
-tera('Dipplin','Bulky Attacker', 'Steel').
-move('Dipplin','Bulky Attacker', 'Dragon Pulse').
-move('Dipplin','Bulky Attacker', 'Dragon Tail').
-move('Dipplin','Bulky Attacker', 'Giga Drain').
-move('Dipplin','Bulky Attacker', 'Recover').
-move('Dipplin','Bulky Attacker', 'Sucker Punch').
-pokemon('Ditto', 87).
-ability('Ditto', 'Imposter').
-item('Ditto', 'Choice Scarf').
-role('Ditto', 'Fast Support').
-ability('Ditto','Fast Support', 'Imposter').
-item('Ditto','Fast Support', 'Choice Scarf').
-tera('Ditto','Fast Support', 'Ghost').
-tera('Ditto','Fast Support', 'Steel').
-move('Ditto','Fast Support', 'Transform').
-pokemon('Dodrio', 85).
-ability('Dodrio', 'Early Bird').
-item('Dodrio', 'Choice Band').
-item('Dodrio', 'Heavy-Duty Boots').
-role('Dodrio', 'Fast Attacker').
-ability('Dodrio','Fast Attacker', 'Early Bird').
-item('Dodrio','Fast Attacker', 'Choice Band').
-tera('Dodrio','Fast Attacker', 'Flying').
-tera('Dodrio','Fast Attacker', 'Ground').
-tera('Dodrio','Fast Attacker', 'Normal').
-move('Dodrio','Fast Attacker', 'Brave Bird').
-move('Dodrio','Fast Attacker', 'Double-Edge').
-move('Dodrio','Fast Attacker', 'Drill Run').
-move('Dodrio','Fast Attacker', 'Knock Off').
-move('Dodrio','Fast Attacker', 'Quick Attack').
-role('Dodrio', 'Setup Sweeper').
-ability('Dodrio','Setup Sweeper', 'Early Bird').
-item('Dodrio','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Dodrio','Setup Sweeper', 'Flying').
-tera('Dodrio','Setup Sweeper', 'Ground').
-tera('Dodrio','Setup Sweeper', 'Normal').
-move('Dodrio','Setup Sweeper', 'Brave Bird').
-move('Dodrio','Setup Sweeper', 'Double-Edge').
-move('Dodrio','Setup Sweeper', 'Drill Run').
-move('Dodrio','Setup Sweeper', 'Knock Off').
-move('Dodrio','Setup Sweeper', 'Swords Dance').
-pokemon('Dondozo', 78).
-ability('Dondozo', 'Unaware').
-item('Dondozo', 'Leftovers').
-role('Dondozo', 'Bulky Setup').
-ability('Dondozo','Bulky Setup', 'Unaware').
-item('Dondozo','Bulky Setup', 'Leftovers').
-tera('Dondozo','Bulky Setup', 'Dragon').
-tera('Dondozo','Bulky Setup', 'Fairy').
-move('Dondozo','Bulky Setup', 'Curse').
-move('Dondozo','Bulky Setup', 'Rest').
-move('Dondozo','Bulky Setup', 'Sleep Talk').
-move('Dondozo','Bulky Setup', 'Wave Crash').
-pokemon('Donphan', 84).
-ability('Donphan', 'Sturdy').
-item('Donphan', 'Assault Vest').
-item('Donphan', 'Choice Band').
-item('Donphan', 'Leftovers').
-role('Donphan', 'Bulky Support').
-ability('Donphan','Bulky Support', 'Sturdy').
-item('Donphan','Bulky Support', 'Assault Vest').
-item('Donphan','Bulky Support', 'Choice Band').
-item('Donphan','Bulky Support', 'Leftovers').
-tera('Donphan','Bulky Support', 'Dragon').
-tera('Donphan','Bulky Support', 'Steel').
-tera('Donphan','Bulky Support', 'Water').
-move('Donphan','Bulky Support', 'Earthquake').
-move('Donphan','Bulky Support', 'Ice Shard').
-move('Donphan','Bulky Support', 'Ice Spinner').
-move('Donphan','Bulky Support', 'Knock Off').
-move('Donphan','Bulky Support', 'Rapid Spin').
-move('Donphan','Bulky Support', 'Stealth Rock').
-pokemon('Dragalge', 88).
-ability('Dragalge', 'Adaptability').
-item('Dragalge', 'Assault Vest').
-item('Dragalge', 'Choice Specs').
-item('Dragalge', 'Leftovers').
-role('Dragalge', 'Bulky Attacker').
-ability('Dragalge','Bulky Attacker', 'Adaptability').
-item('Dragalge','Bulky Attacker', 'Assault Vest').
-item('Dragalge','Bulky Attacker', 'Choice Specs').
-item('Dragalge','Bulky Attacker', 'Leftovers').
-tera('Dragalge','Bulky Attacker', 'Fighting').
-move('Dragalge','Bulky Attacker', 'Draco Meteor').
-move('Dragalge','Bulky Attacker', 'Dragon Tail').
-move('Dragalge','Bulky Attacker', 'Flip Turn').
-move('Dragalge','Bulky Attacker', 'Focus Blast').
-move('Dragalge','Bulky Attacker', 'Sludge Wave').
-move('Dragalge','Bulky Attacker', 'Toxic').
-move('Dragalge','Bulky Attacker', 'Toxic Spikes').
-pokemon('Dragapult', 77).
-ability('Dragapult', 'Clear Body').
-ability('Dragapult', 'Cursed Body').
-ability('Dragapult', 'Infiltrator').
-item('Dragapult', 'Choice Specs').
-item('Dragapult', 'Heavy-Duty Boots').
-item('Dragapult', 'Life Orb').
-role('Dragapult', 'Fast Attacker').
-ability('Dragapult','Fast Attacker', 'Infiltrator').
-item('Dragapult','Fast Attacker', 'Choice Specs').
-tera('Dragapult','Fast Attacker', 'Dragon').
-tera('Dragapult','Fast Attacker', 'Fire').
-tera('Dragapult','Fast Attacker', 'Ghost').
-move('Dragapult','Fast Attacker', 'Draco Meteor').
-move('Dragapult','Fast Attacker', 'Fire Blast').
-move('Dragapult','Fast Attacker', 'Shadow Ball').
-move('Dragapult','Fast Attacker', 'U-turn').
-role('Dragapult', 'Fast Support').
-ability('Dragapult','Fast Support', 'Cursed Body').
-ability('Dragapult','Fast Support', 'Infiltrator').
-item('Dragapult','Fast Support', 'Heavy-Duty Boots').
-tera('Dragapult','Fast Support', 'Dragon').
-tera('Dragapult','Fast Support', 'Fairy').
-move('Dragapult','Fast Support', 'Dragon Darts').
-move('Dragapult','Fast Support', 'Hex').
-move('Dragapult','Fast Support', 'U-turn').
-move('Dragapult','Fast Support', 'Will-O-Wisp').
-role('Dragapult', 'Tera Blast user').
-ability('Dragapult','Tera Blast user', 'Clear Body').
-item('Dragapult','Tera Blast user', 'Life Orb').
-tera('Dragapult','Tera Blast user', 'Ghost').
-move('Dragapult','Tera Blast user', 'Dragon Dance').
-move('Dragapult','Tera Blast user', 'Dragon Darts').
-move('Dragapult','Tera Blast user', 'Fire Blast').
-move('Dragapult','Tera Blast user', 'Tera Blast').
-pokemon('Dragonite', 74).
-ability('Dragonite', 'Multiscale').
-item('Dragonite', 'Heavy-Duty Boots').
-role('Dragonite', 'Bulky Setup').
-ability('Dragonite','Bulky Setup', 'Multiscale').
-item('Dragonite','Bulky Setup', 'Heavy-Duty Boots').
-tera('Dragonite','Bulky Setup', 'Ground').
-tera('Dragonite','Bulky Setup', 'Steel').
-move('Dragonite','Bulky Setup', 'Dragon Dance').
-move('Dragonite','Bulky Setup', 'Earthquake').
-move('Dragonite','Bulky Setup', 'Outrage').
-move('Dragonite','Bulky Setup', 'Roost').
-role('Dragonite', 'Setup Sweeper').
-ability('Dragonite','Setup Sweeper', 'Multiscale').
-item('Dragonite','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Dragonite','Setup Sweeper', 'Steel').
-move('Dragonite','Setup Sweeper', 'Dragon Dance').
-move('Dragonite','Setup Sweeper', 'Earthquake').
-move('Dragonite','Setup Sweeper', 'Iron Head').
-move('Dragonite','Setup Sweeper', 'Outrage').
-role('Dragonite', 'Tera Blast user').
-ability('Dragonite','Tera Blast user', 'Multiscale').
-item('Dragonite','Tera Blast user', 'Heavy-Duty Boots').
-tera('Dragonite','Tera Blast user', 'Flying').
-move('Dragonite','Tera Blast user', 'Dragon Dance').
-move('Dragonite','Tera Blast user', 'Earthquake').
-move('Dragonite','Tera Blast user', 'Outrage').
-move('Dragonite','Tera Blast user', 'Tera Blast').
-pokemon('Drednaw', 81).
-ability('Drednaw', 'Shell Armor').
-ability('Drednaw', 'Strong Jaw').
-ability('Drednaw', 'Swift Swim').
-item('Drednaw', 'White Herb').
-role('Drednaw', 'Setup Sweeper').
-ability('Drednaw','Setup Sweeper', 'Strong Jaw').
-item('Drednaw','Setup Sweeper', 'White Herb').
-tera('Drednaw','Setup Sweeper', 'Dark').
-move('Drednaw','Setup Sweeper', 'Crunch').
-move('Drednaw','Setup Sweeper', 'Liquidation').
-move('Drednaw','Setup Sweeper', 'Shell Smash').
-move('Drednaw','Setup Sweeper', 'Stone Edge').
-role('Drednaw', 'Fast Bulky Setup').
-ability('Drednaw','Fast Bulky Setup', 'Shell Armor').
-ability('Drednaw','Fast Bulky Setup', 'Swift Swim').
-item('Drednaw','Fast Bulky Setup', 'White Herb').
-tera('Drednaw','Fast Bulky Setup', 'Ground').
-tera('Drednaw','Fast Bulky Setup', 'Water').
-move('Drednaw','Fast Bulky Setup', 'Earthquake').
-move('Drednaw','Fast Bulky Setup', 'Liquidation').
-move('Drednaw','Fast Bulky Setup', 'Shell Smash').
-move('Drednaw','Fast Bulky Setup', 'Stone Edge').
-pokemon('Drifblim', 86).
-ability('Drifblim', 'Aftermath').
-ability('Drifblim', 'Unburden').
-item('Drifblim', 'Heavy-Duty Boots').
-item('Drifblim', 'Sitrus Berry').
-role('Drifblim', 'Bulky Attacker').
-ability('Drifblim','Bulky Attacker', 'Aftermath').
-ability('Drifblim','Bulky Attacker', 'Unburden').
-item('Drifblim','Bulky Attacker', 'Heavy-Duty Boots').
-item('Drifblim','Bulky Attacker', 'Sitrus Berry').
-tera('Drifblim','Bulky Attacker', 'Dark').
-tera('Drifblim','Bulky Attacker', 'Fairy').
-tera('Drifblim','Bulky Attacker', 'Steel').
-move('Drifblim','Bulky Attacker', 'Air Slash').
-move('Drifblim','Bulky Attacker', 'Calm Mind').
-move('Drifblim','Bulky Attacker', 'Defog').
-move('Drifblim','Bulky Attacker', 'Shadow Ball').
-move('Drifblim','Bulky Attacker', 'Strength Sap').
-pokemon('Dudunsparce', 83).
-ability('Dudunsparce', 'Rattled').
-ability('Dudunsparce', 'Serene Grace').
-item('Dudunsparce', 'Leftovers').
-role('Dudunsparce', 'Bulky Attacker').
-ability('Dudunsparce','Bulky Attacker', 'Rattled').
-item('Dudunsparce','Bulky Attacker', 'Leftovers').
-tera('Dudunsparce','Bulky Attacker', 'Ghost').
-tera('Dudunsparce','Bulky Attacker', 'Ground').
-tera('Dudunsparce','Bulky Attacker', 'Poison').
-move('Dudunsparce','Bulky Attacker', 'Boomburst').
-move('Dudunsparce','Bulky Attacker', 'Earthquake').
-move('Dudunsparce','Bulky Attacker', 'Roost').
-move('Dudunsparce','Bulky Attacker', 'Toxic').
-role('Dudunsparce', 'Bulky Support').
-ability('Dudunsparce','Bulky Support', 'Serene Grace').
-item('Dudunsparce','Bulky Support', 'Leftovers').
-tera('Dudunsparce','Bulky Support', 'Ghost').
-tera('Dudunsparce','Bulky Support', 'Ground').
-move('Dudunsparce','Bulky Support', 'Earthquake').
-move('Dudunsparce','Bulky Support', 'Glare').
-move('Dudunsparce','Bulky Support', 'Headbutt').
-move('Dudunsparce','Bulky Support', 'Roost').
-role('Dudunsparce', 'Bulky Setup').
-ability('Dudunsparce','Bulky Setup', 'Rattled').
-item('Dudunsparce','Bulky Setup', 'Leftovers').
-tera('Dudunsparce','Bulky Setup', 'Ghost').
-tera('Dudunsparce','Bulky Setup', 'Poison').
-move('Dudunsparce','Bulky Setup', 'Boomburst').
-move('Dudunsparce','Bulky Setup', 'Calm Mind').
-move('Dudunsparce','Bulky Setup', 'Earth Power').
-move('Dudunsparce','Bulky Setup', 'Roost').
-move('Dudunsparce','Bulky Setup', 'Shadow Ball').
-pokemon('Dugtrio', 84).
-ability('Dugtrio', 'Arena Trap').
-item('Dugtrio', 'Choice Band').
-item('Dugtrio', 'Life Orb').
-role('Dugtrio', 'Fast Attacker').
-ability('Dugtrio','Fast Attacker', 'Arena Trap').
-item('Dugtrio','Fast Attacker', 'Life Orb').
-tera('Dugtrio','Fast Attacker', 'Dark').
-tera('Dugtrio','Fast Attacker', 'Fairy').
-tera('Dugtrio','Fast Attacker', 'Flying').
-tera('Dugtrio','Fast Attacker', 'Ghost').
-tera('Dugtrio','Fast Attacker', 'Ground').
-move('Dugtrio','Fast Attacker', 'Earthquake').
-move('Dugtrio','Fast Attacker', 'Stone Edge').
-move('Dugtrio','Fast Attacker', 'Sucker Punch').
-move('Dugtrio','Fast Attacker', 'Swords Dance').
-role('Dugtrio', 'Wallbreaker').
-ability('Dugtrio','Wallbreaker', 'Arena Trap').
-item('Dugtrio','Wallbreaker', 'Choice Band').
-tera('Dugtrio','Wallbreaker', 'Dark').
-tera('Dugtrio','Wallbreaker', 'Ground').
-move('Dugtrio','Wallbreaker', 'Earthquake').
-move('Dugtrio','Wallbreaker', 'Stone Edge').
-move('Dugtrio','Wallbreaker', 'Sucker Punch').
-move('Dugtrio','Wallbreaker', 'Throat Chop').
-pokemon('Dugtrio-Alola', 84).
-ability('Dugtrio-Alola', 'Sand Force').
-ability('Dugtrio-Alola', 'Tangling Hair').
-item('Dugtrio-Alola', 'Choice Band').
-item('Dugtrio-Alola', 'Life Orb').
-role('Dugtrio-Alola', 'Fast Attacker').
-ability('Dugtrio-Alola','Fast Attacker', 'Sand Force').
-ability('Dugtrio-Alola','Fast Attacker', 'Tangling Hair').
-item('Dugtrio-Alola','Fast Attacker', 'Choice Band').
-item('Dugtrio-Alola','Fast Attacker', 'Life Orb').
-tera('Dugtrio-Alola','Fast Attacker', 'Ground').
-tera('Dugtrio-Alola','Fast Attacker', 'Steel').
-move('Dugtrio-Alola','Fast Attacker', 'Earthquake').
-move('Dugtrio-Alola','Fast Attacker', 'Iron Head').
-move('Dugtrio-Alola','Fast Attacker', 'Stealth Rock').
-move('Dugtrio-Alola','Fast Attacker', 'Stone Edge').
-move('Dugtrio-Alola','Fast Attacker', 'Sucker Punch').
-move('Dugtrio-Alola','Fast Attacker', 'Swords Dance').
-pokemon('Dunsparce', 86).
-ability('Dunsparce', 'Serene Grace').
-item('Dunsparce', 'Eviolite').
-role('Dunsparce', 'Bulky Setup').
-ability('Dunsparce','Bulky Setup', 'Serene Grace').
-item('Dunsparce','Bulky Setup', 'Eviolite').
-tera('Dunsparce','Bulky Setup', 'Ghost').
-tera('Dunsparce','Bulky Setup', 'Ground').
-move('Dunsparce','Bulky Setup', 'Body Slam').
-move('Dunsparce','Bulky Setup', 'Coil').
-move('Dunsparce','Bulky Setup', 'Earthquake').
-move('Dunsparce','Bulky Setup', 'Roost').
-pokemon('Duraludon', 82).
-ability('Duraludon', 'Light Metal').
-item('Duraludon', 'Eviolite').
-role('Duraludon', 'Bulky Attacker').
-ability('Duraludon','Bulky Attacker', 'Light Metal').
-item('Duraludon','Bulky Attacker', 'Eviolite').
-tera('Duraludon','Bulky Attacker', 'Fighting').
-move('Duraludon','Bulky Attacker', 'Body Press').
-move('Duraludon','Bulky Attacker', 'Draco Meteor').
-move('Duraludon','Bulky Attacker', 'Dragon Tail').
-move('Duraludon','Bulky Attacker', 'Flash Cannon').
-move('Duraludon','Bulky Attacker', 'Iron Defense').
-move('Duraludon','Bulky Attacker', 'Stealth Rock').
-move('Duraludon','Bulky Attacker', 'Thunder Wave').
-pokemon('Dusknoir', 89).
-ability('Dusknoir', 'Frisk').
-item('Dusknoir', 'Choice Band').
-item('Dusknoir', 'Leftovers').
-item('Dusknoir', 'Life Orb').
-role('Dusknoir', 'Wallbreaker').
-ability('Dusknoir','Wallbreaker', 'Frisk').
-item('Dusknoir','Wallbreaker', 'Choice Band').
-item('Dusknoir','Wallbreaker', 'Life Orb').
-tera('Dusknoir','Wallbreaker', 'Ghost').
-tera('Dusknoir','Wallbreaker', 'Ground').
-move('Dusknoir','Wallbreaker', 'Earthquake').
-move('Dusknoir','Wallbreaker', 'Leech Life').
-move('Dusknoir','Wallbreaker', 'Pain Split').
-move('Dusknoir','Wallbreaker', 'Poltergeist').
-move('Dusknoir','Wallbreaker', 'Shadow Sneak').
-move('Dusknoir','Wallbreaker', 'Trick').
-role('Dusknoir', 'Bulky Support').
-ability('Dusknoir','Bulky Support', 'Frisk').
-item('Dusknoir','Bulky Support', 'Leftovers').
-tera('Dusknoir','Bulky Support', 'Dark').
-tera('Dusknoir','Bulky Support', 'Fairy').
-move('Dusknoir','Bulky Support', 'Earthquake').
-move('Dusknoir','Bulky Support', 'Pain Split').
-move('Dusknoir','Bulky Support', 'Poltergeist').
-move('Dusknoir','Bulky Support', 'Shadow Sneak').
-move('Dusknoir','Bulky Support', 'Will-O-Wisp').
-role('Dusknoir', 'Bulky Attacker').
-ability('Dusknoir','Bulky Attacker', 'Frisk').
-item('Dusknoir','Bulky Attacker', 'Leftovers').
-tera('Dusknoir','Bulky Attacker', 'Fighting').
-move('Dusknoir','Bulky Attacker', 'Focus Punch').
-move('Dusknoir','Bulky Attacker', 'Pain Split').
-move('Dusknoir','Bulky Attacker', 'Poltergeist').
-move('Dusknoir','Bulky Attacker', 'Substitute').
-pokemon('Eelektross', 87).
-ability('Eelektross', 'Levitate').
-item('Eelektross', 'Assault Vest').
-item('Eelektross', 'Leftovers').
-role('Eelektross', 'Bulky Setup').
-ability('Eelektross','Bulky Setup', 'Levitate').
-item('Eelektross','Bulky Setup', 'Leftovers').
-tera('Eelektross','Bulky Setup', 'Fighting').
-move('Eelektross','Bulky Setup', 'Coil').
-move('Eelektross','Bulky Setup', 'Drain Punch').
-move('Eelektross','Bulky Setup', 'Fire Punch').
-move('Eelektross','Bulky Setup', 'Knock Off').
-move('Eelektross','Bulky Setup', 'Supercell Slam').
-role('Eelektross', 'AV Pivot').
-ability('Eelektross','AV Pivot', 'Levitate').
-item('Eelektross','AV Pivot', 'Assault Vest').
-tera('Eelektross','AV Pivot', 'Poison').
-tera('Eelektross','AV Pivot', 'Steel').
-move('Eelektross','AV Pivot', 'Close Combat').
-move('Eelektross','AV Pivot', 'Discharge').
-move('Eelektross','AV Pivot', 'Dragon Tail').
-move('Eelektross','AV Pivot', 'Flamethrower').
-move('Eelektross','AV Pivot', 'Giga Drain').
-move('Eelektross','AV Pivot', 'Knock Off').
-move('Eelektross','AV Pivot', 'U-turn').
-pokemon('Eiscue', 88).
-ability('Eiscue', 'Ice Face').
-item('Eiscue', 'Sitrus Berry').
-role('Eiscue', 'Setup Sweeper').
-ability('Eiscue','Setup Sweeper', 'Ice Face').
-item('Eiscue','Setup Sweeper', 'Sitrus Berry').
-tera('Eiscue','Setup Sweeper', 'Water').
-move('Eiscue','Setup Sweeper', 'Belly Drum').
-move('Eiscue','Setup Sweeper', 'Ice Spinner').
-move('Eiscue','Setup Sweeper', 'Iron Head').
-move('Eiscue','Setup Sweeper', 'Liquidation').
-move('Eiscue','Setup Sweeper', 'Zen Headbutt').
-role('Eiscue', 'Tera Blast user').
-ability('Eiscue','Tera Blast user', 'Ice Face').
-item('Eiscue','Tera Blast user', 'Sitrus Berry').
-tera('Eiscue','Tera Blast user', 'Electric').
-tera('Eiscue','Tera Blast user', 'Ground').
-move('Eiscue','Tera Blast user', 'Belly Drum').
-move('Eiscue','Tera Blast user', 'Ice Spinner').
-move('Eiscue','Tera Blast user', 'Liquidation').
-move('Eiscue','Tera Blast user', 'Tera Blast').
-pokemon('Electivire', 84).
-ability('Electivire', 'Motor Drive').
-item('Electivire', 'Choice Band').
-item('Electivire', 'Choice Scarf').
-item('Electivire', 'Life Orb').
-role('Electivire', 'Setup Sweeper').
-ability('Electivire','Setup Sweeper', 'Motor Drive').
-item('Electivire','Setup Sweeper', 'Life Orb').
-tera('Electivire','Setup Sweeper', 'Flying').
-tera('Electivire','Setup Sweeper', 'Ground').
-move('Electivire','Setup Sweeper', 'Bulk Up').
-move('Electivire','Setup Sweeper', 'Earthquake').
-move('Electivire','Setup Sweeper', 'Ice Punch').
-move('Electivire','Setup Sweeper', 'Supercell Slam').
-role('Electivire', 'Fast Attacker').
-ability('Electivire','Fast Attacker', 'Motor Drive').
-item('Electivire','Fast Attacker', 'Choice Band').
-item('Electivire','Fast Attacker', 'Choice Scarf').
-item('Electivire','Fast Attacker', 'Life Orb').
-tera('Electivire','Fast Attacker', 'Dark').
-tera('Electivire','Fast Attacker', 'Flying').
-tera('Electivire','Fast Attacker', 'Ground').
-move('Electivire','Fast Attacker', 'Earthquake').
-move('Electivire','Fast Attacker', 'Flamethrower').
-move('Electivire','Fast Attacker', 'Ice Punch').
-move('Electivire','Fast Attacker', 'Knock Off').
-move('Electivire','Fast Attacker', 'Supercell Slam').
-move('Electivire','Fast Attacker', 'Volt Switch').
-pokemon('Electrode', 93).
-ability('Electrode', 'Aftermath').
-ability('Electrode', 'Soundproof').
-ability('Electrode', 'Static').
-item('Electrode', 'Assault Vest').
-item('Electrode', 'Heavy-Duty Boots').
-item('Electrode', 'Leftovers').
-item('Electrode', 'Life Orb').
-role('Electrode', 'Fast Support').
-ability('Electrode','Fast Support', 'Aftermath').
-ability('Electrode','Fast Support', 'Soundproof').
-ability('Electrode','Fast Support', 'Static').
-item('Electrode','Fast Support', 'Assault Vest').
-item('Electrode','Fast Support', 'Heavy-Duty Boots').
-item('Electrode','Fast Support', 'Leftovers').
-item('Electrode','Fast Support', 'Life Orb').
-tera('Electrode','Fast Support', 'Dark').
-tera('Electrode','Fast Support', 'Electric').
-move('Electrode','Fast Support', 'Explosion').
-move('Electrode','Fast Support', 'Foul Play').
-move('Electrode','Fast Support', 'Taunt').
-move('Electrode','Fast Support', 'Thunder Wave').
-move('Electrode','Fast Support', 'Thunderbolt').
-move('Electrode','Fast Support', 'Volt Switch').
-role('Electrode', 'Tera Blast user').
-ability('Electrode','Tera Blast user', 'Aftermath').
-ability('Electrode','Tera Blast user', 'Soundproof').
-ability('Electrode','Tera Blast user', 'Static').
-item('Electrode','Tera Blast user', 'Life Orb').
-tera('Electrode','Tera Blast user', 'Ice').
-move('Electrode','Tera Blast user', 'Taunt').
-move('Electrode','Tera Blast user', 'Tera Blast').
-move('Electrode','Tera Blast user', 'Thunderbolt').
-move('Electrode','Tera Blast user', 'Volt Switch').
-pokemon('Electrode-Hisui', 87).
-ability('Electrode-Hisui', 'Aftermath').
-ability('Electrode-Hisui', 'Soundproof').
-ability('Electrode-Hisui', 'Static').
-item('Electrode-Hisui', 'Leftovers').
-item('Electrode-Hisui', 'Life Orb').
-role('Electrode-Hisui', 'Fast Support').
-ability('Electrode-Hisui','Fast Support', 'Soundproof').
-item('Electrode-Hisui','Fast Support', 'Leftovers').
-tera('Electrode-Hisui','Fast Support', 'Poison').
-move('Electrode-Hisui','Fast Support', 'Giga Drain').
-move('Electrode-Hisui','Fast Support', 'Leech Seed').
-move('Electrode-Hisui','Fast Support', 'Substitute').
-move('Electrode-Hisui','Fast Support', 'Thunderbolt').
-role('Electrode-Hisui', 'Fast Attacker').
-ability('Electrode-Hisui','Fast Attacker', 'Aftermath').
-ability('Electrode-Hisui','Fast Attacker', 'Soundproof').
-ability('Electrode-Hisui','Fast Attacker', 'Static').
-item('Electrode-Hisui','Fast Attacker', 'Life Orb').
-tera('Electrode-Hisui','Fast Attacker', 'Electric').
-tera('Electrode-Hisui','Fast Attacker', 'Grass').
-move('Electrode-Hisui','Fast Attacker', 'Giga Drain').
-move('Electrode-Hisui','Fast Attacker', 'Leaf Storm').
-move('Electrode-Hisui','Fast Attacker', 'Taunt').
-move('Electrode-Hisui','Fast Attacker', 'Thunder Wave').
-move('Electrode-Hisui','Fast Attacker', 'Thunderbolt').
-move('Electrode-Hisui','Fast Attacker', 'Volt Switch').
-pokemon('Emboar', 84).
-ability('Emboar', 'Reckless').
-item('Emboar', 'Assault Vest').
-item('Emboar', 'Choice Band').
-item('Emboar', 'Choice Scarf').
-item('Emboar', 'Leftovers').
-role('Emboar', 'AV Pivot').
-ability('Emboar','AV Pivot', 'Reckless').
-item('Emboar','AV Pivot', 'Assault Vest').
-tera('Emboar','AV Pivot', 'Dark').
-tera('Emboar','AV Pivot', 'Electric').
-tera('Emboar','AV Pivot', 'Fire').
-tera('Emboar','AV Pivot', 'Water').
-move('Emboar','AV Pivot', 'Close Combat').
-move('Emboar','AV Pivot', 'Flare Blitz').
-move('Emboar','AV Pivot', 'Knock Off').
-move('Emboar','AV Pivot', 'Scald').
-move('Emboar','AV Pivot', 'Sucker Punch').
-move('Emboar','AV Pivot', 'Wild Charge').
-role('Emboar', 'Fast Attacker').
-ability('Emboar','Fast Attacker', 'Reckless').
-item('Emboar','Fast Attacker', 'Choice Band').
-item('Emboar','Fast Attacker', 'Choice Scarf').
-tera('Emboar','Fast Attacker', 'Fire').
-move('Emboar','Fast Attacker', 'Close Combat').
-move('Emboar','Fast Attacker', 'Flare Blitz').
-move('Emboar','Fast Attacker', 'Head Smash').
-move('Emboar','Fast Attacker', 'Knock Off').
-move('Emboar','Fast Attacker', 'Wild Charge').
-role('Emboar', 'Bulky Setup').
-ability('Emboar','Bulky Setup', 'Reckless').
-item('Emboar','Bulky Setup', 'Leftovers').
-tera('Emboar','Bulky Setup', 'Fighting').
-tera('Emboar','Bulky Setup', 'Grass').
-move('Emboar','Bulky Setup', 'Bulk Up').
-move('Emboar','Bulky Setup', 'Drain Punch').
-move('Emboar','Bulky Setup', 'Flare Blitz').
-move('Emboar','Bulky Setup', 'Trailblaze').
-pokemon('Empoleon', 84).
-ability('Empoleon', 'Competitive').
-item('Empoleon', 'Leftovers').
-role('Empoleon', 'Bulky Support').
-ability('Empoleon','Bulky Support', 'Competitive').
-item('Empoleon','Bulky Support', 'Leftovers').
-tera('Empoleon','Bulky Support', 'Flying').
-tera('Empoleon','Bulky Support', 'Grass').
-move('Empoleon','Bulky Support', 'Flip Turn').
-move('Empoleon','Bulky Support', 'Ice Beam').
-move('Empoleon','Bulky Support', 'Knock Off').
-move('Empoleon','Bulky Support', 'Roost').
-move('Empoleon','Bulky Support', 'Stealth Rock').
-move('Empoleon','Bulky Support', 'Surf').
-move('Empoleon','Bulky Support', 'Yawn').
-pokemon('Enamorus', 79).
-ability('Enamorus', 'Contrary').
-ability('Enamorus', 'Cute Charm').
-item('Enamorus', 'Heavy-Duty Boots').
-item('Enamorus', 'Leftovers').
-role('Enamorus', 'Setup Sweeper').
-ability('Enamorus','Setup Sweeper', 'Contrary').
-item('Enamorus','Setup Sweeper', 'Heavy-Duty Boots').
-item('Enamorus','Setup Sweeper', 'Leftovers').
-tera('Enamorus','Setup Sweeper', 'Fighting').
-move('Enamorus','Setup Sweeper', 'Play Rough').
-move('Enamorus','Setup Sweeper', 'Substitute').
-move('Enamorus','Setup Sweeper', 'Superpower').
-move('Enamorus','Setup Sweeper', 'Taunt').
-move('Enamorus','Setup Sweeper', 'Zen Headbutt').
-role('Enamorus', 'Fast Bulky Setup').
-ability('Enamorus','Fast Bulky Setup', 'Cute Charm').
-item('Enamorus','Fast Bulky Setup', 'Heavy-Duty Boots').
-item('Enamorus','Fast Bulky Setup', 'Leftovers').
-tera('Enamorus','Fast Bulky Setup', 'Ground').
-move('Enamorus','Fast Bulky Setup', 'Calm Mind').
-move('Enamorus','Fast Bulky Setup', 'Earth Power').
-move('Enamorus','Fast Bulky Setup', 'Moonblast').
-move('Enamorus','Fast Bulky Setup', 'Mystical Fire').
-move('Enamorus','Fast Bulky Setup', 'Substitute').
-pokemon('Enamorus-Therian', 83).
-ability('Enamorus-Therian', 'Overcoat').
-item('Enamorus-Therian', 'Assault Vest').
-item('Enamorus-Therian', 'Choice Specs').
-item('Enamorus-Therian', 'Weakness Policy').
-role('Enamorus-Therian', 'Bulky Setup').
-ability('Enamorus-Therian','Bulky Setup', 'Overcoat').
-item('Enamorus-Therian','Bulky Setup', 'Weakness Policy').
-tera('Enamorus-Therian','Bulky Setup', 'Ground').
-move('Enamorus-Therian','Bulky Setup', 'Agility').
-move('Enamorus-Therian','Bulky Setup', 'Earth Power').
-move('Enamorus-Therian','Bulky Setup', 'Moonblast').
-move('Enamorus-Therian','Bulky Setup', 'Mystical Fire').
-move('Enamorus-Therian','Bulky Setup', 'Superpower').
-role('Enamorus-Therian', 'Bulky Attacker').
-ability('Enamorus-Therian','Bulky Attacker', 'Overcoat').
-item('Enamorus-Therian','Bulky Attacker', 'Assault Vest').
-item('Enamorus-Therian','Bulky Attacker', 'Choice Specs').
-tera('Enamorus-Therian','Bulky Attacker', 'Fairy').
-tera('Enamorus-Therian','Bulky Attacker', 'Ground').
-move('Enamorus-Therian','Bulky Attacker', 'Earth Power').
-move('Enamorus-Therian','Bulky Attacker', 'Moonblast').
-move('Enamorus-Therian','Bulky Attacker', 'Mystical Fire').
-move('Enamorus-Therian','Bulky Attacker', 'Psychic').
-move('Enamorus-Therian','Bulky Attacker', 'Superpower').
-pokemon('Entei', 78).
-ability('Entei', 'Inner Focus').
-item('Entei', 'Choice Band').
-role('Entei', 'Fast Attacker').
-ability('Entei','Fast Attacker', 'Inner Focus').
-item('Entei','Fast Attacker', 'Choice Band').
-tera('Entei','Fast Attacker', 'Fire').
-tera('Entei','Fast Attacker', 'Normal').
-move('Entei','Fast Attacker', 'Extreme Speed').
-move('Entei','Fast Attacker', 'Flare Blitz').
-move('Entei','Fast Attacker', 'Sacred Fire').
-move('Entei','Fast Attacker', 'Stone Edge').
-role('Entei', 'Wallbreaker').
-ability('Entei','Wallbreaker', 'Inner Focus').
-item('Entei','Wallbreaker', 'Choice Band').
-tera('Entei','Wallbreaker', 'Fire').
-tera('Entei','Wallbreaker', 'Normal').
-move('Entei','Wallbreaker', 'Extreme Speed').
-move('Entei','Wallbreaker', 'Flare Blitz').
-move('Entei','Wallbreaker', 'Sacred Fire').
-move('Entei','Wallbreaker', 'Stomping Tantrum').
-pokemon('Espathra', 80).
-ability('Espathra', 'Speed Boost').
-item('Espathra', 'Choice Specs').
-item('Espathra', 'Leftovers').
-role('Espathra', 'Fast Bulky Setup').
-ability('Espathra','Fast Bulky Setup', 'Speed Boost').
-item('Espathra','Fast Bulky Setup', 'Leftovers').
-tera('Espathra','Fast Bulky Setup', 'Fairy').
-move('Espathra','Fast Bulky Setup', 'Calm Mind').
-move('Espathra','Fast Bulky Setup', 'Dazzling Gleam').
-move('Espathra','Fast Bulky Setup', 'Protect').
-move('Espathra','Fast Bulky Setup', 'Roost').
-move('Espathra','Fast Bulky Setup', 'Stored Power').
-move('Espathra','Fast Bulky Setup', 'Substitute').
-role('Espathra', 'Wallbreaker').
-ability('Espathra','Wallbreaker', 'Speed Boost').
-item('Espathra','Wallbreaker', 'Choice Specs').
-tera('Espathra','Wallbreaker', 'Fairy').
-tera('Espathra','Wallbreaker', 'Psychic').
-move('Espathra','Wallbreaker', 'Dazzling Gleam').
-move('Espathra','Wallbreaker', 'Lumina Crash').
-move('Espathra','Wallbreaker', 'Shadow Ball').
-move('Espathra','Wallbreaker', 'U-turn').
-pokemon('Espeon', 84).
-ability('Espeon', 'Magic Bounce').
-item('Espeon', 'Choice Specs').
-item('Espeon', 'Life Orb').
-role('Espeon', 'Fast Attacker').
-ability('Espeon','Fast Attacker', 'Magic Bounce').
-item('Espeon','Fast Attacker', 'Choice Specs').
-item('Espeon','Fast Attacker', 'Life Orb').
-tera('Espeon','Fast Attacker', 'Fairy').
-tera('Espeon','Fast Attacker', 'Psychic').
-move('Espeon','Fast Attacker', 'Alluring Voice').
-move('Espeon','Fast Attacker', 'Calm Mind').
-move('Espeon','Fast Attacker', 'Morning Sun').
-move('Espeon','Fast Attacker', 'Psychic').
-move('Espeon','Fast Attacker', 'Psyshock').
-move('Espeon','Fast Attacker', 'Shadow Ball').
-move('Espeon','Fast Attacker', 'Trick').
-pokemon('Eternatus', 69).
-ability('Eternatus', 'Pressure').
-item('Eternatus', 'Leftovers').
-item('Eternatus', 'Power Herb').
-item('Eternatus', 'Rocky Helmet').
-role('Eternatus', 'Bulky Attacker').
-ability('Eternatus','Bulky Attacker', 'Pressure').
-item('Eternatus','Bulky Attacker', 'Leftovers').
-item('Eternatus','Bulky Attacker', 'Rocky Helmet').
-tera('Eternatus','Bulky Attacker', 'Dragon').
-tera('Eternatus','Bulky Attacker', 'Fire').
-move('Eternatus','Bulky Attacker', 'Dynamax Cannon').
-move('Eternatus','Bulky Attacker', 'Fire Blast').
-move('Eternatus','Bulky Attacker', 'Recover').
-move('Eternatus','Bulky Attacker', 'Sludge Bomb').
-role('Eternatus', 'Setup Sweeper').
-ability('Eternatus','Setup Sweeper', 'Pressure').
-item('Eternatus','Setup Sweeper', 'Power Herb').
-tera('Eternatus','Setup Sweeper', 'Dragon').
-tera('Eternatus','Setup Sweeper', 'Fire').
-tera('Eternatus','Setup Sweeper', 'Poison').
-move('Eternatus','Setup Sweeper', 'Dynamax Cannon').
-move('Eternatus','Setup Sweeper', 'Fire Blast').
-move('Eternatus','Setup Sweeper', 'Meteor Beam').
-move('Eternatus','Setup Sweeper', 'Sludge Bomb').
-role('Eternatus', 'Bulky Support').
-ability('Eternatus','Bulky Support', 'Pressure').
-item('Eternatus','Bulky Support', 'Leftovers').
-item('Eternatus','Bulky Support', 'Rocky Helmet').
-tera('Eternatus','Bulky Support', 'Dragon').
-tera('Eternatus','Bulky Support', 'Water').
-move('Eternatus','Bulky Support', 'Dynamax Cannon').
-move('Eternatus','Bulky Support', 'Flamethrower').
-move('Eternatus','Bulky Support', 'Recover').
-move('Eternatus','Bulky Support', 'Toxic').
-move('Eternatus','Bulky Support', 'Toxic Spikes').
-pokemon('Excadrill', 79).
-ability('Excadrill', 'Mold Breaker').
-ability('Excadrill', 'Sand Rush').
-item('Excadrill', 'Assault Vest').
-item('Excadrill', 'Leftovers').
-role('Excadrill', 'AV Pivot').
-ability('Excadrill','AV Pivot', 'Mold Breaker').
-ability('Excadrill','AV Pivot', 'Sand Rush').
-item('Excadrill','AV Pivot', 'Assault Vest').
-tera('Excadrill','AV Pivot', 'Grass').
-tera('Excadrill','AV Pivot', 'Water').
-move('Excadrill','AV Pivot', 'Earthquake').
-move('Excadrill','AV Pivot', 'Iron Head').
-move('Excadrill','AV Pivot', 'Rapid Spin').
-move('Excadrill','AV Pivot', 'Rock Slide').
-role('Excadrill', 'Bulky Setup').
-ability('Excadrill','Bulky Setup', 'Mold Breaker').
-ability('Excadrill','Bulky Setup', 'Sand Rush').
-item('Excadrill','Bulky Setup', 'Leftovers').
-tera('Excadrill','Bulky Setup', 'Grass').
-tera('Excadrill','Bulky Setup', 'Ground').
-tera('Excadrill','Bulky Setup', 'Water').
-move('Excadrill','Bulky Setup', 'Earthquake').
-move('Excadrill','Bulky Setup', 'Iron Head').
-move('Excadrill','Bulky Setup', 'Rapid Spin').
-move('Excadrill','Bulky Setup', 'Swords Dance').
-pokemon('Exeggutor', 89).
-ability('Exeggutor', 'Harvest').
-item('Exeggutor', 'Sitrus Berry').
-role('Exeggutor', 'Bulky Setup').
-ability('Exeggutor','Bulky Setup', 'Harvest').
-item('Exeggutor','Bulky Setup', 'Sitrus Berry').
-tera('Exeggutor','Bulky Setup', 'Steel').
-move('Exeggutor','Bulky Setup', 'Calm Mind').
-move('Exeggutor','Bulky Setup', 'Giga Drain').
-move('Exeggutor','Bulky Setup', 'Psychic').
-move('Exeggutor','Bulky Setup', 'Psyshock').
-move('Exeggutor','Bulky Setup', 'Sleep Powder').
-move('Exeggutor','Bulky Setup', 'Substitute').
-role('Exeggutor', 'Bulky Support').
-ability('Exeggutor','Bulky Support', 'Harvest').
-item('Exeggutor','Bulky Support', 'Sitrus Berry').
-tera('Exeggutor','Bulky Support', 'Steel').
-move('Exeggutor','Bulky Support', 'Leech Seed').
-move('Exeggutor','Bulky Support', 'Psychic').
-move('Exeggutor','Bulky Support', 'Psychic Noise').
-move('Exeggutor','Bulky Support', 'Sleep Powder').
-move('Exeggutor','Bulky Support', 'Sludge Bomb').
-move('Exeggutor','Bulky Support', 'Substitute').
-role('Exeggutor', 'Bulky Attacker').
-ability('Exeggutor','Bulky Attacker', 'Harvest').
-item('Exeggutor','Bulky Attacker', 'Sitrus Berry').
-tera('Exeggutor','Bulky Attacker', 'Steel').
-move('Exeggutor','Bulky Attacker', 'Leech Seed').
-move('Exeggutor','Bulky Attacker', 'Protect').
-move('Exeggutor','Bulky Attacker', 'Psychic Noise').
-move('Exeggutor','Bulky Attacker', 'Substitute').
-pokemon('Exeggutor-Alola', 89).
-ability('Exeggutor-Alola', 'Frisk').
-ability('Exeggutor-Alola', 'Harvest').
-item('Exeggutor-Alola', 'Choice Specs').
-item('Exeggutor-Alola', 'Sitrus Berry').
-role('Exeggutor-Alola', 'Bulky Setup').
-ability('Exeggutor-Alola','Bulky Setup', 'Harvest').
-item('Exeggutor-Alola','Bulky Setup', 'Sitrus Berry').
-tera('Exeggutor-Alola','Bulky Setup', 'Fire').
-tera('Exeggutor-Alola','Bulky Setup', 'Steel').
-move('Exeggutor-Alola','Bulky Setup', 'Calm Mind').
-move('Exeggutor-Alola','Bulky Setup', 'Dragon Pulse').
-move('Exeggutor-Alola','Bulky Setup', 'Flamethrower').
-move('Exeggutor-Alola','Bulky Setup', 'Giga Drain').
-role('Exeggutor-Alola', 'Wallbreaker').
-ability('Exeggutor-Alola','Wallbreaker', 'Frisk').
-item('Exeggutor-Alola','Wallbreaker', 'Choice Specs').
-tera('Exeggutor-Alola','Wallbreaker', 'Fire').
-move('Exeggutor-Alola','Wallbreaker', 'Draco Meteor').
-move('Exeggutor-Alola','Wallbreaker', 'Flamethrower').
-move('Exeggutor-Alola','Wallbreaker', 'Giga Drain').
-move('Exeggutor-Alola','Wallbreaker', 'Leaf Storm').
-role('Exeggutor-Alola', 'Fast Attacker').
-ability('Exeggutor-Alola','Fast Attacker', 'Harvest').
-item('Exeggutor-Alola','Fast Attacker', 'Sitrus Berry').
-tera('Exeggutor-Alola','Fast Attacker', 'Fire').
-move('Exeggutor-Alola','Fast Attacker', 'Draco Meteor').
-move('Exeggutor-Alola','Fast Attacker', 'Dragon Tail').
-move('Exeggutor-Alola','Fast Attacker', 'Flamethrower').
-move('Exeggutor-Alola','Fast Attacker', 'Knock Off').
-move('Exeggutor-Alola','Fast Attacker', 'Moonlight').
-move('Exeggutor-Alola','Fast Attacker', 'Sleep Powder').
-move('Exeggutor-Alola','Fast Attacker', 'Stun Spore').
-move('Exeggutor-Alola','Fast Attacker', 'Wood Hammer').
-pokemon('Falinks', 84).
-ability('Falinks', 'Defiant').
-item('Falinks', 'Life Orb').
-role('Falinks', 'Setup Sweeper').
-ability('Falinks','Setup Sweeper', 'Defiant').
-item('Falinks','Setup Sweeper', 'Life Orb').
-tera('Falinks','Setup Sweeper', 'Dark').
-tera('Falinks','Setup Sweeper', 'Steel').
-move('Falinks','Setup Sweeper', 'Close Combat').
-move('Falinks','Setup Sweeper', 'Iron Head').
-move('Falinks','Setup Sweeper', 'Knock Off').
-move('Falinks','Setup Sweeper', 'No Retreat').
-pokemon('Farigiraf', 89).
-ability('Farigiraf', 'Sap Sipper').
-item('Farigiraf', 'Leftovers').
-role('Farigiraf', 'Bulky Support').
-ability('Farigiraf','Bulky Support', 'Sap Sipper').
-item('Farigiraf','Bulky Support', 'Leftovers').
-tera('Farigiraf','Bulky Support', 'Fairy').
-tera('Farigiraf','Bulky Support', 'Ground').
-tera('Farigiraf','Bulky Support', 'Water').
-move('Farigiraf','Bulky Support', 'Body Slam').
-move('Farigiraf','Bulky Support', 'Protect').
-move('Farigiraf','Bulky Support', 'Psychic Noise').
-move('Farigiraf','Bulky Support', 'Wish').
-pokemon('Feraligatr', 79).
-ability('Feraligatr', 'Sheer Force').
-item('Feraligatr', 'Life Orb').
-role('Feraligatr', 'Setup Sweeper').
-ability('Feraligatr','Setup Sweeper', 'Sheer Force').
-item('Feraligatr','Setup Sweeper', 'Life Orb').
-tera('Feraligatr','Setup Sweeper', 'Grass').
-tera('Feraligatr','Setup Sweeper', 'Water').
-move('Feraligatr','Setup Sweeper', 'Dragon Dance').
-move('Feraligatr','Setup Sweeper', 'Ice Punch').
-move('Feraligatr','Setup Sweeper', 'Liquidation').
-move('Feraligatr','Setup Sweeper', 'Trailblaze').
-role('Feraligatr', 'Fast Bulky Setup').
-ability('Feraligatr','Fast Bulky Setup', 'Sheer Force').
-item('Feraligatr','Fast Bulky Setup', 'Life Orb').
-tera('Feraligatr','Fast Bulky Setup', 'Dark').
-tera('Feraligatr','Fast Bulky Setup', 'Dragon').
-tera('Feraligatr','Fast Bulky Setup', 'Steel').
-tera('Feraligatr','Fast Bulky Setup', 'Water').
-move('Feraligatr','Fast Bulky Setup', 'Crunch').
-move('Feraligatr','Fast Bulky Setup', 'Dragon Dance').
-move('Feraligatr','Fast Bulky Setup', 'Ice Punch').
-move('Feraligatr','Fast Bulky Setup', 'Liquidation').
-pokemon('Fezandipiti', 82).
-ability('Fezandipiti', 'Toxic Chain').
-item('Fezandipiti', 'Leftovers').
-role('Fezandipiti', 'Bulky Attacker').
-ability('Fezandipiti','Bulky Attacker', 'Toxic Chain').
-item('Fezandipiti','Bulky Attacker', 'Leftovers').
-tera('Fezandipiti','Bulky Attacker', 'Dark').
-tera('Fezandipiti','Bulky Attacker', 'Steel').
-tera('Fezandipiti','Bulky Attacker', 'Water').
-move('Fezandipiti','Bulky Attacker', 'Beat Up').
-move('Fezandipiti','Bulky Attacker', 'Gunk Shot').
-move('Fezandipiti','Bulky Attacker', 'Moonblast').
-move('Fezandipiti','Bulky Attacker', 'Roost').
-move('Fezandipiti','Bulky Attacker', 'U-turn').
-role('Fezandipiti', 'Tera Blast user').
-ability('Fezandipiti','Tera Blast user', 'Toxic Chain').
-item('Fezandipiti','Tera Blast user', 'Leftovers').
-tera('Fezandipiti','Tera Blast user', 'Ground').
-move('Fezandipiti','Tera Blast user', 'Gunk Shot').
-move('Fezandipiti','Tera Blast user', 'Play Rough').
-move('Fezandipiti','Tera Blast user', 'Swords Dance').
-move('Fezandipiti','Tera Blast user', 'Tera Blast').
-pokemon('Flamigo', 82).
-ability('Flamigo', 'Scrappy').
-item('Flamigo', 'Choice Band').
-item('Flamigo', 'Choice Scarf').
-item('Flamigo', 'Life Orb').
-role('Flamigo', 'Setup Sweeper').
-ability('Flamigo','Setup Sweeper', 'Scrappy').
-item('Flamigo','Setup Sweeper', 'Life Orb').
-tera('Flamigo','Setup Sweeper', 'Fighting').
-tera('Flamigo','Setup Sweeper', 'Steel').
-move('Flamigo','Setup Sweeper', 'Brave Bird').
-move('Flamigo','Setup Sweeper', 'Close Combat').
-move('Flamigo','Setup Sweeper', 'Roost').
-move('Flamigo','Setup Sweeper', 'Swords Dance').
-move('Flamigo','Setup Sweeper', 'Throat Chop').
-role('Flamigo', 'Fast Attacker').
-ability('Flamigo','Fast Attacker', 'Scrappy').
-item('Flamigo','Fast Attacker', 'Choice Band').
-item('Flamigo','Fast Attacker', 'Choice Scarf').
-tera('Flamigo','Fast Attacker', 'Fighting').
-move('Flamigo','Fast Attacker', 'Brave Bird').
-move('Flamigo','Fast Attacker', 'Close Combat').
-move('Flamigo','Fast Attacker', 'Throat Chop').
-move('Flamigo','Fast Attacker', 'U-turn').
-pokemon('Flapple', 88).
-ability('Flapple', 'Hustle').
-item('Flapple', 'Choice Band').
-item('Flapple', 'Lum Berry').
-item('Flapple', 'Wide Lens').
-role('Flapple', 'Fast Attacker').
-ability('Flapple','Fast Attacker', 'Hustle').
-item('Flapple','Fast Attacker', 'Choice Band').
-item('Flapple','Fast Attacker', 'Lum Berry').
-item('Flapple','Fast Attacker', 'Wide Lens').
-tera('Flapple','Fast Attacker', 'Dragon').
-tera('Flapple','Fast Attacker', 'Steel').
-move('Flapple','Fast Attacker', 'Dragon Dance').
-move('Flapple','Fast Attacker', 'Grav Apple').
-move('Flapple','Fast Attacker', 'Outrage').
-move('Flapple','Fast Attacker', 'Sucker Punch').
-move('Flapple','Fast Attacker', 'U-turn').
-role('Flapple', 'Tera Blast user').
-ability('Flapple','Tera Blast user', 'Hustle').
-item('Flapple','Tera Blast user', 'Lum Berry').
-item('Flapple','Tera Blast user', 'Wide Lens').
-tera('Flapple','Tera Blast user', 'Fire').
-move('Flapple','Tera Blast user', 'Dragon Dance').
-move('Flapple','Tera Blast user', 'Grav Apple').
-move('Flapple','Tera Blast user', 'Outrage').
-move('Flapple','Tera Blast user', 'Tera Blast').
-pokemon('Flareon', 90).
-ability('Flareon', 'Guts').
-item('Flareon', 'Toxic Orb').
-role('Flareon', 'Setup Sweeper').
-ability('Flareon','Setup Sweeper', 'Guts').
-item('Flareon','Setup Sweeper', 'Toxic Orb').
-tera('Flareon','Setup Sweeper', 'Normal').
-move('Flareon','Setup Sweeper', 'Facade').
-move('Flareon','Setup Sweeper', 'Flare Blitz').
-move('Flareon','Setup Sweeper', 'Quick Attack').
-move('Flareon','Setup Sweeper', 'Trailblaze').
-move('Flareon','Setup Sweeper', 'Will-O-Wisp').
-pokemon('Floatzel', 86).
-ability('Floatzel', 'Water Veil').
-item('Floatzel', 'Choice Band').
-item('Floatzel', 'Leftovers').
-role('Floatzel', 'Bulky Setup').
-ability('Floatzel','Bulky Setup', 'Water Veil').
-item('Floatzel','Bulky Setup', 'Leftovers').
-tera('Floatzel','Bulky Setup', 'Steel').
-tera('Floatzel','Bulky Setup', 'Water').
-move('Floatzel','Bulky Setup', 'Bulk Up').
-move('Floatzel','Bulky Setup', 'Ice Spinner').
-move('Floatzel','Bulky Setup', 'Taunt').
-move('Floatzel','Bulky Setup', 'Wave Crash').
-role('Floatzel', 'Wallbreaker').
-ability('Floatzel','Wallbreaker', 'Water Veil').
-item('Floatzel','Wallbreaker', 'Choice Band').
-tera('Floatzel','Wallbreaker', 'Water').
-move('Floatzel','Wallbreaker', 'Crunch').
-move('Floatzel','Wallbreaker', 'Flip Turn').
-move('Floatzel','Wallbreaker', 'Ice Spinner').
-move('Floatzel','Wallbreaker', 'Wave Crash').
-pokemon('Florges', 85).
-ability('Florges', 'Flower Veil').
-item('Florges', 'Leftovers').
-role('Florges', 'Bulky Setup').
-ability('Florges','Bulky Setup', 'Flower Veil').
-item('Florges','Bulky Setup', 'Leftovers').
-tera('Florges','Bulky Setup', 'Steel').
-move('Florges','Bulky Setup', 'Calm Mind').
-move('Florges','Bulky Setup', 'Moonblast').
-move('Florges','Bulky Setup', 'Protect').
-move('Florges','Bulky Setup', 'Wish').
-role('Florges', 'Tera Blast user').
-ability('Florges','Tera Blast user', 'Flower Veil').
-item('Florges','Tera Blast user', 'Leftovers').
-tera('Florges','Tera Blast user', 'Ground').
-move('Florges','Tera Blast user', 'Calm Mind').
-move('Florges','Tera Blast user', 'Moonblast').
-move('Florges','Tera Blast user', 'Synthesis').
-move('Florges','Tera Blast user', 'Tera Blast').
-pokemon('Flutter Mane', 74).
-ability('Flutter Mane', 'Protosynthesis').
-item('Flutter Mane', 'Choice Specs').
-item('Flutter Mane', 'Life Orb').
-role('Flutter Mane', 'Wallbreaker').
-ability('Flutter Mane','Wallbreaker', 'Protosynthesis').
-item('Flutter Mane','Wallbreaker', 'Choice Specs').
-tera('Flutter Mane','Wallbreaker', 'Fairy').
-move('Flutter Mane','Wallbreaker', 'Moonblast').
-move('Flutter Mane','Wallbreaker', 'Mystical Fire').
-move('Flutter Mane','Wallbreaker', 'Psyshock').
-move('Flutter Mane','Wallbreaker', 'Shadow Ball').
-move('Flutter Mane','Wallbreaker', 'Thunderbolt').
-role('Flutter Mane', 'Setup Sweeper').
-ability('Flutter Mane','Setup Sweeper', 'Protosynthesis').
-item('Flutter Mane','Setup Sweeper', 'Life Orb').
-tera('Flutter Mane','Setup Sweeper', 'Electric').
-tera('Flutter Mane','Setup Sweeper', 'Fairy').
-tera('Flutter Mane','Setup Sweeper', 'Fire').
-tera('Flutter Mane','Setup Sweeper', 'Ghost').
-move('Flutter Mane','Setup Sweeper', 'Calm Mind').
-move('Flutter Mane','Setup Sweeper', 'Moonblast').
-move('Flutter Mane','Setup Sweeper', 'Mystical Fire').
-move('Flutter Mane','Setup Sweeper', 'Psyshock').
-move('Flutter Mane','Setup Sweeper', 'Shadow Ball').
-move('Flutter Mane','Setup Sweeper', 'Thunderbolt').
-pokemon('Flygon', 82).
-ability('Flygon', 'Levitate').
-item('Flygon', 'Choice Band').
-item('Flygon', 'Choice Scarf').
-item('Flygon', 'Lum Berry').
-role('Flygon', 'Fast Attacker').
-ability('Flygon','Fast Attacker', 'Levitate').
-item('Flygon','Fast Attacker', 'Choice Band').
-item('Flygon','Fast Attacker', 'Choice Scarf').
-item('Flygon','Fast Attacker', 'Lum Berry').
-tera('Flygon','Fast Attacker', 'Ground').
-tera('Flygon','Fast Attacker', 'Rock').
-tera('Flygon','Fast Attacker', 'Steel').
-move('Flygon','Fast Attacker', 'Dragon Dance').
-move('Flygon','Fast Attacker', 'Earthquake').
-move('Flygon','Fast Attacker', 'Outrage').
-move('Flygon','Fast Attacker', 'Stone Edge').
-move('Flygon','Fast Attacker', 'U-turn').
-pokemon('Forretress', 84).
-ability('Forretress', 'Sturdy').
-item('Forretress', 'Leftovers').
-role('Forretress', 'Bulky Support').
-ability('Forretress','Bulky Support', 'Sturdy').
-item('Forretress','Bulky Support', 'Leftovers').
-tera('Forretress','Bulky Support', 'Water').
-move('Forretress','Bulky Support', 'Iron Head').
-move('Forretress','Bulky Support', 'Rapid Spin').
-move('Forretress','Bulky Support', 'Spikes').
-move('Forretress','Bulky Support', 'Stealth Rock').
-move('Forretress','Bulky Support', 'Thunder Wave').
-move('Forretress','Bulky Support', 'Toxic Spikes').
-move('Forretress','Bulky Support', 'Volt Switch').
-role('Forretress', 'Bulky Attacker').
-ability('Forretress','Bulky Attacker', 'Sturdy').
-item('Forretress','Bulky Attacker', 'Leftovers').
-tera('Forretress','Bulky Attacker', 'Fighting').
-tera('Forretress','Bulky Attacker', 'Water').
-move('Forretress','Bulky Attacker', 'Body Press').
-move('Forretress','Bulky Attacker', 'Iron Head').
-move('Forretress','Bulky Attacker', 'Rapid Spin').
-move('Forretress','Bulky Attacker', 'Spikes').
-move('Forretress','Bulky Attacker', 'Stealth Rock').
-pokemon('Froslass', 87).
-ability('Froslass', 'Cursed Body').
-item('Froslass', 'Wide Lens').
-role('Froslass', 'Fast Support').
-ability('Froslass','Fast Support', 'Cursed Body').
-item('Froslass','Fast Support', 'Wide Lens').
-tera('Froslass','Fast Support', 'Ghost').
-tera('Froslass','Fast Support', 'Ice').
-move('Froslass','Fast Support', 'Destiny Bond').
-move('Froslass','Fast Support', 'Poltergeist').
-move('Froslass','Fast Support', 'Spikes').
-move('Froslass','Fast Support', 'Taunt').
-move('Froslass','Fast Support', 'Triple Axel').
-move('Froslass','Fast Support', 'Will-O-Wisp').
-pokemon('Frosmoth', 82).
-ability('Frosmoth', 'Ice Scales').
-item('Frosmoth', 'Heavy-Duty Boots').
-role('Frosmoth', 'Setup Sweeper').
-ability('Frosmoth','Setup Sweeper', 'Ice Scales').
-item('Frosmoth','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Frosmoth','Setup Sweeper', 'Water').
-move('Frosmoth','Setup Sweeper', 'Bug Buzz').
-move('Frosmoth','Setup Sweeper', 'Giga Drain').
-move('Frosmoth','Setup Sweeper', 'Hurricane').
-move('Frosmoth','Setup Sweeper', 'Ice Beam').
-move('Frosmoth','Setup Sweeper', 'Quiver Dance').
-role('Frosmoth', 'Tera Blast user').
-ability('Frosmoth','Tera Blast user', 'Ice Scales').
-item('Frosmoth','Tera Blast user', 'Heavy-Duty Boots').
-tera('Frosmoth','Tera Blast user', 'Ground').
-move('Frosmoth','Tera Blast user', 'Bug Buzz').
-move('Frosmoth','Tera Blast user', 'Giga Drain').
-move('Frosmoth','Tera Blast user', 'Ice Beam').
-move('Frosmoth','Tera Blast user', 'Quiver Dance').
-move('Frosmoth','Tera Blast user', 'Tera Blast').
-pokemon('Furret', 94).
-ability('Furret', 'Frisk').
-item('Furret', 'Choice Band').
-item('Furret', 'Life Orb').
-role('Furret', 'Setup Sweeper').
-ability('Furret','Setup Sweeper', 'Frisk').
-item('Furret','Setup Sweeper', 'Life Orb').
-tera('Furret','Setup Sweeper', 'Ghost').
-tera('Furret','Setup Sweeper', 'Normal').
-move('Furret','Setup Sweeper', 'Brick Break').
-move('Furret','Setup Sweeper', 'Double-Edge').
-move('Furret','Setup Sweeper', 'Knock Off').
-move('Furret','Setup Sweeper', 'Tidy Up').
-role('Furret', 'Wallbreaker').
-ability('Furret','Wallbreaker', 'Frisk').
-item('Furret','Wallbreaker', 'Choice Band').
-tera('Furret','Wallbreaker', 'Ghost').
-tera('Furret','Wallbreaker', 'Normal').
-move('Furret','Wallbreaker', 'Double-Edge').
-move('Furret','Wallbreaker', 'Knock Off').
-move('Furret','Wallbreaker', 'Trick').
-move('Furret','Wallbreaker', 'U-turn').
-pokemon('Gallade', 80).
-ability('Gallade', 'Sharpness').
-item('Gallade', 'Choice Band').
-item('Gallade', 'Choice Scarf').
-item('Gallade', 'Life Orb').
-role('Gallade', 'Fast Attacker').
-ability('Gallade','Fast Attacker', 'Sharpness').
-item('Gallade','Fast Attacker', 'Choice Band').
-item('Gallade','Fast Attacker', 'Choice Scarf').
-tera('Gallade','Fast Attacker', 'Dark').
-tera('Gallade','Fast Attacker', 'Fighting').
-tera('Gallade','Fast Attacker', 'Grass').
-move('Gallade','Fast Attacker', 'Leaf Blade').
-move('Gallade','Fast Attacker', 'Night Slash').
-move('Gallade','Fast Attacker', 'Psycho Cut').
-move('Gallade','Fast Attacker', 'Sacred Sword').
-role('Gallade', 'Setup Sweeper').
-ability('Gallade','Setup Sweeper', 'Sharpness').
-item('Gallade','Setup Sweeper', 'Life Orb').
-tera('Gallade','Setup Sweeper', 'Dark').
-tera('Gallade','Setup Sweeper', 'Fighting').
-move('Gallade','Setup Sweeper', 'Agility').
-move('Gallade','Setup Sweeper', 'Night Slash').
-move('Gallade','Setup Sweeper', 'Psycho Cut').
-move('Gallade','Setup Sweeper', 'Sacred Sword').
-pokemon('Galvantula', 82).
-ability('Galvantula', 'Compound Eyes').
-item('Galvantula', 'Focus Sash').
-item('Galvantula', 'Heavy-Duty Boots').
-role('Galvantula', 'Fast Support').
-ability('Galvantula','Fast Support', 'Compound Eyes').
-item('Galvantula','Fast Support', 'Focus Sash').
-item('Galvantula','Fast Support', 'Heavy-Duty Boots').
-tera('Galvantula','Fast Support', 'Electric').
-move('Galvantula','Fast Support', 'Bug Buzz').
-move('Galvantula','Fast Support', 'Energy Ball').
-move('Galvantula','Fast Support', 'Sticky Web').
-move('Galvantula','Fast Support', 'Thunder').
-move('Galvantula','Fast Support', 'Volt Switch').
-pokemon('Garchomp', 74).
-ability('Garchomp', 'Rough Skin').
-item('Garchomp', 'Loaded Dice').
-item('Garchomp', 'Rocky Helmet').
-role('Garchomp', 'Fast Support').
-ability('Garchomp','Fast Support', 'Rough Skin').
-item('Garchomp','Fast Support', 'Rocky Helmet').
-tera('Garchomp','Fast Support', 'Ground').
-tera('Garchomp','Fast Support', 'Steel').
-move('Garchomp','Fast Support', 'Dragon Tail').
-move('Garchomp','Fast Support', 'Earthquake').
-move('Garchomp','Fast Support', 'Outrage').
-move('Garchomp','Fast Support', 'Spikes').
-move('Garchomp','Fast Support', 'Stealth Rock').
-role('Garchomp', 'Setup Sweeper').
-ability('Garchomp','Setup Sweeper', 'Rough Skin').
-item('Garchomp','Setup Sweeper', 'Loaded Dice').
-tera('Garchomp','Setup Sweeper', 'Fire').
-tera('Garchomp','Setup Sweeper', 'Ground').
-tera('Garchomp','Setup Sweeper', 'Steel').
-move('Garchomp','Setup Sweeper', 'Earthquake').
-move('Garchomp','Setup Sweeper', 'Fire Fang').
-move('Garchomp','Setup Sweeper', 'Iron Head').
-move('Garchomp','Setup Sweeper', 'Scale Shot').
-move('Garchomp','Setup Sweeper', 'Stone Edge').
-move('Garchomp','Setup Sweeper', 'Swords Dance').
-pokemon('Gardevoir', 83).
-ability('Gardevoir', 'Trace').
-item('Gardevoir', 'Choice Scarf').
-item('Gardevoir', 'Choice Specs').
-item('Gardevoir', 'Life Orb').
-role('Gardevoir', 'Fast Attacker').
-ability('Gardevoir','Fast Attacker', 'Trace').
-item('Gardevoir','Fast Attacker', 'Choice Scarf').
-item('Gardevoir','Fast Attacker', 'Choice Specs').
-item('Gardevoir','Fast Attacker', 'Life Orb').
-tera('Gardevoir','Fast Attacker', 'Fairy').
-tera('Gardevoir','Fast Attacker', 'Fighting').
-tera('Gardevoir','Fast Attacker', 'Fire').
-move('Gardevoir','Fast Attacker', 'Calm Mind').
-move('Gardevoir','Fast Attacker', 'Focus Blast').
-move('Gardevoir','Fast Attacker', 'Healing Wish').
-move('Gardevoir','Fast Attacker', 'Moonblast').
-move('Gardevoir','Fast Attacker', 'Mystical Fire').
-move('Gardevoir','Fast Attacker', 'Psychic').
-move('Gardevoir','Fast Attacker', 'Psyshock').
-move('Gardevoir','Fast Attacker', 'Trick').
-pokemon('Garganacl', 80).
-ability('Garganacl', 'Purifying Salt').
-item('Garganacl', 'Leftovers').
-role('Garganacl', 'Bulky Support').
-ability('Garganacl','Bulky Support', 'Purifying Salt').
-item('Garganacl','Bulky Support', 'Leftovers').
-tera('Garganacl','Bulky Support', 'Dragon').
-tera('Garganacl','Bulky Support', 'Ghost').
-move('Garganacl','Bulky Support', 'Body Press').
-move('Garganacl','Bulky Support', 'Protect').
-move('Garganacl','Bulky Support', 'Recover').
-move('Garganacl','Bulky Support', 'Salt Cure').
-move('Garganacl','Bulky Support', 'Stealth Rock').
-role('Garganacl', 'Bulky Setup').
-ability('Garganacl','Bulky Setup', 'Purifying Salt').
-item('Garganacl','Bulky Setup', 'Leftovers').
-tera('Garganacl','Bulky Setup', 'Dragon').
-tera('Garganacl','Bulky Setup', 'Ghost').
-move('Garganacl','Bulky Setup', 'Body Press').
-move('Garganacl','Bulky Setup', 'Iron Defense').
-move('Garganacl','Bulky Setup', 'Recover').
-move('Garganacl','Bulky Setup', 'Salt Cure').
-role('Garganacl', 'Bulky Attacker').
-ability('Garganacl','Bulky Attacker', 'Purifying Salt').
-item('Garganacl','Bulky Attacker', 'Leftovers').
-tera('Garganacl','Bulky Attacker', 'Dragon').
-tera('Garganacl','Bulky Attacker', 'Ghost').
-move('Garganacl','Bulky Attacker', 'Earthquake').
-move('Garganacl','Bulky Attacker', 'Protect').
-move('Garganacl','Bulky Attacker', 'Recover').
-move('Garganacl','Bulky Attacker', 'Salt Cure').
-move('Garganacl','Bulky Attacker', 'Stealth Rock').
-pokemon('Gastrodon', 86).
-ability('Gastrodon', 'Storm Drain').
-item('Gastrodon', 'Leftovers').
-role('Gastrodon', 'Bulky Attacker').
-ability('Gastrodon','Bulky Attacker', 'Storm Drain').
-item('Gastrodon','Bulky Attacker', 'Leftovers').
-tera('Gastrodon','Bulky Attacker', 'Poison').
-tera('Gastrodon','Bulky Attacker', 'Steel').
-move('Gastrodon','Bulky Attacker', 'Clear Smog').
-move('Gastrodon','Bulky Attacker', 'Earthquake').
-move('Gastrodon','Bulky Attacker', 'Ice Beam').
-move('Gastrodon','Bulky Attacker', 'Recover').
-move('Gastrodon','Bulky Attacker', 'Spikes').
-move('Gastrodon','Bulky Attacker', 'Stealth Rock').
-move('Gastrodon','Bulky Attacker', 'Surf').
-role('Gastrodon', 'Bulky Support').
-ability('Gastrodon','Bulky Support', 'Storm Drain').
-item('Gastrodon','Bulky Support', 'Leftovers').
-tera('Gastrodon','Bulky Support', 'Poison').
-move('Gastrodon','Bulky Support', 'Earthquake').
-move('Gastrodon','Bulky Support', 'Recover').
-move('Gastrodon','Bulky Support', 'Sludge Bomb').
-move('Gastrodon','Bulky Support', 'Stealth Rock').
-move('Gastrodon','Bulky Support', 'Surf').
-pokemon('Gengar', 81).
-ability('Gengar', 'Cursed Body').
-item('Gengar', 'Choice Specs').
-item('Gengar', 'Life Orb').
-role('Gengar', 'Wallbreaker').
-ability('Gengar','Wallbreaker', 'Cursed Body').
-item('Gengar','Wallbreaker', 'Choice Specs').
-item('Gengar','Wallbreaker', 'Life Orb').
-tera('Gengar','Wallbreaker', 'Dark').
-tera('Gengar','Wallbreaker', 'Fighting').
-tera('Gengar','Wallbreaker', 'Ghost').
-move('Gengar','Wallbreaker', 'Focus Blast').
-move('Gengar','Wallbreaker', 'Nasty Plot').
-move('Gengar','Wallbreaker', 'Shadow Ball').
-move('Gengar','Wallbreaker', 'Sludge Wave').
-move('Gengar','Wallbreaker', 'Trick').
-role('Gengar', 'Fast Attacker').
-ability('Gengar','Fast Attacker', 'Cursed Body').
-item('Gengar','Fast Attacker', 'Life Orb').
-tera('Gengar','Fast Attacker', 'Dark').
-tera('Gengar','Fast Attacker', 'Fighting').
-tera('Gengar','Fast Attacker', 'Ghost').
-move('Gengar','Fast Attacker', 'Encore').
-move('Gengar','Fast Attacker', 'Focus Blast').
-move('Gengar','Fast Attacker', 'Shadow Ball').
-move('Gengar','Fast Attacker', 'Sludge Wave').
-move('Gengar','Fast Attacker', 'Toxic Spikes').
-move('Gengar','Fast Attacker', 'Will-O-Wisp').
-pokemon('Gholdengo', 77).
-ability('Gholdengo', 'Good as Gold').
-item('Gholdengo', 'Choice Scarf').
-item('Gholdengo', 'Leftovers').
-role('Gholdengo', 'Bulky Support').
-ability('Gholdengo','Bulky Support', 'Good as Gold').
-item('Gholdengo','Bulky Support', 'Leftovers').
-tera('Gholdengo','Bulky Support', 'Dark').
-tera('Gholdengo','Bulky Support', 'Steel').
-tera('Gholdengo','Bulky Support', 'Water').
-move('Gholdengo','Bulky Support', 'Make It Rain').
-move('Gholdengo','Bulky Support', 'Nasty Plot').
-move('Gholdengo','Bulky Support', 'Recover').
-move('Gholdengo','Bulky Support', 'Shadow Ball').
-move('Gholdengo','Bulky Support', 'Thunder Wave').
-role('Gholdengo', 'Bulky Attacker').
-ability('Gholdengo','Bulky Attacker', 'Good as Gold').
-item('Gholdengo','Bulky Attacker', 'Choice Scarf').
-item('Gholdengo','Bulky Attacker', 'Leftovers').
-tera('Gholdengo','Bulky Attacker', 'Fighting').
-tera('Gholdengo','Bulky Attacker', 'Ghost').
-tera('Gholdengo','Bulky Attacker', 'Steel').
-move('Gholdengo','Bulky Attacker', 'Focus Blast').
-move('Gholdengo','Bulky Attacker', 'Make It Rain').
-move('Gholdengo','Bulky Attacker', 'Nasty Plot').
-move('Gholdengo','Bulky Attacker', 'Shadow Ball').
-move('Gholdengo','Bulky Attacker', 'Trick').
-pokemon('Girafarig', 89).
-ability('Girafarig', 'Sap Sipper').
-item('Girafarig', 'Eviolite').
-role('Girafarig', 'Bulky Setup').
-ability('Girafarig','Bulky Setup', 'Sap Sipper').
-item('Girafarig','Bulky Setup', 'Eviolite').
-tera('Girafarig','Bulky Setup', 'Electric').
-tera('Girafarig','Bulky Setup', 'Fairy').
-tera('Girafarig','Bulky Setup', 'Psychic').
-move('Girafarig','Bulky Setup', 'Dazzling Gleam').
-move('Girafarig','Bulky Setup', 'Nasty Plot').
-move('Girafarig','Bulky Setup', 'Psychic').
-move('Girafarig','Bulky Setup', 'Psyshock').
-move('Girafarig','Bulky Setup', 'Shadow Ball').
-move('Girafarig','Bulky Setup', 'Thunderbolt').
-role('Girafarig', 'Fast Bulky Setup').
-ability('Girafarig','Fast Bulky Setup', 'Sap Sipper').
-item('Girafarig','Fast Bulky Setup', 'Eviolite').
-tera('Girafarig','Fast Bulky Setup', 'Electric').
-tera('Girafarig','Fast Bulky Setup', 'Normal').
-move('Girafarig','Fast Bulky Setup', 'Hyper Voice').
-move('Girafarig','Fast Bulky Setup', 'Nasty Plot').
-move('Girafarig','Fast Bulky Setup', 'Psyshock').
-move('Girafarig','Fast Bulky Setup', 'Thunderbolt').
-pokemon('Giratina', 75).
-ability('Giratina', 'Pressure').
-item('Giratina', 'Leftovers').
-role('Giratina', 'Bulky Setup').
-ability('Giratina','Bulky Setup', 'Pressure').
-item('Giratina','Bulky Setup', 'Leftovers').
-tera('Giratina','Bulky Setup', 'Fairy').
-move('Giratina','Bulky Setup', 'Calm Mind').
-move('Giratina','Bulky Setup', 'Dragon Pulse').
-move('Giratina','Bulky Setup', 'Rest').
-move('Giratina','Bulky Setup', 'Sleep Talk').
-role('Giratina', 'Bulky Attacker').
-ability('Giratina','Bulky Attacker', 'Pressure').
-item('Giratina','Bulky Attacker', 'Leftovers').
-tera('Giratina','Bulky Attacker', 'Fairy').
-move('Giratina','Bulky Attacker', 'Dragon Tail').
-move('Giratina','Bulky Attacker', 'Rest').
-move('Giratina','Bulky Attacker', 'Shadow Ball').
-move('Giratina','Bulky Attacker', 'Sleep Talk').
-move('Giratina','Bulky Attacker', 'Will-O-Wisp').
-role('Giratina', 'Bulky Support').
-ability('Giratina','Bulky Support', 'Pressure').
-item('Giratina','Bulky Support', 'Leftovers').
-tera('Giratina','Bulky Support', 'Fairy').
-move('Giratina','Bulky Support', 'Defog').
-move('Giratina','Bulky Support', 'Dragon Tail').
-move('Giratina','Bulky Support', 'Rest').
-move('Giratina','Bulky Support', 'Shadow Ball').
-move('Giratina','Bulky Support', 'Will-O-Wisp').
-pokemon('Giratina-Origin', 72).
-ability('Giratina-Origin', 'Levitate').
-item('Giratina-Origin', 'Griseous Core').
-role('Giratina-Origin', 'Fast Attacker').
-ability('Giratina-Origin','Fast Attacker', 'Levitate').
-item('Giratina-Origin','Fast Attacker', 'Griseous Core').
-tera('Giratina-Origin','Fast Attacker', 'Dragon').
-tera('Giratina-Origin','Fast Attacker', 'Fairy').
-tera('Giratina-Origin','Fast Attacker', 'Ghost').
-tera('Giratina-Origin','Fast Attacker', 'Steel').
-move('Giratina-Origin','Fast Attacker', 'Defog').
-move('Giratina-Origin','Fast Attacker', 'Draco Meteor').
-move('Giratina-Origin','Fast Attacker', 'Dragon Tail').
-move('Giratina-Origin','Fast Attacker', 'Poltergeist').
-move('Giratina-Origin','Fast Attacker', 'Shadow Sneak').
-move('Giratina-Origin','Fast Attacker', 'Will-O-Wisp').
-pokemon('Glaceon', 94).
-ability('Glaceon', 'Ice Body').
-item('Glaceon', 'Heavy-Duty Boots').
-role('Glaceon', 'Bulky Attacker').
-ability('Glaceon','Bulky Attacker', 'Ice Body').
-item('Glaceon','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Glaceon','Bulky Attacker', 'Ground').
-move('Glaceon','Bulky Attacker', 'Freeze-Dry').
-move('Glaceon','Bulky Attacker', 'Mud Shot').
-move('Glaceon','Bulky Attacker', 'Protect').
-move('Glaceon','Bulky Attacker', 'Wish').
-role('Glaceon', 'Bulky Setup').
-ability('Glaceon','Bulky Setup', 'Ice Body').
-item('Glaceon','Bulky Setup', 'Heavy-Duty Boots').
-tera('Glaceon','Bulky Setup', 'Water').
-move('Glaceon','Bulky Setup', 'Calm Mind').
-move('Glaceon','Bulky Setup', 'Freeze-Dry').
-move('Glaceon','Bulky Setup', 'Protect').
-move('Glaceon','Bulky Setup', 'Wish').
-pokemon('Glalie', 96).
-ability('Glalie', 'Inner Focus').
-item('Glalie', 'Heavy-Duty Boots').
-role('Glalie', 'Fast Support').
-ability('Glalie','Fast Support', 'Inner Focus').
-item('Glalie','Fast Support', 'Heavy-Duty Boots').
-tera('Glalie','Fast Support', 'Ghost').
-tera('Glalie','Fast Support', 'Ground').
-tera('Glalie','Fast Support', 'Water').
-move('Glalie','Fast Support', 'Earthquake').
-move('Glalie','Fast Support', 'Freeze-Dry').
-move('Glalie','Fast Support', 'Spikes').
-move('Glalie','Fast Support', 'Taunt').
-pokemon('Glastrier', 86).
-ability('Glastrier', 'Chilling Neigh').
-item('Glastrier', 'Choice Band').
-item('Glastrier', 'Heavy-Duty Boots').
-role('Glastrier', 'Bulky Attacker').
-ability('Glastrier','Bulky Attacker', 'Chilling Neigh').
-item('Glastrier','Bulky Attacker', 'Choice Band').
-item('Glastrier','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Glastrier','Bulky Attacker', 'Fighting').
-tera('Glastrier','Bulky Attacker', 'Ground').
-tera('Glastrier','Bulky Attacker', 'Steel').
-move('Glastrier','Bulky Attacker', 'Close Combat').
-move('Glastrier','Bulky Attacker', 'Heavy Slam').
-move('Glastrier','Bulky Attacker', 'High Horsepower').
-move('Glastrier','Bulky Attacker', 'Icicle Crash').
-move('Glastrier','Bulky Attacker', 'Swords Dance').
-pokemon('Glimmora', 75).
-ability('Glimmora', 'Toxic Debris').
-item('Glimmora', 'Air Balloon').
-item('Glimmora', 'Assault Vest').
-item('Glimmora', 'Focus Sash').
-item('Glimmora', 'Heavy-Duty Boots').
-item('Glimmora', 'Power Herb').
-role('Glimmora', 'Setup Sweeper').
-ability('Glimmora','Setup Sweeper', 'Toxic Debris').
-item('Glimmora','Setup Sweeper', 'Power Herb').
-tera('Glimmora','Setup Sweeper', 'Grass').
-move('Glimmora','Setup Sweeper', 'Earth Power').
-move('Glimmora','Setup Sweeper', 'Energy Ball').
-move('Glimmora','Setup Sweeper', 'Meteor Beam').
-move('Glimmora','Setup Sweeper', 'Sludge Wave').
-role('Glimmora', 'Fast Support').
-ability('Glimmora','Fast Support', 'Toxic Debris').
-item('Glimmora','Fast Support', 'Air Balloon').
-item('Glimmora','Fast Support', 'Assault Vest').
-item('Glimmora','Fast Support', 'Focus Sash').
-item('Glimmora','Fast Support', 'Heavy-Duty Boots').
-tera('Glimmora','Fast Support', 'Ground').
-move('Glimmora','Fast Support', 'Earth Power').
-move('Glimmora','Fast Support', 'Mortal Spin').
-move('Glimmora','Fast Support', 'Power Gem').
-move('Glimmora','Fast Support', 'Sludge Wave').
-move('Glimmora','Fast Support', 'Spikes').
-move('Glimmora','Fast Support', 'Stealth Rock').
-pokemon('Gliscor', 76).
-ability('Gliscor', 'Poison Heal').
-item('Gliscor', 'Toxic Orb').
-role('Gliscor', 'Fast Support').
-ability('Gliscor','Fast Support', 'Poison Heal').
-item('Gliscor','Fast Support', 'Toxic Orb').
-tera('Gliscor','Fast Support', 'Water').
-move('Gliscor','Fast Support', 'Earthquake').
-move('Gliscor','Fast Support', 'Protect').
-move('Gliscor','Fast Support', 'Substitute').
-move('Gliscor','Fast Support', 'Toxic').
-role('Gliscor', 'Bulky Support').
-ability('Gliscor','Bulky Support', 'Poison Heal').
-item('Gliscor','Bulky Support', 'Toxic Orb').
-tera('Gliscor','Bulky Support', 'Water').
-move('Gliscor','Bulky Support', 'Earthquake').
-move('Gliscor','Bulky Support', 'Knock Off').
-move('Gliscor','Bulky Support', 'Protect').
-move('Gliscor','Bulky Support', 'Toxic').
-move('Gliscor','Bulky Support', 'Toxic Spikes').
-pokemon('Gogoat', 88).
-ability('Gogoat', 'Sap Sipper').
-item('Gogoat', 'Leftovers').
-role('Gogoat', 'Bulky Setup').
-ability('Gogoat','Bulky Setup', 'Sap Sipper').
-item('Gogoat','Bulky Setup', 'Leftovers').
-tera('Gogoat','Bulky Setup', 'Ground').
-tera('Gogoat','Bulky Setup', 'Water').
-move('Gogoat','Bulky Setup', 'Bulk Up').
-move('Gogoat','Bulky Setup', 'Earthquake').
-move('Gogoat','Bulky Setup', 'Horn Leech').
-move('Gogoat','Bulky Setup', 'Milk Drink').
-move('Gogoat','Bulky Setup', 'Rock Slide').
-pokemon('Golduck', 90).
-ability('Golduck', 'Cloud Nine').
-ability('Golduck', 'Swift Swim').
-item('Golduck', 'Choice Specs').
-item('Golduck', 'Leftovers').
-item('Golduck', 'Life Orb').
-role('Golduck', 'Bulky Setup').
-ability('Golduck','Bulky Setup', 'Cloud Nine').
-ability('Golduck','Bulky Setup', 'Swift Swim').
-item('Golduck','Bulky Setup', 'Leftovers').
-tera('Golduck','Bulky Setup', 'Water').
-move('Golduck','Bulky Setup', 'Encore').
-move('Golduck','Bulky Setup', 'Grass Knot').
-move('Golduck','Bulky Setup', 'Hydro Pump').
-move('Golduck','Bulky Setup', 'Ice Beam').
-move('Golduck','Bulky Setup', 'Nasty Plot').
-role('Golduck', 'Fast Attacker').
-ability('Golduck','Fast Attacker', 'Cloud Nine').
-ability('Golduck','Fast Attacker', 'Swift Swim').
-item('Golduck','Fast Attacker', 'Choice Specs').
-item('Golduck','Fast Attacker', 'Life Orb').
-tera('Golduck','Fast Attacker', 'Grass').
-tera('Golduck','Fast Attacker', 'Water').
-move('Golduck','Fast Attacker', 'Flip Turn').
-move('Golduck','Fast Attacker', 'Grass Knot').
-move('Golduck','Fast Attacker', 'Hydro Pump').
-move('Golduck','Fast Attacker', 'Ice Beam').
-move('Golduck','Fast Attacker', 'Nasty Plot').
-pokemon('Golem', 87).
-ability('Golem', 'Sturdy').
-item('Golem', 'Custap Berry').
-item('Golem', 'Weakness Policy').
-role('Golem', 'Bulky Attacker').
-ability('Golem','Bulky Attacker', 'Sturdy').
-item('Golem','Bulky Attacker', 'Custap Berry').
-item('Golem','Bulky Attacker', 'Weakness Policy').
-tera('Golem','Bulky Attacker', 'Grass').
-tera('Golem','Bulky Attacker', 'Ground').
-tera('Golem','Bulky Attacker', 'Steel').
-move('Golem','Bulky Attacker', 'Earthquake').
-move('Golem','Bulky Attacker', 'Explosion').
-move('Golem','Bulky Attacker', 'Rock Polish').
-move('Golem','Bulky Attacker', 'Stealth Rock').
-move('Golem','Bulky Attacker', 'Stone Edge').
-pokemon('Golem-Alola', 93).
-ability('Golem-Alola', 'Galvanize').
-item('Golem-Alola', 'Choice Band').
-item('Golem-Alola', 'Life Orb').
-role('Golem-Alola', 'Setup Sweeper').
-ability('Golem-Alola','Setup Sweeper', 'Galvanize').
-item('Golem-Alola','Setup Sweeper', 'Life Orb').
-tera('Golem-Alola','Setup Sweeper', 'Flying').
-tera('Golem-Alola','Setup Sweeper', 'Grass').
-move('Golem-Alola','Setup Sweeper', 'Double-Edge').
-move('Golem-Alola','Setup Sweeper', 'Earthquake').
-move('Golem-Alola','Setup Sweeper', 'Rock Polish').
-move('Golem-Alola','Setup Sweeper', 'Stone Edge').
-role('Golem-Alola', 'Wallbreaker').
-ability('Golem-Alola','Wallbreaker', 'Galvanize').
-item('Golem-Alola','Wallbreaker', 'Choice Band').
-tera('Golem-Alola','Wallbreaker', 'Electric').
-tera('Golem-Alola','Wallbreaker', 'Grass').
-tera('Golem-Alola','Wallbreaker', 'Ground').
-move('Golem-Alola','Wallbreaker', 'Double-Edge').
-move('Golem-Alola','Wallbreaker', 'Earthquake').
-move('Golem-Alola','Wallbreaker', 'Explosion').
-move('Golem-Alola','Wallbreaker', 'Stone Edge').
-pokemon('Golurk', 87).
-ability('Golurk', 'No Guard').
-item('Golurk', 'Choice Band').
-item('Golurk', 'Life Orb').
-role('Golurk', 'Wallbreaker').
-ability('Golurk','Wallbreaker', 'No Guard').
-item('Golurk','Wallbreaker', 'Choice Band').
-item('Golurk','Wallbreaker', 'Life Orb').
-tera('Golurk','Wallbreaker', 'Fighting').
-tera('Golurk','Wallbreaker', 'Ghost').
-tera('Golurk','Wallbreaker', 'Ground').
-move('Golurk','Wallbreaker', 'Dynamic Punch').
-move('Golurk','Wallbreaker', 'Earthquake').
-move('Golurk','Wallbreaker', 'Poltergeist').
-move('Golurk','Wallbreaker', 'Stealth Rock').
-move('Golurk','Wallbreaker', 'Stone Edge').
-pokemon('Goodra', 85).
-ability('Goodra', 'Sap Sipper').
-item('Goodra', 'Assault Vest').
-role('Goodra', 'AV Pivot').
-ability('Goodra','AV Pivot', 'Sap Sipper').
-item('Goodra','AV Pivot', 'Assault Vest').
-tera('Goodra','AV Pivot', 'Fire').
-tera('Goodra','AV Pivot', 'Grass').
-tera('Goodra','AV Pivot', 'Ground').
-tera('Goodra','AV Pivot', 'Poison').
-tera('Goodra','AV Pivot', 'Steel').
-tera('Goodra','AV Pivot', 'Water').
-move('Goodra','AV Pivot', 'Draco Meteor').
-move('Goodra','AV Pivot', 'Dragon Tail').
-move('Goodra','AV Pivot', 'Earthquake').
-move('Goodra','AV Pivot', 'Fire Blast').
-move('Goodra','AV Pivot', 'Knock Off').
-move('Goodra','AV Pivot', 'Power Whip').
-move('Goodra','AV Pivot', 'Scald').
-move('Goodra','AV Pivot', 'Sludge Bomb').
-pokemon('Goodra-Hisui', 82).
-ability('Goodra-Hisui', 'Sap Sipper').
-item('Goodra-Hisui', 'Assault Vest').
-role('Goodra-Hisui', 'AV Pivot').
-ability('Goodra-Hisui','AV Pivot', 'Sap Sipper').
-item('Goodra-Hisui','AV Pivot', 'Assault Vest').
-tera('Goodra-Hisui','AV Pivot', 'Dragon').
-tera('Goodra-Hisui','AV Pivot', 'Flying').
-tera('Goodra-Hisui','AV Pivot', 'Ground').
-tera('Goodra-Hisui','AV Pivot', 'Water').
-move('Goodra-Hisui','AV Pivot', 'Draco Meteor').
-move('Goodra-Hisui','AV Pivot', 'Dragon Tail').
-move('Goodra-Hisui','AV Pivot', 'Earthquake').
-move('Goodra-Hisui','AV Pivot', 'Fire Blast').
-move('Goodra-Hisui','AV Pivot', 'Heavy Slam').
-move('Goodra-Hisui','AV Pivot', 'Hydro Pump').
-move('Goodra-Hisui','AV Pivot', 'Knock Off').
-move('Goodra-Hisui','AV Pivot', 'Thunderbolt').
-pokemon('Gothitelle', 90).
-ability('Gothitelle', 'Shadow Tag').
-item('Gothitelle', 'Choice Scarf').
-item('Gothitelle', 'Leftovers').
-role('Gothitelle', 'Bulky Setup').
-ability('Gothitelle','Bulky Setup', 'Shadow Tag').
-item('Gothitelle','Bulky Setup', 'Leftovers').
-tera('Gothitelle','Bulky Setup', 'Dark').
-tera('Gothitelle','Bulky Setup', 'Electric').
-tera('Gothitelle','Bulky Setup', 'Fairy').
-tera('Gothitelle','Bulky Setup', 'Fighting').
-tera('Gothitelle','Bulky Setup', 'Flying').
-tera('Gothitelle','Bulky Setup', 'Ghost').
-tera('Gothitelle','Bulky Setup', 'Ground').
-tera('Gothitelle','Bulky Setup', 'Steel').
-move('Gothitelle','Bulky Setup', 'Calm Mind').
-move('Gothitelle','Bulky Setup', 'Dark Pulse').
-move('Gothitelle','Bulky Setup', 'Focus Blast').
-move('Gothitelle','Bulky Setup', 'Psychic Noise').
-move('Gothitelle','Bulky Setup', 'Thunderbolt').
-role('Gothitelle', 'Fast Attacker').
-ability('Gothitelle','Fast Attacker', 'Shadow Tag').
-item('Gothitelle','Fast Attacker', 'Choice Scarf').
-tera('Gothitelle','Fast Attacker', 'Dark').
-tera('Gothitelle','Fast Attacker', 'Fairy').
-tera('Gothitelle','Fast Attacker', 'Fighting').
-tera('Gothitelle','Fast Attacker', 'Flying').
-tera('Gothitelle','Fast Attacker', 'Ghost').
-tera('Gothitelle','Fast Attacker', 'Ground').
-tera('Gothitelle','Fast Attacker', 'Psychic').
-tera('Gothitelle','Fast Attacker', 'Steel').
-move('Gothitelle','Fast Attacker', 'Dark Pulse').
-move('Gothitelle','Fast Attacker', 'Focus Blast').
-move('Gothitelle','Fast Attacker', 'Psychic').
-move('Gothitelle','Fast Attacker', 'Trick').
-pokemon('Gouging Fire', 74).
-ability('Gouging Fire', 'Protosynthesis').
-item('Gouging Fire', 'Heavy-Duty Boots').
-role('Gouging Fire', 'Setup Sweeper').
-ability('Gouging Fire','Setup Sweeper', 'Protosynthesis').
-item('Gouging Fire','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Gouging Fire','Setup Sweeper', 'Ground').
-move('Gouging Fire','Setup Sweeper', 'Dragon Dance').
-move('Gouging Fire','Setup Sweeper', 'Earthquake').
-move('Gouging Fire','Setup Sweeper', 'Heat Crash').
-move('Gouging Fire','Setup Sweeper', 'Outrage').
-role('Gouging Fire', 'Bulky Setup').
-ability('Gouging Fire','Bulky Setup', 'Protosynthesis').
-item('Gouging Fire','Bulky Setup', 'Heavy-Duty Boots').
-tera('Gouging Fire','Bulky Setup', 'Fairy').
-move('Gouging Fire','Bulky Setup', 'Dragon Dance').
-move('Gouging Fire','Bulky Setup', 'Heat Crash').
-move('Gouging Fire','Bulky Setup', 'Morning Sun').
-move('Gouging Fire','Bulky Setup', 'Outrage').
-pokemon('Grafaiai', 86).
-ability('Grafaiai', 'Poison Touch').
-ability('Grafaiai', 'Prankster').
-item('Grafaiai', 'Assault Vest').
-item('Grafaiai', 'Heavy-Duty Boots').
-item('Grafaiai', 'Life Orb').
-role('Grafaiai', 'Fast Support').
-ability('Grafaiai','Fast Support', 'Prankster').
-item('Grafaiai','Fast Support', 'Heavy-Duty Boots').
-tera('Grafaiai','Fast Support', 'Dark').
-move('Grafaiai','Fast Support', 'Encore').
-move('Grafaiai','Fast Support', 'Gunk Shot').
-move('Grafaiai','Fast Support', 'Knock Off').
-move('Grafaiai','Fast Support', 'Parting Shot').
-role('Grafaiai', 'Setup Sweeper').
-ability('Grafaiai','Setup Sweeper', 'Poison Touch').
-item('Grafaiai','Setup Sweeper', 'Life Orb').
-tera('Grafaiai','Setup Sweeper', 'Dark').
-move('Grafaiai','Setup Sweeper', 'Gunk Shot').
-move('Grafaiai','Setup Sweeper', 'Knock Off').
-move('Grafaiai','Setup Sweeper', 'Low Kick').
-move('Grafaiai','Setup Sweeper', 'Swords Dance').
-role('Grafaiai', 'AV Pivot').
-ability('Grafaiai','AV Pivot', 'Poison Touch').
-item('Grafaiai','AV Pivot', 'Assault Vest').
-tera('Grafaiai','AV Pivot', 'Dark').
-move('Grafaiai','AV Pivot', 'Gunk Shot').
-move('Grafaiai','AV Pivot', 'Knock Off').
-move('Grafaiai','AV Pivot', 'Super Fang').
-move('Grafaiai','AV Pivot', 'U-turn').
-pokemon('Granbull', 88).
-ability('Granbull', 'Intimidate').
-item('Granbull', 'Leftovers').
-role('Granbull', 'Bulky Attacker').
-ability('Granbull','Bulky Attacker', 'Intimidate').
-item('Granbull','Bulky Attacker', 'Leftovers').
-tera('Granbull','Bulky Attacker', 'Ground').
-move('Granbull','Bulky Attacker', 'Earthquake').
-move('Granbull','Bulky Attacker', 'Encore').
-move('Granbull','Bulky Attacker', 'Play Rough').
-move('Granbull','Bulky Attacker', 'Thunder Wave').
-role('Granbull', 'Bulky Support').
-ability('Granbull','Bulky Support', 'Intimidate').
-item('Granbull','Bulky Support', 'Leftovers').
-tera('Granbull','Bulky Support', 'Ground').
-move('Granbull','Bulky Support', 'Earthquake').
-move('Granbull','Bulky Support', 'Play Rough').
-move('Granbull','Bulky Support', 'Roar').
-move('Granbull','Bulky Support', 'Thunder Wave').
-pokemon('Great Tusk', 77).
-ability('Great Tusk', 'Protosynthesis').
-item('Great Tusk', 'Assault Vest').
-item('Great Tusk', 'Booster Energy').
-item('Great Tusk', 'Choice Band').
-item('Great Tusk', 'Choice Scarf').
-item('Great Tusk', 'Leftovers').
-role('Great Tusk', 'Bulky Setup').
-ability('Great Tusk','Bulky Setup', 'Protosynthesis').
-item('Great Tusk','Bulky Setup', 'Leftovers').
-tera('Great Tusk','Bulky Setup', 'Ground').
-tera('Great Tusk','Bulky Setup', 'Steel').
-move('Great Tusk','Bulky Setup', 'Bulk Up').
-move('Great Tusk','Bulky Setup', 'Close Combat').
-move('Great Tusk','Bulky Setup', 'Earthquake').
-move('Great Tusk','Bulky Setup', 'Rapid Spin').
-move('Great Tusk','Bulky Setup', 'Stone Edge').
-role('Great Tusk', 'Bulky Support').
-ability('Great Tusk','Bulky Support', 'Protosynthesis').
-item('Great Tusk','Bulky Support', 'Assault Vest').
-item('Great Tusk','Bulky Support', 'Choice Band').
-item('Great Tusk','Bulky Support', 'Choice Scarf').
-item('Great Tusk','Bulky Support', 'Leftovers').
-tera('Great Tusk','Bulky Support', 'Ground').
-tera('Great Tusk','Bulky Support', 'Steel').
-move('Great Tusk','Bulky Support', 'Close Combat').
-move('Great Tusk','Bulky Support', 'Headlong Rush').
-move('Great Tusk','Bulky Support', 'Ice Spinner').
-move('Great Tusk','Bulky Support', 'Knock Off').
-move('Great Tusk','Bulky Support', 'Rapid Spin').
-move('Great Tusk','Bulky Support', 'Stealth Rock').
-move('Great Tusk','Bulky Support', 'Stone Edge').
-role('Great Tusk', 'Fast Bulky Setup').
-ability('Great Tusk','Fast Bulky Setup', 'Protosynthesis').
-item('Great Tusk','Fast Bulky Setup', 'Booster Energy').
-tera('Great Tusk','Fast Bulky Setup', 'Ground').
-tera('Great Tusk','Fast Bulky Setup', 'Steel').
-move('Great Tusk','Fast Bulky Setup', 'Bulk Up').
-move('Great Tusk','Fast Bulky Setup', 'Close Combat').
-move('Great Tusk','Fast Bulky Setup', 'Earthquake').
-move('Great Tusk','Fast Bulky Setup', 'Rapid Spin').
-move('Great Tusk','Fast Bulky Setup', 'Stone Edge').
-pokemon('Greedent', 86).
-ability('Greedent', 'Cheek Pouch').
-item('Greedent', 'Sitrus Berry').
-role('Greedent', 'Bulky Setup').
-ability('Greedent','Bulky Setup', 'Cheek Pouch').
-item('Greedent','Bulky Setup', 'Sitrus Berry').
-tera('Greedent','Bulky Setup', 'Ghost').
-tera('Greedent','Bulky Setup', 'Ground').
-move('Greedent','Bulky Setup', 'Body Slam').
-move('Greedent','Bulky Setup', 'Double-Edge').
-move('Greedent','Bulky Setup', 'Earthquake').
-move('Greedent','Bulky Setup', 'Knock Off').
-move('Greedent','Bulky Setup', 'Swords Dance').
-pokemon('Greninja', 80).
-ability('Greninja', 'Protean').
-item('Greninja', 'Choice Specs').
-item('Greninja', 'Life Orb').
-role('Greninja', 'Wallbreaker').
-ability('Greninja','Wallbreaker', 'Protean').
-item('Greninja','Wallbreaker', 'Life Orb').
-tera('Greninja','Wallbreaker', 'Poison').
-move('Greninja','Wallbreaker', 'Grass Knot').
-move('Greninja','Wallbreaker', 'Gunk Shot').
-move('Greninja','Wallbreaker', 'Hydro Pump').
-move('Greninja','Wallbreaker', 'Ice Beam').
-move('Greninja','Wallbreaker', 'Spikes').
-move('Greninja','Wallbreaker', 'U-turn').
-role('Greninja', 'Fast Attacker').
-ability('Greninja','Fast Attacker', 'Protean').
-item('Greninja','Fast Attacker', 'Choice Specs').
-item('Greninja','Fast Attacker', 'Life Orb').
-tera('Greninja','Fast Attacker', 'Dark').
-tera('Greninja','Fast Attacker', 'Poison').
-tera('Greninja','Fast Attacker', 'Water').
-move('Greninja','Fast Attacker', 'Dark Pulse').
-move('Greninja','Fast Attacker', 'Grass Knot').
-move('Greninja','Fast Attacker', 'Gunk Shot').
-move('Greninja','Fast Attacker', 'Hydro Pump').
-move('Greninja','Fast Attacker', 'Ice Beam').
-move('Greninja','Fast Attacker', 'Toxic Spikes').
-move('Greninja','Fast Attacker', 'U-turn').
-pokemon('Greninja-Bond', 80).
-ability('Greninja-Bond', 'Battle Bond').
-item('Greninja-Bond', 'Life Orb').
-role('Greninja-Bond', 'Fast Attacker').
-ability('Greninja-Bond','Fast Attacker', 'Battle Bond').
-item('Greninja-Bond','Fast Attacker', 'Life Orb').
-tera('Greninja-Bond','Fast Attacker', 'Poison').
-tera('Greninja-Bond','Fast Attacker', 'Water').
-move('Greninja-Bond','Fast Attacker', 'Dark Pulse').
-move('Greninja-Bond','Fast Attacker', 'Gunk Shot').
-move('Greninja-Bond','Fast Attacker', 'Hydro Pump').
-move('Greninja-Bond','Fast Attacker', 'Ice Beam').
-pokemon('Grimmsnarl', 83).
-ability('Grimmsnarl', 'Prankster').
-item('Grimmsnarl', 'Leftovers').
-item('Grimmsnarl', 'Light Clay').
-role('Grimmsnarl', 'Bulky Attacker').
-ability('Grimmsnarl','Bulky Attacker', 'Prankster').
-item('Grimmsnarl','Bulky Attacker', 'Leftovers').
-tera('Grimmsnarl','Bulky Attacker', 'Poison').
-tera('Grimmsnarl','Bulky Attacker', 'Steel').
-move('Grimmsnarl','Bulky Attacker', 'Parting Shot').
-move('Grimmsnarl','Bulky Attacker', 'Spirit Break').
-move('Grimmsnarl','Bulky Attacker', 'Sucker Punch').
-move('Grimmsnarl','Bulky Attacker', 'Taunt').
-move('Grimmsnarl','Bulky Attacker', 'Thunder Wave').
-role('Grimmsnarl', 'Bulky Support').
-ability('Grimmsnarl','Bulky Support', 'Prankster').
-item('Grimmsnarl','Bulky Support', 'Light Clay').
-tera('Grimmsnarl','Bulky Support', 'Poison').
-tera('Grimmsnarl','Bulky Support', 'Steel').
-move('Grimmsnarl','Bulky Support', 'Light Screen').
-move('Grimmsnarl','Bulky Support', 'Parting Shot').
-move('Grimmsnarl','Bulky Support', 'Reflect').
-move('Grimmsnarl','Bulky Support', 'Spirit Break').
-move('Grimmsnarl','Bulky Support', 'Thunder Wave').
-pokemon('Groudon', 72).
-ability('Groudon', 'Drought').
-item('Groudon', 'Leftovers').
-role('Groudon', 'Bulky Setup').
-ability('Groudon','Bulky Setup', 'Drought').
-item('Groudon','Bulky Setup', 'Leftovers').
-tera('Groudon','Bulky Setup', 'Fire').
-move('Groudon','Bulky Setup', 'Heat Crash').
-move('Groudon','Bulky Setup', 'Precipice Blades').
-move('Groudon','Bulky Setup', 'Stone Edge').
-move('Groudon','Bulky Setup', 'Swords Dance').
-move('Groudon','Bulky Setup', 'Thunder Wave').
-role('Groudon', 'Bulky Attacker').
-ability('Groudon','Bulky Attacker', 'Drought').
-item('Groudon','Bulky Attacker', 'Leftovers').
-tera('Groudon','Bulky Attacker', 'Fire').
-move('Groudon','Bulky Attacker', 'Heat Crash').
-move('Groudon','Bulky Attacker', 'Precipice Blades').
-move('Groudon','Bulky Attacker', 'Roar').
-move('Groudon','Bulky Attacker', 'Spikes').
-move('Groudon','Bulky Attacker', 'Stealth Rock').
-move('Groudon','Bulky Attacker', 'Stone Edge').
-move('Groudon','Bulky Attacker', 'Thunder Wave').
-move('Groudon','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Grumpig', 92).
-ability('Grumpig', 'Thick Fat').
-item('Grumpig', 'Choice Scarf').
-item('Grumpig', 'Choice Specs').
-item('Grumpig', 'Leftovers').
-role('Grumpig', 'Bulky Setup').
-ability('Grumpig','Bulky Setup', 'Thick Fat').
-item('Grumpig','Bulky Setup', 'Leftovers').
-tera('Grumpig','Bulky Setup', 'Fairy').
-tera('Grumpig','Bulky Setup', 'Fighting').
-tera('Grumpig','Bulky Setup', 'Ground').
-move('Grumpig','Bulky Setup', 'Dazzling Gleam').
-move('Grumpig','Bulky Setup', 'Earth Power').
-move('Grumpig','Bulky Setup', 'Focus Blast').
-move('Grumpig','Bulky Setup', 'Nasty Plot').
-move('Grumpig','Bulky Setup', 'Psychic').
-move('Grumpig','Bulky Setup', 'Psyshock').
-move('Grumpig','Bulky Setup', 'Shadow Ball').
-role('Grumpig', 'Bulky Attacker').
-ability('Grumpig','Bulky Attacker', 'Thick Fat').
-item('Grumpig','Bulky Attacker', 'Choice Scarf').
-item('Grumpig','Bulky Attacker', 'Choice Specs').
-tera('Grumpig','Bulky Attacker', 'Fighting').
-tera('Grumpig','Bulky Attacker', 'Ghost').
-tera('Grumpig','Bulky Attacker', 'Ground').
-tera('Grumpig','Bulky Attacker', 'Psychic').
-move('Grumpig','Bulky Attacker', 'Earth Power').
-move('Grumpig','Bulky Attacker', 'Focus Blast').
-move('Grumpig','Bulky Attacker', 'Psychic').
-move('Grumpig','Bulky Attacker', 'Psyshock').
-move('Grumpig','Bulky Attacker', 'Shadow Ball').
-move('Grumpig','Bulky Attacker', 'Trick').
-pokemon('Gumshoos', 95).
-ability('Gumshoos', 'Adaptability').
-ability('Gumshoos', 'Stakeout').
-item('Gumshoos', 'Choice Band').
-role('Gumshoos', 'Wallbreaker').
-ability('Gumshoos','Wallbreaker', 'Stakeout').
-item('Gumshoos','Wallbreaker', 'Choice Band').
-tera('Gumshoos','Wallbreaker', 'Normal').
-move('Gumshoos','Wallbreaker', 'Double-Edge').
-move('Gumshoos','Wallbreaker', 'Earthquake').
-move('Gumshoos','Wallbreaker', 'Knock Off').
-move('Gumshoos','Wallbreaker', 'U-turn').
-role('Gumshoos', 'Fast Attacker').
-ability('Gumshoos','Fast Attacker', 'Adaptability').
-ability('Gumshoos','Fast Attacker', 'Stakeout').
-item('Gumshoos','Fast Attacker', 'Choice Band').
-tera('Gumshoos','Fast Attacker', 'Ground').
-move('Gumshoos','Fast Attacker', 'Double-Edge').
-move('Gumshoos','Fast Attacker', 'Earthquake').
-move('Gumshoos','Fast Attacker', 'Knock Off').
-move('Gumshoos','Fast Attacker', 'U-turn').
-pokemon('Gurdurr', 85).
-ability('Gurdurr', 'Guts').
-item('Gurdurr', 'Eviolite').
-role('Gurdurr', 'Bulky Attacker').
-ability('Gurdurr','Bulky Attacker', 'Guts').
-item('Gurdurr','Bulky Attacker', 'Eviolite').
-tera('Gurdurr','Bulky Attacker', 'Steel').
-move('Gurdurr','Bulky Attacker', 'Bulk Up').
-move('Gurdurr','Bulky Attacker', 'Defog').
-move('Gurdurr','Bulky Attacker', 'Drain Punch').
-move('Gurdurr','Bulky Attacker', 'Knock Off').
-move('Gurdurr','Bulky Attacker', 'Mach Punch').
-pokemon('Gyarados', 79).
-ability('Gyarados', 'Intimidate').
-ability('Gyarados', 'Moxie').
-item('Gyarados', 'Heavy-Duty Boots').
-role('Gyarados', 'Setup Sweeper').
-ability('Gyarados','Setup Sweeper', 'Intimidate').
-ability('Gyarados','Setup Sweeper', 'Moxie').
-item('Gyarados','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Gyarados','Setup Sweeper', 'Ground').
-move('Gyarados','Setup Sweeper', 'Dragon Dance').
-move('Gyarados','Setup Sweeper', 'Earthquake').
-move('Gyarados','Setup Sweeper', 'Stone Edge').
-move('Gyarados','Setup Sweeper', 'Temper Flare').
-move('Gyarados','Setup Sweeper', 'Waterfall').
-role('Gyarados', 'Tera Blast user').
-ability('Gyarados','Tera Blast user', 'Intimidate').
-ability('Gyarados','Tera Blast user', 'Moxie').
-item('Gyarados','Tera Blast user', 'Heavy-Duty Boots').
-tera('Gyarados','Tera Blast user', 'Flying').
-move('Gyarados','Tera Blast user', 'Dragon Dance').
-move('Gyarados','Tera Blast user', 'Earthquake').
-move('Gyarados','Tera Blast user', 'Tera Blast').
-move('Gyarados','Tera Blast user', 'Waterfall').
-pokemon('Hariyama', 87).
-ability('Hariyama', 'Guts').
-ability('Hariyama', 'Thick Fat').
-item('Hariyama', 'Assault Vest').
-item('Hariyama', 'Flame Orb').
-role('Hariyama', 'AV Pivot').
-ability('Hariyama','AV Pivot', 'Thick Fat').
-item('Hariyama','AV Pivot', 'Assault Vest').
-tera('Hariyama','AV Pivot', 'Steel').
-move('Hariyama','AV Pivot', 'Bullet Punch').
-move('Hariyama','AV Pivot', 'Close Combat').
-move('Hariyama','AV Pivot', 'Headlong Rush').
-move('Hariyama','AV Pivot', 'Heavy Slam').
-move('Hariyama','AV Pivot', 'Knock Off').
-move('Hariyama','AV Pivot', 'Stone Edge').
-role('Hariyama', 'Wallbreaker').
-ability('Hariyama','Wallbreaker', 'Guts').
-item('Hariyama','Wallbreaker', 'Flame Orb').
-tera('Hariyama','Wallbreaker', 'Normal').
-move('Hariyama','Wallbreaker', 'Bullet Punch').
-move('Hariyama','Wallbreaker', 'Close Combat').
-move('Hariyama','Wallbreaker', 'Facade').
-move('Hariyama','Wallbreaker', 'Fake Out').
-move('Hariyama','Wallbreaker', 'Headlong Rush').
-move('Hariyama','Wallbreaker', 'Knock Off').
-pokemon('Hatterene', 85).
-ability('Hatterene', 'Magic Bounce').
-item('Hatterene', 'Assault Vest').
-item('Hatterene', 'Leftovers').
-role('Hatterene', 'AV Pivot').
-ability('Hatterene','AV Pivot', 'Magic Bounce').
-item('Hatterene','AV Pivot', 'Assault Vest').
-tera('Hatterene','AV Pivot', 'Fairy').
-tera('Hatterene','AV Pivot', 'Steel').
-move('Hatterene','AV Pivot', 'Draining Kiss').
-move('Hatterene','AV Pivot', 'Mystical Fire').
-move('Hatterene','AV Pivot', 'Nuzzle').
-move('Hatterene','AV Pivot', 'Psychic').
-move('Hatterene','AV Pivot', 'Psychic Noise').
-role('Hatterene', 'Bulky Setup').
-ability('Hatterene','Bulky Setup', 'Magic Bounce').
-item('Hatterene','Bulky Setup', 'Leftovers').
-tera('Hatterene','Bulky Setup', 'Fairy').
-tera('Hatterene','Bulky Setup', 'Steel').
-move('Hatterene','Bulky Setup', 'Calm Mind').
-move('Hatterene','Bulky Setup', 'Draining Kiss').
-move('Hatterene','Bulky Setup', 'Mystical Fire').
-move('Hatterene','Bulky Setup', 'Psychic').
-move('Hatterene','Bulky Setup', 'Psyshock').
-pokemon('Hawlucha', 80).
-ability('Hawlucha', 'Unburden').
-item('Hawlucha', 'White Herb').
-role('Hawlucha', 'Setup Sweeper').
-ability('Hawlucha','Setup Sweeper', 'Unburden').
-item('Hawlucha','Setup Sweeper', 'White Herb').
-tera('Hawlucha','Setup Sweeper', 'Fighting').
-tera('Hawlucha','Setup Sweeper', 'Flying').
-move('Hawlucha','Setup Sweeper', 'Acrobatics').
-move('Hawlucha','Setup Sweeper', 'Brave Bird').
-move('Hawlucha','Setup Sweeper', 'Close Combat').
-move('Hawlucha','Setup Sweeper', 'Encore').
-move('Hawlucha','Setup Sweeper', 'Stone Edge').
-move('Hawlucha','Setup Sweeper', 'Swords Dance').
-move('Hawlucha','Setup Sweeper', 'Throat Chop').
-pokemon('Haxorus', 78).
-ability('Haxorus', 'Mold Breaker').
-item('Haxorus', 'Loaded Dice').
-item('Haxorus', 'Lum Berry').
-role('Haxorus', 'Setup Sweeper').
-ability('Haxorus','Setup Sweeper', 'Mold Breaker').
-item('Haxorus','Setup Sweeper', 'Lum Berry').
-tera('Haxorus','Setup Sweeper', 'Steel').
-move('Haxorus','Setup Sweeper', 'Close Combat').
-move('Haxorus','Setup Sweeper', 'Dragon Dance').
-move('Haxorus','Setup Sweeper', 'Earthquake').
-move('Haxorus','Setup Sweeper', 'Iron Head').
-move('Haxorus','Setup Sweeper', 'Outrage').
-role('Haxorus', 'Fast Bulky Setup').
-ability('Haxorus','Fast Bulky Setup', 'Mold Breaker').
-item('Haxorus','Fast Bulky Setup', 'Loaded Dice').
-tera('Haxorus','Fast Bulky Setup', 'Steel').
-move('Haxorus','Fast Bulky Setup', 'Close Combat').
-move('Haxorus','Fast Bulky Setup', 'Earthquake').
-move('Haxorus','Fast Bulky Setup', 'Iron Head').
-move('Haxorus','Fast Bulky Setup', 'Scale Shot').
-move('Haxorus','Fast Bulky Setup', 'Swords Dance').
-pokemon('Heatran', 79).
-ability('Heatran', 'Flash Fire').
-item('Heatran', 'Air Balloon').
-item('Heatran', 'Assault Vest').
-role('Heatran', 'Bulky Support').
-ability('Heatran','Bulky Support', 'Flash Fire').
-item('Heatran','Bulky Support', 'Air Balloon').
-item('Heatran','Bulky Support', 'Assault Vest').
-tera('Heatran','Bulky Support', 'Flying').
-tera('Heatran','Bulky Support', 'Grass').
-move('Heatran','Bulky Support', 'Earth Power').
-move('Heatran','Bulky Support', 'Heavy Slam').
-move('Heatran','Bulky Support', 'Lava Plume').
-move('Heatran','Bulky Support', 'Magma Storm').
-move('Heatran','Bulky Support', 'Stealth Rock').
-pokemon('Heracross', 80).
-ability('Heracross', 'Guts').
-ability('Heracross', 'Moxie').
-item('Heracross', 'Choice Band').
-item('Heracross', 'Choice Scarf').
-item('Heracross', 'Flame Orb').
-role('Heracross', 'Fast Attacker').
-ability('Heracross','Fast Attacker', 'Moxie').
-item('Heracross','Fast Attacker', 'Choice Band').
-item('Heracross','Fast Attacker', 'Choice Scarf').
-tera('Heracross','Fast Attacker', 'Bug').
-tera('Heracross','Fast Attacker', 'Fighting').
-tera('Heracross','Fast Attacker', 'Rock').
-move('Heracross','Fast Attacker', 'Close Combat').
-move('Heracross','Fast Attacker', 'Earthquake').
-move('Heracross','Fast Attacker', 'Knock Off').
-move('Heracross','Fast Attacker', 'Megahorn').
-move('Heracross','Fast Attacker', 'Stone Edge').
-role('Heracross', 'Setup Sweeper').
-ability('Heracross','Setup Sweeper', 'Guts').
-item('Heracross','Setup Sweeper', 'Flame Orb').
-tera('Heracross','Setup Sweeper', 'Normal').
-move('Heracross','Setup Sweeper', 'Close Combat').
-move('Heracross','Setup Sweeper', 'Facade').
-move('Heracross','Setup Sweeper', 'Knock Off').
-move('Heracross','Setup Sweeper', 'Trailblaze').
-pokemon('Hippowdon', 82).
-ability('Hippowdon', 'Sand Stream').
-item('Hippowdon', 'Leftovers').
-item('Hippowdon', 'Rocky Helmet').
-role('Hippowdon', 'Bulky Support').
-ability('Hippowdon','Bulky Support', 'Sand Stream').
-item('Hippowdon','Bulky Support', 'Leftovers').
-item('Hippowdon','Bulky Support', 'Rocky Helmet').
-tera('Hippowdon','Bulky Support', 'Dragon').
-tera('Hippowdon','Bulky Support', 'Rock').
-tera('Hippowdon','Bulky Support', 'Steel').
-move('Hippowdon','Bulky Support', 'Earthquake').
-move('Hippowdon','Bulky Support', 'Slack Off').
-move('Hippowdon','Bulky Support', 'Stealth Rock').
-move('Hippowdon','Bulky Support', 'Stone Edge').
-move('Hippowdon','Bulky Support', 'Whirlwind').
-role('Hippowdon', 'Bulky Setup').
-ability('Hippowdon','Bulky Setup', 'Sand Stream').
-item('Hippowdon','Bulky Setup', 'Leftovers').
-tera('Hippowdon','Bulky Setup', 'Rock').
-tera('Hippowdon','Bulky Setup', 'Steel').
-move('Hippowdon','Bulky Setup', 'Curse').
-move('Hippowdon','Bulky Setup', 'Earthquake').
-move('Hippowdon','Bulky Setup', 'Slack Off').
-move('Hippowdon','Bulky Setup', 'Stone Edge').
-pokemon('Hitmonchan', 87).
-ability('Hitmonchan', 'Iron Fist').
-item('Hitmonchan', 'Assault Vest').
-item('Hitmonchan', 'Leftovers').
-item('Hitmonchan', 'Life Orb').
-role('Hitmonchan', 'Setup Sweeper').
-ability('Hitmonchan','Setup Sweeper', 'Iron Fist').
-item('Hitmonchan','Setup Sweeper', 'Leftovers').
-item('Hitmonchan','Setup Sweeper', 'Life Orb').
-tera('Hitmonchan','Setup Sweeper', 'Dark').
-tera('Hitmonchan','Setup Sweeper', 'Fighting').
-move('Hitmonchan','Setup Sweeper', 'Drain Punch').
-move('Hitmonchan','Setup Sweeper', 'Ice Punch').
-move('Hitmonchan','Setup Sweeper', 'Knock Off').
-move('Hitmonchan','Setup Sweeper', 'Mach Punch').
-move('Hitmonchan','Setup Sweeper', 'Rapid Spin').
-move('Hitmonchan','Setup Sweeper', 'Swords Dance').
-role('Hitmonchan', 'Bulky Setup').
-ability('Hitmonchan','Bulky Setup', 'Iron Fist').
-item('Hitmonchan','Bulky Setup', 'Leftovers').
-tera('Hitmonchan','Bulky Setup', 'Dark').
-tera('Hitmonchan','Bulky Setup', 'Poison').
-tera('Hitmonchan','Bulky Setup', 'Steel').
-move('Hitmonchan','Bulky Setup', 'Bulk Up').
-move('Hitmonchan','Bulky Setup', 'Drain Punch').
-move('Hitmonchan','Bulky Setup', 'Knock Off').
-move('Hitmonchan','Bulky Setup', 'Poison Jab').
-move('Hitmonchan','Bulky Setup', 'Rapid Spin').
-role('Hitmonchan', 'Bulky Support').
-ability('Hitmonchan','Bulky Support', 'Iron Fist').
-item('Hitmonchan','Bulky Support', 'Assault Vest').
-item('Hitmonchan','Bulky Support', 'Leftovers').
-tera('Hitmonchan','Bulky Support', 'Steel').
-move('Hitmonchan','Bulky Support', 'Drain Punch').
-move('Hitmonchan','Bulky Support', 'Encore').
-move('Hitmonchan','Bulky Support', 'Knock Off').
-move('Hitmonchan','Bulky Support', 'Poison Jab').
-move('Hitmonchan','Bulky Support', 'Rapid Spin').
-move('Hitmonchan','Bulky Support', 'Taunt').
-pokemon('Hitmonlee', 85).
-ability('Hitmonlee', 'Reckless').
-ability('Hitmonlee', 'Unburden').
-item('Hitmonlee', 'Choice Band').
-item('Hitmonlee', 'Choice Scarf').
-item('Hitmonlee', 'White Herb').
-role('Hitmonlee', 'Setup Sweeper').
-ability('Hitmonlee','Setup Sweeper', 'Unburden').
-item('Hitmonlee','Setup Sweeper', 'White Herb').
-tera('Hitmonlee','Setup Sweeper', 'Dark').
-tera('Hitmonlee','Setup Sweeper', 'Fighting').
-tera('Hitmonlee','Setup Sweeper', 'Poison').
-move('Hitmonlee','Setup Sweeper', 'Close Combat').
-move('Hitmonlee','Setup Sweeper', 'Knock Off').
-move('Hitmonlee','Setup Sweeper', 'Poison Jab').
-move('Hitmonlee','Setup Sweeper', 'Stone Edge').
-move('Hitmonlee','Setup Sweeper', 'Swords Dance').
-role('Hitmonlee', 'Fast Attacker').
-ability('Hitmonlee','Fast Attacker', 'Reckless').
-item('Hitmonlee','Fast Attacker', 'Choice Band').
-item('Hitmonlee','Fast Attacker', 'Choice Scarf').
-tera('Hitmonlee','Fast Attacker', 'Fighting').
-move('Hitmonlee','Fast Attacker', 'High Jump Kick').
-move('Hitmonlee','Fast Attacker', 'Knock Off').
-move('Hitmonlee','Fast Attacker', 'Mach Punch').
-move('Hitmonlee','Fast Attacker', 'Poison Jab').
-move('Hitmonlee','Fast Attacker', 'Stone Edge').
-pokemon('Hitmontop', 88).
-ability('Hitmontop', 'Intimidate').
-ability('Hitmontop', 'Technician').
-item('Hitmontop', 'Assault Vest').
-item('Hitmontop', 'Choice Band').
-item('Hitmontop', 'Leftovers').
-role('Hitmontop', 'Bulky Support').
-ability('Hitmontop','Bulky Support', 'Intimidate').
-item('Hitmontop','Bulky Support', 'Assault Vest').
-item('Hitmontop','Bulky Support', 'Choice Band').
-tera('Hitmontop','Bulky Support', 'Steel').
-move('Hitmontop','Bulky Support', 'Close Combat').
-move('Hitmontop','Bulky Support', 'Earthquake').
-move('Hitmontop','Bulky Support', 'Rapid Spin').
-move('Hitmontop','Bulky Support', 'Stone Edge').
-move('Hitmontop','Bulky Support', 'Sucker Punch').
-role('Hitmontop', 'Bulky Setup').
-ability('Hitmontop','Bulky Setup', 'Technician').
-item('Hitmontop','Bulky Setup', 'Leftovers').
-tera('Hitmontop','Bulky Setup', 'Ice').
-move('Hitmontop','Bulky Setup', 'Bulk Up').
-move('Hitmontop','Bulky Setup', 'Close Combat').
-move('Hitmontop','Bulky Setup', 'Rapid Spin').
-move('Hitmontop','Bulky Setup', 'Triple Axel').
-pokemon('Ho-Oh', 71).
-ability('Ho-Oh', 'Regenerator').
-item('Ho-Oh', 'Heavy-Duty Boots').
-role('Ho-Oh', 'Bulky Attacker').
-ability('Ho-Oh','Bulky Attacker', 'Regenerator').
-item('Ho-Oh','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Ho-Oh','Bulky Attacker', 'Ground').
-tera('Ho-Oh','Bulky Attacker', 'Steel').
-move('Ho-Oh','Bulky Attacker', 'Brave Bird').
-move('Ho-Oh','Bulky Attacker', 'Earthquake').
-move('Ho-Oh','Bulky Attacker', 'Recover').
-move('Ho-Oh','Bulky Attacker', 'Sacred Fire').
-pokemon('Honchkrow', 86).
-ability('Honchkrow', 'Moxie').
-item('Honchkrow', 'Heavy-Duty Boots').
-role('Honchkrow', 'Fast Attacker').
-ability('Honchkrow','Fast Attacker', 'Moxie').
-item('Honchkrow','Fast Attacker', 'Heavy-Duty Boots').
-tera('Honchkrow','Fast Attacker', 'Dark').
-tera('Honchkrow','Fast Attacker', 'Flying').
-move('Honchkrow','Fast Attacker', 'Brave Bird').
-move('Honchkrow','Fast Attacker', 'Heat Wave').
-move('Honchkrow','Fast Attacker', 'Sucker Punch').
-move('Honchkrow','Fast Attacker', 'U-turn').
-role('Honchkrow', 'Wallbreaker').
-ability('Honchkrow','Wallbreaker', 'Moxie').
-item('Honchkrow','Wallbreaker', 'Heavy-Duty Boots').
-tera('Honchkrow','Wallbreaker', 'Dark').
-tera('Honchkrow','Wallbreaker', 'Flying').
-move('Honchkrow','Wallbreaker', 'Brave Bird').
-move('Honchkrow','Wallbreaker', 'Heat Wave').
-move('Honchkrow','Wallbreaker', 'Lash Out').
-move('Honchkrow','Wallbreaker', 'Sucker Punch').
-move('Honchkrow','Wallbreaker', 'Thunder Wave').
-pokemon('Hoopa', 85).
-ability('Hoopa', 'Magician').
-item('Hoopa', 'Choice Scarf').
-item('Hoopa', 'Life Orb').
-role('Hoopa', 'Fast Attacker').
-ability('Hoopa','Fast Attacker', 'Magician').
-item('Hoopa','Fast Attacker', 'Choice Scarf').
-item('Hoopa','Fast Attacker', 'Life Orb').
-tera('Hoopa','Fast Attacker', 'Fighting').
-tera('Hoopa','Fast Attacker', 'Ghost').
-tera('Hoopa','Fast Attacker', 'Psychic').
-move('Hoopa','Fast Attacker', 'Focus Blast').
-move('Hoopa','Fast Attacker', 'Nasty Plot').
-move('Hoopa','Fast Attacker', 'Psychic').
-move('Hoopa','Fast Attacker', 'Psyshock').
-move('Hoopa','Fast Attacker', 'Shadow Ball').
-move('Hoopa','Fast Attacker', 'Trick').
-pokemon('Hoopa-Unbound', 80).
-ability('Hoopa-Unbound', 'Magician').
-item('Hoopa-Unbound', 'Assault Vest').
-item('Hoopa-Unbound', 'Choice Band').
-item('Hoopa-Unbound', 'Choice Scarf').
-role('Hoopa-Unbound', 'Wallbreaker').
-ability('Hoopa-Unbound','Wallbreaker', 'Magician').
-item('Hoopa-Unbound','Wallbreaker', 'Choice Band').
-tera('Hoopa-Unbound','Wallbreaker', 'Dark').
-tera('Hoopa-Unbound','Wallbreaker', 'Fighting').
-tera('Hoopa-Unbound','Wallbreaker', 'Poison').
-move('Hoopa-Unbound','Wallbreaker', 'Drain Punch').
-move('Hoopa-Unbound','Wallbreaker', 'Gunk Shot').
-move('Hoopa-Unbound','Wallbreaker', 'Hyperspace Fury').
-move('Hoopa-Unbound','Wallbreaker', 'Trick').
-move('Hoopa-Unbound','Wallbreaker', 'Zen Headbutt').
-role('Hoopa-Unbound', 'Bulky Attacker').
-ability('Hoopa-Unbound','Bulky Attacker', 'Magician').
-item('Hoopa-Unbound','Bulky Attacker', 'Assault Vest').
-item('Hoopa-Unbound','Bulky Attacker', 'Choice Scarf').
-tera('Hoopa-Unbound','Bulky Attacker', 'Fighting').
-tera('Hoopa-Unbound','Bulky Attacker', 'Poison').
-move('Hoopa-Unbound','Bulky Attacker', 'Focus Blast').
-move('Hoopa-Unbound','Bulky Attacker', 'Gunk Shot').
-move('Hoopa-Unbound','Bulky Attacker', 'Hyperspace Fury').
-move('Hoopa-Unbound','Bulky Attacker', 'Psychic').
-move('Hoopa-Unbound','Bulky Attacker', 'Trick').
-pokemon('Houndoom', 87).
-ability('Houndoom', 'Flash Fire').
-item('Houndoom', 'Heavy-Duty Boots').
-role('Houndoom', 'Fast Attacker').
-ability('Houndoom','Fast Attacker', 'Flash Fire').
-item('Houndoom','Fast Attacker', 'Heavy-Duty Boots').
-tera('Houndoom','Fast Attacker', 'Dark').
-tera('Houndoom','Fast Attacker', 'Fire').
-tera('Houndoom','Fast Attacker', 'Poison').
-move('Houndoom','Fast Attacker', 'Dark Pulse').
-move('Houndoom','Fast Attacker', 'Fire Blast').
-move('Houndoom','Fast Attacker', 'Nasty Plot').
-move('Houndoom','Fast Attacker', 'Sludge Bomb').
-move('Houndoom','Fast Attacker', 'Sucker Punch').
-pokemon('Houndstone', 86).
-ability('Houndstone', 'Fluffy').
-item('Houndstone', 'Assault Vest').
-item('Houndstone', 'Choice Band').
-item('Houndstone', 'Leftovers').
-role('Houndstone', 'Bulky Attacker').
-ability('Houndstone','Bulky Attacker', 'Fluffy').
-item('Houndstone','Bulky Attacker', 'Choice Band').
-item('Houndstone','Bulky Attacker', 'Leftovers').
-tera('Houndstone','Bulky Attacker', 'Fighting').
-move('Houndstone','Bulky Attacker', 'Body Press').
-move('Houndstone','Bulky Attacker', 'Play Rough').
-move('Houndstone','Bulky Attacker', 'Poltergeist').
-move('Houndstone','Bulky Attacker', 'Roar').
-move('Houndstone','Bulky Attacker', 'Shadow Sneak').
-move('Houndstone','Bulky Attacker', 'Trick').
-move('Houndstone','Bulky Attacker', 'Will-O-Wisp').
-role('Houndstone', 'AV Pivot').
-ability('Houndstone','AV Pivot', 'Fluffy').
-item('Houndstone','AV Pivot', 'Assault Vest').
-tera('Houndstone','AV Pivot', 'Fairy').
-tera('Houndstone','AV Pivot', 'Fighting').
-move('Houndstone','AV Pivot', 'Body Press').
-move('Houndstone','AV Pivot', 'Play Rough').
-move('Houndstone','AV Pivot', 'Poltergeist').
-move('Houndstone','AV Pivot', 'Shadow Sneak').
-role('Houndstone', 'Bulky Support').
-ability('Houndstone','Bulky Support', 'Fluffy').
-item('Houndstone','Bulky Support', 'Leftovers').
-tera('Houndstone','Bulky Support', 'Fighting').
-move('Houndstone','Bulky Support', 'Body Press').
-move('Houndstone','Bulky Support', 'Poltergeist').
-move('Houndstone','Bulky Support', 'Rest').
-move('Houndstone','Bulky Support', 'Sleep Talk').
-pokemon('Hydrapple', 83).
-ability('Hydrapple', 'Regenerator').
-item('Hydrapple', 'Assault Vest').
-item('Hydrapple', 'Choice Specs').
-item('Hydrapple', 'Leftovers').
-item('Hydrapple', 'Life Orb').
-role('Hydrapple', 'Fast Bulky Setup').
-ability('Hydrapple','Fast Bulky Setup', 'Regenerator').
-item('Hydrapple','Fast Bulky Setup', 'Leftovers').
-item('Hydrapple','Fast Bulky Setup', 'Life Orb').
-tera('Hydrapple','Fast Bulky Setup', 'Steel').
-move('Hydrapple','Fast Bulky Setup', 'Earth Power').
-move('Hydrapple','Fast Bulky Setup', 'Fickle Beam').
-move('Hydrapple','Fast Bulky Setup', 'Giga Drain').
-move('Hydrapple','Fast Bulky Setup', 'Nasty Plot').
-move('Hydrapple','Fast Bulky Setup', 'Recover').
-role('Hydrapple', 'AV Pivot').
-ability('Hydrapple','AV Pivot', 'Regenerator').
-item('Hydrapple','AV Pivot', 'Assault Vest').
-tera('Hydrapple','AV Pivot', 'Steel').
-move('Hydrapple','AV Pivot', 'Dragon Tail').
-move('Hydrapple','AV Pivot', 'Earth Power').
-move('Hydrapple','AV Pivot', 'Fickle Beam').
-move('Hydrapple','AV Pivot', 'Giga Drain').
-move('Hydrapple','AV Pivot', 'Leaf Storm').
-role('Hydrapple', 'Wallbreaker').
-ability('Hydrapple','Wallbreaker', 'Regenerator').
-item('Hydrapple','Wallbreaker', 'Choice Specs').
-tera('Hydrapple','Wallbreaker', 'Dragon').
-tera('Hydrapple','Wallbreaker', 'Steel').
-move('Hydrapple','Wallbreaker', 'Draco Meteor').
-move('Hydrapple','Wallbreaker', 'Earth Power').
-move('Hydrapple','Wallbreaker', 'Fickle Beam').
-move('Hydrapple','Wallbreaker', 'Leaf Storm').
-pokemon('Hydreigon', 79).
-ability('Hydreigon', 'Levitate').
-item('Hydreigon', 'Choice Scarf').
-item('Hydreigon', 'Choice Specs').
-item('Hydreigon', 'Life Orb').
-role('Hydreigon', 'Fast Attacker').
-ability('Hydreigon','Fast Attacker', 'Levitate').
-item('Hydreigon','Fast Attacker', 'Choice Scarf').
-item('Hydreigon','Fast Attacker', 'Choice Specs').
-item('Hydreigon','Fast Attacker', 'Life Orb').
-tera('Hydreigon','Fast Attacker', 'Dark').
-tera('Hydreigon','Fast Attacker', 'Dragon').
-tera('Hydreigon','Fast Attacker', 'Fire').
-tera('Hydreigon','Fast Attacker', 'Steel').
-move('Hydreigon','Fast Attacker', 'Dark Pulse').
-move('Hydreigon','Fast Attacker', 'Draco Meteor').
-move('Hydreigon','Fast Attacker', 'Fire Blast').
-move('Hydreigon','Fast Attacker', 'Flash Cannon').
-move('Hydreigon','Fast Attacker', 'Nasty Plot').
-move('Hydreigon','Fast Attacker', 'U-turn').
-pokemon('Hypno', 95).
-ability('Hypno', 'Insomnia').
-item('Hypno', 'Leftovers').
-role('Hypno', 'Bulky Support').
-ability('Hypno','Bulky Support', 'Insomnia').
-item('Hypno','Bulky Support', 'Leftovers').
-tera('Hypno','Bulky Support', 'Dark').
-tera('Hypno','Bulky Support', 'Fairy').
-tera('Hypno','Bulky Support', 'Steel').
-move('Hypno','Bulky Support', 'Encore').
-move('Hypno','Bulky Support', 'Knock Off').
-move('Hypno','Bulky Support', 'Psychic Noise').
-move('Hypno','Bulky Support', 'Thunder Wave').
-move('Hypno','Bulky Support', 'Toxic').
-role('Hypno', 'Bulky Attacker').
-ability('Hypno','Bulky Attacker', 'Insomnia').
-item('Hypno','Bulky Attacker', 'Leftovers').
-tera('Hypno','Bulky Attacker', 'Dark').
-tera('Hypno','Bulky Attacker', 'Fighting').
-tera('Hypno','Bulky Attacker', 'Steel').
-move('Hypno','Bulky Attacker', 'Focus Blast').
-move('Hypno','Bulky Attacker', 'Protect').
-move('Hypno','Bulky Attacker', 'Psychic Noise').
-move('Hypno','Bulky Attacker', 'Toxic').
-pokemon('Illumise', 91).
-ability('Illumise', 'Prankster').
-item('Illumise', 'Heavy-Duty Boots').
-role('Illumise', 'Bulky Support').
-ability('Illumise','Bulky Support', 'Prankster').
-item('Illumise','Bulky Support', 'Heavy-Duty Boots').
-tera('Illumise','Bulky Support', 'Steel').
-tera('Illumise','Bulky Support', 'Water').
-move('Illumise','Bulky Support', 'Bug Buzz').
-move('Illumise','Bulky Support', 'Encore').
-move('Illumise','Bulky Support', 'Roost').
-move('Illumise','Bulky Support', 'Thunder Wave').
-pokemon('Incineroar', 82).
-ability('Incineroar', 'Intimidate').
-item('Incineroar', 'Assault Vest').
-item('Incineroar', 'Choice Band').
-item('Incineroar', 'Choice Scarf').
-item('Incineroar', 'Heavy-Duty Boots').
-role('Incineroar', 'Setup Sweeper').
-ability('Incineroar','Setup Sweeper', 'Intimidate').
-item('Incineroar','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Incineroar','Setup Sweeper', 'Grass').
-move('Incineroar','Setup Sweeper', 'Flare Blitz').
-move('Incineroar','Setup Sweeper', 'Knock Off').
-move('Incineroar','Setup Sweeper', 'Swords Dance').
-move('Incineroar','Setup Sweeper', 'Trailblaze').
-role('Incineroar', 'AV Pivot').
-ability('Incineroar','AV Pivot', 'Intimidate').
-item('Incineroar','AV Pivot', 'Assault Vest').
-tera('Incineroar','AV Pivot', 'Fighting').
-tera('Incineroar','AV Pivot', 'Water').
-move('Incineroar','AV Pivot', 'Close Combat').
-move('Incineroar','AV Pivot', 'Fake Out').
-move('Incineroar','AV Pivot', 'Knock Off').
-move('Incineroar','AV Pivot', 'Overheat').
-move('Incineroar','AV Pivot', 'U-turn').
-role('Incineroar', 'Fast Attacker').
-ability('Incineroar','Fast Attacker', 'Intimidate').
-item('Incineroar','Fast Attacker', 'Choice Band').
-item('Incineroar','Fast Attacker', 'Choice Scarf').
-item('Incineroar','Fast Attacker', 'Heavy-Duty Boots').
-tera('Incineroar','Fast Attacker', 'Fighting').
-tera('Incineroar','Fast Attacker', 'Water').
-move('Incineroar','Fast Attacker', 'Close Combat').
-move('Incineroar','Fast Attacker', 'Earthquake').
-move('Incineroar','Fast Attacker', 'Flare Blitz').
-move('Incineroar','Fast Attacker', 'Knock Off').
-move('Incineroar','Fast Attacker', 'Parting Shot').
-move('Incineroar','Fast Attacker', 'Will-O-Wisp').
-pokemon('Indeedee', 84).
-ability('Indeedee', 'Psychic Surge').
-item('Indeedee', 'Choice Scarf').
-item('Indeedee', 'Choice Specs').
-item('Indeedee', 'Life Orb').
-role('Indeedee', 'Fast Attacker').
-ability('Indeedee','Fast Attacker', 'Psychic Surge').
-item('Indeedee','Fast Attacker', 'Choice Scarf').
-item('Indeedee','Fast Attacker', 'Choice Specs').
-item('Indeedee','Fast Attacker', 'Life Orb').
-tera('Indeedee','Fast Attacker', 'Psychic').
-move('Indeedee','Fast Attacker', 'Calm Mind').
-move('Indeedee','Fast Attacker', 'Dazzling Gleam').
-move('Indeedee','Fast Attacker', 'Expanding Force').
-move('Indeedee','Fast Attacker', 'Healing Wish').
-move('Indeedee','Fast Attacker', 'Hyper Voice').
-move('Indeedee','Fast Attacker', 'Shadow Ball').
-pokemon('Indeedee-F', 90).
-ability('Indeedee-F', 'Psychic Surge').
-item('Indeedee-F', 'Choice Scarf').
-item('Indeedee-F', 'Choice Specs').
-item('Indeedee-F', 'Life Orb').
-role('Indeedee-F', 'Fast Attacker').
-ability('Indeedee-F','Fast Attacker', 'Psychic Surge').
-item('Indeedee-F','Fast Attacker', 'Choice Scarf').
-item('Indeedee-F','Fast Attacker', 'Choice Specs').
-item('Indeedee-F','Fast Attacker', 'Life Orb').
-tera('Indeedee-F','Fast Attacker', 'Fairy').
-tera('Indeedee-F','Fast Attacker', 'Psychic').
-move('Indeedee-F','Fast Attacker', 'Calm Mind').
-move('Indeedee-F','Fast Attacker', 'Dazzling Gleam').
-move('Indeedee-F','Fast Attacker', 'Healing Wish').
-move('Indeedee-F','Fast Attacker', 'Hyper Voice').
-move('Indeedee-F','Fast Attacker', 'Psychic').
-move('Indeedee-F','Fast Attacker', 'Psyshock').
-move('Indeedee-F','Fast Attacker', 'Shadow Ball').
-pokemon('Infernape', 82).
-ability('Infernape', 'Blaze').
-ability('Infernape', 'Iron Fist').
-item('Infernape', 'Choice Band').
-item('Infernape', 'Choice Scarf').
-item('Infernape', 'Life Orb').
-role('Infernape', 'Fast Support').
-ability('Infernape','Fast Support', 'Blaze').
-ability('Infernape','Fast Support', 'Iron Fist').
-item('Infernape','Fast Support', 'Choice Band').
-item('Infernape','Fast Support', 'Choice Scarf').
-item('Infernape','Fast Support', 'Life Orb').
-tera('Infernape','Fast Support', 'Dark').
-tera('Infernape','Fast Support', 'Fighting').
-tera('Infernape','Fast Support', 'Fire').
-move('Infernape','Fast Support', 'Close Combat').
-move('Infernape','Fast Support', 'Flare Blitz').
-move('Infernape','Fast Support', 'Gunk Shot').
-move('Infernape','Fast Support', 'Knock Off').
-move('Infernape','Fast Support', 'Mach Punch').
-move('Infernape','Fast Support', 'Stone Edge').
-move('Infernape','Fast Support', 'Swords Dance').
-move('Infernape','Fast Support', 'U-turn').
-role('Infernape', 'Fast Attacker').
-ability('Infernape','Fast Attacker', 'Blaze').
-ability('Infernape','Fast Attacker', 'Iron Fist').
-item('Infernape','Fast Attacker', 'Life Orb').
-tera('Infernape','Fast Attacker', 'Dark').
-tera('Infernape','Fast Attacker', 'Fighting').
-tera('Infernape','Fast Attacker', 'Fire').
-move('Infernape','Fast Attacker', 'Close Combat').
-move('Infernape','Fast Attacker', 'Grass Knot').
-move('Infernape','Fast Attacker', 'Gunk Shot').
-move('Infernape','Fast Attacker', 'Knock Off').
-move('Infernape','Fast Attacker', 'Mach Punch').
-move('Infernape','Fast Attacker', 'Overheat').
-move('Infernape','Fast Attacker', 'Stone Edge').
-pokemon('Inteleon', 81).
-ability('Inteleon', 'Torrent').
-item('Inteleon', 'Choice Specs').
-role('Inteleon', 'Wallbreaker').
-ability('Inteleon','Wallbreaker', 'Torrent').
-item('Inteleon','Wallbreaker', 'Choice Specs').
-tera('Inteleon','Wallbreaker', 'Water').
-move('Inteleon','Wallbreaker', 'Hydro Pump').
-move('Inteleon','Wallbreaker', 'Ice Beam').
-move('Inteleon','Wallbreaker', 'Scald').
-move('Inteleon','Wallbreaker', 'U-turn').
-pokemon('Iron Boulder', 77).
-ability('Iron Boulder', 'Quark Drive').
-item('Iron Boulder', 'Booster Energy').
-item('Iron Boulder', 'Life Orb').
-role('Iron Boulder', 'Setup Sweeper').
-ability('Iron Boulder','Setup Sweeper', 'Quark Drive').
-item('Iron Boulder','Setup Sweeper', 'Life Orb').
-tera('Iron Boulder','Setup Sweeper', 'Fighting').
-move('Iron Boulder','Setup Sweeper', 'Close Combat').
-move('Iron Boulder','Setup Sweeper', 'Mighty Cleave').
-move('Iron Boulder','Setup Sweeper', 'Swords Dance').
-move('Iron Boulder','Setup Sweeper', 'Zen Headbutt').
-role('Iron Boulder', 'Fast Bulky Setup').
-ability('Iron Boulder','Fast Bulky Setup', 'Quark Drive').
-item('Iron Boulder','Fast Bulky Setup', 'Booster Energy').
-tera('Iron Boulder','Fast Bulky Setup', 'Fighting').
-move('Iron Boulder','Fast Bulky Setup', 'Close Combat').
-move('Iron Boulder','Fast Bulky Setup', 'Mighty Cleave').
-move('Iron Boulder','Fast Bulky Setup', 'Swords Dance').
-move('Iron Boulder','Fast Bulky Setup', 'Zen Headbutt').
-pokemon('Iron Bundle', 78).
-ability('Iron Bundle', 'Quark Drive').
-item('Iron Bundle', 'Choice Specs').
-item('Iron Bundle', 'Heavy-Duty Boots').
-role('Iron Bundle', 'Fast Attacker').
-ability('Iron Bundle','Fast Attacker', 'Quark Drive').
-item('Iron Bundle','Fast Attacker', 'Choice Specs').
-item('Iron Bundle','Fast Attacker', 'Heavy-Duty Boots').
-tera('Iron Bundle','Fast Attacker', 'Ice').
-tera('Iron Bundle','Fast Attacker', 'Water').
-move('Iron Bundle','Fast Attacker', 'Encore').
-move('Iron Bundle','Fast Attacker', 'Flip Turn').
-move('Iron Bundle','Fast Attacker', 'Freeze-Dry').
-move('Iron Bundle','Fast Attacker', 'Hydro Pump').
-move('Iron Bundle','Fast Attacker', 'Ice Beam').
-pokemon('Iron Crown', 78).
-ability('Iron Crown', 'Quark Drive').
-item('Iron Crown', 'Choice Specs').
-item('Iron Crown', 'Leftovers').
-role('Iron Crown', 'Wallbreaker').
-ability('Iron Crown','Wallbreaker', 'Quark Drive').
-item('Iron Crown','Wallbreaker', 'Choice Specs').
-tera('Iron Crown','Wallbreaker', 'Fighting').
-tera('Iron Crown','Wallbreaker', 'Steel').
-move('Iron Crown','Wallbreaker', 'Focus Blast').
-move('Iron Crown','Wallbreaker', 'Psyshock').
-move('Iron Crown','Wallbreaker', 'Tachyon Cutter').
-move('Iron Crown','Wallbreaker', 'Volt Switch').
-role('Iron Crown', 'Bulky Setup').
-ability('Iron Crown','Bulky Setup', 'Quark Drive').
-item('Iron Crown','Bulky Setup', 'Leftovers').
-tera('Iron Crown','Bulky Setup', 'Fighting').
-tera('Iron Crown','Bulky Setup', 'Steel').
-move('Iron Crown','Bulky Setup', 'Calm Mind').
-move('Iron Crown','Bulky Setup', 'Focus Blast').
-move('Iron Crown','Bulky Setup', 'Psyshock').
-move('Iron Crown','Bulky Setup', 'Tachyon Cutter').
-pokemon('Iron Hands', 79).
-ability('Iron Hands', 'Quark Drive').
-item('Iron Hands', 'Assault Vest').
-item('Iron Hands', 'Leftovers').
-role('Iron Hands', 'AV Pivot').
-ability('Iron Hands','AV Pivot', 'Quark Drive').
-item('Iron Hands','AV Pivot', 'Assault Vest').
-tera('Iron Hands','AV Pivot', 'Electric').
-tera('Iron Hands','AV Pivot', 'Fighting').
-move('Iron Hands','AV Pivot', 'Close Combat').
-move('Iron Hands','AV Pivot', 'Drain Punch').
-move('Iron Hands','AV Pivot', 'Fake Out').
-move('Iron Hands','AV Pivot', 'Heavy Slam').
-move('Iron Hands','AV Pivot', 'Ice Punch').
-move('Iron Hands','AV Pivot', 'Thunder Punch').
-move('Iron Hands','AV Pivot', 'Volt Switch').
-move('Iron Hands','AV Pivot', 'Wild Charge').
-role('Iron Hands', 'Bulky Attacker').
-ability('Iron Hands','Bulky Attacker', 'Quark Drive').
-item('Iron Hands','Bulky Attacker', 'Leftovers').
-tera('Iron Hands','Bulky Attacker', 'Fighting').
-tera('Iron Hands','Bulky Attacker', 'Flying').
-tera('Iron Hands','Bulky Attacker', 'Steel').
-move('Iron Hands','Bulky Attacker', 'Drain Punch').
-move('Iron Hands','Bulky Attacker', 'Ice Punch').
-move('Iron Hands','Bulky Attacker', 'Swords Dance').
-move('Iron Hands','Bulky Attacker', 'Thunder Punch').
-move('Iron Hands','Bulky Attacker', 'Wild Charge').
-pokemon('Iron Jugulis', 77).
-ability('Iron Jugulis', 'Quark Drive').
-item('Iron Jugulis', 'Choice Specs').
-item('Iron Jugulis', 'Power Herb').
-role('Iron Jugulis', 'Wallbreaker').
-ability('Iron Jugulis','Wallbreaker', 'Quark Drive').
-item('Iron Jugulis','Wallbreaker', 'Choice Specs').
-tera('Iron Jugulis','Wallbreaker', 'Dark').
-tera('Iron Jugulis','Wallbreaker', 'Flying').
-tera('Iron Jugulis','Wallbreaker', 'Ground').
-move('Iron Jugulis','Wallbreaker', 'Dark Pulse').
-move('Iron Jugulis','Wallbreaker', 'Earth Power').
-move('Iron Jugulis','Wallbreaker', 'Fire Blast').
-move('Iron Jugulis','Wallbreaker', 'Hurricane').
-move('Iron Jugulis','Wallbreaker', 'Hydro Pump').
-move('Iron Jugulis','Wallbreaker', 'U-turn').
-role('Iron Jugulis', 'Setup Sweeper').
-ability('Iron Jugulis','Setup Sweeper', 'Quark Drive').
-item('Iron Jugulis','Setup Sweeper', 'Power Herb').
-tera('Iron Jugulis','Setup Sweeper', 'Dark').
-tera('Iron Jugulis','Setup Sweeper', 'Ground').
-move('Iron Jugulis','Setup Sweeper', 'Dark Pulse').
-move('Iron Jugulis','Setup Sweeper', 'Earth Power').
-move('Iron Jugulis','Setup Sweeper', 'Hurricane').
-move('Iron Jugulis','Setup Sweeper', 'Meteor Beam').
-pokemon('Iron Leaves', 80).
-ability('Iron Leaves', 'Quark Drive').
-item('Iron Leaves', 'Choice Band').
-item('Iron Leaves', 'Life Orb').
-role('Iron Leaves', 'Wallbreaker').
-ability('Iron Leaves','Wallbreaker', 'Quark Drive').
-item('Iron Leaves','Wallbreaker', 'Choice Band').
-item('Iron Leaves','Wallbreaker', 'Life Orb').
-tera('Iron Leaves','Wallbreaker', 'Fighting').
-move('Iron Leaves','Wallbreaker', 'Close Combat').
-move('Iron Leaves','Wallbreaker', 'Leaf Blade').
-move('Iron Leaves','Wallbreaker', 'Megahorn').
-move('Iron Leaves','Wallbreaker', 'Psyblade').
-move('Iron Leaves','Wallbreaker', 'Swords Dance').
-pokemon('Iron Moth', 78).
-ability('Iron Moth', 'Quark Drive').
-item('Iron Moth', 'Choice Specs').
-item('Iron Moth', 'Heavy-Duty Boots').
-role('Iron Moth', 'Fast Attacker').
-ability('Iron Moth','Fast Attacker', 'Quark Drive').
-item('Iron Moth','Fast Attacker', 'Choice Specs').
-item('Iron Moth','Fast Attacker', 'Heavy-Duty Boots').
-tera('Iron Moth','Fast Attacker', 'Fire').
-tera('Iron Moth','Fast Attacker', 'Grass').
-move('Iron Moth','Fast Attacker', 'Energy Ball').
-move('Iron Moth','Fast Attacker', 'Fiery Dance').
-move('Iron Moth','Fast Attacker', 'Fire Blast').
-move('Iron Moth','Fast Attacker', 'Morning Sun').
-move('Iron Moth','Fast Attacker', 'Sludge Wave').
-move('Iron Moth','Fast Attacker', 'Toxic Spikes').
-move('Iron Moth','Fast Attacker', 'U-turn').
-pokemon('Iron Thorns', 82).
-ability('Iron Thorns', 'Quark Drive').
-item('Iron Thorns', 'Booster Energy').
-role('Iron Thorns', 'Fast Bulky Setup').
-ability('Iron Thorns','Fast Bulky Setup', 'Quark Drive').
-item('Iron Thorns','Fast Bulky Setup', 'Booster Energy').
-tera('Iron Thorns','Fast Bulky Setup', 'Flying').
-tera('Iron Thorns','Fast Bulky Setup', 'Grass').
-tera('Iron Thorns','Fast Bulky Setup', 'Ground').
-tera('Iron Thorns','Fast Bulky Setup', 'Rock').
-move('Iron Thorns','Fast Bulky Setup', 'Dragon Dance').
-move('Iron Thorns','Fast Bulky Setup', 'Earthquake').
-move('Iron Thorns','Fast Bulky Setup', 'Ice Punch').
-move('Iron Thorns','Fast Bulky Setup', 'Stone Edge').
-move('Iron Thorns','Fast Bulky Setup', 'Wild Charge').
-pokemon('Iron Treads', 77).
-ability('Iron Treads', 'Quark Drive').
-item('Iron Treads', 'Assault Vest').
-item('Iron Treads', 'Leftovers').
-role('Iron Treads', 'Bulky Support').
-ability('Iron Treads','Bulky Support', 'Quark Drive').
-item('Iron Treads','Bulky Support', 'Assault Vest').
-item('Iron Treads','Bulky Support', 'Leftovers').
-tera('Iron Treads','Bulky Support', 'Dragon').
-tera('Iron Treads','Bulky Support', 'Ghost').
-tera('Iron Treads','Bulky Support', 'Water').
-move('Iron Treads','Bulky Support', 'Earthquake').
-move('Iron Treads','Bulky Support', 'Iron Head').
-move('Iron Treads','Bulky Support', 'Knock Off').
-move('Iron Treads','Bulky Support', 'Rapid Spin').
-move('Iron Treads','Bulky Support', 'Stealth Rock').
-move('Iron Treads','Bulky Support', 'Volt Switch').
-pokemon('Iron Valiant', 78).
-ability('Iron Valiant', 'Quark Drive').
-item('Iron Valiant', 'Life Orb').
-role('Iron Valiant', 'Setup Sweeper').
-ability('Iron Valiant','Setup Sweeper', 'Quark Drive').
-item('Iron Valiant','Setup Sweeper', 'Life Orb').
-tera('Iron Valiant','Setup Sweeper', 'Dark').
-tera('Iron Valiant','Setup Sweeper', 'Fighting').
-move('Iron Valiant','Setup Sweeper', 'Close Combat').
-move('Iron Valiant','Setup Sweeper', 'Knock Off').
-move('Iron Valiant','Setup Sweeper', 'Spirit Break').
-move('Iron Valiant','Setup Sweeper', 'Swords Dance').
-role('Iron Valiant', 'Fast Attacker').
-ability('Iron Valiant','Fast Attacker', 'Quark Drive').
-item('Iron Valiant','Fast Attacker', 'Life Orb').
-tera('Iron Valiant','Fast Attacker', 'Fairy').
-tera('Iron Valiant','Fast Attacker', 'Fighting').
-tera('Iron Valiant','Fast Attacker', 'Steel').
-move('Iron Valiant','Fast Attacker', 'Calm Mind').
-move('Iron Valiant','Fast Attacker', 'Close Combat').
-move('Iron Valiant','Fast Attacker', 'Moonblast').
-move('Iron Valiant','Fast Attacker', 'Psychic').
-role('Iron Valiant', 'Wallbreaker').
-ability('Iron Valiant','Wallbreaker', 'Quark Drive').
-item('Iron Valiant','Wallbreaker', 'Life Orb').
-tera('Iron Valiant','Wallbreaker', 'Dark').
-tera('Iron Valiant','Wallbreaker', 'Fairy').
-tera('Iron Valiant','Wallbreaker', 'Fighting').
-tera('Iron Valiant','Wallbreaker', 'Steel').
-move('Iron Valiant','Wallbreaker', 'Close Combat').
-move('Iron Valiant','Wallbreaker', 'Encore').
-move('Iron Valiant','Wallbreaker', 'Knock Off').
-move('Iron Valiant','Wallbreaker', 'Moonblast').
-pokemon('Jirachi', 80).
-ability('Jirachi', 'Serene Grace').
-item('Jirachi', 'Assault Vest').
-item('Jirachi', 'Choice Scarf').
-item('Jirachi', 'Leftovers').
-role('Jirachi', 'Bulky Support').
-ability('Jirachi','Bulky Support', 'Serene Grace').
-item('Jirachi','Bulky Support', 'Choice Scarf').
-item('Jirachi','Bulky Support', 'Leftovers').
-tera('Jirachi','Bulky Support', 'Water').
-move('Jirachi','Bulky Support', 'Healing Wish').
-move('Jirachi','Bulky Support', 'Iron Head').
-move('Jirachi','Bulky Support', 'Protect').
-move('Jirachi','Bulky Support', 'Psychic').
-move('Jirachi','Bulky Support', 'U-turn').
-move('Jirachi','Bulky Support', 'Wish').
-role('Jirachi', 'Bulky Attacker').
-ability('Jirachi','Bulky Attacker', 'Serene Grace').
-item('Jirachi','Bulky Attacker', 'Assault Vest').
-item('Jirachi','Bulky Attacker', 'Leftovers').
-tera('Jirachi','Bulky Attacker', 'Fighting').
-tera('Jirachi','Bulky Attacker', 'Water').
-move('Jirachi','Bulky Attacker', 'Body Slam').
-move('Jirachi','Bulky Attacker', 'Drain Punch').
-move('Jirachi','Bulky Attacker', 'Iron Head').
-move('Jirachi','Bulky Attacker', 'Stealth Rock').
-move('Jirachi','Bulky Attacker', 'U-turn').
-role('Jirachi', 'Fast Support').
-ability('Jirachi','Fast Support', 'Serene Grace').
-item('Jirachi','Fast Support', 'Leftovers').
-tera('Jirachi','Fast Support', 'Water').
-move('Jirachi','Fast Support', 'Body Slam').
-move('Jirachi','Fast Support', 'Iron Head').
-move('Jirachi','Fast Support', 'Protect').
-move('Jirachi','Fast Support', 'Wish').
-pokemon('Jolteon', 84).
-ability('Jolteon', 'Volt Absorb').
-item('Jolteon', 'Choice Specs').
-item('Jolteon', 'Heavy-Duty Boots').
-item('Jolteon', 'Leftovers').
-item('Jolteon', 'Life Orb').
-role('Jolteon', 'Fast Attacker').
-ability('Jolteon','Fast Attacker', 'Volt Absorb').
-item('Jolteon','Fast Attacker', 'Choice Specs').
-item('Jolteon','Fast Attacker', 'Life Orb').
-tera('Jolteon','Fast Attacker', 'Electric').
-tera('Jolteon','Fast Attacker', 'Fairy').
-move('Jolteon','Fast Attacker', 'Alluring Voice').
-move('Jolteon','Fast Attacker', 'Calm Mind').
-move('Jolteon','Fast Attacker', 'Shadow Ball').
-move('Jolteon','Fast Attacker', 'Thunderbolt').
-move('Jolteon','Fast Attacker', 'Volt Switch').
-role('Jolteon', 'Fast Support').
-ability('Jolteon','Fast Support', 'Volt Absorb').
-item('Jolteon','Fast Support', 'Heavy-Duty Boots').
-tera('Jolteon','Fast Support', 'Electric').
-tera('Jolteon','Fast Support', 'Fairy').
-tera('Jolteon','Fast Support', 'Flying').
-move('Jolteon','Fast Support', 'Alluring Voice').
-move('Jolteon','Fast Support', 'Calm Mind').
-move('Jolteon','Fast Support', 'Thunderbolt').
-move('Jolteon','Fast Support', 'Volt Switch').
-role('Jolteon', 'Tera Blast user').
-ability('Jolteon','Tera Blast user', 'Volt Absorb').
-item('Jolteon','Tera Blast user', 'Leftovers').
-tera('Jolteon','Tera Blast user', 'Ice').
-move('Jolteon','Tera Blast user', 'Calm Mind').
-move('Jolteon','Tera Blast user', 'Substitute').
-move('Jolteon','Tera Blast user', 'Tera Blast').
-move('Jolteon','Tera Blast user', 'Thunderbolt').
-pokemon('Jumpluff', 87).
-ability('Jumpluff', 'Infiltrator').
-role('Jumpluff', 'Bulky Support').
-ability('Jumpluff','Bulky Support', 'Infiltrator').
-tera('Jumpluff','Bulky Support', 'Steel').
-move('Jumpluff','Bulky Support', 'Acrobatics').
-move('Jumpluff','Bulky Support', 'Leech Seed').
-move('Jumpluff','Bulky Support', 'Strength Sap').
-move('Jumpluff','Bulky Support', 'Substitute').
-role('Jumpluff', 'Bulky Attacker').
-ability('Jumpluff','Bulky Attacker', 'Infiltrator').
-tera('Jumpluff','Bulky Attacker', 'Steel').
-move('Jumpluff','Bulky Attacker', 'Acrobatics').
-move('Jumpluff','Bulky Attacker', 'Encore').
-move('Jumpluff','Bulky Attacker', 'Sleep Powder').
-move('Jumpluff','Bulky Attacker', 'Strength Sap').
-move('Jumpluff','Bulky Attacker', 'U-turn').
-pokemon('Keldeo-Resolute', 79).
-ability('Keldeo-Resolute', 'Justified').
-item('Keldeo-Resolute', 'Choice Scarf').
-item('Keldeo-Resolute', 'Choice Specs').
-item('Keldeo-Resolute', 'Leftovers').
-item('Keldeo-Resolute', 'Life Orb').
-role('Keldeo-Resolute', 'Bulky Setup').
-ability('Keldeo-Resolute','Bulky Setup', 'Justified').
-item('Keldeo-Resolute','Bulky Setup', 'Leftovers').
-tera('Keldeo-Resolute','Bulky Setup', 'Steel').
-move('Keldeo-Resolute','Bulky Setup', 'Calm Mind').
-move('Keldeo-Resolute','Bulky Setup', 'Hydro Pump').
-move('Keldeo-Resolute','Bulky Setup', 'Secret Sword').
-move('Keldeo-Resolute','Bulky Setup', 'Substitute').
-move('Keldeo-Resolute','Bulky Setup', 'Surf').
-role('Keldeo-Resolute', 'Fast Attacker').
-ability('Keldeo-Resolute','Fast Attacker', 'Justified').
-item('Keldeo-Resolute','Fast Attacker', 'Choice Scarf').
-item('Keldeo-Resolute','Fast Attacker', 'Choice Specs').
-item('Keldeo-Resolute','Fast Attacker', 'Life Orb').
-tera('Keldeo-Resolute','Fast Attacker', 'Fighting').
-tera('Keldeo-Resolute','Fast Attacker', 'Water').
-move('Keldeo-Resolute','Fast Attacker', 'Air Slash').
-move('Keldeo-Resolute','Fast Attacker', 'Calm Mind').
-move('Keldeo-Resolute','Fast Attacker', 'Flip Turn').
-move('Keldeo-Resolute','Fast Attacker', 'Hydro Pump').
-move('Keldeo-Resolute','Fast Attacker', 'Secret Sword').
-move('Keldeo-Resolute','Fast Attacker', 'Vacuum Wave').
-pokemon('Kilowattrel', 83).
-ability('Kilowattrel', 'Volt Absorb').
-item('Kilowattrel', 'Heavy-Duty Boots').
-role('Kilowattrel', 'Bulky Attacker').
-ability('Kilowattrel','Bulky Attacker', 'Volt Absorb').
-item('Kilowattrel','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Kilowattrel','Bulky Attacker', 'Steel').
-tera('Kilowattrel','Bulky Attacker', 'Water').
-move('Kilowattrel','Bulky Attacker', 'Discharge').
-move('Kilowattrel','Bulky Attacker', 'Hurricane').
-move('Kilowattrel','Bulky Attacker', 'Roost').
-move('Kilowattrel','Bulky Attacker', 'Thunderbolt').
-move('Kilowattrel','Bulky Attacker', 'U-turn').
-pokemon('Kingambit', 74).
-ability('Kingambit', 'Supreme Overlord').
-item('Kingambit', 'Leftovers').
-role('Kingambit', 'Bulky Attacker').
-ability('Kingambit','Bulky Attacker', 'Supreme Overlord').
-item('Kingambit','Bulky Attacker', 'Leftovers').
-tera('Kingambit','Bulky Attacker', 'Dark').
-tera('Kingambit','Bulky Attacker', 'Flying').
-tera('Kingambit','Bulky Attacker', 'Ghost').
-move('Kingambit','Bulky Attacker', 'Iron Head').
-move('Kingambit','Bulky Attacker', 'Kowtow Cleave').
-move('Kingambit','Bulky Attacker', 'Sucker Punch').
-move('Kingambit','Bulky Attacker', 'Swords Dance').
-pokemon('Kingdra', 84).
-ability('Kingdra', 'Sniper').
-ability('Kingdra', 'Swift Swim').
-item('Kingdra', 'Life Orb').
-item('Kingdra', 'Lum Berry').
-role('Kingdra', 'Setup Sweeper').
-ability('Kingdra','Setup Sweeper', 'Sniper').
-ability('Kingdra','Setup Sweeper', 'Swift Swim').
-item('Kingdra','Setup Sweeper', 'Lum Berry').
-tera('Kingdra','Setup Sweeper', 'Water').
-move('Kingdra','Setup Sweeper', 'Dragon Dance').
-move('Kingdra','Setup Sweeper', 'Outrage').
-move('Kingdra','Setup Sweeper', 'Waterfall').
-move('Kingdra','Setup Sweeper', 'Wave Crash').
-role('Kingdra', 'Fast Bulky Setup').
-ability('Kingdra','Fast Bulky Setup', 'Sniper').
-ability('Kingdra','Fast Bulky Setup', 'Swift Swim').
-item('Kingdra','Fast Bulky Setup', 'Lum Berry').
-tera('Kingdra','Fast Bulky Setup', 'Steel').
-move('Kingdra','Fast Bulky Setup', 'Dragon Dance').
-move('Kingdra','Fast Bulky Setup', 'Iron Head').
-move('Kingdra','Fast Bulky Setup', 'Outrage').
-move('Kingdra','Fast Bulky Setup', 'Wave Crash').
-role('Kingdra', 'Fast Attacker').
-ability('Kingdra','Fast Attacker', 'Swift Swim').
-item('Kingdra','Fast Attacker', 'Life Orb').
-tera('Kingdra','Fast Attacker', 'Water').
-move('Kingdra','Fast Attacker', 'Draco Meteor').
-move('Kingdra','Fast Attacker', 'Hurricane').
-move('Kingdra','Fast Attacker', 'Rain Dance').
-move('Kingdra','Fast Attacker', 'Wave Crash').
-pokemon('Klawf', 90).
-ability('Klawf', 'Anger Shell').
-ability('Klawf', 'Regenerator').
-item('Klawf', 'Choice Band').
-item('Klawf', 'Choice Scarf').
-item('Klawf', 'Expert Belt').
-item('Klawf', 'Life Orb').
-item('Klawf', 'Lum Berry').
-item('Klawf', 'Scope Lens').
-item('Klawf', 'Sitrus Berry').
-role('Klawf', 'Fast Attacker').
-ability('Klawf','Fast Attacker', 'Regenerator').
-item('Klawf','Fast Attacker', 'Choice Band').
-item('Klawf','Fast Attacker', 'Choice Scarf').
-item('Klawf','Fast Attacker', 'Life Orb').
-tera('Klawf','Fast Attacker', 'Dark').
-tera('Klawf','Fast Attacker', 'Ground').
-tera('Klawf','Fast Attacker', 'Rock').
-tera('Klawf','Fast Attacker', 'Water').
-move('Klawf','Fast Attacker', 'Crabhammer').
-move('Klawf','Fast Attacker', 'High Horsepower').
-move('Klawf','Fast Attacker', 'Knock Off').
-move('Klawf','Fast Attacker', 'Stealth Rock').
-move('Klawf','Fast Attacker', 'Stone Edge').
-role('Klawf', 'Setup Sweeper').
-ability('Klawf','Setup Sweeper', 'Anger Shell').
-item('Klawf','Setup Sweeper', 'Expert Belt').
-item('Klawf','Setup Sweeper', 'Lum Berry').
-item('Klawf','Setup Sweeper', 'Scope Lens').
-item('Klawf','Setup Sweeper', 'Sitrus Berry').
-tera('Klawf','Setup Sweeper', 'Dark').
-tera('Klawf','Setup Sweeper', 'Ground').
-tera('Klawf','Setup Sweeper', 'Rock').
-tera('Klawf','Setup Sweeper', 'Water').
-move('Klawf','Setup Sweeper', 'Crabhammer').
-move('Klawf','Setup Sweeper', 'High Horsepower').
-move('Klawf','Setup Sweeper', 'Knock Off').
-move('Klawf','Setup Sweeper', 'Stone Edge').
-move('Klawf','Setup Sweeper', 'Swords Dance').
-pokemon('Kleavor', 78).
-ability('Kleavor', 'Sharpness').
-item('Kleavor', 'Choice Band').
-item('Kleavor', 'Choice Scarf').
-item('Kleavor', 'Heavy-Duty Boots').
-role('Kleavor', 'Bulky Attacker').
-ability('Kleavor','Bulky Attacker', 'Sharpness').
-item('Kleavor','Bulky Attacker', 'Choice Band').
-item('Kleavor','Bulky Attacker', 'Choice Scarf').
-item('Kleavor','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Kleavor','Bulky Attacker', 'Bug').
-tera('Kleavor','Bulky Attacker', 'Fighting').
-tera('Kleavor','Bulky Attacker', 'Rock').
-move('Kleavor','Bulky Attacker', 'Close Combat').
-move('Kleavor','Bulky Attacker', 'Defog').
-move('Kleavor','Bulky Attacker', 'Stone Axe').
-move('Kleavor','Bulky Attacker', 'Swords Dance').
-move('Kleavor','Bulky Attacker', 'U-turn').
-move('Kleavor','Bulky Attacker', 'X-Scissor').
-pokemon('Klefki', 84).
-ability('Klefki', 'Prankster').
-item('Klefki', 'Leftovers').
-role('Klefki', 'Bulky Attacker').
-ability('Klefki','Bulky Attacker', 'Prankster').
-item('Klefki','Bulky Attacker', 'Leftovers').
-tera('Klefki','Bulky Attacker', 'Flying').
-tera('Klefki','Bulky Attacker', 'Water').
-move('Klefki','Bulky Attacker', 'Dazzling Gleam').
-move('Klefki','Bulky Attacker', 'Foul Play').
-move('Klefki','Bulky Attacker', 'Spikes').
-move('Klefki','Bulky Attacker', 'Thunder Wave').
-role('Klefki', 'Bulky Support').
-ability('Klefki','Bulky Support', 'Prankster').
-item('Klefki','Bulky Support', 'Leftovers').
-tera('Klefki','Bulky Support', 'Water').
-move('Klefki','Bulky Support', 'Magnet Rise').
-move('Klefki','Bulky Support', 'Play Rough').
-move('Klefki','Bulky Support', 'Spikes').
-move('Klefki','Bulky Support', 'Thunder Wave').
-pokemon('Komala', 87).
-ability('Komala', 'Comatose').
-item('Komala', 'Assault Vest').
-item('Komala', 'Choice Band').
-item('Komala', 'Choice Scarf').
-role('Komala', 'Bulky Support').
-ability('Komala','Bulky Support', 'Comatose').
-item('Komala','Bulky Support', 'Assault Vest').
-item('Komala','Bulky Support', 'Choice Band').
-item('Komala','Bulky Support', 'Choice Scarf').
-tera('Komala','Bulky Support', 'Ghost').
-move('Komala','Bulky Support', 'Body Slam').
-move('Komala','Bulky Support', 'Earthquake').
-move('Komala','Bulky Support', 'Knock Off').
-move('Komala','Bulky Support', 'Rapid Spin').
-move('Komala','Bulky Support', 'U-turn').
-pokemon('Kommo-o', 77).
-ability('Kommo-o', 'Soundproof').
-item('Kommo-o', 'Loaded Dice').
-item('Kommo-o', 'Throat Spray').
-role('Kommo-o', 'Fast Bulky Setup').
-ability('Kommo-o','Fast Bulky Setup', 'Soundproof').
-item('Kommo-o','Fast Bulky Setup', 'Throat Spray').
-tera('Kommo-o','Fast Bulky Setup', 'Normal').
-tera('Kommo-o','Fast Bulky Setup', 'Steel').
-move('Kommo-o','Fast Bulky Setup', 'Boomburst').
-move('Kommo-o','Fast Bulky Setup', 'Clanging Scales').
-move('Kommo-o','Fast Bulky Setup', 'Clangorous Soul').
-move('Kommo-o','Fast Bulky Setup', 'Drain Punch').
-move('Kommo-o','Fast Bulky Setup', 'Iron Head').
-role('Kommo-o', 'Setup Sweeper').
-ability('Kommo-o','Setup Sweeper', 'Soundproof').
-item('Kommo-o','Setup Sweeper', 'Loaded Dice').
-tera('Kommo-o','Setup Sweeper', 'Steel').
-move('Kommo-o','Setup Sweeper', 'Close Combat').
-move('Kommo-o','Setup Sweeper', 'Iron Head').
-move('Kommo-o','Setup Sweeper', 'Scale Shot').
-move('Kommo-o','Setup Sweeper', 'Swords Dance').
-pokemon('Koraidon', 64).
-ability('Koraidon', 'Orichalcum Pulse').
-item('Koraidon', 'Choice Band').
-item('Koraidon', 'Loaded Dice').
-role('Koraidon', 'Fast Attacker').
-ability('Koraidon','Fast Attacker', 'Orichalcum Pulse').
-item('Koraidon','Fast Attacker', 'Choice Band').
-tera('Koraidon','Fast Attacker', 'Fire').
-move('Koraidon','Fast Attacker', 'Close Combat').
-move('Koraidon','Fast Attacker', 'Flare Blitz').
-move('Koraidon','Fast Attacker', 'Outrage').
-move('Koraidon','Fast Attacker', 'U-turn').
-role('Koraidon', 'Setup Sweeper').
-ability('Koraidon','Setup Sweeper', 'Orichalcum Pulse').
-item('Koraidon','Setup Sweeper', 'Loaded Dice').
-tera('Koraidon','Setup Sweeper', 'Fire').
-move('Koraidon','Setup Sweeper', 'Collision Course').
-move('Koraidon','Setup Sweeper', 'Flare Blitz').
-move('Koraidon','Setup Sweeper', 'Scale Shot').
-move('Koraidon','Setup Sweeper', 'Swords Dance').
-pokemon('Kricketune', 99).
-ability('Kricketune', 'Technician').
-item('Kricketune', 'Focus Sash').
-item('Kricketune', 'Heavy-Duty Boots').
-role('Kricketune', 'Fast Support').
-ability('Kricketune','Fast Support', 'Technician').
-item('Kricketune','Fast Support', 'Focus Sash').
-item('Kricketune','Fast Support', 'Heavy-Duty Boots').
-tera('Kricketune','Fast Support', 'Ghost').
-move('Kricketune','Fast Support', 'Knock Off').
-move('Kricketune','Fast Support', 'Pounce').
-move('Kricketune','Fast Support', 'Sticky Web').
-move('Kricketune','Fast Support', 'Taunt').
-pokemon('Krookodile', 79).
-ability('Krookodile', 'Intimidate').
-item('Krookodile', 'Choice Band').
-item('Krookodile', 'Choice Scarf').
-item('Krookodile', 'Leftovers').
-item('Krookodile', 'Life Orb').
-role('Krookodile', 'Bulky Setup').
-ability('Krookodile','Bulky Setup', 'Intimidate').
-item('Krookodile','Bulky Setup', 'Leftovers').
-tera('Krookodile','Bulky Setup', 'Poison').
-move('Krookodile','Bulky Setup', 'Bulk Up').
-move('Krookodile','Bulky Setup', 'Earthquake').
-move('Krookodile','Bulky Setup', 'Gunk Shot').
-move('Krookodile','Bulky Setup', 'Knock Off').
-role('Krookodile', 'Fast Attacker').
-ability('Krookodile','Fast Attacker', 'Intimidate').
-item('Krookodile','Fast Attacker', 'Choice Band').
-item('Krookodile','Fast Attacker', 'Choice Scarf').
-item('Krookodile','Fast Attacker', 'Life Orb').
-tera('Krookodile','Fast Attacker', 'Ground').
-tera('Krookodile','Fast Attacker', 'Poison').
-move('Krookodile','Fast Attacker', 'Earthquake').
-move('Krookodile','Fast Attacker', 'Gunk Shot').
-move('Krookodile','Fast Attacker', 'Knock Off').
-move('Krookodile','Fast Attacker', 'Stealth Rock').
-move('Krookodile','Fast Attacker', 'Stone Edge').
-pokemon('Kyogre', 71).
-ability('Kyogre', 'Drizzle').
-item('Kyogre', 'Choice Scarf').
-item('Kyogre', 'Leftovers').
-role('Kyogre', 'Bulky Setup').
-ability('Kyogre','Bulky Setup', 'Drizzle').
-item('Kyogre','Bulky Setup', 'Leftovers').
-tera('Kyogre','Bulky Setup', 'Dragon').
-tera('Kyogre','Bulky Setup', 'Electric').
-tera('Kyogre','Bulky Setup', 'Steel').
-move('Kyogre','Bulky Setup', 'Calm Mind').
-move('Kyogre','Bulky Setup', 'Ice Beam').
-move('Kyogre','Bulky Setup', 'Origin Pulse').
-move('Kyogre','Bulky Setup', 'Thunder').
-role('Kyogre', 'Fast Attacker').
-ability('Kyogre','Fast Attacker', 'Drizzle').
-item('Kyogre','Fast Attacker', 'Choice Scarf').
-tera('Kyogre','Fast Attacker', 'Water').
-move('Kyogre','Fast Attacker', 'Ice Beam').
-move('Kyogre','Fast Attacker', 'Origin Pulse').
-move('Kyogre','Fast Attacker', 'Thunder').
-move('Kyogre','Fast Attacker', 'Water Spout').
-pokemon('Kyurem', 77).
-ability('Kyurem', 'Pressure').
-item('Kyurem', 'Choice Specs').
-item('Kyurem', 'Heavy-Duty Boots').
-item('Kyurem', 'Loaded Dice').
-role('Kyurem', 'Wallbreaker').
-ability('Kyurem','Wallbreaker', 'Pressure').
-item('Kyurem','Wallbreaker', 'Choice Specs').
-item('Kyurem','Wallbreaker', 'Heavy-Duty Boots').
-tera('Kyurem','Wallbreaker', 'Ground').
-move('Kyurem','Wallbreaker', 'Draco Meteor').
-move('Kyurem','Wallbreaker', 'Earth Power').
-move('Kyurem','Wallbreaker', 'Freeze-Dry').
-move('Kyurem','Wallbreaker', 'Ice Beam').
-move('Kyurem','Wallbreaker', 'Outrage').
-role('Kyurem', 'Tera Blast user').
-ability('Kyurem','Tera Blast user', 'Pressure').
-item('Kyurem','Tera Blast user', 'Loaded Dice').
-tera('Kyurem','Tera Blast user', 'Ground').
-move('Kyurem','Tera Blast user', 'Dragon Dance').
-move('Kyurem','Tera Blast user', 'Icicle Spear').
-move('Kyurem','Tera Blast user', 'Scale Shot').
-move('Kyurem','Tera Blast user', 'Tera Blast').
-pokemon('Kyurem-Black', 71).
-ability('Kyurem-Black', 'Teravolt').
-item('Kyurem-Black', 'Loaded Dice').
-role('Kyurem-Black', 'Setup Sweeper').
-ability('Kyurem-Black','Setup Sweeper', 'Teravolt').
-item('Kyurem-Black','Setup Sweeper', 'Loaded Dice').
-tera('Kyurem-Black','Setup Sweeper', 'Electric').
-move('Kyurem-Black','Setup Sweeper', 'Dragon Dance').
-move('Kyurem-Black','Setup Sweeper', 'Fusion Bolt').
-move('Kyurem-Black','Setup Sweeper', 'Icicle Spear').
-move('Kyurem-Black','Setup Sweeper', 'Scale Shot').
-role('Kyurem-Black', 'Tera Blast user').
-ability('Kyurem-Black','Tera Blast user', 'Teravolt').
-item('Kyurem-Black','Tera Blast user', 'Loaded Dice').
-tera('Kyurem-Black','Tera Blast user', 'Ground').
-move('Kyurem-Black','Tera Blast user', 'Dragon Dance').
-move('Kyurem-Black','Tera Blast user', 'Icicle Spear').
-move('Kyurem-Black','Tera Blast user', 'Scale Shot').
-move('Kyurem-Black','Tera Blast user', 'Tera Blast').
-pokemon('Kyurem-White', 73).
-ability('Kyurem-White', 'Turboblaze').
-item('Kyurem-White', 'Choice Scarf').
-item('Kyurem-White', 'Choice Specs').
-role('Kyurem-White', 'Bulky Attacker').
-ability('Kyurem-White','Bulky Attacker', 'Turboblaze').
-item('Kyurem-White','Bulky Attacker', 'Choice Scarf').
-item('Kyurem-White','Bulky Attacker', 'Choice Specs').
-tera('Kyurem-White','Bulky Attacker', 'Dragon').
-tera('Kyurem-White','Bulky Attacker', 'Fire').
-tera('Kyurem-White','Bulky Attacker', 'Ice').
-move('Kyurem-White','Bulky Attacker', 'Draco Meteor').
-move('Kyurem-White','Bulky Attacker', 'Freeze-Dry').
-move('Kyurem-White','Bulky Attacker', 'Fusion Flare').
-move('Kyurem-White','Bulky Attacker', 'Ice Beam').
-role('Kyurem-White', 'Fast Attacker').
-ability('Kyurem-White','Fast Attacker', 'Turboblaze').
-item('Kyurem-White','Fast Attacker', 'Choice Scarf').
-item('Kyurem-White','Fast Attacker', 'Choice Specs').
-tera('Kyurem-White','Fast Attacker', 'Dragon').
-tera('Kyurem-White','Fast Attacker', 'Ice').
-move('Kyurem-White','Fast Attacker', 'Draco Meteor').
-move('Kyurem-White','Fast Attacker', 'Earth Power').
-move('Kyurem-White','Fast Attacker', 'Freeze-Dry').
-move('Kyurem-White','Fast Attacker', 'Ice Beam').
-pokemon('Landorus', 75).
-ability('Landorus', 'Sheer Force').
-item('Landorus', 'Life Orb').
-role('Landorus', 'Fast Attacker').
-ability('Landorus','Fast Attacker', 'Sheer Force').
-item('Landorus','Fast Attacker', 'Life Orb').
-tera('Landorus','Fast Attacker', 'Ground').
-tera('Landorus','Fast Attacker', 'Poison').
-move('Landorus','Fast Attacker', 'Earth Power').
-move('Landorus','Fast Attacker', 'Focus Blast').
-move('Landorus','Fast Attacker', 'Nasty Plot').
-move('Landorus','Fast Attacker', 'Psychic').
-move('Landorus','Fast Attacker', 'Rock Slide').
-move('Landorus','Fast Attacker', 'Sludge Wave').
-move('Landorus','Fast Attacker', 'Stealth Rock').
-pokemon('Landorus-Therian', 76).
-ability('Landorus-Therian', 'Intimidate').
-item('Landorus-Therian', 'Leftovers').
-role('Landorus-Therian', 'Bulky Support').
-ability('Landorus-Therian','Bulky Support', 'Intimidate').
-item('Landorus-Therian','Bulky Support', 'Leftovers').
-tera('Landorus-Therian','Bulky Support', 'Ground').
-tera('Landorus-Therian','Bulky Support', 'Water').
-move('Landorus-Therian','Bulky Support', 'Earthquake').
-move('Landorus-Therian','Bulky Support', 'Stealth Rock').
-move('Landorus-Therian','Bulky Support', 'Stone Edge').
-move('Landorus-Therian','Bulky Support', 'Taunt').
-move('Landorus-Therian','Bulky Support', 'U-turn').
-pokemon('Lanturn', 89).
-ability('Lanturn', 'Volt Absorb').
-item('Lanturn', 'Heavy-Duty Boots').
-item('Lanturn', 'Leftovers').
-role('Lanturn', 'Bulky Attacker').
-ability('Lanturn','Bulky Attacker', 'Volt Absorb').
-item('Lanturn','Bulky Attacker', 'Leftovers').
-tera('Lanturn','Bulky Attacker', 'Flying').
-move('Lanturn','Bulky Attacker', 'Ice Beam').
-move('Lanturn','Bulky Attacker', 'Scald').
-move('Lanturn','Bulky Attacker', 'Thunder Wave').
-move('Lanturn','Bulky Attacker', 'Thunderbolt').
-role('Lanturn', 'Fast Support').
-ability('Lanturn','Fast Support', 'Volt Absorb').
-item('Lanturn','Fast Support', 'Heavy-Duty Boots').
-tera('Lanturn','Fast Support', 'Flying').
-move('Lanturn','Fast Support', 'Scald').
-move('Lanturn','Fast Support', 'Thunder Wave').
-move('Lanturn','Fast Support', 'Thunderbolt').
-move('Lanturn','Fast Support', 'Volt Switch').
-pokemon('Lapras', 87).
-ability('Lapras', 'Water Absorb').
-item('Lapras', 'Choice Specs').
-item('Lapras', 'Heavy-Duty Boots').
-item('Lapras', 'Loaded Dice').
-role('Lapras', 'Setup Sweeper').
-ability('Lapras','Setup Sweeper', 'Water Absorb').
-item('Lapras','Setup Sweeper', 'Loaded Dice').
-tera('Lapras','Setup Sweeper', 'Ground').
-move('Lapras','Setup Sweeper', 'Dragon Dance').
-move('Lapras','Setup Sweeper', 'Earthquake').
-move('Lapras','Setup Sweeper', 'Icicle Spear').
-move('Lapras','Setup Sweeper', 'Waterfall').
-role('Lapras', 'Wallbreaker').
-ability('Lapras','Wallbreaker', 'Water Absorb').
-item('Lapras','Wallbreaker', 'Choice Specs').
-tera('Lapras','Wallbreaker', 'Ice').
-tera('Lapras','Wallbreaker', 'Water').
-move('Lapras','Wallbreaker', 'Freeze-Dry').
-move('Lapras','Wallbreaker', 'Hydro Pump').
-move('Lapras','Wallbreaker', 'Ice Beam').
-move('Lapras','Wallbreaker', 'Sparkling Aria').
-role('Lapras', 'Bulky Attacker').
-ability('Lapras','Bulky Attacker', 'Water Absorb').
-item('Lapras','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Lapras','Bulky Attacker', 'Dragon').
-tera('Lapras','Bulky Attacker', 'Ghost').
-tera('Lapras','Bulky Attacker', 'Ground').
-tera('Lapras','Bulky Attacker', 'Poison').
-tera('Lapras','Bulky Attacker', 'Steel').
-move('Lapras','Bulky Attacker', 'Freeze-Dry').
-move('Lapras','Bulky Attacker', 'Rest').
-move('Lapras','Bulky Attacker', 'Sleep Talk').
-move('Lapras','Bulky Attacker', 'Sparkling Aria').
-pokemon('Latias', 79).
-ability('Latias', 'Levitate').
-item('Latias', 'Soul Dew').
-role('Latias', 'Fast Bulky Setup').
-ability('Latias','Fast Bulky Setup', 'Levitate').
-item('Latias','Fast Bulky Setup', 'Soul Dew').
-tera('Latias','Fast Bulky Setup', 'Steel').
-move('Latias','Fast Bulky Setup', 'Calm Mind').
-move('Latias','Fast Bulky Setup', 'Draco Meteor').
-move('Latias','Fast Bulky Setup', 'Psyshock').
-move('Latias','Fast Bulky Setup', 'Recover').
-pokemon('Latios', 78).
-ability('Latios', 'Levitate').
-item('Latios', 'Choice Specs').
-item('Latios', 'Soul Dew').
-role('Latios', 'Bulky Attacker').
-ability('Latios','Bulky Attacker', 'Levitate').
-item('Latios','Bulky Attacker', 'Soul Dew').
-tera('Latios','Bulky Attacker', 'Dragon').
-tera('Latios','Bulky Attacker', 'Fighting').
-tera('Latios','Bulky Attacker', 'Steel').
-move('Latios','Bulky Attacker', 'Aura Sphere').
-move('Latios','Bulky Attacker', 'Draco Meteor').
-move('Latios','Bulky Attacker', 'Luster Purge').
-move('Latios','Bulky Attacker', 'Recover').
-role('Latios', 'Fast Attacker').
-ability('Latios','Fast Attacker', 'Levitate').
-item('Latios','Fast Attacker', 'Choice Specs').
-tera('Latios','Fast Attacker', 'Dragon').
-tera('Latios','Fast Attacker', 'Psychic').
-tera('Latios','Fast Attacker', 'Steel').
-move('Latios','Fast Attacker', 'Aura Sphere').
-move('Latios','Fast Attacker', 'Draco Meteor').
-move('Latios','Fast Attacker', 'Flip Turn').
-move('Latios','Fast Attacker', 'Luster Purge').
-role('Latios', 'Bulky Setup').
-ability('Latios','Bulky Setup', 'Levitate').
-item('Latios','Bulky Setup', 'Soul Dew').
-tera('Latios','Bulky Setup', 'Steel').
-move('Latios','Bulky Setup', 'Calm Mind').
-move('Latios','Bulky Setup', 'Draco Meteor').
-move('Latios','Bulky Setup', 'Psyshock').
-move('Latios','Bulky Setup', 'Recover').
-pokemon('Leafeon', 88).
-ability('Leafeon', 'Chlorophyll').
-item('Leafeon', 'Leftovers').
-item('Leafeon', 'Life Orb').
-role('Leafeon', 'Setup Sweeper').
-ability('Leafeon','Setup Sweeper', 'Chlorophyll').
-item('Leafeon','Setup Sweeper', 'Leftovers').
-item('Leafeon','Setup Sweeper', 'Life Orb').
-tera('Leafeon','Setup Sweeper', 'Dark').
-tera('Leafeon','Setup Sweeper', 'Normal').
-move('Leafeon','Setup Sweeper', 'Double-Edge').
-move('Leafeon','Setup Sweeper', 'Knock Off').
-move('Leafeon','Setup Sweeper', 'Leaf Blade').
-move('Leafeon','Setup Sweeper', 'Substitute').
-move('Leafeon','Setup Sweeper', 'Swords Dance').
-move('Leafeon','Setup Sweeper', 'Synthesis').
-pokemon('Leavanny', 86).
-ability('Leavanny', 'Chlorophyll').
-ability('Leavanny', 'Swarm').
-item('Leavanny', 'Focus Sash').
-item('Leavanny', 'Heavy-Duty Boots').
-item('Leavanny', 'Loaded Dice').
-role('Leavanny', 'Fast Support').
-ability('Leavanny','Fast Support', 'Chlorophyll').
-ability('Leavanny','Fast Support', 'Swarm').
-item('Leavanny','Fast Support', 'Focus Sash').
-item('Leavanny','Fast Support', 'Heavy-Duty Boots').
-tera('Leavanny','Fast Support', 'Ghost').
-tera('Leavanny','Fast Support', 'Rock').
-move('Leavanny','Fast Support', 'Knock Off').
-move('Leavanny','Fast Support', 'Leaf Blade').
-move('Leavanny','Fast Support', 'Lunge').
-move('Leavanny','Fast Support', 'Sticky Web').
-role('Leavanny', 'Fast Attacker').
-ability('Leavanny','Fast Attacker', 'Chlorophyll').
-item('Leavanny','Fast Attacker', 'Loaded Dice').
-tera('Leavanny','Fast Attacker', 'Ghost').
-tera('Leavanny','Fast Attacker', 'Rock').
-move('Leavanny','Fast Attacker', 'Bullet Seed').
-move('Leavanny','Fast Attacker', 'Knock Off').
-move('Leavanny','Fast Attacker', 'Sticky Web').
-move('Leavanny','Fast Attacker', 'Triple Axel').
-pokemon('Lilligant', 86).
-ability('Lilligant', 'Chlorophyll').
-ability('Lilligant', 'Own Tempo').
-item('Lilligant', 'Life Orb').
-role('Lilligant', 'Setup Sweeper').
-ability('Lilligant','Setup Sweeper', 'Own Tempo').
-item('Lilligant','Setup Sweeper', 'Life Orb').
-tera('Lilligant','Setup Sweeper', 'Fairy').
-tera('Lilligant','Setup Sweeper', 'Grass').
-move('Lilligant','Setup Sweeper', 'Alluring Voice').
-move('Lilligant','Setup Sweeper', 'Petal Dance').
-move('Lilligant','Setup Sweeper', 'Quiver Dance').
-move('Lilligant','Setup Sweeper', 'Sleep Powder').
-role('Lilligant', 'Tera Blast user').
-ability('Lilligant','Tera Blast user', 'Chlorophyll').
-item('Lilligant','Tera Blast user', 'Life Orb').
-tera('Lilligant','Tera Blast user', 'Fire').
-tera('Lilligant','Tera Blast user', 'Rock').
-move('Lilligant','Tera Blast user', 'Giga Drain').
-move('Lilligant','Tera Blast user', 'Quiver Dance').
-move('Lilligant','Tera Blast user', 'Sleep Powder').
-move('Lilligant','Tera Blast user', 'Tera Blast').
-pokemon('Lilligant-Hisui', 79).
-ability('Lilligant-Hisui', 'Hustle').
-item('Lilligant-Hisui', 'Life Orb').
-item('Lilligant-Hisui', 'Wide Lens').
-role('Lilligant-Hisui', 'Setup Sweeper').
-ability('Lilligant-Hisui','Setup Sweeper', 'Hustle').
-item('Lilligant-Hisui','Setup Sweeper', 'Life Orb').
-item('Lilligant-Hisui','Setup Sweeper', 'Wide Lens').
-tera('Lilligant-Hisui','Setup Sweeper', 'Fighting').
-tera('Lilligant-Hisui','Setup Sweeper', 'Steel').
-move('Lilligant-Hisui','Setup Sweeper', 'Close Combat').
-move('Lilligant-Hisui','Setup Sweeper', 'Ice Spinner').
-move('Lilligant-Hisui','Setup Sweeper', 'Leaf Blade').
-move('Lilligant-Hisui','Setup Sweeper', 'Sleep Powder').
-move('Lilligant-Hisui','Setup Sweeper', 'Victory Dance').
-pokemon('Lokix', 82).
-ability('Lokix', 'Tinted Lens').
-item('Lokix', 'Life Orb').
-item('Lokix', 'Silver Powder').
-role('Lokix', 'Fast Attacker').
-ability('Lokix','Fast Attacker', 'Tinted Lens').
-item('Lokix','Fast Attacker', 'Silver Powder').
-tera('Lokix','Fast Attacker', 'Bug').
-move('Lokix','Fast Attacker', 'First Impression').
-move('Lokix','Fast Attacker', 'Knock Off').
-move('Lokix','Fast Attacker', 'Sucker Punch').
-move('Lokix','Fast Attacker', 'U-turn').
-role('Lokix', 'Wallbreaker').
-ability('Lokix','Wallbreaker', 'Tinted Lens').
-item('Lokix','Wallbreaker', 'Life Orb').
-tera('Lokix','Wallbreaker', 'Bug').
-move('Lokix','Wallbreaker', 'First Impression').
-move('Lokix','Wallbreaker', 'Knock Off').
-move('Lokix','Wallbreaker', 'Leech Life').
-move('Lokix','Wallbreaker', 'Sucker Punch').
-role('Lokix', 'Setup Sweeper').
-ability('Lokix','Setup Sweeper', 'Tinted Lens').
-item('Lokix','Setup Sweeper', 'Life Orb').
-tera('Lokix','Setup Sweeper', 'Dark').
-move('Lokix','Setup Sweeper', 'Knock Off').
-move('Lokix','Setup Sweeper', 'Leech Life').
-move('Lokix','Setup Sweeper', 'Sucker Punch').
-move('Lokix','Setup Sweeper', 'Swords Dance').
-pokemon('Lucario', 84).
-ability('Lucario', 'Inner Focus').
-ability('Lucario', 'Justified').
-item('Lucario', 'Choice Band').
-item('Lucario', 'Life Orb').
-role('Lucario', 'Fast Attacker').
-ability('Lucario','Fast Attacker', 'Justified').
-item('Lucario','Fast Attacker', 'Choice Band').
-item('Lucario','Fast Attacker', 'Life Orb').
-tera('Lucario','Fast Attacker', 'Normal').
-move('Lucario','Fast Attacker', 'Close Combat').
-move('Lucario','Fast Attacker', 'Extreme Speed').
-move('Lucario','Fast Attacker', 'Meteor Mash').
-move('Lucario','Fast Attacker', 'Stone Edge').
-move('Lucario','Fast Attacker', 'Swords Dance').
-role('Lucario', 'Setup Sweeper').
-ability('Lucario','Setup Sweeper', 'Inner Focus').
-item('Lucario','Setup Sweeper', 'Life Orb').
-tera('Lucario','Setup Sweeper', 'Fighting').
-move('Lucario','Setup Sweeper', 'Aura Sphere').
-move('Lucario','Setup Sweeper', 'Flash Cannon').
-move('Lucario','Setup Sweeper', 'Focus Blast').
-move('Lucario','Setup Sweeper', 'Nasty Plot').
-move('Lucario','Setup Sweeper', 'Vacuum Wave').
-pokemon('Ludicolo', 90).
-ability('Ludicolo', 'Swift Swim').
-item('Ludicolo', 'Choice Specs').
-item('Ludicolo', 'Life Orb').
-role('Ludicolo', 'Setup Sweeper').
-ability('Ludicolo','Setup Sweeper', 'Swift Swim').
-item('Ludicolo','Setup Sweeper', 'Life Orb').
-tera('Ludicolo','Setup Sweeper', 'Grass').
-tera('Ludicolo','Setup Sweeper', 'Steel').
-tera('Ludicolo','Setup Sweeper', 'Water').
-move('Ludicolo','Setup Sweeper', 'Giga Drain').
-move('Ludicolo','Setup Sweeper', 'Hydro Pump').
-move('Ludicolo','Setup Sweeper', 'Ice Beam').
-move('Ludicolo','Setup Sweeper', 'Rain Dance').
-role('Ludicolo', 'Fast Attacker').
-ability('Ludicolo','Fast Attacker', 'Swift Swim').
-item('Ludicolo','Fast Attacker', 'Choice Specs').
-tera('Ludicolo','Fast Attacker', 'Grass').
-tera('Ludicolo','Fast Attacker', 'Water').
-move('Ludicolo','Fast Attacker', 'Giga Drain').
-move('Ludicolo','Fast Attacker', 'Hydro Pump').
-move('Ludicolo','Fast Attacker', 'Ice Beam').
-move('Ludicolo','Fast Attacker', 'Leaf Storm').
-pokemon('Lugia', 73).
-ability('Lugia', 'Multiscale').
-item('Lugia', 'Heavy-Duty Boots').
-role('Lugia', 'Setup Sweeper').
-ability('Lugia','Setup Sweeper', 'Multiscale').
-item('Lugia','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Lugia','Setup Sweeper', 'Steel').
-move('Lugia','Setup Sweeper', 'Aeroblast').
-move('Lugia','Setup Sweeper', 'Calm Mind').
-move('Lugia','Setup Sweeper', 'Psychic Noise').
-move('Lugia','Setup Sweeper', 'Recover').
-role('Lugia', 'Bulky Setup').
-ability('Lugia','Bulky Setup', 'Multiscale').
-item('Lugia','Bulky Setup', 'Heavy-Duty Boots').
-tera('Lugia','Bulky Setup', 'Ground').
-tera('Lugia','Bulky Setup', 'Steel').
-move('Lugia','Bulky Setup', 'Aeroblast').
-move('Lugia','Bulky Setup', 'Calm Mind').
-move('Lugia','Bulky Setup', 'Earth Power').
-move('Lugia','Bulky Setup', 'Recover').
-pokemon('Lumineon', 93).
-ability('Lumineon', 'Storm Drain').
-item('Lumineon', 'Heavy-Duty Boots').
-item('Lumineon', 'Life Orb').
-role('Lumineon', 'Fast Support').
-ability('Lumineon','Fast Support', 'Storm Drain').
-item('Lumineon','Fast Support', 'Heavy-Duty Boots').
-tera('Lumineon','Fast Support', 'Dragon').
-tera('Lumineon','Fast Support', 'Fire').
-tera('Lumineon','Fast Support', 'Ground').
-tera('Lumineon','Fast Support', 'Steel').
-move('Lumineon','Fast Support', 'Encore').
-move('Lumineon','Fast Support', 'Hydro Pump').
-move('Lumineon','Fast Support', 'Ice Beam').
-move('Lumineon','Fast Support', 'U-turn').
-role('Lumineon', 'Fast Attacker').
-ability('Lumineon','Fast Attacker', 'Storm Drain').
-item('Lumineon','Fast Attacker', 'Life Orb').
-tera('Lumineon','Fast Attacker', 'Fairy').
-tera('Lumineon','Fast Attacker', 'Water').
-move('Lumineon','Fast Attacker', 'Alluring Voice').
-move('Lumineon','Fast Attacker', 'Encore').
-move('Lumineon','Fast Attacker', 'Hydro Pump').
-move('Lumineon','Fast Attacker', 'Ice Beam').
-pokemon('Lunala', 70).
-ability('Lunala', 'Shadow Shield').
-item('Lunala', 'Leftovers').
-role('Lunala', 'Fast Bulky Setup').
-ability('Lunala','Fast Bulky Setup', 'Shadow Shield').
-item('Lunala','Fast Bulky Setup', 'Leftovers').
-tera('Lunala','Fast Bulky Setup', 'Dark').
-tera('Lunala','Fast Bulky Setup', 'Fairy').
-move('Lunala','Fast Bulky Setup', 'Calm Mind').
-move('Lunala','Fast Bulky Setup', 'Moongeist Beam').
-move('Lunala','Fast Bulky Setup', 'Moonlight').
-move('Lunala','Fast Bulky Setup', 'Psyshock').
-role('Lunala', 'Bulky Setup').
-ability('Lunala','Bulky Setup', 'Shadow Shield').
-item('Lunala','Bulky Setup', 'Leftovers').
-tera('Lunala','Bulky Setup', 'Fairy').
-tera('Lunala','Bulky Setup', 'Fighting').
-move('Lunala','Bulky Setup', 'Calm Mind').
-move('Lunala','Bulky Setup', 'Focus Blast').
-move('Lunala','Bulky Setup', 'Moonblast').
-move('Lunala','Bulky Setup', 'Moongeist Beam').
-move('Lunala','Bulky Setup', 'Moonlight').
-pokemon('Lurantis', 87).
-ability('Lurantis', 'Contrary').
-item('Lurantis', 'Assault Vest').
-item('Lurantis', 'Leftovers').
-role('Lurantis', 'AV Pivot').
-ability('Lurantis','AV Pivot', 'Contrary').
-item('Lurantis','AV Pivot', 'Assault Vest').
-tera('Lurantis','AV Pivot', 'Fighting').
-tera('Lurantis','AV Pivot', 'Steel').
-tera('Lurantis','AV Pivot', 'Water').
-move('Lurantis','AV Pivot', 'Knock Off').
-move('Lurantis','AV Pivot', 'Leaf Storm').
-move('Lurantis','AV Pivot', 'Leech Life').
-move('Lurantis','AV Pivot', 'Superpower').
-role('Lurantis', 'Bulky Attacker').
-ability('Lurantis','Bulky Attacker', 'Contrary').
-item('Lurantis','Bulky Attacker', 'Leftovers').
-tera('Lurantis','Bulky Attacker', 'Fighting').
-move('Lurantis','Bulky Attacker', 'Defog').
-move('Lurantis','Bulky Attacker', 'Knock Off').
-move('Lurantis','Bulky Attacker', 'Leaf Storm').
-move('Lurantis','Bulky Attacker', 'Superpower').
-move('Lurantis','Bulky Attacker', 'Synthesis').
-pokemon('Luvdisc', 100).
-ability('Luvdisc', 'Swift Swim').
-item('Luvdisc', 'Heavy-Duty Boots').
-role('Luvdisc', 'Fast Support').
-ability('Luvdisc','Fast Support', 'Swift Swim').
-item('Luvdisc','Fast Support', 'Heavy-Duty Boots').
-tera('Luvdisc','Fast Support', 'Ghost').
-tera('Luvdisc','Fast Support', 'Ground').
-move('Luvdisc','Fast Support', 'Endeavor').
-move('Luvdisc','Fast Support', 'Flip Turn').
-move('Luvdisc','Fast Support', 'Substitute').
-move('Luvdisc','Fast Support', 'Surf').
-move('Luvdisc','Fast Support', 'Whirlpool').
-pokemon('Luxray', 88).
-ability('Luxray', 'Guts').
-ability('Luxray', 'Intimidate').
-item('Luxray', 'Assault Vest').
-item('Luxray', 'Flame Orb').
-role('Luxray', 'Setup Sweeper').
-ability('Luxray','Setup Sweeper', 'Guts').
-item('Luxray','Setup Sweeper', 'Flame Orb').
-tera('Luxray','Setup Sweeper', 'Normal').
-move('Luxray','Setup Sweeper', 'Facade').
-move('Luxray','Setup Sweeper', 'Play Rough').
-move('Luxray','Setup Sweeper', 'Supercell Slam').
-move('Luxray','Setup Sweeper', 'Throat Chop').
-move('Luxray','Setup Sweeper', 'Trailblaze').
-role('Luxray', 'AV Pivot').
-ability('Luxray','AV Pivot', 'Intimidate').
-item('Luxray','AV Pivot', 'Assault Vest').
-tera('Luxray','AV Pivot', 'Electric').
-tera('Luxray','AV Pivot', 'Fairy').
-move('Luxray','AV Pivot', 'Ice Fang').
-move('Luxray','AV Pivot', 'Play Rough').
-move('Luxray','AV Pivot', 'Throat Chop').
-move('Luxray','AV Pivot', 'Volt Switch').
-move('Luxray','AV Pivot', 'Wild Charge').
-pokemon('Lycanroc', 86).
-ability('Lycanroc', 'Sand Rush').
-item('Lycanroc', 'Choice Band').
-item('Lycanroc', 'Life Orb').
-role('Lycanroc', 'Fast Attacker').
-ability('Lycanroc','Fast Attacker', 'Sand Rush').
-item('Lycanroc','Fast Attacker', 'Choice Band').
-item('Lycanroc','Fast Attacker', 'Life Orb').
-tera('Lycanroc','Fast Attacker', 'Fighting').
-move('Lycanroc','Fast Attacker', 'Accelerock').
-move('Lycanroc','Fast Attacker', 'Close Combat').
-move('Lycanroc','Fast Attacker', 'Crunch').
-move('Lycanroc','Fast Attacker', 'Psychic Fangs').
-move('Lycanroc','Fast Attacker', 'Stealth Rock').
-move('Lycanroc','Fast Attacker', 'Stone Edge').
-move('Lycanroc','Fast Attacker', 'Swords Dance').
-move('Lycanroc','Fast Attacker', 'Taunt').
-pokemon('Lycanroc-Dusk', 81).
-ability('Lycanroc-Dusk', 'Tough Claws').
-item('Lycanroc-Dusk', 'Choice Band').
-item('Lycanroc-Dusk', 'Life Orb').
-role('Lycanroc-Dusk', 'Setup Sweeper').
-ability('Lycanroc-Dusk','Setup Sweeper', 'Tough Claws').
-item('Lycanroc-Dusk','Setup Sweeper', 'Life Orb').
-tera('Lycanroc-Dusk','Setup Sweeper', 'Fighting').
-move('Lycanroc-Dusk','Setup Sweeper', 'Accelerock').
-move('Lycanroc-Dusk','Setup Sweeper', 'Close Combat').
-move('Lycanroc-Dusk','Setup Sweeper', 'Psychic Fangs').
-move('Lycanroc-Dusk','Setup Sweeper', 'Stone Edge').
-move('Lycanroc-Dusk','Setup Sweeper', 'Swords Dance').
-role('Lycanroc-Dusk', 'Wallbreaker').
-ability('Lycanroc-Dusk','Wallbreaker', 'Tough Claws').
-item('Lycanroc-Dusk','Wallbreaker', 'Choice Band').
-tera('Lycanroc-Dusk','Wallbreaker', 'Fighting').
-move('Lycanroc-Dusk','Wallbreaker', 'Accelerock').
-move('Lycanroc-Dusk','Wallbreaker', 'Close Combat').
-move('Lycanroc-Dusk','Wallbreaker', 'Psychic Fangs').
-move('Lycanroc-Dusk','Wallbreaker', 'Stone Edge').
-move('Lycanroc-Dusk','Wallbreaker', 'Throat Chop').
-pokemon('Lycanroc-Midnight', 89).
-ability('Lycanroc-Midnight', 'No Guard').
-item('Lycanroc-Midnight', 'Choice Band').
-item('Lycanroc-Midnight', 'Choice Scarf').
-item('Lycanroc-Midnight', 'Life Orb').
-role('Lycanroc-Midnight', 'Fast Attacker').
-ability('Lycanroc-Midnight','Fast Attacker', 'No Guard').
-item('Lycanroc-Midnight','Fast Attacker', 'Choice Band').
-item('Lycanroc-Midnight','Fast Attacker', 'Choice Scarf').
-item('Lycanroc-Midnight','Fast Attacker', 'Life Orb').
-tera('Lycanroc-Midnight','Fast Attacker', 'Fighting').
-move('Lycanroc-Midnight','Fast Attacker', 'Close Combat').
-move('Lycanroc-Midnight','Fast Attacker', 'Knock Off').
-move('Lycanroc-Midnight','Fast Attacker', 'Play Rough').
-move('Lycanroc-Midnight','Fast Attacker', 'Stealth Rock').
-move('Lycanroc-Midnight','Fast Attacker', 'Stone Edge').
-move('Lycanroc-Midnight','Fast Attacker', 'Sucker Punch').
-move('Lycanroc-Midnight','Fast Attacker', 'Swords Dance').
-pokemon('Mabosstiff', 86).
-ability('Mabosstiff', 'Stakeout').
-item('Mabosstiff', 'Choice Band').
-item('Mabosstiff', 'Choice Scarf').
-role('Mabosstiff', 'Bulky Attacker').
-ability('Mabosstiff','Bulky Attacker', 'Stakeout').
-item('Mabosstiff','Bulky Attacker', 'Choice Band').
-item('Mabosstiff','Bulky Attacker', 'Choice Scarf').
-tera('Mabosstiff','Bulky Attacker', 'Dark').
-tera('Mabosstiff','Bulky Attacker', 'Fairy').
-move('Mabosstiff','Bulky Attacker', 'Crunch').
-move('Mabosstiff','Bulky Attacker', 'Play Rough').
-move('Mabosstiff','Bulky Attacker', 'Psychic Fangs').
-move('Mabosstiff','Bulky Attacker', 'Wild Charge').
-pokemon('Magcargo', 95).
-ability('Magcargo', 'Flame Body').
-ability('Magcargo', 'Weak Armor').
-item('Magcargo', 'Heavy-Duty Boots').
-role('Magcargo', 'Setup Sweeper').
-ability('Magcargo','Setup Sweeper', 'Weak Armor').
-item('Magcargo','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Magcargo','Setup Sweeper', 'Dragon').
-tera('Magcargo','Setup Sweeper', 'Grass').
-move('Magcargo','Setup Sweeper', 'Earth Power').
-move('Magcargo','Setup Sweeper', 'Fire Blast').
-move('Magcargo','Setup Sweeper', 'Power Gem').
-move('Magcargo','Setup Sweeper', 'Shell Smash').
-role('Magcargo', 'Bulky Support').
-ability('Magcargo','Bulky Support', 'Flame Body').
-item('Magcargo','Bulky Support', 'Heavy-Duty Boots').
-tera('Magcargo','Bulky Support', 'Dragon').
-tera('Magcargo','Bulky Support', 'Grass').
-move('Magcargo','Bulky Support', 'Lava Plume').
-move('Magcargo','Bulky Support', 'Power Gem').
-move('Magcargo','Bulky Support', 'Recover').
-move('Magcargo','Bulky Support', 'Stealth Rock').
-move('Magcargo','Bulky Support', 'Yawn').
-pokemon('Magearna', 77).
-ability('Magearna', 'Soul-Heart').
-item('Magearna', 'Choice Scarf').
-item('Magearna', 'Choice Specs').
-item('Magearna', 'Leftovers').
-item('Magearna', 'Weakness Policy').
-role('Magearna', 'Bulky Attacker').
-ability('Magearna','Bulky Attacker', 'Soul-Heart').
-item('Magearna','Bulky Attacker', 'Choice Scarf').
-item('Magearna','Bulky Attacker', 'Choice Specs').
-item('Magearna','Bulky Attacker', 'Leftovers').
-tera('Magearna','Bulky Attacker', 'Fairy').
-tera('Magearna','Bulky Attacker', 'Fighting').
-tera('Magearna','Bulky Attacker', 'Water').
-move('Magearna','Bulky Attacker', 'Aura Sphere').
-move('Magearna','Bulky Attacker', 'Flash Cannon').
-move('Magearna','Bulky Attacker', 'Fleur Cannon').
-move('Magearna','Bulky Attacker', 'Pain Split').
-move('Magearna','Bulky Attacker', 'Spikes').
-move('Magearna','Bulky Attacker', 'Thunder Wave').
-move('Magearna','Bulky Attacker', 'Volt Switch').
-role('Magearna', 'Bulky Setup').
-ability('Magearna','Bulky Setup', 'Soul-Heart').
-item('Magearna','Bulky Setup', 'Leftovers').
-tera('Magearna','Bulky Setup', 'Fairy').
-tera('Magearna','Bulky Setup', 'Flying').
-tera('Magearna','Bulky Setup', 'Water').
-move('Magearna','Bulky Setup', 'Calm Mind').
-move('Magearna','Bulky Setup', 'Flash Cannon').
-move('Magearna','Bulky Setup', 'Fleur Cannon').
-move('Magearna','Bulky Setup', 'Shift Gear').
-role('Magearna', 'Tera Blast user').
-ability('Magearna','Tera Blast user', 'Soul-Heart').
-item('Magearna','Tera Blast user', 'Weakness Policy').
-tera('Magearna','Tera Blast user', 'Ground').
-move('Magearna','Tera Blast user', 'Fleur Cannon').
-move('Magearna','Tera Blast user', 'Iron Head').
-move('Magearna','Tera Blast user', 'Shift Gear').
-move('Magearna','Tera Blast user', 'Tera Blast').
-pokemon('Magmortar', 88).
-ability('Magmortar', 'Flame Body').
-item('Magmortar', 'Choice Specs').
-item('Magmortar', 'Heavy-Duty Boots').
-role('Magmortar', 'Wallbreaker').
-ability('Magmortar','Wallbreaker', 'Flame Body').
-item('Magmortar','Wallbreaker', 'Choice Specs').
-item('Magmortar','Wallbreaker', 'Heavy-Duty Boots').
-tera('Magmortar','Wallbreaker', 'Electric').
-tera('Magmortar','Wallbreaker', 'Fighting').
-tera('Magmortar','Wallbreaker', 'Water').
-move('Magmortar','Wallbreaker', 'Fire Blast').
-move('Magmortar','Wallbreaker', 'Focus Blast').
-move('Magmortar','Wallbreaker', 'Knock Off').
-move('Magmortar','Wallbreaker', 'Scorching Sands').
-move('Magmortar','Wallbreaker', 'Taunt').
-move('Magmortar','Wallbreaker', 'Thunderbolt').
-role('Magmortar', 'Fast Attacker').
-ability('Magmortar','Fast Attacker', 'Flame Body').
-item('Magmortar','Fast Attacker', 'Heavy-Duty Boots').
-tera('Magmortar','Fast Attacker', 'Electric').
-tera('Magmortar','Fast Attacker', 'Fighting').
-tera('Magmortar','Fast Attacker', 'Water').
-move('Magmortar','Fast Attacker', 'Earthquake').
-move('Magmortar','Fast Attacker', 'Fire Blast').
-move('Magmortar','Fast Attacker', 'Focus Blast').
-move('Magmortar','Fast Attacker', 'Knock Off').
-move('Magmortar','Fast Attacker', 'Thunderbolt').
-move('Magmortar','Fast Attacker', 'Will-O-Wisp').
-pokemon('Magnezone', 84).
-ability('Magnezone', 'Analytic').
-ability('Magnezone', 'Magnet Pull').
-item('Magnezone', 'Assault Vest').
-item('Magnezone', 'Choice Scarf').
-item('Magnezone', 'Leftovers').
-role('Magnezone', 'Bulky Setup').
-ability('Magnezone','Bulky Setup', 'Analytic').
-ability('Magnezone','Bulky Setup', 'Magnet Pull').
-item('Magnezone','Bulky Setup', 'Leftovers').
-tera('Magnezone','Bulky Setup', 'Fighting').
-move('Magnezone','Bulky Setup', 'Body Press').
-move('Magnezone','Bulky Setup', 'Discharge').
-move('Magnezone','Bulky Setup', 'Flash Cannon').
-move('Magnezone','Bulky Setup', 'Iron Defense').
-move('Magnezone','Bulky Setup', 'Thunderbolt').
-role('Magnezone', 'Fast Attacker').
-ability('Magnezone','Fast Attacker', 'Analytic').
-ability('Magnezone','Fast Attacker', 'Magnet Pull').
-item('Magnezone','Fast Attacker', 'Choice Scarf').
-tera('Magnezone','Fast Attacker', 'Electric').
-tera('Magnezone','Fast Attacker', 'Fighting').
-tera('Magnezone','Fast Attacker', 'Flying').
-move('Magnezone','Fast Attacker', 'Body Press').
-move('Magnezone','Fast Attacker', 'Flash Cannon').
-move('Magnezone','Fast Attacker', 'Thunderbolt').
-move('Magnezone','Fast Attacker', 'Volt Switch').
-role('Magnezone', 'AV Pivot').
-ability('Magnezone','AV Pivot', 'Analytic').
-ability('Magnezone','AV Pivot', 'Magnet Pull').
-item('Magnezone','AV Pivot', 'Assault Vest').
-tera('Magnezone','AV Pivot', 'Flying').
-move('Magnezone','AV Pivot', 'Body Press').
-move('Magnezone','AV Pivot', 'Discharge').
-move('Magnezone','AV Pivot', 'Flash Cannon').
-move('Magnezone','AV Pivot', 'Mirror Coat').
-move('Magnezone','AV Pivot', 'Thunderbolt').
-move('Magnezone','AV Pivot', 'Volt Switch').
-pokemon('Malamar', 82).
-ability('Malamar', 'Contrary').
-item('Malamar', 'Chesto Berry').
-item('Malamar', 'Leftovers').
-role('Malamar', 'Bulky Setup').
-ability('Malamar','Bulky Setup', 'Contrary').
-item('Malamar','Bulky Setup', 'Leftovers').
-tera('Malamar','Bulky Setup', 'Fighting').
-tera('Malamar','Bulky Setup', 'Poison').
-tera('Malamar','Bulky Setup', 'Steel').
-move('Malamar','Bulky Setup', 'Knock Off').
-move('Malamar','Bulky Setup', 'Rest').
-move('Malamar','Bulky Setup', 'Sleep Talk').
-move('Malamar','Bulky Setup', 'Superpower').
-role('Malamar', 'Fast Bulky Setup').
-ability('Malamar','Fast Bulky Setup', 'Contrary').
-item('Malamar','Fast Bulky Setup', 'Chesto Berry').
-tera('Malamar','Fast Bulky Setup', 'Fighting').
-tera('Malamar','Fast Bulky Setup', 'Poison').
-tera('Malamar','Fast Bulky Setup', 'Steel').
-move('Malamar','Fast Bulky Setup', 'Knock Off').
-move('Malamar','Fast Bulky Setup', 'Psycho Cut').
-move('Malamar','Fast Bulky Setup', 'Rest').
-move('Malamar','Fast Bulky Setup', 'Superpower').
-pokemon('Mamoswine', 81).
-ability('Mamoswine', 'Thick Fat').
-item('Mamoswine', 'Choice Band').
-item('Mamoswine', 'Life Orb').
-role('Mamoswine', 'Wallbreaker').
-ability('Mamoswine','Wallbreaker', 'Thick Fat').
-item('Mamoswine','Wallbreaker', 'Choice Band').
-item('Mamoswine','Wallbreaker', 'Life Orb').
-tera('Mamoswine','Wallbreaker', 'Ground').
-tera('Mamoswine','Wallbreaker', 'Ice').
-move('Mamoswine','Wallbreaker', 'Earthquake').
-move('Mamoswine','Wallbreaker', 'Ice Shard').
-move('Mamoswine','Wallbreaker', 'Icicle Crash').
-move('Mamoswine','Wallbreaker', 'Knock Off').
-move('Mamoswine','Wallbreaker', 'Stealth Rock').
-pokemon('Manaphy', 78).
-ability('Manaphy', 'Hydration').
-item('Manaphy', 'Leftovers').
-role('Manaphy', 'Bulky Setup').
-ability('Manaphy','Bulky Setup', 'Hydration').
-item('Manaphy','Bulky Setup', 'Leftovers').
-tera('Manaphy','Bulky Setup', 'Grass').
-tera('Manaphy','Bulky Setup', 'Water').
-move('Manaphy','Bulky Setup', 'Energy Ball').
-move('Manaphy','Bulky Setup', 'Hydro Pump').
-move('Manaphy','Bulky Setup', 'Ice Beam').
-move('Manaphy','Bulky Setup', 'Surf').
-move('Manaphy','Bulky Setup', 'Tail Glow').
-pokemon('Mandibuzz', 85).
-ability('Mandibuzz', 'Overcoat').
-item('Mandibuzz', 'Heavy-Duty Boots').
-role('Mandibuzz', 'Bulky Support').
-ability('Mandibuzz','Bulky Support', 'Overcoat').
-item('Mandibuzz','Bulky Support', 'Heavy-Duty Boots').
-tera('Mandibuzz','Bulky Support', 'Steel').
-move('Mandibuzz','Bulky Support', 'Defog').
-move('Mandibuzz','Bulky Support', 'Foul Play').
-move('Mandibuzz','Bulky Support', 'Roost').
-move('Mandibuzz','Bulky Support', 'Toxic').
-move('Mandibuzz','Bulky Support', 'U-turn').
-role('Mandibuzz', 'Bulky Attacker').
-ability('Mandibuzz','Bulky Attacker', 'Overcoat').
-item('Mandibuzz','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Mandibuzz','Bulky Attacker', 'Steel').
-move('Mandibuzz','Bulky Attacker', 'Brave Bird').
-move('Mandibuzz','Bulky Attacker', 'Defog').
-move('Mandibuzz','Bulky Attacker', 'Foul Play').
-move('Mandibuzz','Bulky Attacker', 'Knock Off').
-move('Mandibuzz','Bulky Attacker', 'Roost').
-move('Mandibuzz','Bulky Attacker', 'Toxic').
-pokemon('Masquerain', 87).
-ability('Masquerain', 'Intimidate').
-item('Masquerain', 'Heavy-Duty Boots').
-role('Masquerain', 'Fast Support').
-ability('Masquerain','Fast Support', 'Intimidate').
-item('Masquerain','Fast Support', 'Heavy-Duty Boots').
-tera('Masquerain','Fast Support', 'Ground').
-tera('Masquerain','Fast Support', 'Steel').
-tera('Masquerain','Fast Support', 'Water').
-move('Masquerain','Fast Support', 'Bug Buzz').
-move('Masquerain','Fast Support', 'Hurricane').
-move('Masquerain','Fast Support', 'Hydro Pump').
-move('Masquerain','Fast Support', 'Sticky Web').
-move('Masquerain','Fast Support', 'Stun Spore').
-move('Masquerain','Fast Support', 'U-turn').
-role('Masquerain', 'Setup Sweeper').
-ability('Masquerain','Setup Sweeper', 'Intimidate').
-item('Masquerain','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Masquerain','Setup Sweeper', 'Water').
-move('Masquerain','Setup Sweeper', 'Bug Buzz').
-move('Masquerain','Setup Sweeper', 'Hurricane').
-move('Masquerain','Setup Sweeper', 'Hydro Pump').
-move('Masquerain','Setup Sweeper', 'Quiver Dance').
-pokemon('Maushold', 76).
-ability('Maushold', 'Technician').
-item('Maushold', 'Wide Lens').
-role('Maushold', 'Setup Sweeper').
-ability('Maushold','Setup Sweeper', 'Technician').
-item('Maushold','Setup Sweeper', 'Wide Lens').
-tera('Maushold','Setup Sweeper', 'Ghost').
-tera('Maushold','Setup Sweeper', 'Normal').
-move('Maushold','Setup Sweeper', 'Bite').
-move('Maushold','Setup Sweeper', 'Encore').
-move('Maushold','Setup Sweeper', 'Population Bomb').
-move('Maushold','Setup Sweeper', 'Tidy Up').
-pokemon('Medicham', 86).
-ability('Medicham', 'Pure Power').
-item('Medicham', 'Choice Band').
-item('Medicham', 'Choice Scarf').
-role('Medicham', 'Fast Attacker').
-ability('Medicham','Fast Attacker', 'Pure Power').
-item('Medicham','Fast Attacker', 'Choice Band').
-item('Medicham','Fast Attacker', 'Choice Scarf').
-tera('Medicham','Fast Attacker', 'Fighting').
-move('Medicham','Fast Attacker', 'Bullet Punch').
-move('Medicham','Fast Attacker', 'Close Combat').
-move('Medicham','Fast Attacker', 'Ice Punch').
-move('Medicham','Fast Attacker', 'Poison Jab').
-move('Medicham','Fast Attacker', 'Trick').
-move('Medicham','Fast Attacker', 'Zen Headbutt').
-pokemon('Meganium', 90).
-ability('Meganium', 'Overgrow').
-item('Meganium', 'Leftovers').
-role('Meganium', 'Bulky Setup').
-ability('Meganium','Bulky Setup', 'Overgrow').
-item('Meganium','Bulky Setup', 'Leftovers').
-tera('Meganium','Bulky Setup', 'Ground').
-tera('Meganium','Bulky Setup', 'Steel').
-tera('Meganium','Bulky Setup', 'Water').
-move('Meganium','Bulky Setup', 'Earthquake').
-move('Meganium','Bulky Setup', 'Knock Off').
-move('Meganium','Bulky Setup', 'Petal Blizzard').
-move('Meganium','Bulky Setup', 'Swords Dance').
-role('Meganium', 'Bulky Attacker').
-ability('Meganium','Bulky Attacker', 'Overgrow').
-item('Meganium','Bulky Attacker', 'Leftovers').
-tera('Meganium','Bulky Attacker', 'Poison').
-tera('Meganium','Bulky Attacker', 'Steel').
-tera('Meganium','Bulky Attacker', 'Water').
-move('Meganium','Bulky Attacker', 'Dragon Tail').
-move('Meganium','Bulky Attacker', 'Encore').
-move('Meganium','Bulky Attacker', 'Energy Ball').
-move('Meganium','Bulky Attacker', 'Knock Off').
-move('Meganium','Bulky Attacker', 'Leech Seed').
-move('Meganium','Bulky Attacker', 'Synthesis').
-pokemon('Meloetta', 82).
-ability('Meloetta', 'Serene Grace').
-item('Meloetta', 'Choice Specs').
-item('Meloetta', 'Leftovers').
-item('Meloetta', 'Life Orb').
-role('Meloetta', 'Wallbreaker').
-ability('Meloetta','Wallbreaker', 'Serene Grace').
-item('Meloetta','Wallbreaker', 'Life Orb').
-tera('Meloetta','Wallbreaker', 'Dark').
-tera('Meloetta','Wallbreaker', 'Fighting').
-move('Meloetta','Wallbreaker', 'Close Combat').
-move('Meloetta','Wallbreaker', 'Knock Off').
-move('Meloetta','Wallbreaker', 'Relic Song').
-move('Meloetta','Wallbreaker', 'Triple Axel').
-role('Meloetta', 'Bulky Attacker').
-ability('Meloetta','Bulky Attacker', 'Serene Grace').
-item('Meloetta','Bulky Attacker', 'Choice Specs').
-item('Meloetta','Bulky Attacker', 'Leftovers').
-tera('Meloetta','Bulky Attacker', 'Fighting').
-tera('Meloetta','Bulky Attacker', 'Normal').
-tera('Meloetta','Bulky Attacker', 'Psychic').
-move('Meloetta','Bulky Attacker', 'Calm Mind').
-move('Meloetta','Bulky Attacker', 'Focus Blast').
-move('Meloetta','Bulky Attacker', 'Hyper Voice').
-move('Meloetta','Bulky Attacker', 'Psyshock').
-move('Meloetta','Bulky Attacker', 'U-turn').
-pokemon('Meowscarada', 78).
-ability('Meowscarada', 'Protean').
-item('Meowscarada', 'Choice Band').
-item('Meowscarada', 'Focus Sash').
-item('Meowscarada', 'Heavy-Duty Boots').
-item('Meowscarada', 'Life Orb').
-role('Meowscarada', 'Fast Support').
-ability('Meowscarada','Fast Support', 'Protean').
-item('Meowscarada','Fast Support', 'Choice Band').
-item('Meowscarada','Fast Support', 'Focus Sash').
-item('Meowscarada','Fast Support', 'Heavy-Duty Boots').
-item('Meowscarada','Fast Support', 'Life Orb').
-tera('Meowscarada','Fast Support', 'Dark').
-tera('Meowscarada','Fast Support', 'Grass').
-move('Meowscarada','Fast Support', 'Flower Trick').
-move('Meowscarada','Fast Support', 'Knock Off').
-move('Meowscarada','Fast Support', 'Toxic Spikes').
-move('Meowscarada','Fast Support', 'Triple Axel').
-move('Meowscarada','Fast Support', 'U-turn').
-pokemon('Meowstic', 89).
-ability('Meowstic', 'Prankster').
-item('Meowstic', 'Leftovers').
-item('Meowstic', 'Light Clay').
-role('Meowstic', 'Bulky Support').
-ability('Meowstic','Bulky Support', 'Prankster').
-item('Meowstic','Bulky Support', 'Leftovers').
-item('Meowstic','Bulky Support', 'Light Clay').
-tera('Meowstic','Bulky Support', 'Fairy').
-move('Meowstic','Bulky Support', 'Alluring Voice').
-move('Meowstic','Bulky Support', 'Light Screen').
-move('Meowstic','Bulky Support', 'Psychic Noise').
-move('Meowstic','Bulky Support', 'Reflect').
-move('Meowstic','Bulky Support', 'Thunder Wave').
-move('Meowstic','Bulky Support', 'Yawn').
-pokemon('Meowstic-F', 89).
-ability('Meowstic-F', 'Competitive').
-item('Meowstic-F', 'Life Orb').
-role('Meowstic-F', 'Setup Sweeper').
-ability('Meowstic-F','Setup Sweeper', 'Competitive').
-item('Meowstic-F','Setup Sweeper', 'Life Orb').
-tera('Meowstic-F','Setup Sweeper', 'Dark').
-tera('Meowstic-F','Setup Sweeper', 'Electric').
-tera('Meowstic-F','Setup Sweeper', 'Fairy').
-move('Meowstic-F','Setup Sweeper', 'Alluring Voice').
-move('Meowstic-F','Setup Sweeper', 'Dark Pulse').
-move('Meowstic-F','Setup Sweeper', 'Nasty Plot').
-move('Meowstic-F','Setup Sweeper', 'Psychic').
-move('Meowstic-F','Setup Sweeper', 'Psyshock').
-move('Meowstic-F','Setup Sweeper', 'Thunderbolt').
-pokemon('Mesprit', 85).
-ability('Mesprit', 'Levitate').
-item('Mesprit', 'Assault Vest').
-item('Mesprit', 'Choice Scarf').
-item('Mesprit', 'Choice Specs').
-item('Mesprit', 'Leftovers').
-item('Mesprit', 'Life Orb').
-role('Mesprit', 'Bulky Support').
-ability('Mesprit','Bulky Support', 'Levitate').
-item('Mesprit','Bulky Support', 'Leftovers').
-tera('Mesprit','Bulky Support', 'Dark').
-tera('Mesprit','Bulky Support', 'Electric').
-tera('Mesprit','Bulky Support', 'Steel').
-move('Mesprit','Bulky Support', 'Encore').
-move('Mesprit','Bulky Support', 'Knock Off').
-move('Mesprit','Bulky Support', 'Psychic Noise').
-move('Mesprit','Bulky Support', 'Stealth Rock').
-move('Mesprit','Bulky Support', 'Thunder Wave').
-move('Mesprit','Bulky Support', 'U-turn').
-role('Mesprit', 'Fast Attacker').
-ability('Mesprit','Fast Attacker', 'Levitate').
-item('Mesprit','Fast Attacker', 'Choice Scarf').
-item('Mesprit','Fast Attacker', 'Choice Specs').
-item('Mesprit','Fast Attacker', 'Life Orb').
-tera('Mesprit','Fast Attacker', 'Electric').
-tera('Mesprit','Fast Attacker', 'Fairy').
-move('Mesprit','Fast Attacker', 'Dazzling Gleam').
-move('Mesprit','Fast Attacker', 'Ice Beam').
-move('Mesprit','Fast Attacker', 'Nasty Plot').
-move('Mesprit','Fast Attacker', 'Psychic').
-move('Mesprit','Fast Attacker', 'Shadow Ball').
-move('Mesprit','Fast Attacker', 'Thunderbolt').
-move('Mesprit','Fast Attacker', 'Trick').
-move('Mesprit','Fast Attacker', 'U-turn').
-role('Mesprit', 'Bulky Attacker').
-ability('Mesprit','Bulky Attacker', 'Levitate').
-item('Mesprit','Bulky Attacker', 'Assault Vest').
-item('Mesprit','Bulky Attacker', 'Leftovers').
-tera('Mesprit','Bulky Attacker', 'Dark').
-tera('Mesprit','Bulky Attacker', 'Fighting').
-move('Mesprit','Bulky Attacker', 'Drain Punch').
-move('Mesprit','Bulky Attacker', 'Ice Beam').
-move('Mesprit','Bulky Attacker', 'Knock Off').
-move('Mesprit','Bulky Attacker', 'Psychic Noise').
-move('Mesprit','Bulky Attacker', 'Stealth Rock').
-move('Mesprit','Bulky Attacker', 'Thunder Wave').
-move('Mesprit','Bulky Attacker', 'Thunderbolt').
-move('Mesprit','Bulky Attacker', 'U-turn').
-pokemon('Metagross', 79).
-ability('Metagross', 'Clear Body').
-item('Metagross', 'Choice Band').
-item('Metagross', 'Choice Scarf').
-item('Metagross', 'Leftovers').
-item('Metagross', 'Weakness Policy').
-role('Metagross', 'Bulky Setup').
-ability('Metagross','Bulky Setup', 'Clear Body').
-item('Metagross','Bulky Setup', 'Weakness Policy').
-tera('Metagross','Bulky Setup', 'Ground').
-move('Metagross','Bulky Setup', 'Agility').
-move('Metagross','Bulky Setup', 'Earthquake').
-move('Metagross','Bulky Setup', 'Heavy Slam').
-move('Metagross','Bulky Setup', 'Knock Off').
-move('Metagross','Bulky Setup', 'Psychic Fangs').
-role('Metagross', 'Bulky Support').
-ability('Metagross','Bulky Support', 'Clear Body').
-item('Metagross','Bulky Support', 'Choice Band').
-item('Metagross','Bulky Support', 'Choice Scarf').
-item('Metagross','Bulky Support', 'Leftovers').
-tera('Metagross','Bulky Support', 'Water').
-move('Metagross','Bulky Support', 'Bullet Punch').
-move('Metagross','Bulky Support', 'Earthquake').
-move('Metagross','Bulky Support', 'Heavy Slam').
-move('Metagross','Bulky Support', 'Knock Off').
-move('Metagross','Bulky Support', 'Psychic Fangs').
-move('Metagross','Bulky Support', 'Stealth Rock').
-pokemon('Mew', 82).
-ability('Mew', 'Synchronize').
-item('Mew', 'Leftovers').
-item('Mew', 'Life Orb').
-role('Mew', 'Fast Bulky Setup').
-ability('Mew','Fast Bulky Setup', 'Synchronize').
-item('Mew','Fast Bulky Setup', 'Life Orb').
-tera('Mew','Fast Bulky Setup', 'Dark').
-tera('Mew','Fast Bulky Setup', 'Fighting').
-tera('Mew','Fast Bulky Setup', 'Fire').
-tera('Mew','Fast Bulky Setup', 'Ground').
-tera('Mew','Fast Bulky Setup', 'Psychic').
-tera('Mew','Fast Bulky Setup', 'Water').
-move('Mew','Fast Bulky Setup', 'Aura Sphere').
-move('Mew','Fast Bulky Setup', 'Bug Buzz').
-move('Mew','Fast Bulky Setup', 'Dark Pulse').
-move('Mew','Fast Bulky Setup', 'Earth Power').
-move('Mew','Fast Bulky Setup', 'Fire Blast').
-move('Mew','Fast Bulky Setup', 'Hydro Pump').
-move('Mew','Fast Bulky Setup', 'Nasty Plot').
-move('Mew','Fast Bulky Setup', 'Psychic').
-move('Mew','Fast Bulky Setup', 'Psyshock').
-role('Mew', 'Setup Sweeper').
-ability('Mew','Setup Sweeper', 'Synchronize').
-item('Mew','Setup Sweeper', 'Life Orb').
-tera('Mew','Setup Sweeper', 'Fighting').
-move('Mew','Setup Sweeper', 'Close Combat').
-move('Mew','Setup Sweeper', 'Knock Off').
-move('Mew','Setup Sweeper', 'Leech Life').
-move('Mew','Setup Sweeper', 'Psychic Fangs').
-move('Mew','Setup Sweeper', 'Swords Dance').
-role('Mew', 'Bulky Support').
-ability('Mew','Bulky Support', 'Synchronize').
-item('Mew','Bulky Support', 'Leftovers').
-tera('Mew','Bulky Support', 'Dark').
-tera('Mew','Bulky Support', 'Fairy').
-tera('Mew','Bulky Support', 'Steel').
-move('Mew','Bulky Support', 'Encore').
-move('Mew','Bulky Support', 'Knock Off').
-move('Mew','Bulky Support', 'Psychic').
-move('Mew','Bulky Support', 'Psychic Noise').
-move('Mew','Bulky Support', 'Stealth Rock').
-move('Mew','Bulky Support', 'Toxic Spikes').
-move('Mew','Bulky Support', 'U-turn').
-move('Mew','Bulky Support', 'Will-O-Wisp').
-pokemon('Mewtwo', 72).
-ability('Mewtwo', 'Pressure').
-ability('Mewtwo', 'Unnerve').
-item('Mewtwo', 'Life Orb').
-role('Mewtwo', 'Setup Sweeper').
-ability('Mewtwo','Setup Sweeper', 'Pressure').
-ability('Mewtwo','Setup Sweeper', 'Unnerve').
-item('Mewtwo','Setup Sweeper', 'Life Orb').
-tera('Mewtwo','Setup Sweeper', 'Dark').
-tera('Mewtwo','Setup Sweeper', 'Fighting').
-tera('Mewtwo','Setup Sweeper', 'Fire').
-tera('Mewtwo','Setup Sweeper', 'Psychic').
-move('Mewtwo','Setup Sweeper', 'Aura Sphere').
-move('Mewtwo','Setup Sweeper', 'Dark Pulse').
-move('Mewtwo','Setup Sweeper', 'Fire Blast').
-move('Mewtwo','Setup Sweeper', 'Nasty Plot').
-move('Mewtwo','Setup Sweeper', 'Psystrike').
-move('Mewtwo','Setup Sweeper', 'Recover').
-pokemon('Mienshao', 83).
-ability('Mienshao', 'Reckless').
-ability('Mienshao', 'Regenerator').
-item('Mienshao', 'Assault Vest').
-item('Mienshao', 'Choice Band').
-item('Mienshao', 'Life Orb').
-role('Mienshao', 'Wallbreaker').
-ability('Mienshao','Wallbreaker', 'Reckless').
-item('Mienshao','Wallbreaker', 'Choice Band').
-tera('Mienshao','Wallbreaker', 'Fighting').
-move('Mienshao','Wallbreaker', 'High Jump Kick').
-move('Mienshao','Wallbreaker', 'Knock Off').
-move('Mienshao','Wallbreaker', 'Poison Jab').
-move('Mienshao','Wallbreaker', 'Stone Edge').
-move('Mienshao','Wallbreaker', 'U-turn').
-role('Mienshao', 'AV Pivot').
-ability('Mienshao','AV Pivot', 'Regenerator').
-item('Mienshao','AV Pivot', 'Assault Vest').
-tera('Mienshao','AV Pivot', 'Dark').
-tera('Mienshao','AV Pivot', 'Steel').
-move('Mienshao','AV Pivot', 'Close Combat').
-move('Mienshao','AV Pivot', 'Fake Out').
-move('Mienshao','AV Pivot', 'Knock Off').
-move('Mienshao','AV Pivot', 'U-turn').
-role('Mienshao', 'Setup Sweeper').
-ability('Mienshao','Setup Sweeper', 'Regenerator').
-item('Mienshao','Setup Sweeper', 'Life Orb').
-tera('Mienshao','Setup Sweeper', 'Dark').
-tera('Mienshao','Setup Sweeper', 'Fighting').
-tera('Mienshao','Setup Sweeper', 'Poison').
-move('Mienshao','Setup Sweeper', 'Close Combat').
-move('Mienshao','Setup Sweeper', 'Knock Off').
-move('Mienshao','Setup Sweeper', 'Poison Jab').
-move('Mienshao','Setup Sweeper', 'Swords Dance').
-move('Mienshao','Setup Sweeper', 'Triple Axel').
-pokemon('Mightyena', 96).
-ability('Mightyena', 'Intimidate').
-item('Mightyena', 'Assault Vest').
-item('Mightyena', 'Choice Band').
-item('Mightyena', 'Leftovers').
-role('Mightyena', 'AV Pivot').
-ability('Mightyena','AV Pivot', 'Intimidate').
-item('Mightyena','AV Pivot', 'Assault Vest').
-tera('Mightyena','AV Pivot', 'Fairy').
-tera('Mightyena','AV Pivot', 'Poison').
-move('Mightyena','AV Pivot', 'Crunch').
-move('Mightyena','AV Pivot', 'Play Rough').
-move('Mightyena','AV Pivot', 'Poison Fang').
-move('Mightyena','AV Pivot', 'Sucker Punch').
-move('Mightyena','AV Pivot', 'Super Fang').
-move('Mightyena','AV Pivot', 'Throat Chop').
-role('Mightyena', 'Bulky Attacker').
-ability('Mightyena','Bulky Attacker', 'Intimidate').
-item('Mightyena','Bulky Attacker', 'Choice Band').
-item('Mightyena','Bulky Attacker', 'Leftovers').
-tera('Mightyena','Bulky Attacker', 'Fairy').
-tera('Mightyena','Bulky Attacker', 'Poison').
-move('Mightyena','Bulky Attacker', 'Crunch').
-move('Mightyena','Bulky Attacker', 'Play Rough').
-move('Mightyena','Bulky Attacker', 'Poison Fang').
-move('Mightyena','Bulky Attacker', 'Sucker Punch').
-move('Mightyena','Bulky Attacker', 'Taunt').
-move('Mightyena','Bulky Attacker', 'Throat Chop').
-pokemon('Milotic', 83).
-ability('Milotic', 'Competitive').
-item('Milotic', 'Leftovers').
-role('Milotic', 'Bulky Attacker').
-ability('Milotic','Bulky Attacker', 'Competitive').
-item('Milotic','Bulky Attacker', 'Leftovers').
-tera('Milotic','Bulky Attacker', 'Dragon').
-tera('Milotic','Bulky Attacker', 'Steel').
-move('Milotic','Bulky Attacker', 'Dragon Tail').
-move('Milotic','Bulky Attacker', 'Haze').
-move('Milotic','Bulky Attacker', 'Ice Beam').
-move('Milotic','Bulky Attacker', 'Recover').
-move('Milotic','Bulky Attacker', 'Scald').
-pokemon('Mimikyu', 79).
-ability('Mimikyu', 'Disguise').
-item('Mimikyu', 'Life Orb').
-role('Mimikyu', 'Fast Bulky Setup').
-ability('Mimikyu','Fast Bulky Setup', 'Disguise').
-item('Mimikyu','Fast Bulky Setup', 'Life Orb').
-tera('Mimikyu','Fast Bulky Setup', 'Fairy').
-tera('Mimikyu','Fast Bulky Setup', 'Ghost').
-move('Mimikyu','Fast Bulky Setup', 'Play Rough').
-move('Mimikyu','Fast Bulky Setup', 'Shadow Claw').
-move('Mimikyu','Fast Bulky Setup', 'Shadow Sneak').
-move('Mimikyu','Fast Bulky Setup', 'Swords Dance').
-role('Mimikyu', 'Setup Sweeper').
-ability('Mimikyu','Setup Sweeper', 'Disguise').
-item('Mimikyu','Setup Sweeper', 'Life Orb').
-tera('Mimikyu','Setup Sweeper', 'Fairy').
-tera('Mimikyu','Setup Sweeper', 'Fighting').
-move('Mimikyu','Setup Sweeper', 'Drain Punch').
-move('Mimikyu','Setup Sweeper', 'Play Rough').
-move('Mimikyu','Setup Sweeper', 'Shadow Sneak').
-move('Mimikyu','Setup Sweeper', 'Swords Dance').
-pokemon('Minior', 79).
-ability('Minior', 'Shields Down').
-item('Minior', 'White Herb').
-role('Minior', 'Setup Sweeper').
-ability('Minior','Setup Sweeper', 'Shields Down').
-item('Minior','Setup Sweeper', 'White Herb').
-tera('Minior','Setup Sweeper', 'Flying').
-tera('Minior','Setup Sweeper', 'Ground').
-tera('Minior','Setup Sweeper', 'Steel').
-tera('Minior','Setup Sweeper', 'Water').
-move('Minior','Setup Sweeper', 'Acrobatics').
-move('Minior','Setup Sweeper', 'Earthquake').
-move('Minior','Setup Sweeper', 'Power Gem').
-move('Minior','Setup Sweeper', 'Shell Smash').
-pokemon('Minun', 95).
-ability('Minun', 'Volt Absorb').
-item('Minun', 'Life Orb').
-role('Minun', 'Setup Sweeper').
-ability('Minun','Setup Sweeper', 'Volt Absorb').
-item('Minun','Setup Sweeper', 'Life Orb').
-tera('Minun','Setup Sweeper', 'Electric').
-tera('Minun','Setup Sweeper', 'Fairy').
-tera('Minun','Setup Sweeper', 'Grass').
-move('Minun','Setup Sweeper', 'Alluring Voice').
-move('Minun','Setup Sweeper', 'Encore').
-move('Minun','Setup Sweeper', 'Grass Knot').
-move('Minun','Setup Sweeper', 'Nasty Plot').
-move('Minun','Setup Sweeper', 'Thunderbolt').
-pokemon('Miraidon', 65).
-ability('Miraidon', 'Hadron Engine').
-item('Miraidon', 'Choice Specs').
-item('Miraidon', 'Life Orb').
-role('Miraidon', 'Fast Attacker').
-ability('Miraidon','Fast Attacker', 'Hadron Engine').
-item('Miraidon','Fast Attacker', 'Choice Specs').
-tera('Miraidon','Fast Attacker', 'Electric').
-move('Miraidon','Fast Attacker', 'Draco Meteor').
-move('Miraidon','Fast Attacker', 'Electro Drift').
-move('Miraidon','Fast Attacker', 'Overheat').
-move('Miraidon','Fast Attacker', 'Volt Switch').
-role('Miraidon', 'Setup Sweeper').
-ability('Miraidon','Setup Sweeper', 'Hadron Engine').
-item('Miraidon','Setup Sweeper', 'Life Orb').
-tera('Miraidon','Setup Sweeper', 'Electric').
-move('Miraidon','Setup Sweeper', 'Calm Mind').
-move('Miraidon','Setup Sweeper', 'Draco Meteor').
-move('Miraidon','Setup Sweeper', 'Dragon Pulse').
-move('Miraidon','Setup Sweeper', 'Electro Drift').
-pokemon('Misdreavus', 90).
-ability('Misdreavus', 'Levitate').
-item('Misdreavus', 'Eviolite').
-role('Misdreavus', 'Bulky Setup').
-ability('Misdreavus','Bulky Setup', 'Levitate').
-item('Misdreavus','Bulky Setup', 'Eviolite').
-tera('Misdreavus','Bulky Setup', 'Fairy').
-move('Misdreavus','Bulky Setup', 'Calm Mind').
-move('Misdreavus','Bulky Setup', 'Draining Kiss').
-move('Misdreavus','Bulky Setup', 'Shadow Ball').
-move('Misdreavus','Bulky Setup', 'Will-O-Wisp').
-pokemon('Mismagius', 86).
-ability('Mismagius', 'Levitate').
-item('Mismagius', 'Choice Specs').
-item('Mismagius', 'Leftovers').
-item('Mismagius', 'Life Orb').
-role('Mismagius', 'Setup Sweeper').
-ability('Mismagius','Setup Sweeper', 'Levitate').
-item('Mismagius','Setup Sweeper', 'Leftovers').
-item('Mismagius','Setup Sweeper', 'Life Orb').
-tera('Mismagius','Setup Sweeper', 'Electric').
-tera('Mismagius','Setup Sweeper', 'Fairy').
-move('Mismagius','Setup Sweeper', 'Dazzling Gleam').
-move('Mismagius','Setup Sweeper', 'Mystical Fire').
-move('Mismagius','Setup Sweeper', 'Nasty Plot').
-move('Mismagius','Setup Sweeper', 'Shadow Ball').
-move('Mismagius','Setup Sweeper', 'Substitute').
-move('Mismagius','Setup Sweeper', 'Thunderbolt').
-role('Mismagius', 'Wallbreaker').
-ability('Mismagius','Wallbreaker', 'Levitate').
-item('Mismagius','Wallbreaker', 'Choice Specs').
-tera('Mismagius','Wallbreaker', 'Electric').
-tera('Mismagius','Wallbreaker', 'Fairy').
-tera('Mismagius','Wallbreaker', 'Fire').
-tera('Mismagius','Wallbreaker', 'Ghost').
-move('Mismagius','Wallbreaker', 'Dazzling Gleam').
-move('Mismagius','Wallbreaker', 'Energy Ball').
-move('Mismagius','Wallbreaker', 'Mystical Fire').
-move('Mismagius','Wallbreaker', 'Shadow Ball').
-move('Mismagius','Wallbreaker', 'Thunderbolt').
-move('Mismagius','Wallbreaker', 'Trick').
-role('Mismagius', 'Tera Blast user').
-ability('Mismagius','Tera Blast user', 'Levitate').
-item('Mismagius','Tera Blast user', 'Leftovers').
-tera('Mismagius','Tera Blast user', 'Fighting').
-move('Mismagius','Tera Blast user', 'Nasty Plot').
-move('Mismagius','Tera Blast user', 'Shadow Ball').
-move('Mismagius','Tera Blast user', 'Substitute').
-move('Mismagius','Tera Blast user', 'Tera Blast').
-pokemon('Moltres', 81).
-ability('Moltres', 'Flame Body').
-item('Moltres', 'Heavy-Duty Boots').
-role('Moltres', 'Bulky Attacker').
-ability('Moltres','Bulky Attacker', 'Flame Body').
-item('Moltres','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Moltres','Bulky Attacker', 'Dragon').
-tera('Moltres','Bulky Attacker', 'Ground').
-tera('Moltres','Bulky Attacker', 'Steel').
-move('Moltres','Bulky Attacker', 'Brave Bird').
-move('Moltres','Bulky Attacker', 'Fire Blast').
-move('Moltres','Bulky Attacker', 'Roost').
-move('Moltres','Bulky Attacker', 'Scorching Sands').
-move('Moltres','Bulky Attacker', 'U-turn').
-move('Moltres','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Moltres-Galar', 79).
-ability('Moltres-Galar', 'Berserk').
-item('Moltres-Galar', 'Chesto Berry').
-item('Moltres-Galar', 'Weakness Policy').
-role('Moltres-Galar', 'Bulky Setup').
-ability('Moltres-Galar','Bulky Setup', 'Berserk').
-item('Moltres-Galar','Bulky Setup', 'Chesto Berry').
-item('Moltres-Galar','Bulky Setup', 'Weakness Policy').
-tera('Moltres-Galar','Bulky Setup', 'Dark').
-tera('Moltres-Galar','Bulky Setup', 'Steel').
-move('Moltres-Galar','Bulky Setup', 'Agility').
-move('Moltres-Galar','Bulky Setup', 'Fiery Wrath').
-move('Moltres-Galar','Bulky Setup', 'Hurricane').
-move('Moltres-Galar','Bulky Setup', 'Nasty Plot').
-move('Moltres-Galar','Bulky Setup', 'Rest').
-pokemon('Morpeko', 88).
-ability('Morpeko', 'Hunger Switch').
-item('Morpeko', 'Heavy-Duty Boots').
-item('Morpeko', 'Leftovers').
-role('Morpeko', 'Bulky Attacker').
-ability('Morpeko','Bulky Attacker', 'Hunger Switch').
-item('Morpeko','Bulky Attacker', 'Leftovers').
-tera('Morpeko','Bulky Attacker', 'Electric').
-move('Morpeko','Bulky Attacker', 'Aura Wheel').
-move('Morpeko','Bulky Attacker', 'Knock Off').
-move('Morpeko','Bulky Attacker', 'Protect').
-move('Morpeko','Bulky Attacker', 'Rapid Spin').
-role('Morpeko', 'Fast Support').
-ability('Morpeko','Fast Support', 'Hunger Switch').
-item('Morpeko','Fast Support', 'Heavy-Duty Boots').
-tera('Morpeko','Fast Support', 'Electric').
-move('Morpeko','Fast Support', 'Aura Wheel').
-move('Morpeko','Fast Support', 'Parting Shot').
-move('Morpeko','Fast Support', 'Protect').
-move('Morpeko','Fast Support', 'Rapid Spin').
-pokemon('Mudsdale', 83).
-ability('Mudsdale', 'Stamina').
-item('Mudsdale', 'Leftovers').
-role('Mudsdale', 'Bulky Attacker').
-ability('Mudsdale','Bulky Attacker', 'Stamina').
-item('Mudsdale','Bulky Attacker', 'Leftovers').
-tera('Mudsdale','Bulky Attacker', 'Steel').
-move('Mudsdale','Bulky Attacker', 'Earthquake').
-move('Mudsdale','Bulky Attacker', 'Heavy Slam').
-move('Mudsdale','Bulky Attacker', 'Roar').
-move('Mudsdale','Bulky Attacker', 'Stealth Rock').
-move('Mudsdale','Bulky Attacker', 'Stone Edge').
-pokemon('Muk', 86).
-ability('Muk', 'Poison Touch').
-item('Muk', 'Assault Vest').
-item('Muk', 'Choice Band').
-item('Muk', 'Leftovers').
-role('Muk', 'Bulky Attacker').
-ability('Muk','Bulky Attacker', 'Poison Touch').
-item('Muk','Bulky Attacker', 'Choice Band').
-item('Muk','Bulky Attacker', 'Leftovers').
-tera('Muk','Bulky Attacker', 'Dark').
-move('Muk','Bulky Attacker', 'Drain Punch').
-move('Muk','Bulky Attacker', 'Gunk Shot').
-move('Muk','Bulky Attacker', 'Haze').
-move('Muk','Bulky Attacker', 'Ice Punch').
-move('Muk','Bulky Attacker', 'Knock Off').
-move('Muk','Bulky Attacker', 'Poison Jab').
-move('Muk','Bulky Attacker', 'Shadow Sneak').
-move('Muk','Bulky Attacker', 'Toxic Spikes').
-role('Muk', 'AV Pivot').
-ability('Muk','AV Pivot', 'Poison Touch').
-item('Muk','AV Pivot', 'Assault Vest').
-tera('Muk','AV Pivot', 'Dark').
-move('Muk','AV Pivot', 'Drain Punch').
-move('Muk','AV Pivot', 'Gunk Shot').
-move('Muk','AV Pivot', 'Ice Punch').
-move('Muk','AV Pivot', 'Knock Off').
-move('Muk','AV Pivot', 'Poison Jab').
-move('Muk','AV Pivot', 'Shadow Sneak').
-pokemon('Muk-Alola', 82).
-ability('Muk-Alola', 'Poison Touch').
-item('Muk-Alola', 'Assault Vest').
-role('Muk-Alola', 'AV Pivot').
-ability('Muk-Alola','AV Pivot', 'Poison Touch').
-item('Muk-Alola','AV Pivot', 'Assault Vest').
-tera('Muk-Alola','AV Pivot', 'Fighting').
-move('Muk-Alola','AV Pivot', 'Drain Punch').
-move('Muk-Alola','AV Pivot', 'Gunk Shot').
-move('Muk-Alola','AV Pivot', 'Ice Punch').
-move('Muk-Alola','AV Pivot', 'Knock Off').
-move('Muk-Alola','AV Pivot', 'Poison Jab').
-move('Muk-Alola','AV Pivot', 'Shadow Sneak').
-pokemon('Munkidori', 79).
-ability('Munkidori', 'Toxic Chain').
-item('Munkidori', 'Assault Vest').
-item('Munkidori', 'Choice Specs').
-item('Munkidori', 'Life Orb').
-role('Munkidori', 'Fast Attacker').
-ability('Munkidori','Fast Attacker', 'Toxic Chain').
-item('Munkidori','Fast Attacker', 'Choice Specs').
-item('Munkidori','Fast Attacker', 'Life Orb').
-tera('Munkidori','Fast Attacker', 'Fighting').
-tera('Munkidori','Fast Attacker', 'Poison').
-move('Munkidori','Fast Attacker', 'Focus Blast').
-move('Munkidori','Fast Attacker', 'Nasty Plot').
-move('Munkidori','Fast Attacker', 'Psyshock').
-move('Munkidori','Fast Attacker', 'Sludge Wave').
-move('Munkidori','Fast Attacker', 'U-turn').
-role('Munkidori', 'AV Pivot').
-ability('Munkidori','AV Pivot', 'Toxic Chain').
-item('Munkidori','AV Pivot', 'Assault Vest').
-tera('Munkidori','AV Pivot', 'Dark').
-move('Munkidori','AV Pivot', 'Fake Out').
-move('Munkidori','AV Pivot', 'Focus Blast').
-move('Munkidori','AV Pivot', 'Psychic Noise').
-move('Munkidori','AV Pivot', 'Sludge Wave').
-move('Munkidori','AV Pivot', 'U-turn').
-pokemon('Necrozma', 80).
-ability('Necrozma', 'Prism Armor').
-item('Necrozma', 'Leftovers').
-item('Necrozma', 'Life Orb').
-item('Necrozma', 'Weakness Policy').
-role('Necrozma', 'Bulky Setup').
-ability('Necrozma','Bulky Setup', 'Prism Armor').
-item('Necrozma','Bulky Setup', 'Leftovers').
-item('Necrozma','Bulky Setup', 'Weakness Policy').
-tera('Necrozma','Bulky Setup', 'Dark').
-tera('Necrozma','Bulky Setup', 'Fairy').
-tera('Necrozma','Bulky Setup', 'Ground').
-tera('Necrozma','Bulky Setup', 'Steel').
-move('Necrozma','Bulky Setup', 'Calm Mind').
-move('Necrozma','Bulky Setup', 'Dragon Dance').
-move('Necrozma','Bulky Setup', 'Earth Power').
-move('Necrozma','Bulky Setup', 'Earthquake').
-move('Necrozma','Bulky Setup', 'Heat Wave').
-move('Necrozma','Bulky Setup', 'Knock Off').
-move('Necrozma','Bulky Setup', 'Moonlight').
-move('Necrozma','Bulky Setup', 'Photon Geyser').
-role('Necrozma', 'Setup Sweeper').
-ability('Necrozma','Setup Sweeper', 'Prism Armor').
-item('Necrozma','Setup Sweeper', 'Life Orb').
-tera('Necrozma','Setup Sweeper', 'Dark').
-tera('Necrozma','Setup Sweeper', 'Ground').
-tera('Necrozma','Setup Sweeper', 'Steel').
-move('Necrozma','Setup Sweeper', 'Dragon Dance').
-move('Necrozma','Setup Sweeper', 'Earthquake').
-move('Necrozma','Setup Sweeper', 'Knock Off').
-move('Necrozma','Setup Sweeper', 'Photon Geyser').
-move('Necrozma','Setup Sweeper', 'Swords Dance').
-pokemon('Necrozma-Dawn-Wings', 76).
-ability('Necrozma-Dawn-Wings', 'Prism Armor').
-item('Necrozma-Dawn-Wings', 'Leftovers').
-item('Necrozma-Dawn-Wings', 'Life Orb').
-role('Necrozma-Dawn-Wings', 'Setup Sweeper').
-ability('Necrozma-Dawn-Wings','Setup Sweeper', 'Prism Armor').
-item('Necrozma-Dawn-Wings','Setup Sweeper', 'Life Orb').
-tera('Necrozma-Dawn-Wings','Setup Sweeper', 'Fighting').
-move('Necrozma-Dawn-Wings','Setup Sweeper', 'Brick Break').
-move('Necrozma-Dawn-Wings','Setup Sweeper', 'Dragon Dance').
-move('Necrozma-Dawn-Wings','Setup Sweeper', 'Moongeist Beam').
-move('Necrozma-Dawn-Wings','Setup Sweeper', 'Photon Geyser').
-role('Necrozma-Dawn-Wings', 'Bulky Setup').
-ability('Necrozma-Dawn-Wings','Bulky Setup', 'Prism Armor').
-item('Necrozma-Dawn-Wings','Bulky Setup', 'Leftovers').
-tera('Necrozma-Dawn-Wings','Bulky Setup', 'Dark').
-tera('Necrozma-Dawn-Wings','Bulky Setup', 'Fairy').
-move('Necrozma-Dawn-Wings','Bulky Setup', 'Calm Mind').
-move('Necrozma-Dawn-Wings','Bulky Setup', 'Moongeist Beam').
-move('Necrozma-Dawn-Wings','Bulky Setup', 'Moonlight').
-move('Necrozma-Dawn-Wings','Bulky Setup', 'Photon Geyser').
-pokemon('Necrozma-Dusk-Mane', 69).
-ability('Necrozma-Dusk-Mane', 'Prism Armor').
-item('Necrozma-Dusk-Mane', 'Weakness Policy').
-role('Necrozma-Dusk-Mane', 'Bulky Setup').
-ability('Necrozma-Dusk-Mane','Bulky Setup', 'Prism Armor').
-item('Necrozma-Dusk-Mane','Bulky Setup', 'Weakness Policy').
-tera('Necrozma-Dusk-Mane','Bulky Setup', 'Ground').
-tera('Necrozma-Dusk-Mane','Bulky Setup', 'Steel').
-tera('Necrozma-Dusk-Mane','Bulky Setup', 'Water').
-move('Necrozma-Dusk-Mane','Bulky Setup', 'Dragon Dance').
-move('Necrozma-Dusk-Mane','Bulky Setup', 'Earthquake').
-move('Necrozma-Dusk-Mane','Bulky Setup', 'Morning Sun').
-move('Necrozma-Dusk-Mane','Bulky Setup', 'Photon Geyser').
-move('Necrozma-Dusk-Mane','Bulky Setup', 'Sunsteel Strike').
-pokemon('Ninetales', 85).
-ability('Ninetales', 'Drought').
-item('Ninetales', 'Heavy-Duty Boots').
-role('Ninetales', 'Setup Sweeper').
-ability('Ninetales','Setup Sweeper', 'Drought').
-item('Ninetales','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Ninetales','Setup Sweeper', 'Fire').
-tera('Ninetales','Setup Sweeper', 'Grass').
-move('Ninetales','Setup Sweeper', 'Fire Blast').
-move('Ninetales','Setup Sweeper', 'Nasty Plot').
-move('Ninetales','Setup Sweeper', 'Scorching Sands').
-move('Ninetales','Setup Sweeper', 'Solar Beam').
-pokemon('Ninetales-Alola', 78).
-ability('Ninetales-Alola', 'Snow Warning').
-item('Ninetales-Alola', 'Light Clay').
-role('Ninetales-Alola', 'Fast Support').
-ability('Ninetales-Alola','Fast Support', 'Snow Warning').
-item('Ninetales-Alola','Fast Support', 'Light Clay').
-tera('Ninetales-Alola','Fast Support', 'Steel').
-tera('Ninetales-Alola','Fast Support', 'Water').
-move('Ninetales-Alola','Fast Support', 'Aurora Veil').
-move('Ninetales-Alola','Fast Support', 'Blizzard').
-move('Ninetales-Alola','Fast Support', 'Encore').
-move('Ninetales-Alola','Fast Support', 'Moonblast').
-move('Ninetales-Alola','Fast Support', 'Nasty Plot').
-role('Ninetales-Alola', 'Fast Attacker').
-ability('Ninetales-Alola','Fast Attacker', 'Snow Warning').
-item('Ninetales-Alola','Fast Attacker', 'Light Clay').
-tera('Ninetales-Alola','Fast Attacker', 'Steel').
-tera('Ninetales-Alola','Fast Attacker', 'Water').
-move('Ninetales-Alola','Fast Attacker', 'Aurora Veil').
-move('Ninetales-Alola','Fast Attacker', 'Blizzard').
-move('Ninetales-Alola','Fast Attacker', 'Freeze-Dry').
-move('Ninetales-Alola','Fast Attacker', 'Moonblast').
-pokemon('Noctowl', 95).
-ability('Noctowl', 'Tinted Lens').
-item('Noctowl', 'Heavy-Duty Boots').
-role('Noctowl', 'Bulky Attacker').
-ability('Noctowl','Bulky Attacker', 'Tinted Lens').
-item('Noctowl','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Noctowl','Bulky Attacker', 'Ground').
-tera('Noctowl','Bulky Attacker', 'Normal').
-tera('Noctowl','Bulky Attacker', 'Steel').
-move('Noctowl','Bulky Attacker', 'Calm Mind').
-move('Noctowl','Bulky Attacker', 'Defog').
-move('Noctowl','Bulky Attacker', 'Hurricane').
-move('Noctowl','Bulky Attacker', 'Hyper Voice').
-move('Noctowl','Bulky Attacker', 'Nasty Plot').
-move('Noctowl','Bulky Attacker', 'Roost').
-pokemon('Noivern', 82).
-ability('Noivern', 'Infiltrator').
-item('Noivern', 'Choice Specs').
-item('Noivern', 'Heavy-Duty Boots').
-role('Noivern', 'Fast Support').
-ability('Noivern','Fast Support', 'Infiltrator').
-item('Noivern','Fast Support', 'Heavy-Duty Boots').
-tera('Noivern','Fast Support', 'Fire').
-move('Noivern','Fast Support', 'Defog').
-move('Noivern','Fast Support', 'Draco Meteor').
-move('Noivern','Fast Support', 'Flamethrower').
-move('Noivern','Fast Support', 'Hurricane').
-move('Noivern','Fast Support', 'Roost').
-role('Noivern', 'Fast Attacker').
-ability('Noivern','Fast Attacker', 'Infiltrator').
-item('Noivern','Fast Attacker', 'Choice Specs').
-tera('Noivern','Fast Attacker', 'Normal').
-move('Noivern','Fast Attacker', 'Boomburst').
-move('Noivern','Fast Attacker', 'Draco Meteor').
-move('Noivern','Fast Attacker', 'Flamethrower').
-move('Noivern','Fast Attacker', 'Hurricane').
-move('Noivern','Fast Attacker', 'U-turn').
-pokemon('Ogerpon', 80).
-ability('Ogerpon', 'Defiant').
-item('Ogerpon', 'Choice Band').
-item('Ogerpon', 'Heavy-Duty Boots').
-item('Ogerpon', 'Leftovers').
-item('Ogerpon', 'Life Orb').
-role('Ogerpon', 'Setup Sweeper').
-ability('Ogerpon','Setup Sweeper', 'Defiant').
-item('Ogerpon','Setup Sweeper', 'Life Orb').
-tera('Ogerpon','Setup Sweeper', 'Grass').
-move('Ogerpon','Setup Sweeper', 'Ivy Cudgel').
-move('Ogerpon','Setup Sweeper', 'Knock Off').
-move('Ogerpon','Setup Sweeper', 'Superpower').
-move('Ogerpon','Setup Sweeper', 'Swords Dance').
-role('Ogerpon', 'Fast Support').
-ability('Ogerpon','Fast Support', 'Defiant').
-item('Ogerpon','Fast Support', 'Choice Band').
-item('Ogerpon','Fast Support', 'Heavy-Duty Boots').
-item('Ogerpon','Fast Support', 'Leftovers').
-item('Ogerpon','Fast Support', 'Life Orb').
-tera('Ogerpon','Fast Support', 'Grass').
-move('Ogerpon','Fast Support', 'Encore').
-move('Ogerpon','Fast Support', 'Ivy Cudgel').
-move('Ogerpon','Fast Support', 'Knock Off').
-move('Ogerpon','Fast Support', 'Spikes').
-move('Ogerpon','Fast Support', 'Superpower').
-move('Ogerpon','Fast Support', 'Synthesis').
-move('Ogerpon','Fast Support', 'U-turn').
-pokemon('Ogerpon-Cornerstone', 76).
-ability('Ogerpon-Cornerstone', 'Sturdy').
-item('Ogerpon-Cornerstone', 'Cornerstone Mask').
-role('Ogerpon-Cornerstone', 'Setup Sweeper').
-ability('Ogerpon-Cornerstone','Setup Sweeper', 'Sturdy').
-item('Ogerpon-Cornerstone','Setup Sweeper', 'Cornerstone Mask').
-tera('Ogerpon-Cornerstone','Setup Sweeper', 'Rock').
-move('Ogerpon-Cornerstone','Setup Sweeper', 'Horn Leech').
-move('Ogerpon-Cornerstone','Setup Sweeper', 'Ivy Cudgel').
-move('Ogerpon-Cornerstone','Setup Sweeper', 'Power Whip').
-move('Ogerpon-Cornerstone','Setup Sweeper', 'Superpower').
-move('Ogerpon-Cornerstone','Setup Sweeper', 'Swords Dance').
-role('Ogerpon-Cornerstone', 'Bulky Attacker').
-ability('Ogerpon-Cornerstone','Bulky Attacker', 'Sturdy').
-item('Ogerpon-Cornerstone','Bulky Attacker', 'Cornerstone Mask').
-tera('Ogerpon-Cornerstone','Bulky Attacker', 'Rock').
-move('Ogerpon-Cornerstone','Bulky Attacker', 'Encore').
-move('Ogerpon-Cornerstone','Bulky Attacker', 'Ivy Cudgel').
-move('Ogerpon-Cornerstone','Bulky Attacker', 'Power Whip').
-move('Ogerpon-Cornerstone','Bulky Attacker', 'Spikes').
-move('Ogerpon-Cornerstone','Bulky Attacker', 'Superpower').
-move('Ogerpon-Cornerstone','Bulky Attacker', 'Synthesis').
-pokemon('Ogerpon-Hearthflame', 74).
-ability('Ogerpon-Hearthflame', 'Mold Breaker').
-item('Ogerpon-Hearthflame', 'Hearthflame Mask').
-role('Ogerpon-Hearthflame', 'Setup Sweeper').
-ability('Ogerpon-Hearthflame','Setup Sweeper', 'Mold Breaker').
-item('Ogerpon-Hearthflame','Setup Sweeper', 'Hearthflame Mask').
-tera('Ogerpon-Hearthflame','Setup Sweeper', 'Fire').
-move('Ogerpon-Hearthflame','Setup Sweeper', 'Horn Leech').
-move('Ogerpon-Hearthflame','Setup Sweeper', 'Ivy Cudgel').
-move('Ogerpon-Hearthflame','Setup Sweeper', 'Knock Off').
-move('Ogerpon-Hearthflame','Setup Sweeper', 'Power Whip').
-move('Ogerpon-Hearthflame','Setup Sweeper', 'Stomping Tantrum').
-move('Ogerpon-Hearthflame','Setup Sweeper', 'Swords Dance').
-move('Ogerpon-Hearthflame','Setup Sweeper', 'Trailblaze').
-pokemon('Ogerpon-Wellspring', 76).
-ability('Ogerpon-Wellspring', 'Water Absorb').
-item('Ogerpon-Wellspring', 'Wellspring Mask').
-role('Ogerpon-Wellspring', 'Setup Sweeper').
-ability('Ogerpon-Wellspring','Setup Sweeper', 'Water Absorb').
-item('Ogerpon-Wellspring','Setup Sweeper', 'Wellspring Mask').
-tera('Ogerpon-Wellspring','Setup Sweeper', 'Water').
-move('Ogerpon-Wellspring','Setup Sweeper', 'Horn Leech').
-move('Ogerpon-Wellspring','Setup Sweeper', 'Ivy Cudgel').
-move('Ogerpon-Wellspring','Setup Sweeper', 'Knock Off').
-move('Ogerpon-Wellspring','Setup Sweeper', 'Play Rough').
-move('Ogerpon-Wellspring','Setup Sweeper', 'Power Whip').
-move('Ogerpon-Wellspring','Setup Sweeper', 'Swords Dance').
-role('Ogerpon-Wellspring', 'Bulky Attacker').
-ability('Ogerpon-Wellspring','Bulky Attacker', 'Water Absorb').
-item('Ogerpon-Wellspring','Bulky Attacker', 'Wellspring Mask').
-tera('Ogerpon-Wellspring','Bulky Attacker', 'Water').
-move('Ogerpon-Wellspring','Bulky Attacker', 'Encore').
-move('Ogerpon-Wellspring','Bulky Attacker', 'Ivy Cudgel').
-move('Ogerpon-Wellspring','Bulky Attacker', 'Spikes').
-move('Ogerpon-Wellspring','Bulky Attacker', 'Synthesis').
-move('Ogerpon-Wellspring','Bulky Attacker', 'U-turn').
-move('Ogerpon-Wellspring','Bulky Attacker', 'Wood Hammer').
-pokemon('Oinkologne', 92).
-ability('Oinkologne', 'Thick Fat').
-item('Oinkologne', 'Leftovers').
-role('Oinkologne', 'Bulky Setup').
-ability('Oinkologne','Bulky Setup', 'Thick Fat').
-item('Oinkologne','Bulky Setup', 'Leftovers').
-tera('Oinkologne','Bulky Setup', 'Ground').
-move('Oinkologne','Bulky Setup', 'Body Slam').
-move('Oinkologne','Bulky Setup', 'Curse').
-move('Oinkologne','Bulky Setup', 'Double-Edge').
-move('Oinkologne','Bulky Setup', 'High Horsepower').
-move('Oinkologne','Bulky Setup', 'Lash Out').
-pokemon('Oinkologne-F', 91).
-ability('Oinkologne-F', 'Aroma Veil').
-ability('Oinkologne-F', 'Thick Fat').
-item('Oinkologne-F', 'Leftovers').
-role('Oinkologne-F', 'Bulky Support').
-ability('Oinkologne-F','Bulky Support', 'Aroma Veil').
-ability('Oinkologne-F','Bulky Support', 'Thick Fat').
-item('Oinkologne-F','Bulky Support', 'Leftovers').
-tera('Oinkologne-F','Bulky Support', 'Fairy').
-tera('Oinkologne-F','Bulky Support', 'Poison').
-move('Oinkologne-F','Bulky Support', 'Body Slam').
-move('Oinkologne-F','Bulky Support', 'Curse').
-move('Oinkologne-F','Bulky Support', 'Rest').
-move('Oinkologne-F','Bulky Support', 'Sleep Talk').
-role('Oinkologne-F', 'Bulky Setup').
-ability('Oinkologne-F','Bulky Setup', 'Thick Fat').
-item('Oinkologne-F','Bulky Setup', 'Leftovers').
-tera('Oinkologne-F','Bulky Setup', 'Ground').
-move('Oinkologne-F','Bulky Setup', 'Body Slam').
-move('Oinkologne-F','Bulky Setup', 'Curse').
-move('Oinkologne-F','Bulky Setup', 'Double-Edge').
-move('Oinkologne-F','Bulky Setup', 'High Horsepower').
-move('Oinkologne-F','Bulky Setup', 'Lash Out').
-pokemon('Okidogi', 77).
-ability('Okidogi', 'Toxic Chain').
-item('Okidogi', 'Assault Vest').
-item('Okidogi', 'Leftovers').
-role('Okidogi', 'Bulky Setup').
-ability('Okidogi','Bulky Setup', 'Toxic Chain').
-item('Okidogi','Bulky Setup', 'Leftovers').
-tera('Okidogi','Bulky Setup', 'Dark').
-move('Okidogi','Bulky Setup', 'Bulk Up').
-move('Okidogi','Bulky Setup', 'Drain Punch').
-move('Okidogi','Bulky Setup', 'Gunk Shot').
-move('Okidogi','Bulky Setup', 'Knock Off').
-role('Okidogi', 'AV Pivot').
-ability('Okidogi','AV Pivot', 'Toxic Chain').
-item('Okidogi','AV Pivot', 'Assault Vest').
-tera('Okidogi','AV Pivot', 'Dark').
-move('Okidogi','AV Pivot', 'Drain Punch').
-move('Okidogi','AV Pivot', 'Gunk Shot').
-move('Okidogi','AV Pivot', 'High Horsepower').
-move('Okidogi','AV Pivot', 'Knock Off').
-move('Okidogi','AV Pivot', 'Psychic Fangs').
-pokemon('Oranguru', 92).
-ability('Oranguru', 'Inner Focus').
-item('Oranguru', 'Choice Specs').
-item('Oranguru', 'Leftovers').
-item('Oranguru', 'Life Orb').
-role('Oranguru', 'Bulky Attacker').
-ability('Oranguru','Bulky Attacker', 'Inner Focus').
-item('Oranguru','Bulky Attacker', 'Leftovers').
-tera('Oranguru','Bulky Attacker', 'Electric').
-tera('Oranguru','Bulky Attacker', 'Fighting').
-tera('Oranguru','Bulky Attacker', 'Psychic').
-move('Oranguru','Bulky Attacker', 'Focus Blast').
-move('Oranguru','Bulky Attacker', 'Nasty Plot').
-move('Oranguru','Bulky Attacker', 'Psychic').
-move('Oranguru','Bulky Attacker', 'Psyshock').
-move('Oranguru','Bulky Attacker', 'Thunderbolt').
-role('Oranguru', 'Wallbreaker').
-ability('Oranguru','Wallbreaker', 'Inner Focus').
-item('Oranguru','Wallbreaker', 'Choice Specs').
-item('Oranguru','Wallbreaker', 'Life Orb').
-tera('Oranguru','Wallbreaker', 'Electric').
-tera('Oranguru','Wallbreaker', 'Fighting').
-tera('Oranguru','Wallbreaker', 'Normal').
-tera('Oranguru','Wallbreaker', 'Psychic').
-move('Oranguru','Wallbreaker', 'Focus Blast').
-move('Oranguru','Wallbreaker', 'Hyper Voice').
-move('Oranguru','Wallbreaker', 'Nasty Plot').
-move('Oranguru','Wallbreaker', 'Psyshock').
-move('Oranguru','Wallbreaker', 'Thunderbolt').
-move('Oranguru','Wallbreaker', 'Trick').
-pokemon('Oricorio', 84).
-ability('Oricorio', 'Dancer').
-item('Oricorio', 'Heavy-Duty Boots').
-role('Oricorio', 'Setup Sweeper').
-ability('Oricorio','Setup Sweeper', 'Dancer').
-item('Oricorio','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Oricorio','Setup Sweeper', 'Ground').
-move('Oricorio','Setup Sweeper', 'Hurricane').
-move('Oricorio','Setup Sweeper', 'Quiver Dance').
-move('Oricorio','Setup Sweeper', 'Revelation Dance').
-move('Oricorio','Setup Sweeper', 'Roost').
-pokemon('Oricorio-Pa'u', 87).
-ability('Oricorio-Pa'u', 'Dancer').
-item('Oricorio-Pa'u', 'Heavy-Duty Boots').
-role('Oricorio-Pa'u', 'Setup Sweeper').
-ability('Oricorio-Pa'u','Setup Sweeper', 'Dancer').
-item('Oricorio-Pa'u','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Oricorio-Pa'u','Setup Sweeper', 'Fighting').
-tera('Oricorio-Pa'u','Setup Sweeper', 'Ground').
-move('Oricorio-Pa'u','Setup Sweeper', 'Hurricane').
-move('Oricorio-Pa'u','Setup Sweeper', 'Quiver Dance').
-move('Oricorio-Pa'u','Setup Sweeper', 'Revelation Dance').
-move('Oricorio-Pa'u','Setup Sweeper', 'Roost').
-pokemon('Oricorio-Pom-Pom', 82).
-ability('Oricorio-Pom-Pom', 'Dancer').
-item('Oricorio-Pom-Pom', 'Heavy-Duty Boots').
-role('Oricorio-Pom-Pom', 'Setup Sweeper').
-ability('Oricorio-Pom-Pom','Setup Sweeper', 'Dancer').
-item('Oricorio-Pom-Pom','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Oricorio-Pom-Pom','Setup Sweeper', 'Ground').
-move('Oricorio-Pom-Pom','Setup Sweeper', 'Hurricane').
-move('Oricorio-Pom-Pom','Setup Sweeper', 'Quiver Dance').
-move('Oricorio-Pom-Pom','Setup Sweeper', 'Revelation Dance').
-move('Oricorio-Pom-Pom','Setup Sweeper', 'Roost').
-pokemon('Oricorio-Sensu', 85).
-ability('Oricorio-Sensu', 'Dancer').
-item('Oricorio-Sensu', 'Heavy-Duty Boots').
-role('Oricorio-Sensu', 'Setup Sweeper').
-ability('Oricorio-Sensu','Setup Sweeper', 'Dancer').
-item('Oricorio-Sensu','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Oricorio-Sensu','Setup Sweeper', 'Fighting').
-move('Oricorio-Sensu','Setup Sweeper', 'Hurricane').
-move('Oricorio-Sensu','Setup Sweeper', 'Quiver Dance').
-move('Oricorio-Sensu','Setup Sweeper', 'Revelation Dance').
-move('Oricorio-Sensu','Setup Sweeper', 'Roost').
-pokemon('Orthworm', 88).
-ability('Orthworm', 'Earth Eater').
-item('Orthworm', 'Chesto Berry').
-item('Orthworm', 'Leftovers').
-role('Orthworm', 'Bulky Setup').
-ability('Orthworm','Bulky Setup', 'Earth Eater').
-item('Orthworm','Bulky Setup', 'Chesto Berry').
-tera('Orthworm','Bulky Setup', 'Electric').
-tera('Orthworm','Bulky Setup', 'Fighting').
-move('Orthworm','Bulky Setup', 'Body Press').
-move('Orthworm','Bulky Setup', 'Coil').
-move('Orthworm','Bulky Setup', 'Iron Tail').
-move('Orthworm','Bulky Setup', 'Rest').
-role('Orthworm', 'Bulky Attacker').
-ability('Orthworm','Bulky Attacker', 'Earth Eater').
-item('Orthworm','Bulky Attacker', 'Leftovers').
-tera('Orthworm','Bulky Attacker', 'Electric').
-tera('Orthworm','Bulky Attacker', 'Fighting').
-tera('Orthworm','Bulky Attacker', 'Ghost').
-tera('Orthworm','Bulky Attacker', 'Poison').
-move('Orthworm','Bulky Attacker', 'Body Press').
-move('Orthworm','Bulky Attacker', 'Heavy Slam').
-move('Orthworm','Bulky Attacker', 'Shed Tail').
-move('Orthworm','Bulky Attacker', 'Spikes').
-move('Orthworm','Bulky Attacker', 'Stealth Rock').
-pokemon('Overqwil', 82).
-ability('Overqwil', 'Intimidate').
-item('Overqwil', 'Choice Band').
-item('Overqwil', 'Life Orb').
-item('Overqwil', 'Loaded Dice').
-role('Overqwil', 'Fast Attacker').
-ability('Overqwil','Fast Attacker', 'Intimidate').
-item('Overqwil','Fast Attacker', 'Choice Band').
-item('Overqwil','Fast Attacker', 'Life Orb').
-tera('Overqwil','Fast Attacker', 'Water').
-move('Overqwil','Fast Attacker', 'Aqua Jet').
-move('Overqwil','Fast Attacker', 'Crunch').
-move('Overqwil','Fast Attacker', 'Gunk Shot').
-move('Overqwil','Fast Attacker', 'Liquidation').
-move('Overqwil','Fast Attacker', 'Swords Dance').
-role('Overqwil', 'Setup Sweeper').
-ability('Overqwil','Setup Sweeper', 'Intimidate').
-item('Overqwil','Setup Sweeper', 'Loaded Dice').
-tera('Overqwil','Setup Sweeper', 'Dragon').
-move('Overqwil','Setup Sweeper', 'Crunch').
-move('Overqwil','Setup Sweeper', 'Gunk Shot').
-move('Overqwil','Setup Sweeper', 'Scale Shot').
-move('Overqwil','Setup Sweeper', 'Swords Dance').
-pokemon('Pachirisu', 96).
-ability('Pachirisu', 'Volt Absorb').
-item('Pachirisu', 'Assault Vest').
-item('Pachirisu', 'Heavy-Duty Boots').
-role('Pachirisu', 'AV Pivot').
-ability('Pachirisu','AV Pivot', 'Volt Absorb').
-item('Pachirisu','AV Pivot', 'Assault Vest').
-tera('Pachirisu','AV Pivot', 'Flying').
-move('Pachirisu','AV Pivot', 'Nuzzle').
-move('Pachirisu','AV Pivot', 'Super Fang').
-move('Pachirisu','AV Pivot', 'Thunderbolt').
-move('Pachirisu','AV Pivot', 'U-turn').
-role('Pachirisu', 'Fast Support').
-ability('Pachirisu','Fast Support', 'Volt Absorb').
-item('Pachirisu','Fast Support', 'Heavy-Duty Boots').
-tera('Pachirisu','Fast Support', 'Flying').
-move('Pachirisu','Fast Support', 'Discharge').
-move('Pachirisu','Fast Support', 'Encore').
-move('Pachirisu','Fast Support', 'Super Fang').
-move('Pachirisu','Fast Support', 'U-turn').
-pokemon('Palafin', 77).
-ability('Palafin', 'Zero to Hero').
-item('Palafin', 'Choice Band').
-item('Palafin', 'Leftovers').
-role('Palafin', 'Bulky Setup').
-ability('Palafin','Bulky Setup', 'Zero to Hero').
-item('Palafin','Bulky Setup', 'Leftovers').
-tera('Palafin','Bulky Setup', 'Dragon').
-tera('Palafin','Bulky Setup', 'Steel').
-move('Palafin','Bulky Setup', 'Bulk Up').
-move('Palafin','Bulky Setup', 'Drain Punch').
-move('Palafin','Bulky Setup', 'Ice Punch').
-move('Palafin','Bulky Setup', 'Jet Punch').
-move('Palafin','Bulky Setup', 'Wave Crash').
-role('Palafin', 'Wallbreaker').
-ability('Palafin','Wallbreaker', 'Zero to Hero').
-item('Palafin','Wallbreaker', 'Choice Band').
-tera('Palafin','Wallbreaker', 'Fighting').
-tera('Palafin','Wallbreaker', 'Water').
-move('Palafin','Wallbreaker', 'Close Combat').
-move('Palafin','Wallbreaker', 'Flip Turn').
-move('Palafin','Wallbreaker', 'Jet Punch').
-move('Palafin','Wallbreaker', 'Wave Crash').
-pokemon('Palkia', 75).
-ability('Palkia', 'Pressure').
-item('Palkia', 'Choice Scarf').
-item('Palkia', 'Choice Specs').
-item('Palkia', 'Lustrous Orb').
-role('Palkia', 'Bulky Attacker').
-ability('Palkia','Bulky Attacker', 'Pressure').
-item('Palkia','Bulky Attacker', 'Lustrous Orb').
-tera('Palkia','Bulky Attacker', 'Dragon').
-tera('Palkia','Bulky Attacker', 'Fire').
-tera('Palkia','Bulky Attacker', 'Water').
-move('Palkia','Bulky Attacker', 'Draco Meteor').
-move('Palkia','Bulky Attacker', 'Fire Blast').
-move('Palkia','Bulky Attacker', 'Hydro Pump').
-move('Palkia','Bulky Attacker', 'Spacial Rend').
-move('Palkia','Bulky Attacker', 'Thunder Wave').
-role('Palkia', 'Fast Attacker').
-ability('Palkia','Fast Attacker', 'Pressure').
-item('Palkia','Fast Attacker', 'Choice Scarf').
-item('Palkia','Fast Attacker', 'Choice Specs').
-tera('Palkia','Fast Attacker', 'Dragon').
-tera('Palkia','Fast Attacker', 'Fire').
-tera('Palkia','Fast Attacker', 'Water').
-move('Palkia','Fast Attacker', 'Draco Meteor').
-move('Palkia','Fast Attacker', 'Fire Blast').
-move('Palkia','Fast Attacker', 'Hydro Pump').
-move('Palkia','Fast Attacker', 'Spacial Rend').
-pokemon('Palkia-Origin', 72).
-ability('Palkia-Origin', 'Pressure').
-item('Palkia-Origin', 'Lustrous Globe').
-role('Palkia-Origin', 'Bulky Attacker').
-ability('Palkia-Origin','Bulky Attacker', 'Pressure').
-item('Palkia-Origin','Bulky Attacker', 'Lustrous Globe').
-tera('Palkia-Origin','Bulky Attacker', 'Dragon').
-tera('Palkia-Origin','Bulky Attacker', 'Fire').
-tera('Palkia-Origin','Bulky Attacker', 'Water').
-move('Palkia-Origin','Bulky Attacker', 'Draco Meteor').
-move('Palkia-Origin','Bulky Attacker', 'Fire Blast').
-move('Palkia-Origin','Bulky Attacker', 'Hydro Pump').
-move('Palkia-Origin','Bulky Attacker', 'Spacial Rend').
-move('Palkia-Origin','Bulky Attacker', 'Thunder Wave').
-pokemon('Palossand', 89).
-ability('Palossand', 'Water Compaction').
-item('Palossand', 'Leftovers').
-role('Palossand', 'Bulky Support').
-ability('Palossand','Bulky Support', 'Water Compaction').
-item('Palossand','Bulky Support', 'Leftovers').
-tera('Palossand','Bulky Support', 'Poison').
-tera('Palossand','Bulky Support', 'Water').
-move('Palossand','Bulky Support', 'Earth Power').
-move('Palossand','Bulky Support', 'Shadow Ball').
-move('Palossand','Bulky Support', 'Shore Up').
-move('Palossand','Bulky Support', 'Sludge Bomb').
-move('Palossand','Bulky Support', 'Stealth Rock').
-pokemon('Passimian', 83).
-ability('Passimian', 'Defiant').
-item('Passimian', 'Choice Band').
-item('Passimian', 'Choice Scarf').
-item('Passimian', 'Leftovers').
-role('Passimian', 'Bulky Setup').
-ability('Passimian','Bulky Setup', 'Defiant').
-item('Passimian','Bulky Setup', 'Leftovers').
-tera('Passimian','Bulky Setup', 'Dark').
-tera('Passimian','Bulky Setup', 'Poison').
-tera('Passimian','Bulky Setup', 'Steel').
-move('Passimian','Bulky Setup', 'Bulk Up').
-move('Passimian','Bulky Setup', 'Drain Punch').
-move('Passimian','Bulky Setup', 'Gunk Shot').
-move('Passimian','Bulky Setup', 'Knock Off').
-role('Passimian', 'Fast Attacker').
-ability('Passimian','Fast Attacker', 'Defiant').
-item('Passimian','Fast Attacker', 'Choice Band').
-item('Passimian','Fast Attacker', 'Choice Scarf').
-tera('Passimian','Fast Attacker', 'Dark').
-tera('Passimian','Fast Attacker', 'Fighting').
-tera('Passimian','Fast Attacker', 'Poison').
-move('Passimian','Fast Attacker', 'Close Combat').
-move('Passimian','Fast Attacker', 'Earthquake').
-move('Passimian','Fast Attacker', 'Gunk Shot').
-move('Passimian','Fast Attacker', 'Knock Off').
-move('Passimian','Fast Attacker', 'Rock Slide').
-move('Passimian','Fast Attacker', 'U-turn').
-pokemon('Pawmot', 80).
-ability('Pawmot', 'Iron Fist').
-ability('Pawmot', 'Volt Absorb').
-item('Pawmot', 'Leppa Berry').
-item('Pawmot', 'Life Orb').
-role('Pawmot', 'Fast Attacker').
-ability('Pawmot','Fast Attacker', 'Volt Absorb').
-item('Pawmot','Fast Attacker', 'Leppa Berry').
-item('Pawmot','Fast Attacker', 'Life Orb').
-tera('Pawmot','Fast Attacker', 'Electric').
-move('Pawmot','Fast Attacker', 'Close Combat').
-move('Pawmot','Fast Attacker', 'Double Shock').
-move('Pawmot','Fast Attacker', 'Knock Off').
-move('Pawmot','Fast Attacker', 'Nuzzle').
-move('Pawmot','Fast Attacker', 'Revival Blessing').
-role('Pawmot', 'Wallbreaker').
-ability('Pawmot','Wallbreaker', 'Iron Fist').
-item('Pawmot','Wallbreaker', 'Life Orb').
-tera('Pawmot','Wallbreaker', 'Electric').
-move('Pawmot','Wallbreaker', 'Close Combat').
-move('Pawmot','Wallbreaker', 'Double Shock').
-move('Pawmot','Wallbreaker', 'Ice Punch').
-move('Pawmot','Wallbreaker', 'Revival Blessing').
-pokemon('Pecharunt', 77).
-ability('Pecharunt', 'Poison Puppeteer').
-item('Pecharunt', 'Leftovers').
-item('Pecharunt', 'Rocky Helmet').
-role('Pecharunt', 'Bulky Attacker').
-ability('Pecharunt','Bulky Attacker', 'Poison Puppeteer').
-item('Pecharunt','Bulky Attacker', 'Leftovers').
-item('Pecharunt','Bulky Attacker', 'Rocky Helmet').
-tera('Pecharunt','Bulky Attacker', 'Dark').
-move('Pecharunt','Bulky Attacker', 'Malignant Chain').
-move('Pecharunt','Bulky Attacker', 'Nasty Plot').
-move('Pecharunt','Bulky Attacker', 'Parting Shot').
-move('Pecharunt','Bulky Attacker', 'Recover').
-move('Pecharunt','Bulky Attacker', 'Shadow Ball').
-pokemon('Pelipper', 86).
-ability('Pelipper', 'Drizzle').
-item('Pelipper', 'Choice Specs').
-item('Pelipper', 'Heavy-Duty Boots').
-role('Pelipper', 'Bulky Attacker').
-ability('Pelipper','Bulky Attacker', 'Drizzle').
-item('Pelipper','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Pelipper','Bulky Attacker', 'Ground').
-tera('Pelipper','Bulky Attacker', 'Water').
-move('Pelipper','Bulky Attacker', 'Hurricane').
-move('Pelipper','Bulky Attacker', 'Hydro Pump').
-move('Pelipper','Bulky Attacker', 'Knock Off').
-move('Pelipper','Bulky Attacker', 'Roost').
-move('Pelipper','Bulky Attacker', 'Surf').
-move('Pelipper','Bulky Attacker', 'U-turn').
-role('Pelipper', 'Wallbreaker').
-ability('Pelipper','Wallbreaker', 'Drizzle').
-item('Pelipper','Wallbreaker', 'Choice Specs').
-tera('Pelipper','Wallbreaker', 'Flying').
-tera('Pelipper','Wallbreaker', 'Water').
-move('Pelipper','Wallbreaker', 'Hurricane').
-move('Pelipper','Wallbreaker', 'Hydro Pump').
-move('Pelipper','Wallbreaker', 'U-turn').
-move('Pelipper','Wallbreaker', 'Weather Ball').
-pokemon('Perrserker', 89).
-ability('Perrserker', 'Tough Claws').
-item('Perrserker', 'Choice Band').
-item('Perrserker', 'Life Orb').
-role('Perrserker', 'Fast Attacker').
-ability('Perrserker','Fast Attacker', 'Tough Claws').
-item('Perrserker','Fast Attacker', 'Choice Band').
-item('Perrserker','Fast Attacker', 'Life Orb').
-tera('Perrserker','Fast Attacker', 'Fighting').
-move('Perrserker','Fast Attacker', 'Close Combat').
-move('Perrserker','Fast Attacker', 'Iron Head').
-move('Perrserker','Fast Attacker', 'Knock Off').
-move('Perrserker','Fast Attacker', 'Stealth Rock').
-move('Perrserker','Fast Attacker', 'U-turn').
-pokemon('Persian', 92).
-ability('Persian', 'Limber').
-ability('Persian', 'Technician').
-item('Persian', 'Choice Band').
-item('Persian', 'Silk Scarf').
-role('Persian', 'Fast Attacker').
-ability('Persian','Fast Attacker', 'Technician').
-item('Persian','Fast Attacker', 'Silk Scarf').
-tera('Persian','Fast Attacker', 'Normal').
-move('Persian','Fast Attacker', 'Double-Edge').
-move('Persian','Fast Attacker', 'Fake Out').
-move('Persian','Fast Attacker', 'Knock Off').
-move('Persian','Fast Attacker', 'U-turn').
-role('Persian', 'Wallbreaker').
-ability('Persian','Wallbreaker', 'Limber').
-item('Persian','Wallbreaker', 'Choice Band').
-tera('Persian','Wallbreaker', 'Ghost').
-tera('Persian','Wallbreaker', 'Normal').
-move('Persian','Wallbreaker', 'Double-Edge').
-move('Persian','Wallbreaker', 'Knock Off').
-move('Persian','Wallbreaker', 'Switcheroo').
-move('Persian','Wallbreaker', 'U-turn').
-pokemon('Persian-Alola', 86).
-ability('Persian-Alola', 'Fur Coat').
-item('Persian-Alola', 'Heavy-Duty Boots').
-item('Persian-Alola', 'Leftovers').
-item('Persian-Alola', 'Life Orb').
-role('Persian-Alola', 'Tera Blast user').
-ability('Persian-Alola','Tera Blast user', 'Fur Coat').
-item('Persian-Alola','Tera Blast user', 'Life Orb').
-tera('Persian-Alola','Tera Blast user', 'Fairy').
-tera('Persian-Alola','Tera Blast user', 'Poison').
-move('Persian-Alola','Tera Blast user', 'Dark Pulse').
-move('Persian-Alola','Tera Blast user', 'Nasty Plot').
-move('Persian-Alola','Tera Blast user', 'Tera Blast').
-move('Persian-Alola','Tera Blast user', 'Thunderbolt').
-role('Persian-Alola', 'Fast Bulky Setup').
-ability('Persian-Alola','Fast Bulky Setup', 'Fur Coat').
-item('Persian-Alola','Fast Bulky Setup', 'Leftovers').
-item('Persian-Alola','Fast Bulky Setup', 'Life Orb').
-tera('Persian-Alola','Fast Bulky Setup', 'Electric').
-move('Persian-Alola','Fast Bulky Setup', 'Burning Jealousy').
-move('Persian-Alola','Fast Bulky Setup', 'Dark Pulse').
-move('Persian-Alola','Fast Bulky Setup', 'Hypnosis').
-move('Persian-Alola','Fast Bulky Setup', 'Nasty Plot').
-move('Persian-Alola','Fast Bulky Setup', 'Thunderbolt').
-role('Persian-Alola', 'Fast Support').
-ability('Persian-Alola','Fast Support', 'Fur Coat').
-item('Persian-Alola','Fast Support', 'Heavy-Duty Boots').
-tera('Persian-Alola','Fast Support', 'Fairy').
-tera('Persian-Alola','Fast Support', 'Ghost').
-tera('Persian-Alola','Fast Support', 'Poison').
-move('Persian-Alola','Fast Support', 'Foul Play').
-move('Persian-Alola','Fast Support', 'Knock Off').
-move('Persian-Alola','Fast Support', 'Parting Shot').
-move('Persian-Alola','Fast Support', 'Taunt').
-move('Persian-Alola','Fast Support', 'Thunder Wave').
-pokemon('Phione', 91).
-ability('Phione', 'Hydration').
-item('Phione', 'Leftovers').
-role('Phione', 'Bulky Attacker').
-ability('Phione','Bulky Attacker', 'Hydration').
-item('Phione','Bulky Attacker', 'Leftovers').
-tera('Phione','Bulky Attacker', 'Grass').
-tera('Phione','Bulky Attacker', 'Steel').
-move('Phione','Bulky Attacker', 'Grass Knot').
-move('Phione','Bulky Attacker', 'Ice Beam').
-move('Phione','Bulky Attacker', 'Scald').
-move('Phione','Bulky Attacker', 'Take Heart').
-role('Phione', 'Bulky Setup').
-ability('Phione','Bulky Setup', 'Hydration').
-item('Phione','Bulky Setup', 'Leftovers').
-tera('Phione','Bulky Setup', 'Dragon').
-tera('Phione','Bulky Setup', 'Steel').
-move('Phione','Bulky Setup', 'Rest').
-move('Phione','Bulky Setup', 'Scald').
-move('Phione','Bulky Setup', 'Sleep Talk').
-move('Phione','Bulky Setup', 'Take Heart').
-pokemon('Pikachu', 93).
-ability('Pikachu', 'Lightning Rod').
-item('Pikachu', 'Light Ball').
-role('Pikachu', 'Fast Attacker').
-ability('Pikachu','Fast Attacker', 'Lightning Rod').
-item('Pikachu','Fast Attacker', 'Light Ball').
-tera('Pikachu','Fast Attacker', 'Water').
-move('Pikachu','Fast Attacker', 'Fake Out').
-move('Pikachu','Fast Attacker', 'Knock Off').
-move('Pikachu','Fast Attacker', 'Play Rough').
-move('Pikachu','Fast Attacker', 'Surf').
-move('Pikachu','Fast Attacker', 'Volt Switch').
-move('Pikachu','Fast Attacker', 'Volt Tackle').
-pokemon('Piloswine', 85).
-ability('Piloswine', 'Thick Fat').
-item('Piloswine', 'Eviolite').
-role('Piloswine', 'Bulky Support').
-ability('Piloswine','Bulky Support', 'Thick Fat').
-item('Piloswine','Bulky Support', 'Eviolite').
-tera('Piloswine','Bulky Support', 'Dragon').
-tera('Piloswine','Bulky Support', 'Poison').
-move('Piloswine','Bulky Support', 'Earthquake').
-move('Piloswine','Bulky Support', 'Ice Shard').
-move('Piloswine','Bulky Support', 'Icicle Crash').
-move('Piloswine','Bulky Support', 'Roar').
-move('Piloswine','Bulky Support', 'Stealth Rock').
-pokemon('Pincurchin', 100).
-ability('Pincurchin', 'Electric Surge').
-item('Pincurchin', 'Leftovers').
-role('Pincurchin', 'Bulky Attacker').
-ability('Pincurchin','Bulky Attacker', 'Electric Surge').
-item('Pincurchin','Bulky Attacker', 'Leftovers').
-tera('Pincurchin','Bulky Attacker', 'Water').
-move('Pincurchin','Bulky Attacker', 'Discharge').
-move('Pincurchin','Bulky Attacker', 'Recover').
-move('Pincurchin','Bulky Attacker', 'Scald').
-move('Pincurchin','Bulky Attacker', 'Spikes').
-move('Pincurchin','Bulky Attacker', 'Thunderbolt').
-move('Pincurchin','Bulky Attacker', 'Toxic Spikes').
-role('Pincurchin', 'Bulky Setup').
-ability('Pincurchin','Bulky Setup', 'Electric Surge').
-item('Pincurchin','Bulky Setup', 'Leftovers').
-tera('Pincurchin','Bulky Setup', 'Grass').
-tera('Pincurchin','Bulky Setup', 'Water').
-move('Pincurchin','Bulky Setup', 'Curse').
-move('Pincurchin','Bulky Setup', 'Liquidation').
-move('Pincurchin','Bulky Setup', 'Recover').
-move('Pincurchin','Bulky Setup', 'Zing Zap').
-pokemon('Plusle', 95).
-ability('Plusle', 'Lightning Rod').
-item('Plusle', 'Life Orb').
-role('Plusle', 'Setup Sweeper').
-ability('Plusle','Setup Sweeper', 'Lightning Rod').
-item('Plusle','Setup Sweeper', 'Life Orb').
-tera('Plusle','Setup Sweeper', 'Electric').
-tera('Plusle','Setup Sweeper', 'Fairy').
-tera('Plusle','Setup Sweeper', 'Grass').
-move('Plusle','Setup Sweeper', 'Alluring Voice').
-move('Plusle','Setup Sweeper', 'Encore').
-move('Plusle','Setup Sweeper', 'Grass Knot').
-move('Plusle','Setup Sweeper', 'Nasty Plot').
-move('Plusle','Setup Sweeper', 'Thunderbolt').
-pokemon('Politoed', 88).
-ability('Politoed', 'Drizzle').
-item('Politoed', 'Chesto Berry').
-item('Politoed', 'Choice Specs').
-item('Politoed', 'Leftovers').
-role('Politoed', 'Fast Attacker').
-ability('Politoed','Fast Attacker', 'Drizzle').
-item('Politoed','Fast Attacker', 'Choice Specs').
-tera('Politoed','Fast Attacker', 'Water').
-move('Politoed','Fast Attacker', 'Focus Blast').
-move('Politoed','Fast Attacker', 'Hydro Pump').
-move('Politoed','Fast Attacker', 'Ice Beam').
-move('Politoed','Fast Attacker', 'Weather Ball').
-role('Politoed', 'Bulky Attacker').
-ability('Politoed','Bulky Attacker', 'Drizzle').
-item('Politoed','Bulky Attacker', 'Chesto Berry').
-item('Politoed','Bulky Attacker', 'Leftovers').
-tera('Politoed','Bulky Attacker', 'Steel').
-tera('Politoed','Bulky Attacker', 'Water').
-move('Politoed','Bulky Attacker', 'Encore').
-move('Politoed','Bulky Attacker', 'Haze').
-move('Politoed','Bulky Attacker', 'Hydro Pump').
-move('Politoed','Bulky Attacker', 'Hypnosis').
-move('Politoed','Bulky Attacker', 'Ice Beam').
-move('Politoed','Bulky Attacker', 'Rest').
-move('Politoed','Bulky Attacker', 'Surf').
-pokemon('Poliwrath', 88).
-ability('Poliwrath', 'Swift Swim').
-ability('Poliwrath', 'Water Absorb').
-item('Poliwrath', 'Assault Vest').
-item('Poliwrath', 'Leftovers').
-item('Poliwrath', 'Life Orb').
-role('Poliwrath', 'AV Pivot').
-ability('Poliwrath','AV Pivot', 'Water Absorb').
-item('Poliwrath','AV Pivot', 'Assault Vest').
-tera('Poliwrath','AV Pivot', 'Dark').
-tera('Poliwrath','AV Pivot', 'Fighting').
-tera('Poliwrath','AV Pivot', 'Steel').
-move('Poliwrath','AV Pivot', 'Circle Throw').
-move('Poliwrath','AV Pivot', 'Close Combat').
-move('Poliwrath','AV Pivot', 'Knock Off').
-move('Poliwrath','AV Pivot', 'Liquidation').
-role('Poliwrath', 'Bulky Setup').
-ability('Poliwrath','Bulky Setup', 'Water Absorb').
-item('Poliwrath','Bulky Setup', 'Leftovers').
-tera('Poliwrath','Bulky Setup', 'Fighting').
-tera('Poliwrath','Bulky Setup', 'Steel').
-tera('Poliwrath','Bulky Setup', 'Water').
-move('Poliwrath','Bulky Setup', 'Bulk Up').
-move('Poliwrath','Bulky Setup', 'Drain Punch').
-move('Poliwrath','Bulky Setup', 'Ice Punch').
-move('Poliwrath','Bulky Setup', 'Knock Off').
-move('Poliwrath','Bulky Setup', 'Liquidation').
-move('Poliwrath','Bulky Setup', 'Poison Jab').
-role('Poliwrath', 'Setup Sweeper').
-ability('Poliwrath','Setup Sweeper', 'Swift Swim').
-item('Poliwrath','Setup Sweeper', 'Life Orb').
-tera('Poliwrath','Setup Sweeper', 'Dark').
-tera('Poliwrath','Setup Sweeper', 'Fighting').
-tera('Poliwrath','Setup Sweeper', 'Water').
-move('Poliwrath','Setup Sweeper', 'Close Combat').
-move('Poliwrath','Setup Sweeper', 'Knock Off').
-move('Poliwrath','Setup Sweeper', 'Liquidation').
-move('Poliwrath','Setup Sweeper', 'Rain Dance').
-pokemon('Polteageist', 78).
-ability('Polteageist', 'Cursed Body').
-item('Polteageist', 'White Herb').
-role('Polteageist', 'Setup Sweeper').
-ability('Polteageist','Setup Sweeper', 'Cursed Body').
-item('Polteageist','Setup Sweeper', 'White Herb').
-tera('Polteageist','Setup Sweeper', 'Dark').
-tera('Polteageist','Setup Sweeper', 'Psychic').
-move('Polteageist','Setup Sweeper', 'Shadow Ball').
-move('Polteageist','Setup Sweeper', 'Shell Smash').
-move('Polteageist','Setup Sweeper', 'Stored Power').
-move('Polteageist','Setup Sweeper', 'Strength Sap').
-role('Polteageist', 'Tera Blast user').
-ability('Polteageist','Tera Blast user', 'Cursed Body').
-item('Polteageist','Tera Blast user', 'White Herb').
-tera('Polteageist','Tera Blast user', 'Fighting').
-move('Polteageist','Tera Blast user', 'Shadow Ball').
-move('Polteageist','Tera Blast user', 'Shell Smash').
-move('Polteageist','Tera Blast user', 'Stored Power').
-move('Polteageist','Tera Blast user', 'Strength Sap').
-move('Polteageist','Tera Blast user', 'Tera Blast').
-pokemon('Porygon-Z', 83).
-ability('Porygon-Z', 'Adaptability').
-ability('Porygon-Z', 'Download').
-item('Porygon-Z', 'Choice Scarf').
-item('Porygon-Z', 'Choice Specs').
-item('Porygon-Z', 'Life Orb').
-role('Porygon-Z', 'Fast Attacker').
-ability('Porygon-Z','Fast Attacker', 'Adaptability').
-ability('Porygon-Z','Fast Attacker', 'Download').
-item('Porygon-Z','Fast Attacker', 'Choice Scarf').
-item('Porygon-Z','Fast Attacker', 'Choice Specs').
-item('Porygon-Z','Fast Attacker', 'Life Orb').
-tera('Porygon-Z','Fast Attacker', 'Electric').
-tera('Porygon-Z','Fast Attacker', 'Ghost').
-move('Porygon-Z','Fast Attacker', 'Ice Beam').
-move('Porygon-Z','Fast Attacker', 'Nasty Plot').
-move('Porygon-Z','Fast Attacker', 'Shadow Ball').
-move('Porygon-Z','Fast Attacker', 'Thunderbolt').
-move('Porygon-Z','Fast Attacker', 'Tri Attack').
-move('Porygon-Z','Fast Attacker', 'Trick').
-role('Porygon-Z', 'Tera Blast user').
-ability('Porygon-Z','Tera Blast user', 'Adaptability').
-item('Porygon-Z','Tera Blast user', 'Life Orb').
-tera('Porygon-Z','Tera Blast user', 'Fighting').
-move('Porygon-Z','Tera Blast user', 'Agility').
-move('Porygon-Z','Tera Blast user', 'Nasty Plot').
-move('Porygon-Z','Tera Blast user', 'Shadow Ball').
-move('Porygon-Z','Tera Blast user', 'Tera Blast').
-pokemon('Porygon2', 81).
-ability('Porygon2', 'Download').
-item('Porygon2', 'Eviolite').
-role('Porygon2', 'Bulky Support').
-ability('Porygon2','Bulky Support', 'Download').
-item('Porygon2','Bulky Support', 'Eviolite').
-tera('Porygon2','Bulky Support', 'Electric').
-tera('Porygon2','Bulky Support', 'Ghost').
-tera('Porygon2','Bulky Support', 'Poison').
-move('Porygon2','Bulky Support', 'Discharge').
-move('Porygon2','Bulky Support', 'Ice Beam').
-move('Porygon2','Bulky Support', 'Recover').
-move('Porygon2','Bulky Support', 'Tri Attack').
-role('Porygon2', 'Tera Blast user').
-ability('Porygon2','Tera Blast user', 'Download').
-item('Porygon2','Tera Blast user', 'Eviolite').
-tera('Porygon2','Tera Blast user', 'Fairy').
-tera('Porygon2','Tera Blast user', 'Fighting').
-move('Porygon2','Tera Blast user', 'Recover').
-move('Porygon2','Tera Blast user', 'Shadow Ball').
-move('Porygon2','Tera Blast user', 'Tera Blast').
-move('Porygon2','Tera Blast user', 'Thunder Wave').
-pokemon('Primarina', 83).
-ability('Primarina', 'Liquid Voice').
-ability('Primarina', 'Torrent').
-item('Primarina', 'Choice Specs').
-item('Primarina', 'Leftovers').
-role('Primarina', 'Bulky Attacker').
-ability('Primarina','Bulky Attacker', 'Torrent').
-item('Primarina','Bulky Attacker', 'Leftovers').
-tera('Primarina','Bulky Attacker', 'Fairy').
-tera('Primarina','Bulky Attacker', 'Poison').
-tera('Primarina','Bulky Attacker', 'Steel').
-move('Primarina','Bulky Attacker', 'Calm Mind').
-move('Primarina','Bulky Attacker', 'Draining Kiss').
-move('Primarina','Bulky Attacker', 'Psychic').
-move('Primarina','Bulky Attacker', 'Sparkling Aria').
-role('Primarina', 'Bulky Setup').
-ability('Primarina','Bulky Setup', 'Liquid Voice').
-item('Primarina','Bulky Setup', 'Leftovers').
-tera('Primarina','Bulky Setup', 'Fairy').
-tera('Primarina','Bulky Setup', 'Poison').
-tera('Primarina','Bulky Setup', 'Steel').
-move('Primarina','Bulky Setup', 'Calm Mind').
-move('Primarina','Bulky Setup', 'Draining Kiss').
-move('Primarina','Bulky Setup', 'Moonblast').
-move('Primarina','Bulky Setup', 'Psychic Noise').
-role('Primarina', 'Wallbreaker').
-ability('Primarina','Wallbreaker', 'Torrent').
-item('Primarina','Wallbreaker', 'Choice Specs').
-tera('Primarina','Wallbreaker', 'Water').
-move('Primarina','Wallbreaker', 'Flip Turn').
-move('Primarina','Wallbreaker', 'Hydro Pump').
-move('Primarina','Wallbreaker', 'Moonblast').
-move('Primarina','Wallbreaker', 'Psychic').
-pokemon('Probopass', 91).
-ability('Probopass', 'Magnet Pull').
-item('Probopass', 'Chesto Berry').
-item('Probopass', 'Leftovers').
-role('Probopass', 'Bulky Setup').
-ability('Probopass','Bulky Setup', 'Magnet Pull').
-item('Probopass','Bulky Setup', 'Chesto Berry').
-item('Probopass','Bulky Setup', 'Leftovers').
-tera('Probopass','Bulky Setup', 'Fighting').
-move('Probopass','Bulky Setup', 'Body Press').
-move('Probopass','Bulky Setup', 'Flash Cannon').
-move('Probopass','Bulky Setup', 'Iron Defense').
-move('Probopass','Bulky Setup', 'Power Gem').
-move('Probopass','Bulky Setup', 'Rest').
-move('Probopass','Bulky Setup', 'Thunder Wave').
-pokemon('Pyroar', 88).
-ability('Pyroar', 'Unnerve').
-item('Pyroar', 'Heavy-Duty Boots').
-role('Pyroar', 'Fast Attacker').
-ability('Pyroar','Fast Attacker', 'Unnerve').
-item('Pyroar','Fast Attacker', 'Heavy-Duty Boots').
-tera('Pyroar','Fast Attacker', 'Fire').
-move('Pyroar','Fast Attacker', 'Dark Pulse').
-move('Pyroar','Fast Attacker', 'Fire Blast').
-move('Pyroar','Fast Attacker', 'Hyper Voice').
-move('Pyroar','Fast Attacker', 'Taunt').
-move('Pyroar','Fast Attacker', 'Will-O-Wisp').
-move('Pyroar','Fast Attacker', 'Work Up').
-pokemon('Quagsire', 84).
-ability('Quagsire', 'Unaware').
-item('Quagsire', 'Leftovers').
-role('Quagsire', 'Bulky Support').
-ability('Quagsire','Bulky Support', 'Unaware').
-item('Quagsire','Bulky Support', 'Leftovers').
-tera('Quagsire','Bulky Support', 'Fairy').
-tera('Quagsire','Bulky Support', 'Poison').
-tera('Quagsire','Bulky Support', 'Steel').
-move('Quagsire','Bulky Support', 'Earthquake').
-move('Quagsire','Bulky Support', 'Ice Beam').
-move('Quagsire','Bulky Support', 'Recover').
-move('Quagsire','Bulky Support', 'Spikes').
-move('Quagsire','Bulky Support', 'Toxic').
-pokemon('Quaquaval', 79).
-ability('Quaquaval', 'Moxie').
-item('Quaquaval', 'Choice Band').
-item('Quaquaval', 'Leftovers').
-item('Quaquaval', 'Life Orb').
-role('Quaquaval', 'Bulky Attacker').
-ability('Quaquaval','Bulky Attacker', 'Moxie').
-item('Quaquaval','Bulky Attacker', 'Leftovers').
-tera('Quaquaval','Bulky Attacker', 'Steel').
-move('Quaquaval','Bulky Attacker', 'Aqua Step').
-move('Quaquaval','Bulky Attacker', 'Close Combat').
-move('Quaquaval','Bulky Attacker', 'Rapid Spin').
-move('Quaquaval','Bulky Attacker', 'Roost').
-move('Quaquaval','Bulky Attacker', 'Swords Dance').
-role('Quaquaval', 'Wallbreaker').
-ability('Quaquaval','Wallbreaker', 'Moxie').
-item('Quaquaval','Wallbreaker', 'Choice Band').
-tera('Quaquaval','Wallbreaker', 'Fighting').
-tera('Quaquaval','Wallbreaker', 'Water').
-move('Quaquaval','Wallbreaker', 'Aqua Step').
-move('Quaquaval','Wallbreaker', 'Close Combat').
-move('Quaquaval','Wallbreaker', 'Knock Off').
-move('Quaquaval','Wallbreaker', 'Triple Axel').
-move('Quaquaval','Wallbreaker', 'U-turn').
-role('Quaquaval', 'Setup Sweeper').
-ability('Quaquaval','Setup Sweeper', 'Moxie').
-item('Quaquaval','Setup Sweeper', 'Life Orb').
-tera('Quaquaval','Setup Sweeper', 'Fighting').
-tera('Quaquaval','Setup Sweeper', 'Steel').
-tera('Quaquaval','Setup Sweeper', 'Water').
-move('Quaquaval','Setup Sweeper', 'Aqua Step').
-move('Quaquaval','Setup Sweeper', 'Close Combat').
-move('Quaquaval','Setup Sweeper', 'Encore').
-move('Quaquaval','Setup Sweeper', 'Knock Off').
-move('Quaquaval','Setup Sweeper', 'Swords Dance').
-move('Quaquaval','Setup Sweeper', 'Triple Axel').
-pokemon('Qwilfish', 86).
-ability('Qwilfish', 'Intimidate').
-item('Qwilfish', 'Heavy-Duty Boots').
-item('Qwilfish', 'Leftovers').
-role('Qwilfish', 'Fast Support').
-ability('Qwilfish','Fast Support', 'Intimidate').
-item('Qwilfish','Fast Support', 'Heavy-Duty Boots').
-tera('Qwilfish','Fast Support', 'Dark').
-tera('Qwilfish','Fast Support', 'Grass').
-move('Qwilfish','Fast Support', 'Flip Turn').
-move('Qwilfish','Fast Support', 'Gunk Shot').
-move('Qwilfish','Fast Support', 'Pain Split').
-move('Qwilfish','Fast Support', 'Thunder Wave').
-move('Qwilfish','Fast Support', 'Toxic').
-move('Qwilfish','Fast Support', 'Toxic Spikes').
-role('Qwilfish', 'Bulky Support').
-ability('Qwilfish','Bulky Support', 'Intimidate').
-item('Qwilfish','Bulky Support', 'Leftovers').
-tera('Qwilfish','Bulky Support', 'Dark').
-tera('Qwilfish','Bulky Support', 'Grass').
-move('Qwilfish','Bulky Support', 'Destiny Bond').
-move('Qwilfish','Bulky Support', 'Gunk Shot').
-move('Qwilfish','Bulky Support', 'Spikes').
-move('Qwilfish','Bulky Support', 'Taunt').
-move('Qwilfish','Bulky Support', 'Thunder Wave').
-move('Qwilfish','Bulky Support', 'Toxic Spikes').
-move('Qwilfish','Bulky Support', 'Waterfall').
-pokemon('Qwilfish-Hisui', 83).
-ability('Qwilfish-Hisui', 'Intimidate').
-item('Qwilfish-Hisui', 'Eviolite').
-role('Qwilfish-Hisui', 'Bulky Support').
-ability('Qwilfish-Hisui','Bulky Support', 'Intimidate').
-item('Qwilfish-Hisui','Bulky Support', 'Eviolite').
-tera('Qwilfish-Hisui','Bulky Support', 'Flying').
-tera('Qwilfish-Hisui','Bulky Support', 'Poison').
-move('Qwilfish-Hisui','Bulky Support', 'Crunch').
-move('Qwilfish-Hisui','Bulky Support', 'Gunk Shot').
-move('Qwilfish-Hisui','Bulky Support', 'Spikes').
-move('Qwilfish-Hisui','Bulky Support', 'Taunt').
-move('Qwilfish-Hisui','Bulky Support', 'Toxic Spikes').
-pokemon('Rabsca', 91).
-ability('Rabsca', 'Synchronize').
-item('Rabsca', 'Heavy-Duty Boots').
-role('Rabsca', 'Wallbreaker').
-ability('Rabsca','Wallbreaker', 'Synchronize').
-item('Rabsca','Wallbreaker', 'Heavy-Duty Boots').
-tera('Rabsca','Wallbreaker', 'Steel').
-move('Rabsca','Wallbreaker', 'Bug Buzz').
-move('Rabsca','Wallbreaker', 'Earth Power').
-move('Rabsca','Wallbreaker', 'Psychic').
-move('Rabsca','Wallbreaker', 'Recover').
-move('Rabsca','Wallbreaker', 'Revival Blessing').
-move('Rabsca','Wallbreaker', 'Trick Room').
-pokemon('Raging Bolt', 78).
-ability('Raging Bolt', 'Protosynthesis').
-item('Raging Bolt', 'Assault Vest').
-item('Raging Bolt', 'Booster Energy').
-item('Raging Bolt', 'Leftovers').
-role('Raging Bolt', 'Bulky Setup').
-ability('Raging Bolt','Bulky Setup', 'Protosynthesis').
-item('Raging Bolt','Bulky Setup', 'Leftovers').
-tera('Raging Bolt','Bulky Setup', 'Electric').
-tera('Raging Bolt','Bulky Setup', 'Fairy').
-move('Raging Bolt','Bulky Setup', 'Calm Mind').
-move('Raging Bolt','Bulky Setup', 'Draco Meteor').
-move('Raging Bolt','Bulky Setup', 'Thunderbolt').
-move('Raging Bolt','Bulky Setup', 'Thunderclap').
-role('Raging Bolt', 'AV Pivot').
-ability('Raging Bolt','AV Pivot', 'Protosynthesis').
-item('Raging Bolt','AV Pivot', 'Assault Vest').
-tera('Raging Bolt','AV Pivot', 'Electric').
-move('Raging Bolt','AV Pivot', 'Discharge').
-move('Raging Bolt','AV Pivot', 'Draco Meteor').
-move('Raging Bolt','AV Pivot', 'Thunderbolt').
-move('Raging Bolt','AV Pivot', 'Thunderclap').
-move('Raging Bolt','AV Pivot', 'Volt Switch').
-role('Raging Bolt', 'Fast Bulky Setup').
-ability('Raging Bolt','Fast Bulky Setup', 'Protosynthesis').
-item('Raging Bolt','Fast Bulky Setup', 'Booster Energy').
-tera('Raging Bolt','Fast Bulky Setup', 'Electric').
-tera('Raging Bolt','Fast Bulky Setup', 'Fairy').
-move('Raging Bolt','Fast Bulky Setup', 'Calm Mind').
-move('Raging Bolt','Fast Bulky Setup', 'Dragon Pulse').
-move('Raging Bolt','Fast Bulky Setup', 'Thunderbolt').
-move('Raging Bolt','Fast Bulky Setup', 'Thunderclap').
-pokemon('Raichu', 88).
-ability('Raichu', 'Lightning Rod').
-item('Raichu', 'Assault Vest').
-item('Raichu', 'Choice Specs').
-item('Raichu', 'Focus Sash').
-item('Raichu', 'Heavy-Duty Boots').
-item('Raichu', 'Leftovers').
-item('Raichu', 'Life Orb').
-role('Raichu', 'Fast Support').
-ability('Raichu','Fast Support', 'Lightning Rod').
-item('Raichu','Fast Support', 'Assault Vest').
-item('Raichu','Fast Support', 'Choice Specs').
-item('Raichu','Fast Support', 'Focus Sash').
-item('Raichu','Fast Support', 'Heavy-Duty Boots').
-item('Raichu','Fast Support', 'Leftovers').
-item('Raichu','Fast Support', 'Life Orb').
-tera('Raichu','Fast Support', 'Grass').
-tera('Raichu','Fast Support', 'Water').
-move('Raichu','Fast Support', 'Alluring Voice').
-move('Raichu','Fast Support', 'Encore').
-move('Raichu','Fast Support', 'Focus Blast').
-move('Raichu','Fast Support', 'Grass Knot').
-move('Raichu','Fast Support', 'Knock Off').
-move('Raichu','Fast Support', 'Nasty Plot').
-move('Raichu','Fast Support', 'Nuzzle').
-move('Raichu','Fast Support', 'Surf').
-move('Raichu','Fast Support', 'Thunderbolt').
-move('Raichu','Fast Support', 'Volt Switch').
-role('Raichu', 'Tera Blast user').
-ability('Raichu','Tera Blast user', 'Lightning Rod').
-item('Raichu','Tera Blast user', 'Life Orb').
-tera('Raichu','Tera Blast user', 'Ice').
-move('Raichu','Tera Blast user', 'Encore').
-move('Raichu','Tera Blast user', 'Focus Blast').
-move('Raichu','Tera Blast user', 'Nasty Plot').
-move('Raichu','Tera Blast user', 'Surf').
-move('Raichu','Tera Blast user', 'Tera Blast').
-move('Raichu','Tera Blast user', 'Thunderbolt').
-pokemon('Raichu-Alola', 87).
-ability('Raichu-Alola', 'Surge Surfer').
-item('Raichu-Alola', 'Choice Specs').
-item('Raichu-Alola', 'Life Orb').
-role('Raichu-Alola', 'Fast Attacker').
-ability('Raichu-Alola','Fast Attacker', 'Surge Surfer').
-item('Raichu-Alola','Fast Attacker', 'Choice Specs').
-tera('Raichu-Alola','Fast Attacker', 'Fairy').
-tera('Raichu-Alola','Fast Attacker', 'Fighting').
-tera('Raichu-Alola','Fast Attacker', 'Grass').
-tera('Raichu-Alola','Fast Attacker', 'Water').
-move('Raichu-Alola','Fast Attacker', 'Alluring Voice').
-move('Raichu-Alola','Fast Attacker', 'Focus Blast').
-move('Raichu-Alola','Fast Attacker', 'Grass Knot').
-move('Raichu-Alola','Fast Attacker', 'Psychic').
-move('Raichu-Alola','Fast Attacker', 'Psyshock').
-move('Raichu-Alola','Fast Attacker', 'Surf').
-move('Raichu-Alola','Fast Attacker', 'Thunderbolt').
-move('Raichu-Alola','Fast Attacker', 'Volt Switch').
-role('Raichu-Alola', 'Setup Sweeper').
-ability('Raichu-Alola','Setup Sweeper', 'Surge Surfer').
-item('Raichu-Alola','Setup Sweeper', 'Life Orb').
-tera('Raichu-Alola','Setup Sweeper', 'Fairy').
-tera('Raichu-Alola','Setup Sweeper', 'Fighting').
-tera('Raichu-Alola','Setup Sweeper', 'Grass').
-tera('Raichu-Alola','Setup Sweeper', 'Water').
-move('Raichu-Alola','Setup Sweeper', 'Alluring Voice').
-move('Raichu-Alola','Setup Sweeper', 'Focus Blast').
-move('Raichu-Alola','Setup Sweeper', 'Grass Knot').
-move('Raichu-Alola','Setup Sweeper', 'Nasty Plot').
-move('Raichu-Alola','Setup Sweeper', 'Psyshock').
-move('Raichu-Alola','Setup Sweeper', 'Surf').
-move('Raichu-Alola','Setup Sweeper', 'Thunderbolt').
-pokemon('Raikou', 82).
-ability('Raikou', 'Pressure').
-item('Raikou', 'Choice Specs').
-item('Raikou', 'Heavy-Duty Boots').
-item('Raikou', 'Leftovers').
-role('Raikou', 'Fast Support').
-ability('Raikou','Fast Support', 'Pressure').
-item('Raikou','Fast Support', 'Heavy-Duty Boots').
-tera('Raikou','Fast Support', 'Electric').
-tera('Raikou','Fast Support', 'Flying').
-tera('Raikou','Fast Support', 'Water').
-move('Raikou','Fast Support', 'Calm Mind').
-move('Raikou','Fast Support', 'Scald').
-move('Raikou','Fast Support', 'Thunderbolt').
-move('Raikou','Fast Support', 'Volt Switch').
-role('Raikou', 'Bulky Attacker').
-ability('Raikou','Bulky Attacker', 'Pressure').
-item('Raikou','Bulky Attacker', 'Choice Specs').
-item('Raikou','Bulky Attacker', 'Leftovers').
-tera('Raikou','Bulky Attacker', 'Electric').
-tera('Raikou','Bulky Attacker', 'Water').
-move('Raikou','Bulky Attacker', 'Calm Mind').
-move('Raikou','Bulky Attacker', 'Scald').
-move('Raikou','Bulky Attacker', 'Shadow Ball').
-move('Raikou','Bulky Attacker', 'Thunderbolt').
-move('Raikou','Bulky Attacker', 'Volt Switch').
-role('Raikou', 'Bulky Setup').
-ability('Raikou','Bulky Setup', 'Pressure').
-item('Raikou','Bulky Setup', 'Leftovers').
-tera('Raikou','Bulky Setup', 'Grass').
-tera('Raikou','Bulky Setup', 'Water').
-move('Raikou','Bulky Setup', 'Calm Mind').
-move('Raikou','Bulky Setup', 'Scald').
-move('Raikou','Bulky Setup', 'Substitute').
-move('Raikou','Bulky Setup', 'Thunderbolt').
-pokemon('Rampardos', 90).
-ability('Rampardos', 'Sheer Force').
-item('Rampardos', 'Choice Scarf').
-item('Rampardos', 'Life Orb').
-role('Rampardos', 'Wallbreaker').
-ability('Rampardos','Wallbreaker', 'Sheer Force').
-item('Rampardos','Wallbreaker', 'Life Orb').
-tera('Rampardos','Wallbreaker', 'Fire').
-tera('Rampardos','Wallbreaker', 'Psychic').
-tera('Rampardos','Wallbreaker', 'Rock').
-move('Rampardos','Wallbreaker', 'Earthquake').
-move('Rampardos','Wallbreaker', 'Fire Punch').
-move('Rampardos','Wallbreaker', 'Rock Slide').
-move('Rampardos','Wallbreaker', 'Zen Headbutt').
-role('Rampardos', 'Fast Attacker').
-ability('Rampardos','Fast Attacker', 'Sheer Force').
-item('Rampardos','Fast Attacker', 'Choice Scarf').
-tera('Rampardos','Fast Attacker', 'Fire').
-tera('Rampardos','Fast Attacker', 'Ground').
-tera('Rampardos','Fast Attacker', 'Rock').
-move('Rampardos','Fast Attacker', 'Earthquake').
-move('Rampardos','Fast Attacker', 'Fire Punch').
-move('Rampardos','Fast Attacker', 'Head Smash').
-move('Rampardos','Fast Attacker', 'Rock Slide').
-pokemon('Rayquaza', 72).
-ability('Rayquaza', 'Air Lock').
-item('Rayquaza', 'Choice Band').
-item('Rayquaza', 'Heavy-Duty Boots').
-item('Rayquaza', 'Loaded Dice').
-role('Rayquaza', 'Setup Sweeper').
-ability('Rayquaza','Setup Sweeper', 'Air Lock').
-item('Rayquaza','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Rayquaza','Setup Sweeper', 'Flying').
-tera('Rayquaza','Setup Sweeper', 'Steel').
-move('Rayquaza','Setup Sweeper', 'Dragon Ascent').
-move('Rayquaza','Setup Sweeper', 'Dragon Dance').
-move('Rayquaza','Setup Sweeper', 'Earthquake').
-move('Rayquaza','Setup Sweeper', 'Outrage').
-role('Rayquaza', 'Fast Attacker').
-ability('Rayquaza','Fast Attacker', 'Air Lock').
-item('Rayquaza','Fast Attacker', 'Choice Band').
-item('Rayquaza','Fast Attacker', 'Heavy-Duty Boots').
-tera('Rayquaza','Fast Attacker', 'Normal').
-move('Rayquaza','Fast Attacker', 'Dragon Ascent').
-move('Rayquaza','Fast Attacker', 'Earthquake').
-move('Rayquaza','Fast Attacker', 'Extreme Speed').
-move('Rayquaza','Fast Attacker', 'Swords Dance').
-move('Rayquaza','Fast Attacker', 'U-turn').
-role('Rayquaza', 'Fast Bulky Setup').
-ability('Rayquaza','Fast Bulky Setup', 'Air Lock').
-item('Rayquaza','Fast Bulky Setup', 'Loaded Dice').
-tera('Rayquaza','Fast Bulky Setup', 'Dragon').
-tera('Rayquaza','Fast Bulky Setup', 'Flying').
-tera('Rayquaza','Fast Bulky Setup', 'Steel').
-move('Rayquaza','Fast Bulky Setup', 'Dragon Ascent').
-move('Rayquaza','Fast Bulky Setup', 'Earthquake').
-move('Rayquaza','Fast Bulky Setup', 'Scale Shot').
-move('Rayquaza','Fast Bulky Setup', 'Swords Dance').
-pokemon('Regice', 88).
-ability('Regice', 'Clear Body').
-item('Regice', 'Heavy-Duty Boots').
-role('Regice', 'Bulky Attacker').
-ability('Regice','Bulky Attacker', 'Clear Body').
-item('Regice','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Regice','Bulky Attacker', 'Electric').
-move('Regice','Bulky Attacker', 'Body Press').
-move('Regice','Bulky Attacker', 'Ice Beam').
-move('Regice','Bulky Attacker', 'Rest').
-move('Regice','Bulky Attacker', 'Sleep Talk').
-move('Regice','Bulky Attacker', 'Thunder Wave').
-move('Regice','Bulky Attacker', 'Thunderbolt').
-pokemon('Regidrago', 77).
-ability('Regidrago', 'Dragon's Maw').
-item('Regidrago', 'Choice Scarf').
-item('Regidrago', 'Life Orb').
-item('Regidrago', 'Lum Berry').
-role('Regidrago', 'Setup Sweeper').
-ability('Regidrago','Setup Sweeper', 'Dragon's Maw').
-item('Regidrago','Setup Sweeper', 'Lum Berry').
-tera('Regidrago','Setup Sweeper', 'Dragon').
-move('Regidrago','Setup Sweeper', 'Draco Meteor').
-move('Regidrago','Setup Sweeper', 'Dragon Dance').
-move('Regidrago','Setup Sweeper', 'Earthquake').
-move('Regidrago','Setup Sweeper', 'Outrage').
-role('Regidrago', 'Fast Attacker').
-ability('Regidrago','Fast Attacker', 'Dragon's Maw').
-item('Regidrago','Fast Attacker', 'Choice Scarf').
-tera('Regidrago','Fast Attacker', 'Dragon').
-move('Regidrago','Fast Attacker', 'Draco Meteor').
-move('Regidrago','Fast Attacker', 'Dragon Energy').
-move('Regidrago','Fast Attacker', 'Earthquake').
-move('Regidrago','Fast Attacker', 'Outrage').
-role('Regidrago', 'Tera Blast user').
-ability('Regidrago','Tera Blast user', 'Dragon's Maw').
-item('Regidrago','Tera Blast user', 'Life Orb').
-tera('Regidrago','Tera Blast user', 'Steel').
-move('Regidrago','Tera Blast user', 'Dragon Claw').
-move('Regidrago','Tera Blast user', 'Dragon Dance').
-move('Regidrago','Tera Blast user', 'Earthquake').
-move('Regidrago','Tera Blast user', 'Tera Blast').
-pokemon('Regieleki', 79).
-ability('Regieleki', 'Transistor').
-item('Regieleki', 'Magnet').
-role('Regieleki', 'Fast Support').
-ability('Regieleki','Fast Support', 'Transistor').
-item('Regieleki','Fast Support', 'Magnet').
-tera('Regieleki','Fast Support', 'Electric').
-move('Regieleki','Fast Support', 'Explosion').
-move('Regieleki','Fast Support', 'Rapid Spin').
-move('Regieleki','Fast Support', 'Thunderbolt').
-move('Regieleki','Fast Support', 'Volt Switch').
-role('Regieleki', 'Tera Blast user').
-ability('Regieleki','Tera Blast user', 'Transistor').
-item('Regieleki','Tera Blast user', 'Magnet').
-tera('Regieleki','Tera Blast user', 'Ice').
-move('Regieleki','Tera Blast user', 'Rapid Spin').
-move('Regieleki','Tera Blast user', 'Tera Blast').
-move('Regieleki','Tera Blast user', 'Thunderbolt').
-move('Regieleki','Tera Blast user', 'Volt Switch').
-pokemon('Regigigas', 84).
-ability('Regigigas', 'Slow Start').
-item('Regigigas', 'Leftovers').
-role('Regigigas', 'Bulky Attacker').
-ability('Regigigas','Bulky Attacker', 'Slow Start').
-item('Regigigas','Bulky Attacker', 'Leftovers').
-tera('Regigigas','Bulky Attacker', 'Ghost').
-tera('Regigigas','Bulky Attacker', 'Poison').
-move('Regigigas','Bulky Attacker', 'Body Slam').
-move('Regigigas','Bulky Attacker', 'Knock Off').
-move('Regigigas','Bulky Attacker', 'Protect').
-move('Regigigas','Bulky Attacker', 'Substitute').
-role('Regigigas', 'Bulky Support').
-ability('Regigigas','Bulky Support', 'Slow Start').
-item('Regigigas','Bulky Support', 'Leftovers').
-tera('Regigigas','Bulky Support', 'Ghost').
-move('Regigigas','Bulky Support', 'Body Slam').
-move('Regigigas','Bulky Support', 'Knock Off').
-move('Regigigas','Bulky Support', 'Rest').
-move('Regigigas','Bulky Support', 'Sleep Talk').
-pokemon('Regirock', 83).
-ability('Regirock', 'Clear Body').
-item('Regirock', 'Chesto Berry').
-item('Regirock', 'Leftovers').
-role('Regirock', 'Bulky Setup').
-ability('Regirock','Bulky Setup', 'Clear Body').
-item('Regirock','Bulky Setup', 'Chesto Berry').
-tera('Regirock','Bulky Setup', 'Fighting').
-move('Regirock','Bulky Setup', 'Body Press').
-move('Regirock','Bulky Setup', 'Curse').
-move('Regirock','Bulky Setup', 'Iron Defense').
-move('Regirock','Bulky Setup', 'Rest').
-move('Regirock','Bulky Setup', 'Stone Edge').
-role('Regirock', 'Bulky Attacker').
-ability('Regirock','Bulky Attacker', 'Clear Body').
-item('Regirock','Bulky Attacker', 'Leftovers').
-tera('Regirock','Bulky Attacker', 'Fighting').
-move('Regirock','Bulky Attacker', 'Body Press').
-move('Regirock','Bulky Attacker', 'Iron Defense').
-move('Regirock','Bulky Attacker', 'Stealth Rock').
-move('Regirock','Bulky Attacker', 'Stone Edge').
-move('Regirock','Bulky Attacker', 'Thunder Wave').
-pokemon('Registeel', 81).
-ability('Registeel', 'Clear Body').
-item('Registeel', 'Chesto Berry').
-item('Registeel', 'Leftovers').
-role('Registeel', 'Bulky Setup').
-ability('Registeel','Bulky Setup', 'Clear Body').
-item('Registeel','Bulky Setup', 'Chesto Berry').
-tera('Registeel','Bulky Setup', 'Fighting').
-move('Registeel','Bulky Setup', 'Body Press').
-move('Registeel','Bulky Setup', 'Iron Defense').
-move('Registeel','Bulky Setup', 'Iron Head').
-move('Registeel','Bulky Setup', 'Rest').
-role('Registeel', 'Bulky Support').
-ability('Registeel','Bulky Support', 'Clear Body').
-item('Registeel','Bulky Support', 'Leftovers').
-tera('Registeel','Bulky Support', 'Fighting').
-move('Registeel','Bulky Support', 'Body Press').
-move('Registeel','Bulky Support', 'Iron Defense').
-move('Registeel','Bulky Support', 'Iron Head').
-move('Registeel','Bulky Support', 'Stealth Rock').
-move('Registeel','Bulky Support', 'Thunder Wave').
-pokemon('Reshiram', 76).
-ability('Reshiram', 'Turboblaze').
-item('Reshiram', 'Heavy-Duty Boots').
-role('Reshiram', 'Fast Attacker').
-ability('Reshiram','Fast Attacker', 'Turboblaze').
-item('Reshiram','Fast Attacker', 'Heavy-Duty Boots').
-tera('Reshiram','Fast Attacker', 'Fire').
-tera('Reshiram','Fast Attacker', 'Ground').
-move('Reshiram','Fast Attacker', 'Blue Flare').
-move('Reshiram','Fast Attacker', 'Draco Meteor').
-move('Reshiram','Fast Attacker', 'Dragon Tail').
-move('Reshiram','Fast Attacker', 'Earth Power').
-move('Reshiram','Fast Attacker', 'Will-O-Wisp').
-role('Reshiram', 'Setup Sweeper').
-ability('Reshiram','Setup Sweeper', 'Turboblaze').
-item('Reshiram','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Reshiram','Setup Sweeper', 'Dragon').
-tera('Reshiram','Setup Sweeper', 'Fire').
-move('Reshiram','Setup Sweeper', 'Dragon Dance').
-move('Reshiram','Setup Sweeper', 'Flare Blitz').
-move('Reshiram','Setup Sweeper', 'Outrage').
-move('Reshiram','Setup Sweeper', 'Stone Edge').
-pokemon('Reuniclus', 88).
-ability('Reuniclus', 'Magic Guard').
-item('Reuniclus', 'Life Orb').
-role('Reuniclus', 'Bulky Setup').
-ability('Reuniclus','Bulky Setup', 'Magic Guard').
-item('Reuniclus','Bulky Setup', 'Life Orb').
-tera('Reuniclus','Bulky Setup', 'Fighting').
-tera('Reuniclus','Bulky Setup', 'Steel').
-move('Reuniclus','Bulky Setup', 'Calm Mind').
-move('Reuniclus','Bulky Setup', 'Focus Blast').
-move('Reuniclus','Bulky Setup', 'Psychic').
-move('Reuniclus','Bulky Setup', 'Psyshock').
-move('Reuniclus','Bulky Setup', 'Recover').
-pokemon('Revavroom', 79).
-ability('Revavroom', 'Filter').
-item('Revavroom', 'Life Orb').
-role('Revavroom', 'Fast Attacker').
-ability('Revavroom','Fast Attacker', 'Filter').
-item('Revavroom','Fast Attacker', 'Life Orb').
-tera('Revavroom','Fast Attacker', 'Ground').
-move('Revavroom','Fast Attacker', 'Gunk Shot').
-move('Revavroom','Fast Attacker', 'High Horsepower').
-move('Revavroom','Fast Attacker', 'Iron Head').
-move('Revavroom','Fast Attacker', 'Shift Gear').
-pokemon('Rhydon', 85).
-ability('Rhydon', 'Lightning Rod').
-item('Rhydon', 'Eviolite').
-role('Rhydon', 'Bulky Attacker').
-ability('Rhydon','Bulky Attacker', 'Lightning Rod').
-item('Rhydon','Bulky Attacker', 'Eviolite').
-tera('Rhydon','Bulky Attacker', 'Dragon').
-tera('Rhydon','Bulky Attacker', 'Fairy').
-tera('Rhydon','Bulky Attacker', 'Flying').
-tera('Rhydon','Bulky Attacker', 'Grass').
-tera('Rhydon','Bulky Attacker', 'Water').
-move('Rhydon','Bulky Attacker', 'Earthquake').
-move('Rhydon','Bulky Attacker', 'Megahorn').
-move('Rhydon','Bulky Attacker', 'Stealth Rock').
-move('Rhydon','Bulky Attacker', 'Stone Edge').
-move('Rhydon','Bulky Attacker', 'Swords Dance').
-pokemon('Rhyperior', 82).
-ability('Rhyperior', 'Solid Rock').
-item('Rhyperior', 'Assault Vest').
-item('Rhyperior', 'Choice Band').
-item('Rhyperior', 'Weakness Policy').
-role('Rhyperior', 'Bulky Setup').
-ability('Rhyperior','Bulky Setup', 'Solid Rock').
-item('Rhyperior','Bulky Setup', 'Weakness Policy').
-tera('Rhyperior','Bulky Setup', 'Bug').
-tera('Rhyperior','Bulky Setup', 'Ground').
-tera('Rhyperior','Bulky Setup', 'Rock').
-move('Rhyperior','Bulky Setup', 'Earthquake').
-move('Rhyperior','Bulky Setup', 'Ice Punch').
-move('Rhyperior','Bulky Setup', 'Megahorn').
-move('Rhyperior','Bulky Setup', 'Rock Polish').
-move('Rhyperior','Bulky Setup', 'Stone Edge').
-role('Rhyperior', 'Bulky Attacker').
-ability('Rhyperior','Bulky Attacker', 'Solid Rock').
-item('Rhyperior','Bulky Attacker', 'Assault Vest').
-item('Rhyperior','Bulky Attacker', 'Choice Band').
-tera('Rhyperior','Bulky Attacker', 'Bug').
-tera('Rhyperior','Bulky Attacker', 'Dragon').
-tera('Rhyperior','Bulky Attacker', 'Grass').
-tera('Rhyperior','Bulky Attacker', 'Steel').
-move('Rhyperior','Bulky Attacker', 'Dragon Tail').
-move('Rhyperior','Bulky Attacker', 'Earthquake').
-move('Rhyperior','Bulky Attacker', 'Ice Punch').
-move('Rhyperior','Bulky Attacker', 'Megahorn').
-move('Rhyperior','Bulky Attacker', 'Stone Edge').
-pokemon('Ribombee', 83).
-ability('Ribombee', 'Shield Dust').
-item('Ribombee', 'Focus Sash').
-item('Ribombee', 'Heavy-Duty Boots').
-role('Ribombee', 'Fast Support').
-ability('Ribombee','Fast Support', 'Shield Dust').
-item('Ribombee','Fast Support', 'Focus Sash').
-item('Ribombee','Fast Support', 'Heavy-Duty Boots').
-tera('Ribombee','Fast Support', 'Ghost').
-move('Ribombee','Fast Support', 'Bug Buzz').
-move('Ribombee','Fast Support', 'Moonblast').
-move('Ribombee','Fast Support', 'Sticky Web').
-move('Ribombee','Fast Support', 'Stun Spore').
-move('Ribombee','Fast Support', 'U-turn').
-role('Ribombee', 'Tera Blast user').
-ability('Ribombee','Tera Blast user', 'Shield Dust').
-item('Ribombee','Tera Blast user', 'Heavy-Duty Boots').
-tera('Ribombee','Tera Blast user', 'Ground').
-move('Ribombee','Tera Blast user', 'Bug Buzz').
-move('Ribombee','Tera Blast user', 'Moonblast').
-move('Ribombee','Tera Blast user', 'Quiver Dance').
-move('Ribombee','Tera Blast user', 'Tera Blast').
-pokemon('Rillaboom', 79).
-ability('Rillaboom', 'Grassy Surge').
-item('Rillaboom', 'Choice Band').
-item('Rillaboom', 'Life Orb').
-role('Rillaboom', 'Wallbreaker').
-ability('Rillaboom','Wallbreaker', 'Grassy Surge').
-item('Rillaboom','Wallbreaker', 'Choice Band').
-item('Rillaboom','Wallbreaker', 'Life Orb').
-tera('Rillaboom','Wallbreaker', 'Grass').
-move('Rillaboom','Wallbreaker', 'Grassy Glide').
-move('Rillaboom','Wallbreaker', 'Knock Off').
-move('Rillaboom','Wallbreaker', 'Swords Dance').
-move('Rillaboom','Wallbreaker', 'U-turn').
-move('Rillaboom','Wallbreaker', 'Wood Hammer').
-role('Rillaboom', 'Fast Attacker').
-ability('Rillaboom','Fast Attacker', 'Grassy Surge').
-item('Rillaboom','Fast Attacker', 'Choice Band').
-item('Rillaboom','Fast Attacker', 'Life Orb').
-tera('Rillaboom','Fast Attacker', 'Grass').
-move('Rillaboom','Fast Attacker', 'Grassy Glide').
-move('Rillaboom','Fast Attacker', 'High Horsepower').
-move('Rillaboom','Fast Attacker', 'Swords Dance').
-move('Rillaboom','Fast Attacker', 'U-turn').
-move('Rillaboom','Fast Attacker', 'Wood Hammer').
-pokemon('Roaring Moon', 72).
-ability('Roaring Moon', 'Protosynthesis').
-item('Roaring Moon', 'Booster Energy').
-item('Roaring Moon', 'Choice Band').
-item('Roaring Moon', 'Lum Berry').
-role('Roaring Moon', 'Bulky Attacker').
-ability('Roaring Moon','Bulky Attacker', 'Protosynthesis').
-item('Roaring Moon','Bulky Attacker', 'Choice Band').
-tera('Roaring Moon','Bulky Attacker', 'Dark').
-tera('Roaring Moon','Bulky Attacker', 'Dragon').
-tera('Roaring Moon','Bulky Attacker', 'Steel').
-move('Roaring Moon','Bulky Attacker', 'Iron Head').
-move('Roaring Moon','Bulky Attacker', 'Knock Off').
-move('Roaring Moon','Bulky Attacker', 'Outrage').
-move('Roaring Moon','Bulky Attacker', 'U-turn').
-role('Roaring Moon', 'Setup Sweeper').
-ability('Roaring Moon','Setup Sweeper', 'Protosynthesis').
-item('Roaring Moon','Setup Sweeper', 'Lum Berry').
-tera('Roaring Moon','Setup Sweeper', 'Dark').
-tera('Roaring Moon','Setup Sweeper', 'Dragon').
-tera('Roaring Moon','Setup Sweeper', 'Fairy').
-tera('Roaring Moon','Setup Sweeper', 'Ground').
-tera('Roaring Moon','Setup Sweeper', 'Poison').
-tera('Roaring Moon','Setup Sweeper', 'Steel').
-move('Roaring Moon','Setup Sweeper', 'Dragon Dance').
-move('Roaring Moon','Setup Sweeper', 'Earthquake').
-move('Roaring Moon','Setup Sweeper', 'Iron Head').
-move('Roaring Moon','Setup Sweeper', 'Knock Off').
-move('Roaring Moon','Setup Sweeper', 'Outrage').
-move('Roaring Moon','Setup Sweeper', 'Roost').
-role('Roaring Moon', 'Fast Bulky Setup').
-ability('Roaring Moon','Fast Bulky Setup', 'Protosynthesis').
-item('Roaring Moon','Fast Bulky Setup', 'Booster Energy').
-tera('Roaring Moon','Fast Bulky Setup', 'Flying').
-tera('Roaring Moon','Fast Bulky Setup', 'Steel').
-move('Roaring Moon','Fast Bulky Setup', 'Acrobatics').
-move('Roaring Moon','Fast Bulky Setup', 'Dragon Dance').
-move('Roaring Moon','Fast Bulky Setup', 'Iron Head').
-move('Roaring Moon','Fast Bulky Setup', 'Knock Off').
-move('Roaring Moon','Fast Bulky Setup', 'Outrage').
-pokemon('Rotom', 88).
-ability('Rotom', 'Levitate').
-item('Rotom', 'Choice Scarf').
-item('Rotom', 'Life Orb').
-role('Rotom', 'Fast Attacker').
-ability('Rotom','Fast Attacker', 'Levitate').
-item('Rotom','Fast Attacker', 'Choice Scarf').
-item('Rotom','Fast Attacker', 'Life Orb').
-tera('Rotom','Fast Attacker', 'Electric').
-tera('Rotom','Fast Attacker', 'Ghost').
-move('Rotom','Fast Attacker', 'Nasty Plot').
-move('Rotom','Fast Attacker', 'Shadow Ball').
-move('Rotom','Fast Attacker', 'Thunderbolt').
-move('Rotom','Fast Attacker', 'Trick').
-move('Rotom','Fast Attacker', 'Volt Switch').
-move('Rotom','Fast Attacker', 'Will-O-Wisp').
-pokemon('Rotom-Fan', 86).
-ability('Rotom-Fan', 'Levitate').
-item('Rotom-Fan', 'Heavy-Duty Boots').
-role('Rotom-Fan', 'Bulky Attacker').
-ability('Rotom-Fan','Bulky Attacker', 'Levitate').
-item('Rotom-Fan','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Rotom-Fan','Bulky Attacker', 'Electric').
-tera('Rotom-Fan','Bulky Attacker', 'Steel').
-move('Rotom-Fan','Bulky Attacker', 'Air Slash').
-move('Rotom-Fan','Bulky Attacker', 'Nasty Plot').
-move('Rotom-Fan','Bulky Attacker', 'Thunder Wave').
-move('Rotom-Fan','Bulky Attacker', 'Thunderbolt').
-move('Rotom-Fan','Bulky Attacker', 'Volt Switch').
-move('Rotom-Fan','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Rotom-Frost', 87).
-ability('Rotom-Frost', 'Levitate').
-item('Rotom-Frost', 'Heavy-Duty Boots').
-role('Rotom-Frost', 'Fast Attacker').
-ability('Rotom-Frost','Fast Attacker', 'Levitate').
-item('Rotom-Frost','Fast Attacker', 'Heavy-Duty Boots').
-tera('Rotom-Frost','Fast Attacker', 'Electric').
-move('Rotom-Frost','Fast Attacker', 'Blizzard').
-move('Rotom-Frost','Fast Attacker', 'Nasty Plot').
-move('Rotom-Frost','Fast Attacker', 'Thunderbolt').
-move('Rotom-Frost','Fast Attacker', 'Volt Switch').
-move('Rotom-Frost','Fast Attacker', 'Will-O-Wisp').
-pokemon('Rotom-Heat', 83).
-ability('Rotom-Heat', 'Levitate').
-item('Rotom-Heat', 'Heavy-Duty Boots').
-role('Rotom-Heat', 'Bulky Attacker').
-ability('Rotom-Heat','Bulky Attacker', 'Levitate').
-item('Rotom-Heat','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Rotom-Heat','Bulky Attacker', 'Electric').
-tera('Rotom-Heat','Bulky Attacker', 'Fire').
-tera('Rotom-Heat','Bulky Attacker', 'Steel').
-move('Rotom-Heat','Bulky Attacker', 'Nasty Plot').
-move('Rotom-Heat','Bulky Attacker', 'Overheat').
-move('Rotom-Heat','Bulky Attacker', 'Pain Split').
-move('Rotom-Heat','Bulky Attacker', 'Thunderbolt').
-move('Rotom-Heat','Bulky Attacker', 'Volt Switch').
-move('Rotom-Heat','Bulky Attacker', 'Will-O-Wisp').
-role('Rotom-Heat', 'Bulky Support').
-ability('Rotom-Heat','Bulky Support', 'Levitate').
-item('Rotom-Heat','Bulky Support', 'Heavy-Duty Boots').
-tera('Rotom-Heat','Bulky Support', 'Electric').
-tera('Rotom-Heat','Bulky Support', 'Steel').
-move('Rotom-Heat','Bulky Support', 'Discharge').
-move('Rotom-Heat','Bulky Support', 'Overheat').
-move('Rotom-Heat','Bulky Support', 'Pain Split').
-move('Rotom-Heat','Bulky Support', 'Volt Switch').
-move('Rotom-Heat','Bulky Support', 'Will-O-Wisp').
-pokemon('Rotom-Mow', 87).
-ability('Rotom-Mow', 'Levitate').
-item('Rotom-Mow', 'Choice Scarf').
-item('Rotom-Mow', 'Leftovers').
-role('Rotom-Mow', 'Bulky Attacker').
-ability('Rotom-Mow','Bulky Attacker', 'Levitate').
-item('Rotom-Mow','Bulky Attacker', 'Choice Scarf').
-item('Rotom-Mow','Bulky Attacker', 'Leftovers').
-tera('Rotom-Mow','Bulky Attacker', 'Electric').
-tera('Rotom-Mow','Bulky Attacker', 'Grass').
-move('Rotom-Mow','Bulky Attacker', 'Leaf Storm').
-move('Rotom-Mow','Bulky Attacker', 'Nasty Plot').
-move('Rotom-Mow','Bulky Attacker', 'Thunderbolt').
-move('Rotom-Mow','Bulky Attacker', 'Trick').
-move('Rotom-Mow','Bulky Attacker', 'Volt Switch').
-move('Rotom-Mow','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Rotom-Wash', 82).
-ability('Rotom-Wash', 'Levitate').
-item('Rotom-Wash', 'Choice Scarf').
-item('Rotom-Wash', 'Leftovers').
-role('Rotom-Wash', 'Bulky Support').
-ability('Rotom-Wash','Bulky Support', 'Levitate').
-item('Rotom-Wash','Bulky Support', 'Leftovers').
-tera('Rotom-Wash','Bulky Support', 'Electric').
-tera('Rotom-Wash','Bulky Support', 'Steel').
-move('Rotom-Wash','Bulky Support', 'Discharge').
-move('Rotom-Wash','Bulky Support', 'Hydro Pump').
-move('Rotom-Wash','Bulky Support', 'Pain Split').
-move('Rotom-Wash','Bulky Support', 'Volt Switch').
-move('Rotom-Wash','Bulky Support', 'Will-O-Wisp').
-role('Rotom-Wash', 'Bulky Attacker').
-ability('Rotom-Wash','Bulky Attacker', 'Levitate').
-item('Rotom-Wash','Bulky Attacker', 'Choice Scarf').
-item('Rotom-Wash','Bulky Attacker', 'Leftovers').
-tera('Rotom-Wash','Bulky Attacker', 'Electric').
-tera('Rotom-Wash','Bulky Attacker', 'Steel').
-move('Rotom-Wash','Bulky Attacker', 'Hydro Pump').
-move('Rotom-Wash','Bulky Attacker', 'Nasty Plot').
-move('Rotom-Wash','Bulky Attacker', 'Pain Split').
-move('Rotom-Wash','Bulky Attacker', 'Thunderbolt').
-move('Rotom-Wash','Bulky Attacker', 'Trick').
-move('Rotom-Wash','Bulky Attacker', 'Volt Switch').
-move('Rotom-Wash','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Sableye', 87).
-ability('Sableye', 'Prankster').
-item('Sableye', 'Leftovers').
-role('Sableye', 'Bulky Support').
-ability('Sableye','Bulky Support', 'Prankster').
-item('Sableye','Bulky Support', 'Leftovers').
-tera('Sableye','Bulky Support', 'Poison').
-tera('Sableye','Bulky Support', 'Steel').
-move('Sableye','Bulky Support', 'Encore').
-move('Sableye','Bulky Support', 'Knock Off').
-move('Sableye','Bulky Support', 'Recover').
-move('Sableye','Bulky Support', 'Thunder Wave').
-move('Sableye','Bulky Support', 'Will-O-Wisp').
-pokemon('Salamence', 77).
-ability('Salamence', 'Intimidate').
-ability('Salamence', 'Moxie').
-item('Salamence', 'Heavy-Duty Boots').
-role('Salamence', 'Setup Sweeper').
-ability('Salamence','Setup Sweeper', 'Intimidate').
-ability('Salamence','Setup Sweeper', 'Moxie').
-item('Salamence','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Salamence','Setup Sweeper', 'Dragon').
-tera('Salamence','Setup Sweeper', 'Ground').
-tera('Salamence','Setup Sweeper', 'Steel').
-move('Salamence','Setup Sweeper', 'Dragon Dance').
-move('Salamence','Setup Sweeper', 'Dual Wingbeat').
-move('Salamence','Setup Sweeper', 'Earthquake').
-move('Salamence','Setup Sweeper', 'Outrage').
-move('Salamence','Setup Sweeper', 'Roost').
-pokemon('Salazzle', 83).
-ability('Salazzle', 'Corrosion').
-item('Salazzle', 'Heavy-Duty Boots').
-item('Salazzle', 'Leftovers').
-role('Salazzle', 'Fast Support').
-ability('Salazzle','Fast Support', 'Corrosion').
-item('Salazzle','Fast Support', 'Leftovers').
-tera('Salazzle','Fast Support', 'Flying').
-tera('Salazzle','Fast Support', 'Grass').
-move('Salazzle','Fast Support', 'Flamethrower').
-move('Salazzle','Fast Support', 'Protect').
-move('Salazzle','Fast Support', 'Substitute').
-move('Salazzle','Fast Support', 'Toxic').
-role('Salazzle', 'Tera Blast user').
-ability('Salazzle','Tera Blast user', 'Corrosion').
-item('Salazzle','Tera Blast user', 'Heavy-Duty Boots').
-tera('Salazzle','Tera Blast user', 'Grass').
-move('Salazzle','Tera Blast user', 'Fire Blast').
-move('Salazzle','Tera Blast user', 'Nasty Plot').
-move('Salazzle','Tera Blast user', 'Sludge Wave').
-move('Salazzle','Tera Blast user', 'Tera Blast').
-pokemon('Samurott', 88).
-ability('Samurott', 'Torrent').
-item('Samurott', 'Assault Vest').
-item('Samurott', 'Life Orb').
-role('Samurott', 'AV Pivot').
-ability('Samurott','AV Pivot', 'Torrent').
-item('Samurott','AV Pivot', 'Assault Vest').
-tera('Samurott','AV Pivot', 'Dark').
-tera('Samurott','AV Pivot', 'Grass').
-tera('Samurott','AV Pivot', 'Water').
-move('Samurott','AV Pivot', 'Aqua Jet').
-move('Samurott','AV Pivot', 'Flip Turn').
-move('Samurott','AV Pivot', 'Grass Knot').
-move('Samurott','AV Pivot', 'Hydro Pump').
-move('Samurott','AV Pivot', 'Ice Beam').
-move('Samurott','AV Pivot', 'Knock Off').
-move('Samurott','AV Pivot', 'Megahorn').
-move('Samurott','AV Pivot', 'Sacred Sword').
-role('Samurott', 'Setup Sweeper').
-ability('Samurott','Setup Sweeper', 'Torrent').
-item('Samurott','Setup Sweeper', 'Life Orb').
-tera('Samurott','Setup Sweeper', 'Dark').
-tera('Samurott','Setup Sweeper', 'Water').
-move('Samurott','Setup Sweeper', 'Aqua Jet').
-move('Samurott','Setup Sweeper', 'Knock Off').
-move('Samurott','Setup Sweeper', 'Liquidation').
-move('Samurott','Setup Sweeper', 'Megahorn').
-move('Samurott','Setup Sweeper', 'Sacred Sword').
-move('Samurott','Setup Sweeper', 'Swords Dance').
-pokemon('Samurott-Hisui', 77).
-ability('Samurott-Hisui', 'Sharpness').
-item('Samurott-Hisui', 'Choice Band').
-item('Samurott-Hisui', 'Choice Scarf').
-item('Samurott-Hisui', 'Life Orb').
-role('Samurott-Hisui', 'Fast Attacker').
-ability('Samurott-Hisui','Fast Attacker', 'Sharpness').
-item('Samurott-Hisui','Fast Attacker', 'Choice Band').
-item('Samurott-Hisui','Fast Attacker', 'Choice Scarf').
-item('Samurott-Hisui','Fast Attacker', 'Life Orb').
-tera('Samurott-Hisui','Fast Attacker', 'Dark').
-tera('Samurott-Hisui','Fast Attacker', 'Poison').
-tera('Samurott-Hisui','Fast Attacker', 'Water').
-move('Samurott-Hisui','Fast Attacker', 'Ceaseless Edge').
-move('Samurott-Hisui','Fast Attacker', 'Flip Turn').
-move('Samurott-Hisui','Fast Attacker', 'Razor Shell').
-move('Samurott-Hisui','Fast Attacker', 'Sacred Sword').
-move('Samurott-Hisui','Fast Attacker', 'Sucker Punch').
-move('Samurott-Hisui','Fast Attacker', 'Swords Dance').
-pokemon('Sandaconda', 84).
-ability('Sandaconda', 'Shed Skin').
-item('Sandaconda', 'Leftovers').
-item('Sandaconda', 'Loaded Dice').
-role('Sandaconda', 'Fast Bulky Setup').
-ability('Sandaconda','Fast Bulky Setup', 'Shed Skin').
-item('Sandaconda','Fast Bulky Setup', 'Loaded Dice').
-tera('Sandaconda','Fast Bulky Setup', 'Dragon').
-move('Sandaconda','Fast Bulky Setup', 'Coil').
-move('Sandaconda','Fast Bulky Setup', 'Earthquake').
-move('Sandaconda','Fast Bulky Setup', 'Rock Blast').
-move('Sandaconda','Fast Bulky Setup', 'Scale Shot').
-role('Sandaconda', 'Bulky Attacker').
-ability('Sandaconda','Bulky Attacker', 'Shed Skin').
-item('Sandaconda','Bulky Attacker', 'Leftovers').
-tera('Sandaconda','Bulky Attacker', 'Dragon').
-tera('Sandaconda','Bulky Attacker', 'Water').
-move('Sandaconda','Bulky Attacker', 'Earthquake').
-move('Sandaconda','Bulky Attacker', 'Glare').
-move('Sandaconda','Bulky Attacker', 'Rest').
-move('Sandaconda','Bulky Attacker', 'Stealth Rock').
-move('Sandaconda','Bulky Attacker', 'Stone Edge').
-role('Sandaconda', 'Bulky Setup').
-ability('Sandaconda','Bulky Setup', 'Shed Skin').
-item('Sandaconda','Bulky Setup', 'Leftovers').
-tera('Sandaconda','Bulky Setup', 'Dragon').
-tera('Sandaconda','Bulky Setup', 'Steel').
-move('Sandaconda','Bulky Setup', 'Coil').
-move('Sandaconda','Bulky Setup', 'Earthquake').
-move('Sandaconda','Bulky Setup', 'Glare').
-move('Sandaconda','Bulky Setup', 'Rest').
-move('Sandaconda','Bulky Setup', 'Stone Edge').
-pokemon('Sandslash', 89).
-ability('Sandslash', 'Sand Rush').
-item('Sandslash', 'Assault Vest').
-item('Sandslash', 'Leftovers').
-role('Sandslash', 'Bulky Support').
-ability('Sandslash','Bulky Support', 'Sand Rush').
-item('Sandslash','Bulky Support', 'Assault Vest').
-item('Sandslash','Bulky Support', 'Leftovers').
-tera('Sandslash','Bulky Support', 'Dragon').
-tera('Sandslash','Bulky Support', 'Steel').
-tera('Sandslash','Bulky Support', 'Water').
-move('Sandslash','Bulky Support', 'Earthquake').
-move('Sandslash','Bulky Support', 'Knock Off').
-move('Sandslash','Bulky Support', 'Rapid Spin').
-move('Sandslash','Bulky Support', 'Spikes').
-move('Sandslash','Bulky Support', 'Stone Edge').
-move('Sandslash','Bulky Support', 'Swords Dance').
-pokemon('Sandslash-Alola', 88).
-ability('Sandslash-Alola', 'Slush Rush').
-item('Sandslash-Alola', 'Assault Vest').
-item('Sandslash-Alola', 'Choice Band').
-item('Sandslash-Alola', 'Choice Scarf').
-item('Sandslash-Alola', 'Leftovers').
-item('Sandslash-Alola', 'Life Orb').
-role('Sandslash-Alola', 'Setup Sweeper').
-ability('Sandslash-Alola','Setup Sweeper', 'Slush Rush').
-item('Sandslash-Alola','Setup Sweeper', 'Leftovers').
-item('Sandslash-Alola','Setup Sweeper', 'Life Orb').
-tera('Sandslash-Alola','Setup Sweeper', 'Ground').
-move('Sandslash-Alola','Setup Sweeper', 'Earthquake').
-move('Sandslash-Alola','Setup Sweeper', 'Ice Shard').
-move('Sandslash-Alola','Setup Sweeper', 'Knock Off').
-move('Sandslash-Alola','Setup Sweeper', 'Rapid Spin').
-move('Sandslash-Alola','Setup Sweeper', 'Swords Dance').
-move('Sandslash-Alola','Setup Sweeper', 'Triple Axel').
-role('Sandslash-Alola', 'Bulky Support').
-ability('Sandslash-Alola','Bulky Support', 'Slush Rush').
-item('Sandslash-Alola','Bulky Support', 'Assault Vest').
-item('Sandslash-Alola','Bulky Support', 'Choice Band').
-item('Sandslash-Alola','Bulky Support', 'Choice Scarf').
-item('Sandslash-Alola','Bulky Support', 'Leftovers').
-tera('Sandslash-Alola','Bulky Support', 'Flying').
-tera('Sandslash-Alola','Bulky Support', 'Water').
-move('Sandslash-Alola','Bulky Support', 'Earthquake').
-move('Sandslash-Alola','Bulky Support', 'Iron Head').
-move('Sandslash-Alola','Bulky Support', 'Knock Off').
-move('Sandslash-Alola','Bulky Support', 'Rapid Spin').
-move('Sandslash-Alola','Bulky Support', 'Spikes').
-move('Sandslash-Alola','Bulky Support', 'Triple Axel').
-pokemon('Sandy Shocks', 80).
-ability('Sandy Shocks', 'Protosynthesis').
-item('Sandy Shocks', 'Heavy-Duty Boots').
-item('Sandy Shocks', 'Leftovers').
-role('Sandy Shocks', 'Fast Support').
-ability('Sandy Shocks','Fast Support', 'Protosynthesis').
-item('Sandy Shocks','Fast Support', 'Heavy-Duty Boots').
-item('Sandy Shocks','Fast Support', 'Leftovers').
-tera('Sandy Shocks','Fast Support', 'Electric').
-tera('Sandy Shocks','Fast Support', 'Grass').
-tera('Sandy Shocks','Fast Support', 'Ground').
-move('Sandy Shocks','Fast Support', 'Earth Power').
-move('Sandy Shocks','Fast Support', 'Spikes').
-move('Sandy Shocks','Fast Support', 'Stealth Rock').
-move('Sandy Shocks','Fast Support', 'Thunder Wave').
-move('Sandy Shocks','Fast Support', 'Thunderbolt').
-move('Sandy Shocks','Fast Support', 'Volt Switch').
-pokemon('Sawsbuck', 88).
-ability('Sawsbuck', 'Sap Sipper').
-ability('Sawsbuck', 'Serene Grace').
-item('Sawsbuck', 'Life Orb').
-role('Sawsbuck', 'Setup Sweeper').
-ability('Sawsbuck','Setup Sweeper', 'Sap Sipper').
-item('Sawsbuck','Setup Sweeper', 'Life Orb').
-tera('Sawsbuck','Setup Sweeper', 'Ground').
-tera('Sawsbuck','Setup Sweeper', 'Normal').
-move('Sawsbuck','Setup Sweeper', 'Double-Edge').
-move('Sawsbuck','Setup Sweeper', 'High Horsepower').
-move('Sawsbuck','Setup Sweeper', 'Horn Leech').
-move('Sawsbuck','Setup Sweeper', 'Swords Dance').
-role('Sawsbuck', 'Fast Attacker').
-ability('Sawsbuck','Fast Attacker', 'Serene Grace').
-item('Sawsbuck','Fast Attacker', 'Life Orb').
-tera('Sawsbuck','Fast Attacker', 'Normal').
-move('Sawsbuck','Fast Attacker', 'Headbutt').
-move('Sawsbuck','Fast Attacker', 'High Horsepower').
-move('Sawsbuck','Fast Attacker', 'Horn Leech').
-move('Sawsbuck','Fast Attacker', 'Swords Dance').
-pokemon('Sceptile', 87).
-ability('Sceptile', 'Overgrow').
-item('Sceptile', 'Leftovers').
-item('Sceptile', 'Life Orb').
-role('Sceptile', 'Fast Attacker').
-ability('Sceptile','Fast Attacker', 'Overgrow').
-item('Sceptile','Fast Attacker', 'Life Orb').
-tera('Sceptile','Fast Attacker', 'Grass').
-tera('Sceptile','Fast Attacker', 'Ground').
-tera('Sceptile','Fast Attacker', 'Steel').
-move('Sceptile','Fast Attacker', 'Earthquake').
-move('Sceptile','Fast Attacker', 'Focus Blast').
-move('Sceptile','Fast Attacker', 'Giga Drain').
-move('Sceptile','Fast Attacker', 'Leaf Storm').
-move('Sceptile','Fast Attacker', 'Rock Slide').
-move('Sceptile','Fast Attacker', 'Shed Tail').
-role('Sceptile', 'Setup Sweeper').
-ability('Sceptile','Setup Sweeper', 'Overgrow').
-item('Sceptile','Setup Sweeper', 'Life Orb').
-tera('Sceptile','Setup Sweeper', 'Rock').
-move('Sceptile','Setup Sweeper', 'Earthquake').
-move('Sceptile','Setup Sweeper', 'Leaf Blade').
-move('Sceptile','Setup Sweeper', 'Rock Slide').
-move('Sceptile','Setup Sweeper', 'Swords Dance').
-role('Sceptile', 'Fast Support').
-ability('Sceptile','Fast Support', 'Overgrow').
-item('Sceptile','Fast Support', 'Leftovers').
-tera('Sceptile','Fast Support', 'Steel').
-move('Sceptile','Fast Support', 'Focus Blast').
-move('Sceptile','Fast Support', 'Giga Drain').
-move('Sceptile','Fast Support', 'Leech Seed').
-move('Sceptile','Fast Support', 'Substitute').
-pokemon('Scizor', 79).
-ability('Scizor', 'Technician').
-item('Scizor', 'Choice Band').
-item('Scizor', 'Leftovers').
-item('Scizor', 'Life Orb').
-role('Scizor', 'Setup Sweeper').
-ability('Scizor','Setup Sweeper', 'Technician').
-item('Scizor','Setup Sweeper', 'Life Orb').
-tera('Scizor','Setup Sweeper', 'Steel').
-move('Scizor','Setup Sweeper', 'Bug Bite').
-move('Scizor','Setup Sweeper', 'Bullet Punch').
-move('Scizor','Setup Sweeper', 'Close Combat').
-move('Scizor','Setup Sweeper', 'Knock Off').
-move('Scizor','Setup Sweeper', 'Swords Dance').
-role('Scizor', 'Bulky Support').
-ability('Scizor','Bulky Support', 'Technician').
-item('Scizor','Bulky Support', 'Choice Band').
-item('Scizor','Bulky Support', 'Leftovers').
-tera('Scizor','Bulky Support', 'Dragon').
-tera('Scizor','Bulky Support', 'Steel').
-move('Scizor','Bulky Support', 'Bullet Punch').
-move('Scizor','Bulky Support', 'Close Combat').
-move('Scizor','Bulky Support', 'Defog').
-move('Scizor','Bulky Support', 'Knock Off').
-move('Scizor','Bulky Support', 'U-turn').
-role('Scizor', 'Wallbreaker').
-ability('Scizor','Wallbreaker', 'Technician').
-item('Scizor','Wallbreaker', 'Choice Band').
-tera('Scizor','Wallbreaker', 'Steel').
-move('Scizor','Wallbreaker', 'Bullet Punch').
-move('Scizor','Wallbreaker', 'Close Combat').
-move('Scizor','Wallbreaker', 'Knock Off').
-move('Scizor','Wallbreaker', 'U-turn').
-pokemon('Scovillain', 91).
-ability('Scovillain', 'Chlorophyll').
-item('Scovillain', 'Choice Scarf').
-item('Scovillain', 'Choice Specs').
-item('Scovillain', 'Heavy-Duty Boots').
-item('Scovillain', 'Leftovers').
-role('Scovillain', 'Bulky Attacker').
-ability('Scovillain','Bulky Attacker', 'Chlorophyll').
-item('Scovillain','Bulky Attacker', 'Leftovers').
-tera('Scovillain','Bulky Attacker', 'Steel').
-move('Scovillain','Bulky Attacker', 'Flamethrower').
-move('Scovillain','Bulky Attacker', 'Leech Seed').
-move('Scovillain','Bulky Attacker', 'Protect').
-move('Scovillain','Bulky Attacker', 'Substitute').
-role('Scovillain', 'Wallbreaker').
-ability('Scovillain','Wallbreaker', 'Chlorophyll').
-item('Scovillain','Wallbreaker', 'Heavy-Duty Boots').
-tera('Scovillain','Wallbreaker', 'Fire').
-tera('Scovillain','Wallbreaker', 'Ground').
-move('Scovillain','Wallbreaker', 'Energy Ball').
-move('Scovillain','Wallbreaker', 'Fire Blast').
-move('Scovillain','Wallbreaker', 'Stomping Tantrum').
-move('Scovillain','Wallbreaker', 'Sunny Day').
-role('Scovillain', 'Fast Attacker').
-ability('Scovillain','Fast Attacker', 'Chlorophyll').
-item('Scovillain','Fast Attacker', 'Choice Scarf').
-item('Scovillain','Fast Attacker', 'Choice Specs').
-tera('Scovillain','Fast Attacker', 'Fire').
-tera('Scovillain','Fast Attacker', 'Grass').
-move('Scovillain','Fast Attacker', 'Energy Ball').
-move('Scovillain','Fast Attacker', 'Flamethrower').
-move('Scovillain','Fast Attacker', 'Leaf Storm').
-move('Scovillain','Fast Attacker', 'Overheat').
-pokemon('Scrafty', 83).
-ability('Scrafty', 'Intimidate').
-ability('Scrafty', 'Shed Skin').
-item('Scrafty', 'Leftovers').
-role('Scrafty', 'Bulky Attacker').
-ability('Scrafty','Bulky Attacker', 'Intimidate').
-item('Scrafty','Bulky Attacker', 'Leftovers').
-tera('Scrafty','Bulky Attacker', 'Poison').
-move('Scrafty','Bulky Attacker', 'Dragon Dance').
-move('Scrafty','Bulky Attacker', 'Drain Punch').
-move('Scrafty','Bulky Attacker', 'Knock Off').
-move('Scrafty','Bulky Attacker', 'Poison Jab').
-role('Scrafty', 'Bulky Setup').
-ability('Scrafty','Bulky Setup', 'Shed Skin').
-item('Scrafty','Bulky Setup', 'Leftovers').
-tera('Scrafty','Bulky Setup', 'Poison').
-move('Scrafty','Bulky Setup', 'Bulk Up').
-move('Scrafty','Bulky Setup', 'Drain Punch').
-move('Scrafty','Bulky Setup', 'Knock Off').
-move('Scrafty','Bulky Setup', 'Rest').
-pokemon('Scream Tail', 84).
-ability('Scream Tail', 'Protosynthesis').
-item('Scream Tail', 'Leftovers').
-role('Scream Tail', 'Bulky Attacker').
-ability('Scream Tail','Bulky Attacker', 'Protosynthesis').
-item('Scream Tail','Bulky Attacker', 'Leftovers').
-tera('Scream Tail','Bulky Attacker', 'Poison').
-tera('Scream Tail','Bulky Attacker', 'Steel').
-move('Scream Tail','Bulky Attacker', 'Dazzling Gleam').
-move('Scream Tail','Bulky Attacker', 'Encore').
-move('Scream Tail','Bulky Attacker', 'Protect').
-move('Scream Tail','Bulky Attacker', 'Thunder Wave').
-move('Scream Tail','Bulky Attacker', 'Wish').
-role('Scream Tail', 'Bulky Support').
-ability('Scream Tail','Bulky Support', 'Protosynthesis').
-item('Scream Tail','Bulky Support', 'Leftovers').
-tera('Scream Tail','Bulky Support', 'Poison').
-tera('Scream Tail','Bulky Support', 'Steel').
-move('Scream Tail','Bulky Support', 'Encore').
-move('Scream Tail','Bulky Support', 'Play Rough').
-move('Scream Tail','Bulky Support', 'Protect').
-move('Scream Tail','Bulky Support', 'Thunder Wave').
-move('Scream Tail','Bulky Support', 'Wish').
-pokemon('Scyther', 82).
-ability('Scyther', 'Technician').
-item('Scyther', 'Eviolite').
-item('Scyther', 'Heavy-Duty Boots').
-role('Scyther', 'Fast Support').
-ability('Scyther','Fast Support', 'Technician').
-item('Scyther','Fast Support', 'Heavy-Duty Boots').
-tera('Scyther','Fast Support', 'Fighting').
-move('Scyther','Fast Support', 'Close Combat').
-move('Scyther','Fast Support', 'Defog').
-move('Scyther','Fast Support', 'Dual Wingbeat').
-move('Scyther','Fast Support', 'U-turn').
-role('Scyther', 'Setup Sweeper').
-ability('Scyther','Setup Sweeper', 'Technician').
-item('Scyther','Setup Sweeper', 'Eviolite').
-item('Scyther','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Scyther','Setup Sweeper', 'Fighting').
-move('Scyther','Setup Sweeper', 'Bug Bite').
-move('Scyther','Setup Sweeper', 'Close Combat').
-move('Scyther','Setup Sweeper', 'Dual Wingbeat').
-move('Scyther','Setup Sweeper', 'Swords Dance').
-pokemon('Serperior', 79).
-ability('Serperior', 'Contrary').
-item('Serperior', 'Leftovers').
-item('Serperior', 'Life Orb').
-role('Serperior', 'Fast Attacker').
-ability('Serperior','Fast Attacker', 'Contrary').
-item('Serperior','Fast Attacker', 'Leftovers').
-item('Serperior','Fast Attacker', 'Life Orb').
-tera('Serperior','Fast Attacker', 'Dragon').
-tera('Serperior','Fast Attacker', 'Grass').
-tera('Serperior','Fast Attacker', 'Water').
-move('Serperior','Fast Attacker', 'Dragon Pulse').
-move('Serperior','Fast Attacker', 'Glare').
-move('Serperior','Fast Attacker', 'Leaf Storm').
-move('Serperior','Fast Attacker', 'Leech Seed').
-move('Serperior','Fast Attacker', 'Substitute').
-move('Serperior','Fast Attacker', 'Synthesis').
-role('Serperior', 'Tera Blast user').
-ability('Serperior','Tera Blast user', 'Contrary').
-item('Serperior','Tera Blast user', 'Leftovers').
-item('Serperior','Tera Blast user', 'Life Orb').
-tera('Serperior','Tera Blast user', 'Fire').
-tera('Serperior','Tera Blast user', 'Rock').
-move('Serperior','Tera Blast user', 'Glare').
-move('Serperior','Tera Blast user', 'Leaf Storm').
-move('Serperior','Tera Blast user', 'Leech Seed').
-move('Serperior','Tera Blast user', 'Substitute').
-move('Serperior','Tera Blast user', 'Synthesis').
-move('Serperior','Tera Blast user', 'Tera Blast').
-pokemon('Seviper', 93).
-ability('Seviper', 'Infiltrator').
-ability('Seviper', 'Shed Skin').
-item('Seviper', 'Choice Scarf').
-item('Seviper', 'Leftovers').
-item('Seviper', 'Life Orb').
-role('Seviper', 'Fast Attacker').
-ability('Seviper','Fast Attacker', 'Infiltrator').
-item('Seviper','Fast Attacker', 'Choice Scarf').
-item('Seviper','Fast Attacker', 'Life Orb').
-tera('Seviper','Fast Attacker', 'Dark').
-tera('Seviper','Fast Attacker', 'Fire').
-tera('Seviper','Fast Attacker', 'Grass').
-tera('Seviper','Fast Attacker', 'Ground').
-tera('Seviper','Fast Attacker', 'Poison').
-move('Seviper','Fast Attacker', 'Earthquake').
-move('Seviper','Fast Attacker', 'Flamethrower').
-move('Seviper','Fast Attacker', 'Giga Drain').
-move('Seviper','Fast Attacker', 'Glare').
-move('Seviper','Fast Attacker', 'Gunk Shot').
-move('Seviper','Fast Attacker', 'Knock Off').
-move('Seviper','Fast Attacker', 'Switcheroo').
-role('Seviper', 'Bulky Setup').
-ability('Seviper','Bulky Setup', 'Infiltrator').
-ability('Seviper','Bulky Setup', 'Shed Skin').
-item('Seviper','Bulky Setup', 'Leftovers').
-tera('Seviper','Bulky Setup', 'Grass').
-tera('Seviper','Bulky Setup', 'Ground').
-move('Seviper','Bulky Setup', 'Earthquake').
-move('Seviper','Bulky Setup', 'Gunk Shot').
-move('Seviper','Bulky Setup', 'Swords Dance').
-move('Seviper','Bulky Setup', 'Trailblaze').
-pokemon('Shaymin', 82).
-ability('Shaymin', 'Natural Cure').
-item('Shaymin', 'Leftovers').
-role('Shaymin', 'Bulky Support').
-ability('Shaymin','Bulky Support', 'Natural Cure').
-item('Shaymin','Bulky Support', 'Leftovers').
-tera('Shaymin','Bulky Support', 'Steel').
-move('Shaymin','Bulky Support', 'Air Slash').
-move('Shaymin','Bulky Support', 'Leech Seed').
-move('Shaymin','Bulky Support', 'Seed Flare').
-move('Shaymin','Bulky Support', 'Substitute').
-role('Shaymin', 'Bulky Attacker').
-ability('Shaymin','Bulky Attacker', 'Natural Cure').
-item('Shaymin','Bulky Attacker', 'Leftovers').
-tera('Shaymin','Bulky Attacker', 'Ground').
-tera('Shaymin','Bulky Attacker', 'Steel').
-move('Shaymin','Bulky Attacker', 'Air Slash').
-move('Shaymin','Bulky Attacker', 'Earth Power').
-move('Shaymin','Bulky Attacker', 'Seed Flare').
-move('Shaymin','Bulky Attacker', 'Synthesis').
-pokemon('Shaymin-Sky', 73).
-ability('Shaymin-Sky', 'Serene Grace').
-item('Shaymin-Sky', 'Choice Specs').
-item('Shaymin-Sky', 'Heavy-Duty Boots').
-item('Shaymin-Sky', 'Leftovers').
-role('Shaymin-Sky', 'Fast Attacker').
-ability('Shaymin-Sky','Fast Attacker', 'Serene Grace').
-item('Shaymin-Sky','Fast Attacker', 'Choice Specs').
-tera('Shaymin-Sky','Fast Attacker', 'Flying').
-tera('Shaymin-Sky','Fast Attacker', 'Grass').
-tera('Shaymin-Sky','Fast Attacker', 'Ground').
-move('Shaymin-Sky','Fast Attacker', 'Air Slash').
-move('Shaymin-Sky','Fast Attacker', 'Dazzling Gleam').
-move('Shaymin-Sky','Fast Attacker', 'Earth Power').
-move('Shaymin-Sky','Fast Attacker', 'Seed Flare').
-role('Shaymin-Sky', 'Bulky Attacker').
-ability('Shaymin-Sky','Bulky Attacker', 'Serene Grace').
-item('Shaymin-Sky','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Shaymin-Sky','Bulky Attacker', 'Steel').
-tera('Shaymin-Sky','Bulky Attacker', 'Water').
-move('Shaymin-Sky','Bulky Attacker', 'Air Slash').
-move('Shaymin-Sky','Bulky Attacker', 'Earth Power').
-move('Shaymin-Sky','Bulky Attacker', 'Seed Flare').
-move('Shaymin-Sky','Bulky Attacker', 'Synthesis').
-role('Shaymin-Sky', 'Bulky Support').
-ability('Shaymin-Sky','Bulky Support', 'Serene Grace').
-item('Shaymin-Sky','Bulky Support', 'Leftovers').
-tera('Shaymin-Sky','Bulky Support', 'Steel').
-move('Shaymin-Sky','Bulky Support', 'Air Slash').
-move('Shaymin-Sky','Bulky Support', 'Leech Seed').
-move('Shaymin-Sky','Bulky Support', 'Seed Flare').
-move('Shaymin-Sky','Bulky Support', 'Substitute').
-pokemon('Shiftry', 89).
-ability('Shiftry', 'Wind Rider').
-item('Shiftry', 'Heavy-Duty Boots').
-item('Shiftry', 'Life Orb').
-role('Shiftry', 'Setup Sweeper').
-ability('Shiftry','Setup Sweeper', 'Wind Rider').
-item('Shiftry','Setup Sweeper', 'Life Orb').
-tera('Shiftry','Setup Sweeper', 'Dark').
-tera('Shiftry','Setup Sweeper', 'Fighting').
-move('Shiftry','Setup Sweeper', 'Knock Off').
-move('Shiftry','Setup Sweeper', 'Leaf Blade').
-move('Shiftry','Setup Sweeper', 'Low Kick').
-move('Shiftry','Setup Sweeper', 'Tailwind').
-role('Shiftry', 'Fast Support').
-ability('Shiftry','Fast Support', 'Wind Rider').
-item('Shiftry','Fast Support', 'Heavy-Duty Boots').
-item('Shiftry','Fast Support', 'Life Orb').
-tera('Shiftry','Fast Support', 'Dark').
-tera('Shiftry','Fast Support', 'Poison').
-move('Shiftry','Fast Support', 'Defog').
-move('Shiftry','Fast Support', 'Knock Off').
-move('Shiftry','Fast Support', 'Leaf Storm').
-move('Shiftry','Fast Support', 'Sucker Punch').
-move('Shiftry','Fast Support', 'Will-O-Wisp').
-role('Shiftry', 'Fast Bulky Setup').
-ability('Shiftry','Fast Bulky Setup', 'Wind Rider').
-item('Shiftry','Fast Bulky Setup', 'Life Orb').
-tera('Shiftry','Fast Bulky Setup', 'Dark').
-tera('Shiftry','Fast Bulky Setup', 'Poison').
-move('Shiftry','Fast Bulky Setup', 'Knock Off').
-move('Shiftry','Fast Bulky Setup', 'Leaf Blade').
-move('Shiftry','Fast Bulky Setup', 'Sucker Punch').
-move('Shiftry','Fast Bulky Setup', 'Swords Dance').
-pokemon('Sinistcha', 83).
-ability('Sinistcha', 'Heatproof').
-item('Sinistcha', 'Leftovers').
-role('Sinistcha', 'Bulky Setup').
-ability('Sinistcha','Bulky Setup', 'Heatproof').
-item('Sinistcha','Bulky Setup', 'Leftovers').
-tera('Sinistcha','Bulky Setup', 'Steel').
-move('Sinistcha','Bulky Setup', 'Calm Mind').
-move('Sinistcha','Bulky Setup', 'Matcha Gotcha').
-move('Sinistcha','Bulky Setup', 'Shadow Ball').
-move('Sinistcha','Bulky Setup', 'Strength Sap').
-pokemon('Skarmory', 80).
-ability('Skarmory', 'Sturdy').
-item('Skarmory', 'Leftovers').
-item('Skarmory', 'Rocky Helmet').
-role('Skarmory', 'Bulky Attacker').
-ability('Skarmory','Bulky Attacker', 'Sturdy').
-item('Skarmory','Bulky Attacker', 'Leftovers').
-item('Skarmory','Bulky Attacker', 'Rocky Helmet').
-tera('Skarmory','Bulky Attacker', 'Dragon').
-tera('Skarmory','Bulky Attacker', 'Fighting').
-move('Skarmory','Bulky Attacker', 'Body Press').
-move('Skarmory','Bulky Attacker', 'Brave Bird').
-move('Skarmory','Bulky Attacker', 'Roost').
-move('Skarmory','Bulky Attacker', 'Spikes').
-move('Skarmory','Bulky Attacker', 'Stealth Rock').
-role('Skarmory', 'Bulky Support').
-ability('Skarmory','Bulky Support', 'Sturdy').
-item('Skarmory','Bulky Support', 'Leftovers').
-item('Skarmory','Bulky Support', 'Rocky Helmet').
-tera('Skarmory','Bulky Support', 'Dragon').
-move('Skarmory','Bulky Support', 'Brave Bird').
-move('Skarmory','Bulky Support', 'Roost').
-move('Skarmory','Bulky Support', 'Spikes').
-move('Skarmory','Bulky Support', 'Stealth Rock').
-move('Skarmory','Bulky Support', 'Whirlwind').
-role('Skarmory', 'Bulky Setup').
-ability('Skarmory','Bulky Setup', 'Sturdy').
-item('Skarmory','Bulky Setup', 'Leftovers').
-tera('Skarmory','Bulky Setup', 'Fighting').
-move('Skarmory','Bulky Setup', 'Body Press').
-move('Skarmory','Bulky Setup', 'Brave Bird').
-move('Skarmory','Bulky Setup', 'Iron Defense').
-move('Skarmory','Bulky Setup', 'Roost').
-pokemon('Skeledirge', 79).
-ability('Skeledirge', 'Unaware').
-item('Skeledirge', 'Heavy-Duty Boots').
-role('Skeledirge', 'Bulky Attacker').
-ability('Skeledirge','Bulky Attacker', 'Unaware').
-item('Skeledirge','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Skeledirge','Bulky Attacker', 'Fairy').
-tera('Skeledirge','Bulky Attacker', 'Water').
-move('Skeledirge','Bulky Attacker', 'Flame Charge').
-move('Skeledirge','Bulky Attacker', 'Shadow Ball').
-move('Skeledirge','Bulky Attacker', 'Slack Off').
-move('Skeledirge','Bulky Attacker', 'Torch Song').
-role('Skeledirge', 'Bulky Support').
-ability('Skeledirge','Bulky Support', 'Unaware').
-item('Skeledirge','Bulky Support', 'Heavy-Duty Boots').
-tera('Skeledirge','Bulky Support', 'Fairy').
-tera('Skeledirge','Bulky Support', 'Water').
-move('Skeledirge','Bulky Support', 'Hex').
-move('Skeledirge','Bulky Support', 'Slack Off').
-move('Skeledirge','Bulky Support', 'Torch Song').
-move('Skeledirge','Bulky Support', 'Will-O-Wisp').
-pokemon('Skuntank', 84).
-ability('Skuntank', 'Aftermath').
-item('Skuntank', 'Assault Vest').
-item('Skuntank', 'Focus Sash').
-item('Skuntank', 'Leftovers').
-item('Skuntank', 'Life Orb').
-role('Skuntank', 'Fast Support').
-ability('Skuntank','Fast Support', 'Aftermath').
-item('Skuntank','Fast Support', 'Assault Vest').
-item('Skuntank','Fast Support', 'Focus Sash').
-item('Skuntank','Fast Support', 'Leftovers').
-item('Skuntank','Fast Support', 'Life Orb').
-tera('Skuntank','Fast Support', 'Dark').
-tera('Skuntank','Fast Support', 'Poison').
-move('Skuntank','Fast Support', 'Fire Blast').
-move('Skuntank','Fast Support', 'Gunk Shot').
-move('Skuntank','Fast Support', 'Knock Off').
-move('Skuntank','Fast Support', 'Sucker Punch').
-move('Skuntank','Fast Support', 'Taunt').
-move('Skuntank','Fast Support', 'Toxic Spikes').
-pokemon('Slaking', 84).
-ability('Slaking', 'Truant').
-item('Slaking', 'Choice Band').
-item('Slaking', 'Choice Scarf').
-role('Slaking', 'Fast Attacker').
-ability('Slaking','Fast Attacker', 'Truant').
-item('Slaking','Fast Attacker', 'Choice Band').
-item('Slaking','Fast Attacker', 'Choice Scarf').
-tera('Slaking','Fast Attacker', 'Normal').
-move('Slaking','Fast Attacker', 'Double-Edge').
-move('Slaking','Fast Attacker', 'Earthquake').
-move('Slaking','Fast Attacker', 'Giga Impact').
-move('Slaking','Fast Attacker', 'Knock Off').
-role('Slaking', 'Wallbreaker').
-ability('Slaking','Wallbreaker', 'Truant').
-item('Slaking','Wallbreaker', 'Choice Band').
-tera('Slaking','Wallbreaker', 'Ghost').
-tera('Slaking','Wallbreaker', 'Ground').
-move('Slaking','Wallbreaker', 'Double-Edge').
-move('Slaking','Wallbreaker', 'Earthquake').
-move('Slaking','Wallbreaker', 'Giga Impact').
-move('Slaking','Wallbreaker', 'Knock Off').
-pokemon('Slither Wing', 81).
-ability('Slither Wing', 'Protosynthesis').
-item('Slither Wing', 'Booster Energy').
-item('Slither Wing', 'Choice Band').
-item('Slither Wing', 'Choice Scarf').
-item('Slither Wing', 'Heavy-Duty Boots').
-item('Slither Wing', 'Life Orb').
-role('Slither Wing', 'Fast Attacker').
-ability('Slither Wing','Fast Attacker', 'Protosynthesis').
-item('Slither Wing','Fast Attacker', 'Choice Band').
-item('Slither Wing','Fast Attacker', 'Choice Scarf').
-item('Slither Wing','Fast Attacker', 'Life Orb').
-tera('Slither Wing','Fast Attacker', 'Bug').
-tera('Slither Wing','Fast Attacker', 'Electric').
-tera('Slither Wing','Fast Attacker', 'Fighting').
-tera('Slither Wing','Fast Attacker', 'Fire').
-move('Slither Wing','Fast Attacker', 'Close Combat').
-move('Slither Wing','Fast Attacker', 'Earthquake').
-move('Slither Wing','Fast Attacker', 'First Impression').
-move('Slither Wing','Fast Attacker', 'Flare Blitz').
-move('Slither Wing','Fast Attacker', 'U-turn').
-move('Slither Wing','Fast Attacker', 'Wild Charge').
-role('Slither Wing', 'Fast Support').
-ability('Slither Wing','Fast Support', 'Protosynthesis').
-item('Slither Wing','Fast Support', 'Heavy-Duty Boots').
-tera('Slither Wing','Fast Support', 'Fire').
-tera('Slither Wing','Fast Support', 'Steel').
-move('Slither Wing','Fast Support', 'Close Combat').
-move('Slither Wing','Fast Support', 'Morning Sun').
-move('Slither Wing','Fast Support', 'U-turn').
-move('Slither Wing','Fast Support', 'Will-O-Wisp').
-role('Slither Wing', 'Fast Bulky Setup').
-ability('Slither Wing','Fast Bulky Setup', 'Protosynthesis').
-item('Slither Wing','Fast Bulky Setup', 'Booster Energy').
-tera('Slither Wing','Fast Bulky Setup', 'Electric').
-tera('Slither Wing','Fast Bulky Setup', 'Flying').
-move('Slither Wing','Fast Bulky Setup', 'Acrobatics').
-move('Slither Wing','Fast Bulky Setup', 'Bulk Up').
-move('Slither Wing','Fast Bulky Setup', 'Close Combat').
-move('Slither Wing','Fast Bulky Setup', 'Earthquake').
-move('Slither Wing','Fast Bulky Setup', 'Flame Charge').
-move('Slither Wing','Fast Bulky Setup', 'Leech Life').
-move('Slither Wing','Fast Bulky Setup', 'Wild Charge').
-pokemon('Slowbro', 85).
-ability('Slowbro', 'Regenerator').
-item('Slowbro', 'Assault Vest').
-item('Slowbro', 'Leftovers').
-item('Slowbro', 'Rocky Helmet').
-role('Slowbro', 'AV Pivot').
-ability('Slowbro','AV Pivot', 'Regenerator').
-item('Slowbro','AV Pivot', 'Assault Vest').
-tera('Slowbro','AV Pivot', 'Fairy').
-tera('Slowbro','AV Pivot', 'Fighting').
-move('Slowbro','AV Pivot', 'Body Press').
-move('Slowbro','AV Pivot', 'Fire Blast').
-move('Slowbro','AV Pivot', 'Future Sight').
-move('Slowbro','AV Pivot', 'Ice Beam').
-move('Slowbro','AV Pivot', 'Psychic Noise').
-move('Slowbro','AV Pivot', 'Scald').
-role('Slowbro', 'Bulky Attacker').
-ability('Slowbro','Bulky Attacker', 'Regenerator').
-item('Slowbro','Bulky Attacker', 'Leftovers').
-item('Slowbro','Bulky Attacker', 'Rocky Helmet').
-tera('Slowbro','Bulky Attacker', 'Fairy').
-tera('Slowbro','Bulky Attacker', 'Poison').
-move('Slowbro','Bulky Attacker', 'Calm Mind').
-move('Slowbro','Bulky Attacker', 'Psychic Noise').
-move('Slowbro','Bulky Attacker', 'Psyshock').
-move('Slowbro','Bulky Attacker', 'Scald').
-move('Slowbro','Bulky Attacker', 'Slack Off').
-move('Slowbro','Bulky Attacker', 'Thunder Wave').
-role('Slowbro', 'Bulky Setup').
-ability('Slowbro','Bulky Setup', 'Regenerator').
-item('Slowbro','Bulky Setup', 'Leftovers').
-tera('Slowbro','Bulky Setup', 'Fighting').
-move('Slowbro','Bulky Setup', 'Body Press').
-move('Slowbro','Bulky Setup', 'Iron Defense').
-move('Slowbro','Bulky Setup', 'Scald').
-move('Slowbro','Bulky Setup', 'Slack Off').
-pokemon('Slowbro-Galar', 87).
-ability('Slowbro-Galar', 'Regenerator').
-item('Slowbro-Galar', 'Assault Vest').
-item('Slowbro-Galar', 'Leftovers').
-item('Slowbro-Galar', 'Life Orb').
-item('Slowbro-Galar', 'Rocky Helmet').
-role('Slowbro-Galar', 'AV Pivot').
-ability('Slowbro-Galar','AV Pivot', 'Regenerator').
-item('Slowbro-Galar','AV Pivot', 'Assault Vest').
-tera('Slowbro-Galar','AV Pivot', 'Dark').
-tera('Slowbro-Galar','AV Pivot', 'Ground').
-tera('Slowbro-Galar','AV Pivot', 'Poison').
-tera('Slowbro-Galar','AV Pivot', 'Water').
-move('Slowbro-Galar','AV Pivot', 'Earthquake').
-move('Slowbro-Galar','AV Pivot', 'Fire Blast').
-move('Slowbro-Galar','AV Pivot', 'Foul Play').
-move('Slowbro-Galar','AV Pivot', 'Psychic').
-move('Slowbro-Galar','AV Pivot', 'Shell Side Arm').
-move('Slowbro-Galar','AV Pivot', 'Surf').
-role('Slowbro-Galar', 'Bulky Attacker').
-ability('Slowbro-Galar','Bulky Attacker', 'Regenerator').
-item('Slowbro-Galar','Bulky Attacker', 'Leftovers').
-item('Slowbro-Galar','Bulky Attacker', 'Rocky Helmet').
-tera('Slowbro-Galar','Bulky Attacker', 'Dark').
-tera('Slowbro-Galar','Bulky Attacker', 'Ground').
-tera('Slowbro-Galar','Bulky Attacker', 'Poison').
-move('Slowbro-Galar','Bulky Attacker', 'Earthquake').
-move('Slowbro-Galar','Bulky Attacker', 'Fire Blast').
-move('Slowbro-Galar','Bulky Attacker', 'Haze').
-move('Slowbro-Galar','Bulky Attacker', 'Psychic').
-move('Slowbro-Galar','Bulky Attacker', 'Shell Side Arm').
-move('Slowbro-Galar','Bulky Attacker', 'Slack Off').
-move('Slowbro-Galar','Bulky Attacker', 'Thunder Wave').
-role('Slowbro-Galar', 'Wallbreaker').
-ability('Slowbro-Galar','Wallbreaker', 'Regenerator').
-item('Slowbro-Galar','Wallbreaker', 'Life Orb').
-tera('Slowbro-Galar','Wallbreaker', 'Poison').
-tera('Slowbro-Galar','Wallbreaker', 'Psychic').
-move('Slowbro-Galar','Wallbreaker', 'Fire Blast').
-move('Slowbro-Galar','Wallbreaker', 'Psychic').
-move('Slowbro-Galar','Wallbreaker', 'Shell Side Arm').
-move('Slowbro-Galar','Wallbreaker', 'Trick Room').
-pokemon('Slowking', 88).
-ability('Slowking', 'Regenerator').
-item('Slowking', 'Heavy-Duty Boots').
-item('Slowking', 'Leftovers').
-role('Slowking', 'Fast Support').
-ability('Slowking','Fast Support', 'Regenerator').
-item('Slowking','Fast Support', 'Heavy-Duty Boots').
-tera('Slowking','Fast Support', 'Dragon').
-tera('Slowking','Fast Support', 'Fairy').
-move('Slowking','Fast Support', 'Chilly Reception').
-move('Slowking','Fast Support', 'Future Sight').
-move('Slowking','Fast Support', 'Scald').
-move('Slowking','Fast Support', 'Slack Off').
-role('Slowking', 'Bulky Attacker').
-ability('Slowking','Bulky Attacker', 'Regenerator').
-item('Slowking','Bulky Attacker', 'Heavy-Duty Boots').
-item('Slowking','Bulky Attacker', 'Leftovers').
-tera('Slowking','Bulky Attacker', 'Dragon').
-tera('Slowking','Bulky Attacker', 'Fairy').
-move('Slowking','Bulky Attacker', 'Chilly Reception').
-move('Slowking','Bulky Attacker', 'Psychic Noise').
-move('Slowking','Bulky Attacker', 'Psyshock').
-move('Slowking','Bulky Attacker', 'Scald').
-move('Slowking','Bulky Attacker', 'Slack Off').
-move('Slowking','Bulky Attacker', 'Thunder Wave').
-pokemon('Slowking-Galar', 85).
-ability('Slowking-Galar', 'Regenerator').
-item('Slowking-Galar', 'Assault Vest').
-item('Slowking-Galar', 'Heavy-Duty Boots').
-item('Slowking-Galar', 'Leftovers').
-role('Slowking-Galar', 'Bulky Attacker').
-ability('Slowking-Galar','Bulky Attacker', 'Regenerator').
-item('Slowking-Galar','Bulky Attacker', 'Heavy-Duty Boots').
-item('Slowking-Galar','Bulky Attacker', 'Leftovers').
-tera('Slowking-Galar','Bulky Attacker', 'Dark').
-tera('Slowking-Galar','Bulky Attacker', 'Fairy').
-move('Slowking-Galar','Bulky Attacker', 'Chilly Reception').
-move('Slowking-Galar','Bulky Attacker', 'Fire Blast').
-move('Slowking-Galar','Bulky Attacker', 'Psychic Noise').
-move('Slowking-Galar','Bulky Attacker', 'Psyshock').
-move('Slowking-Galar','Bulky Attacker', 'Slack Off').
-move('Slowking-Galar','Bulky Attacker', 'Sludge Bomb').
-move('Slowking-Galar','Bulky Attacker', 'Thunder Wave').
-move('Slowking-Galar','Bulky Attacker', 'Toxic Spikes').
-role('Slowking-Galar', 'AV Pivot').
-ability('Slowking-Galar','AV Pivot', 'Regenerator').
-item('Slowking-Galar','AV Pivot', 'Assault Vest').
-tera('Slowking-Galar','AV Pivot', 'Dark').
-tera('Slowking-Galar','AV Pivot', 'Fairy').
-tera('Slowking-Galar','AV Pivot', 'Water').
-move('Slowking-Galar','AV Pivot', 'Fire Blast').
-move('Slowking-Galar','AV Pivot', 'Future Sight').
-move('Slowking-Galar','AV Pivot', 'Psychic Noise').
-move('Slowking-Galar','AV Pivot', 'Sludge Bomb').
-move('Slowking-Galar','AV Pivot', 'Surf').
-pokemon('Smeargle', 95).
-ability('Smeargle', 'Own Tempo').
-ability('Smeargle', 'Technician').
-item('Smeargle', 'Focus Sash').
-item('Smeargle', 'Wide Lens').
-role('Smeargle', 'Setup Sweeper').
-ability('Smeargle','Setup Sweeper', 'Technician').
-item('Smeargle','Setup Sweeper', 'Wide Lens').
-tera('Smeargle','Setup Sweeper', 'Ghost').
-tera('Smeargle','Setup Sweeper', 'Normal').
-move('Smeargle','Setup Sweeper', 'Population Bomb').
-move('Smeargle','Setup Sweeper', 'Power Trip').
-move('Smeargle','Setup Sweeper', 'Shell Smash').
-move('Smeargle','Setup Sweeper', 'Spore').
-role('Smeargle', 'Fast Support').
-ability('Smeargle','Fast Support', 'Own Tempo').
-item('Smeargle','Fast Support', 'Focus Sash').
-tera('Smeargle','Fast Support', 'Ghost').
-move('Smeargle','Fast Support', 'Ceaseless Edge').
-move('Smeargle','Fast Support', 'Spore').
-move('Smeargle','Fast Support', 'Stealth Rock').
-move('Smeargle','Fast Support', 'Sticky Web').
-move('Smeargle','Fast Support', 'Whirlwind').
-pokemon('Sneasler', 74).
-ability('Sneasler', 'Poison Touch').
-ability('Sneasler', 'Unburden').
-item('Sneasler', 'Choice Band').
-item('Sneasler', 'White Herb').
-role('Sneasler', 'Fast Attacker').
-ability('Sneasler','Fast Attacker', 'Poison Touch').
-item('Sneasler','Fast Attacker', 'Choice Band').
-tera('Sneasler','Fast Attacker', 'Dark').
-tera('Sneasler','Fast Attacker', 'Fighting').
-move('Sneasler','Fast Attacker', 'Close Combat').
-move('Sneasler','Fast Attacker', 'Dire Claw').
-move('Sneasler','Fast Attacker', 'Throat Chop').
-move('Sneasler','Fast Attacker', 'U-turn').
-role('Sneasler', 'Setup Sweeper').
-ability('Sneasler','Setup Sweeper', 'Unburden').
-item('Sneasler','Setup Sweeper', 'White Herb').
-tera('Sneasler','Setup Sweeper', 'Flying').
-move('Sneasler','Setup Sweeper', 'Acrobatics').
-move('Sneasler','Setup Sweeper', 'Close Combat').
-move('Sneasler','Setup Sweeper', 'Dire Claw').
-move('Sneasler','Setup Sweeper', 'Swords Dance').
-pokemon('Snorlax', 82).
-ability('Snorlax', 'Thick Fat').
-item('Snorlax', 'Chesto Berry').
-item('Snorlax', 'Leftovers').
-role('Snorlax', 'Bulky Attacker').
-ability('Snorlax','Bulky Attacker', 'Thick Fat').
-item('Snorlax','Bulky Attacker', 'Leftovers').
-tera('Snorlax','Bulky Attacker', 'Fairy').
-tera('Snorlax','Bulky Attacker', 'Poison').
-move('Snorlax','Bulky Attacker', 'Body Slam').
-move('Snorlax','Bulky Attacker', 'Curse').
-move('Snorlax','Bulky Attacker', 'Rest').
-move('Snorlax','Bulky Attacker', 'Sleep Talk').
-role('Snorlax', 'Bulky Setup').
-ability('Snorlax','Bulky Setup', 'Thick Fat').
-item('Snorlax','Bulky Setup', 'Chesto Berry').
-item('Snorlax','Bulky Setup', 'Leftovers').
-tera('Snorlax','Bulky Setup', 'Ground').
-tera('Snorlax','Bulky Setup', 'Poison').
-move('Snorlax','Bulky Setup', 'Body Slam').
-move('Snorlax','Bulky Setup', 'Crunch').
-move('Snorlax','Bulky Setup', 'Curse').
-move('Snorlax','Bulky Setup', 'Earthquake').
-move('Snorlax','Bulky Setup', 'Rest').
-pokemon('Solgaleo', 74).
-ability('Solgaleo', 'Full Metal Body').
-item('Solgaleo', 'Leftovers').
-item('Solgaleo', 'Rocky Helmet').
-item('Solgaleo', 'Weakness Policy').
-role('Solgaleo', 'Bulky Setup').
-ability('Solgaleo','Bulky Setup', 'Full Metal Body').
-item('Solgaleo','Bulky Setup', 'Weakness Policy').
-tera('Solgaleo','Bulky Setup', 'Dark').
-tera('Solgaleo','Bulky Setup', 'Fighting').
-tera('Solgaleo','Bulky Setup', 'Ground').
-move('Solgaleo','Bulky Setup', 'Close Combat').
-move('Solgaleo','Bulky Setup', 'Earthquake').
-move('Solgaleo','Bulky Setup', 'Flame Charge').
-move('Solgaleo','Bulky Setup', 'Knock Off').
-move('Solgaleo','Bulky Setup', 'Psychic').
-move('Solgaleo','Bulky Setup', 'Sunsteel Strike').
-role('Solgaleo', 'Bulky Attacker').
-ability('Solgaleo','Bulky Attacker', 'Full Metal Body').
-item('Solgaleo','Bulky Attacker', 'Leftovers').
-item('Solgaleo','Bulky Attacker', 'Rocky Helmet').
-tera('Solgaleo','Bulky Attacker', 'Water').
-move('Solgaleo','Bulky Attacker', 'Close Combat').
-move('Solgaleo','Bulky Attacker', 'Earthquake').
-move('Solgaleo','Bulky Attacker', 'Knock Off').
-move('Solgaleo','Bulky Attacker', 'Morning Sun').
-move('Solgaleo','Bulky Attacker', 'Psychic Fangs').
-move('Solgaleo','Bulky Attacker', 'Roar').
-move('Solgaleo','Bulky Attacker', 'Sunsteel Strike').
-move('Solgaleo','Bulky Attacker', 'Teleport').
-pokemon('Spectrier', 75).
-ability('Spectrier', 'Grim Neigh').
-item('Spectrier', 'Leftovers').
-item('Spectrier', 'Life Orb').
-role('Spectrier', 'Setup Sweeper').
-ability('Spectrier','Setup Sweeper', 'Grim Neigh').
-item('Spectrier','Setup Sweeper', 'Leftovers').
-item('Spectrier','Setup Sweeper', 'Life Orb').
-tera('Spectrier','Setup Sweeper', 'Dark').
-tera('Spectrier','Setup Sweeper', 'Fairy').
-move('Spectrier','Setup Sweeper', 'Dark Pulse').
-move('Spectrier','Setup Sweeper', 'Draining Kiss').
-move('Spectrier','Setup Sweeper', 'Nasty Plot').
-move('Spectrier','Setup Sweeper', 'Shadow Ball').
-move('Spectrier','Setup Sweeper', 'Substitute').
-move('Spectrier','Setup Sweeper', 'Will-O-Wisp').
-role('Spectrier', 'Tera Blast user').
-ability('Spectrier','Tera Blast user', 'Grim Neigh').
-item('Spectrier','Tera Blast user', 'Leftovers').
-item('Spectrier','Tera Blast user', 'Life Orb').
-tera('Spectrier','Tera Blast user', 'Fighting').
-move('Spectrier','Tera Blast user', 'Nasty Plot').
-move('Spectrier','Tera Blast user', 'Shadow Ball').
-move('Spectrier','Tera Blast user', 'Substitute').
-move('Spectrier','Tera Blast user', 'Tera Blast').
-move('Spectrier','Tera Blast user', 'Will-O-Wisp').
-pokemon('Spidops', 96).
-ability('Spidops', 'Stakeout').
-item('Spidops', 'Heavy-Duty Boots').
-role('Spidops', 'Bulky Support').
-ability('Spidops','Bulky Support', 'Stakeout').
-item('Spidops','Bulky Support', 'Heavy-Duty Boots').
-tera('Spidops','Bulky Support', 'Ghost').
-move('Spidops','Bulky Support', 'Circle Throw').
-move('Spidops','Bulky Support', 'Knock Off').
-move('Spidops','Bulky Support', 'Spikes').
-move('Spidops','Bulky Support', 'Sticky Web').
-move('Spidops','Bulky Support', 'Toxic Spikes').
-move('Spidops','Bulky Support', 'U-turn').
-pokemon('Spiritomb', 89).
-ability('Spiritomb', 'Infiltrator').
-item('Spiritomb', 'Choice Band').
-item('Spiritomb', 'Leftovers').
-role('Spiritomb', 'Bulky Support').
-ability('Spiritomb','Bulky Support', 'Infiltrator').
-item('Spiritomb','Bulky Support', 'Choice Band').
-item('Spiritomb','Bulky Support', 'Leftovers').
-tera('Spiritomb','Bulky Support', 'Ghost').
-tera('Spiritomb','Bulky Support', 'Poison').
-tera('Spiritomb','Bulky Support', 'Steel').
-move('Spiritomb','Bulky Support', 'Foul Play').
-move('Spiritomb','Bulky Support', 'Pain Split').
-move('Spiritomb','Bulky Support', 'Poltergeist').
-move('Spiritomb','Bulky Support', 'Shadow Sneak').
-move('Spiritomb','Bulky Support', 'Sucker Punch').
-move('Spiritomb','Bulky Support', 'Toxic').
-move('Spiritomb','Bulky Support', 'Will-O-Wisp').
-pokemon('Squawkabilly', 85).
-ability('Squawkabilly', 'Guts').
-item('Squawkabilly', 'Flame Orb').
-role('Squawkabilly', 'Wallbreaker').
-ability('Squawkabilly','Wallbreaker', 'Guts').
-item('Squawkabilly','Wallbreaker', 'Flame Orb').
-tera('Squawkabilly','Wallbreaker', 'Normal').
-move('Squawkabilly','Wallbreaker', 'Brave Bird').
-move('Squawkabilly','Wallbreaker', 'Facade').
-move('Squawkabilly','Wallbreaker', 'Protect').
-move('Squawkabilly','Wallbreaker', 'Quick Attack').
-move('Squawkabilly','Wallbreaker', 'U-turn').
-pokemon('Squawkabilly-Blue', 85).
-ability('Squawkabilly-Blue', 'Guts').
-item('Squawkabilly-Blue', 'Flame Orb').
-role('Squawkabilly-Blue', 'Wallbreaker').
-ability('Squawkabilly-Blue','Wallbreaker', 'Guts').
-item('Squawkabilly-Blue','Wallbreaker', 'Flame Orb').
-tera('Squawkabilly-Blue','Wallbreaker', 'Normal').
-move('Squawkabilly-Blue','Wallbreaker', 'Brave Bird').
-move('Squawkabilly-Blue','Wallbreaker', 'Facade').
-move('Squawkabilly-Blue','Wallbreaker', 'Protect').
-move('Squawkabilly-Blue','Wallbreaker', 'Quick Attack').
-move('Squawkabilly-Blue','Wallbreaker', 'U-turn').
-pokemon('Squawkabilly-White', 89).
-ability('Squawkabilly-White', 'Hustle').
-item('Squawkabilly-White', 'Choice Band').
-item('Squawkabilly-White', 'Heavy-Duty Boots').
-role('Squawkabilly-White', 'Wallbreaker').
-ability('Squawkabilly-White','Wallbreaker', 'Hustle').
-item('Squawkabilly-White','Wallbreaker', 'Choice Band').
-item('Squawkabilly-White','Wallbreaker', 'Heavy-Duty Boots').
-tera('Squawkabilly-White','Wallbreaker', 'Flying').
-tera('Squawkabilly-White','Wallbreaker', 'Normal').
-move('Squawkabilly-White','Wallbreaker', 'Brave Bird').
-move('Squawkabilly-White','Wallbreaker', 'Double-Edge').
-move('Squawkabilly-White','Wallbreaker', 'Foul Play').
-move('Squawkabilly-White','Wallbreaker', 'Parting Shot').
-move('Squawkabilly-White','Wallbreaker', 'Quick Attack').
-pokemon('Squawkabilly-Yellow', 89).
-ability('Squawkabilly-Yellow', 'Hustle').
-item('Squawkabilly-Yellow', 'Choice Band').
-item('Squawkabilly-Yellow', 'Heavy-Duty Boots').
-role('Squawkabilly-Yellow', 'Wallbreaker').
-ability('Squawkabilly-Yellow','Wallbreaker', 'Hustle').
-item('Squawkabilly-Yellow','Wallbreaker', 'Choice Band').
-item('Squawkabilly-Yellow','Wallbreaker', 'Heavy-Duty Boots').
-tera('Squawkabilly-Yellow','Wallbreaker', 'Flying').
-tera('Squawkabilly-Yellow','Wallbreaker', 'Normal').
-move('Squawkabilly-Yellow','Wallbreaker', 'Brave Bird').
-move('Squawkabilly-Yellow','Wallbreaker', 'Double-Edge').
-move('Squawkabilly-Yellow','Wallbreaker', 'Foul Play').
-move('Squawkabilly-Yellow','Wallbreaker', 'Parting Shot').
-move('Squawkabilly-Yellow','Wallbreaker', 'Quick Attack').
-pokemon('Stantler', 90).
-ability('Stantler', 'Intimidate').
-item('Stantler', 'Eviolite').
-role('Stantler', 'Bulky Attacker').
-ability('Stantler','Bulky Attacker', 'Intimidate').
-item('Stantler','Bulky Attacker', 'Eviolite').
-tera('Stantler','Bulky Attacker', 'Fairy').
-tera('Stantler','Bulky Attacker', 'Ghost').
-tera('Stantler','Bulky Attacker', 'Ground').
-tera('Stantler','Bulky Attacker', 'Poison').
-move('Stantler','Bulky Attacker', 'Body Slam').
-move('Stantler','Bulky Attacker', 'Earthquake').
-move('Stantler','Bulky Attacker', 'Throat Chop').
-move('Stantler','Bulky Attacker', 'Thunder Wave').
-role('Stantler', 'Tera Blast user').
-ability('Stantler','Tera Blast user', 'Intimidate').
-item('Stantler','Tera Blast user', 'Eviolite').
-tera('Stantler','Tera Blast user', 'Fairy').
-move('Stantler','Tera Blast user', 'Calm Mind').
-move('Stantler','Tera Blast user', 'Earth Power').
-move('Stantler','Tera Blast user', 'Shadow Ball').
-move('Stantler','Tera Blast user', 'Tera Blast').
-pokemon('Staraptor', 79).
-ability('Staraptor', 'Reckless').
-item('Staraptor', 'Choice Band').
-item('Staraptor', 'Choice Scarf').
-role('Staraptor', 'Fast Attacker').
-ability('Staraptor','Fast Attacker', 'Reckless').
-item('Staraptor','Fast Attacker', 'Choice Band').
-item('Staraptor','Fast Attacker', 'Choice Scarf').
-tera('Staraptor','Fast Attacker', 'Fighting').
-tera('Staraptor','Fast Attacker', 'Flying').
-move('Staraptor','Fast Attacker', 'Brave Bird').
-move('Staraptor','Fast Attacker', 'Close Combat').
-move('Staraptor','Fast Attacker', 'Double-Edge').
-move('Staraptor','Fast Attacker', 'Quick Attack').
-move('Staraptor','Fast Attacker', 'U-turn').
-pokemon('Stonjourner', 91).
-ability('Stonjourner', 'Power Spot').
-item('Stonjourner', 'Life Orb').
-role('Stonjourner', 'Fast Attacker').
-ability('Stonjourner','Fast Attacker', 'Power Spot').
-item('Stonjourner','Fast Attacker', 'Life Orb').
-tera('Stonjourner','Fast Attacker', 'Fire').
-tera('Stonjourner','Fast Attacker', 'Ground').
-move('Stonjourner','Fast Attacker', 'Earthquake').
-move('Stonjourner','Fast Attacker', 'Heat Crash').
-move('Stonjourner','Fast Attacker', 'Rock Polish').
-move('Stonjourner','Fast Attacker', 'Stealth Rock').
-move('Stonjourner','Fast Attacker', 'Stone Edge').
-pokemon('Sudowoodo', 94).
-ability('Sudowoodo', 'Rock Head').
-item('Sudowoodo', 'Choice Band').
-item('Sudowoodo', 'Leftovers').
-role('Sudowoodo', 'Bulky Attacker').
-ability('Sudowoodo','Bulky Attacker', 'Rock Head').
-item('Sudowoodo','Bulky Attacker', 'Choice Band').
-item('Sudowoodo','Bulky Attacker', 'Leftovers').
-tera('Sudowoodo','Bulky Attacker', 'Grass').
-tera('Sudowoodo','Bulky Attacker', 'Rock').
-move('Sudowoodo','Bulky Attacker', 'Earthquake').
-move('Sudowoodo','Bulky Attacker', 'Head Smash').
-move('Sudowoodo','Bulky Attacker', 'Stealth Rock').
-move('Sudowoodo','Bulky Attacker', 'Sucker Punch').
-move('Sudowoodo','Bulky Attacker', 'Wood Hammer').
-pokemon('Suicune', 82).
-ability('Suicune', 'Pressure').
-item('Suicune', 'Leftovers').
-role('Suicune', 'Fast Support').
-ability('Suicune','Fast Support', 'Pressure').
-item('Suicune','Fast Support', 'Leftovers').
-tera('Suicune','Fast Support', 'Steel').
-move('Suicune','Fast Support', 'Calm Mind').
-move('Suicune','Fast Support', 'Protect').
-move('Suicune','Fast Support', 'Scald').
-move('Suicune','Fast Support', 'Substitute').
-role('Suicune', 'Bulky Setup').
-ability('Suicune','Bulky Setup', 'Pressure').
-item('Suicune','Bulky Setup', 'Leftovers').
-tera('Suicune','Bulky Setup', 'Dragon').
-tera('Suicune','Bulky Setup', 'Steel').
-move('Suicune','Bulky Setup', 'Calm Mind').
-move('Suicune','Bulky Setup', 'Ice Beam').
-move('Suicune','Bulky Setup', 'Scald').
-move('Suicune','Bulky Setup', 'Substitute').
-role('Suicune', 'Bulky Attacker').
-ability('Suicune','Bulky Attacker', 'Pressure').
-item('Suicune','Bulky Attacker', 'Leftovers').
-tera('Suicune','Bulky Attacker', 'Dragon').
-tera('Suicune','Bulky Attacker', 'Steel').
-move('Suicune','Bulky Attacker', 'Calm Mind').
-move('Suicune','Bulky Attacker', 'Rest').
-move('Suicune','Bulky Attacker', 'Scald').
-move('Suicune','Bulky Attacker', 'Sleep Talk').
-pokemon('Sunflora', 100).
-ability('Sunflora', 'Chlorophyll').
-item('Sunflora', 'Choice Specs').
-item('Sunflora', 'Life Orb').
-role('Sunflora', 'Setup Sweeper').
-ability('Sunflora','Setup Sweeper', 'Chlorophyll').
-item('Sunflora','Setup Sweeper', 'Life Orb').
-tera('Sunflora','Setup Sweeper', 'Fire').
-move('Sunflora','Setup Sweeper', 'Earth Power').
-move('Sunflora','Setup Sweeper', 'Solar Beam').
-move('Sunflora','Setup Sweeper', 'Sunny Day').
-move('Sunflora','Setup Sweeper', 'Weather Ball').
-role('Sunflora', 'Wallbreaker').
-ability('Sunflora','Wallbreaker', 'Chlorophyll').
-item('Sunflora','Wallbreaker', 'Choice Specs').
-tera('Sunflora','Wallbreaker', 'Fairy').
-tera('Sunflora','Wallbreaker', 'Grass').
-tera('Sunflora','Wallbreaker', 'Ground').
-tera('Sunflora','Wallbreaker', 'Poison').
-move('Sunflora','Wallbreaker', 'Dazzling Gleam').
-move('Sunflora','Wallbreaker', 'Earth Power').
-move('Sunflora','Wallbreaker', 'Leaf Storm').
-move('Sunflora','Wallbreaker', 'Sludge Bomb').
-pokemon('Swalot', 90).
-ability('Swalot', 'Liquid Ooze').
-item('Swalot', 'Assault Vest').
-item('Swalot', 'Leftovers').
-role('Swalot', 'Bulky Setup').
-ability('Swalot','Bulky Setup', 'Liquid Ooze').
-item('Swalot','Bulky Setup', 'Leftovers').
-tera('Swalot','Bulky Setup', 'Dark').
-tera('Swalot','Bulky Setup', 'Ground').
-move('Swalot','Bulky Setup', 'Earthquake').
-move('Swalot','Bulky Setup', 'Gunk Shot').
-move('Swalot','Bulky Setup', 'Knock Off').
-move('Swalot','Bulky Setup', 'Swords Dance').
-role('Swalot', 'Bulky Support').
-ability('Swalot','Bulky Support', 'Liquid Ooze').
-item('Swalot','Bulky Support', 'Leftovers').
-tera('Swalot','Bulky Support', 'Ground').
-move('Swalot','Bulky Support', 'Earthquake').
-move('Swalot','Bulky Support', 'Protect').
-move('Swalot','Bulky Support', 'Sludge Bomb').
-move('Swalot','Bulky Support', 'Toxic').
-role('Swalot', 'Bulky Attacker').
-ability('Swalot','Bulky Attacker', 'Liquid Ooze').
-item('Swalot','Bulky Attacker', 'Assault Vest').
-item('Swalot','Bulky Attacker', 'Leftovers').
-tera('Swalot','Bulky Attacker', 'Dark').
-move('Swalot','Bulky Attacker', 'Clear Smog').
-move('Swalot','Bulky Attacker', 'Earthquake').
-move('Swalot','Bulky Attacker', 'Encore').
-move('Swalot','Bulky Attacker', 'Ice Beam').
-move('Swalot','Bulky Attacker', 'Knock Off').
-move('Swalot','Bulky Attacker', 'Pain Split').
-move('Swalot','Bulky Attacker', 'Sludge Bomb').
-move('Swalot','Bulky Attacker', 'Thunder Wave').
-move('Swalot','Bulky Attacker', 'Toxic Spikes').
-pokemon('Swampert', 83).
-ability('Swampert', 'Damp').
-ability('Swampert', 'Torrent').
-item('Swampert', 'Assault Vest').
-item('Swampert', 'Leftovers').
-role('Swampert', 'Bulky Support').
-ability('Swampert','Bulky Support', 'Damp').
-ability('Swampert','Bulky Support', 'Torrent').
-item('Swampert','Bulky Support', 'Assault Vest').
-item('Swampert','Bulky Support', 'Leftovers').
-tera('Swampert','Bulky Support', 'Poison').
-tera('Swampert','Bulky Support', 'Steel').
-move('Swampert','Bulky Support', 'Earthquake').
-move('Swampert','Bulky Support', 'Flip Turn').
-move('Swampert','Bulky Support', 'Ice Beam').
-move('Swampert','Bulky Support', 'Knock Off').
-move('Swampert','Bulky Support', 'Roar').
-move('Swampert','Bulky Support', 'Stealth Rock').
-move('Swampert','Bulky Support', 'Yawn').
-pokemon('Swanna', 89).
-ability('Swanna', 'Hydration').
-item('Swanna', 'Heavy-Duty Boots').
-role('Swanna', 'Bulky Support').
-ability('Swanna','Bulky Support', 'Hydration').
-item('Swanna','Bulky Support', 'Heavy-Duty Boots').
-tera('Swanna','Bulky Support', 'Ground').
-move('Swanna','Bulky Support', 'Brave Bird').
-move('Swanna','Bulky Support', 'Defog').
-move('Swanna','Bulky Support', 'Flip Turn').
-move('Swanna','Bulky Support', 'Hydro Pump').
-move('Swanna','Bulky Support', 'Knock Off').
-move('Swanna','Bulky Support', 'Roost').
-pokemon('Sylveon', 85).
-ability('Sylveon', 'Pixilate').
-item('Sylveon', 'Leftovers').
-role('Sylveon', 'Bulky Setup').
-ability('Sylveon','Bulky Setup', 'Pixilate').
-item('Sylveon','Bulky Setup', 'Leftovers').
-tera('Sylveon','Bulky Setup', 'Steel').
-move('Sylveon','Bulky Setup', 'Calm Mind').
-move('Sylveon','Bulky Setup', 'Hyper Voice').
-move('Sylveon','Bulky Setup', 'Protect').
-move('Sylveon','Bulky Setup', 'Wish').
-pokemon('Talonflame', 83).
-ability('Talonflame', 'Flame Body').
-ability('Talonflame', 'Gale Wings').
-item('Talonflame', 'Heavy-Duty Boots').
-role('Talonflame', 'Bulky Attacker').
-ability('Talonflame','Bulky Attacker', 'Flame Body').
-item('Talonflame','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Talonflame','Bulky Attacker', 'Dragon').
-tera('Talonflame','Bulky Attacker', 'Ground').
-move('Talonflame','Bulky Attacker', 'Brave Bird').
-move('Talonflame','Bulky Attacker', 'Defog').
-move('Talonflame','Bulky Attacker', 'Overheat').
-move('Talonflame','Bulky Attacker', 'Roost').
-move('Talonflame','Bulky Attacker', 'Taunt').
-move('Talonflame','Bulky Attacker', 'U-turn').
-move('Talonflame','Bulky Attacker', 'Will-O-Wisp').
-role('Talonflame', 'Tera Blast user').
-ability('Talonflame','Tera Blast user', 'Flame Body').
-ability('Talonflame','Tera Blast user', 'Gale Wings').
-item('Talonflame','Tera Blast user', 'Heavy-Duty Boots').
-tera('Talonflame','Tera Blast user', 'Ground').
-move('Talonflame','Tera Blast user', 'Brave Bird').
-move('Talonflame','Tera Blast user', 'Flare Blitz').
-move('Talonflame','Tera Blast user', 'Swords Dance').
-move('Talonflame','Tera Blast user', 'Tera Blast').
-pokemon('Tatsugiri', 87).
-ability('Tatsugiri', 'Storm Drain').
-item('Tatsugiri', 'Heavy-Duty Boots').
-role('Tatsugiri', 'Fast Support').
-ability('Tatsugiri','Fast Support', 'Storm Drain').
-item('Tatsugiri','Fast Support', 'Heavy-Duty Boots').
-tera('Tatsugiri','Fast Support', 'Steel').
-tera('Tatsugiri','Fast Support', 'Water').
-move('Tatsugiri','Fast Support', 'Draco Meteor').
-move('Tatsugiri','Fast Support', 'Hydro Pump').
-move('Tatsugiri','Fast Support', 'Nasty Plot').
-move('Tatsugiri','Fast Support', 'Rapid Spin').
-move('Tatsugiri','Fast Support', 'Surf').
-pokemon('Tauros', 82).
-ability('Tauros', 'Sheer Force').
-item('Tauros', 'Life Orb').
-role('Tauros', 'Wallbreaker').
-ability('Tauros','Wallbreaker', 'Sheer Force').
-item('Tauros','Wallbreaker', 'Life Orb').
-tera('Tauros','Wallbreaker', 'Fighting').
-tera('Tauros','Wallbreaker', 'Normal').
-tera('Tauros','Wallbreaker', 'Psychic').
-move('Tauros','Wallbreaker', 'Body Slam').
-move('Tauros','Wallbreaker', 'Close Combat').
-move('Tauros','Wallbreaker', 'Throat Chop').
-move('Tauros','Wallbreaker', 'Zen Headbutt').
-role('Tauros', 'Fast Attacker').
-ability('Tauros','Fast Attacker', 'Sheer Force').
-item('Tauros','Fast Attacker', 'Life Orb').
-tera('Tauros','Fast Attacker', 'Fighting').
-tera('Tauros','Fast Attacker', 'Ground').
-tera('Tauros','Fast Attacker', 'Normal').
-move('Tauros','Fast Attacker', 'Body Slam').
-move('Tauros','Fast Attacker', 'Close Combat').
-move('Tauros','Fast Attacker', 'Earthquake').
-move('Tauros','Fast Attacker', 'Throat Chop').
-pokemon('Tauros-Paldea-Aqua', 81).
-ability('Tauros-Paldea-Aqua', 'Cud Chew').
-ability('Tauros-Paldea-Aqua', 'Intimidate').
-item('Tauros-Paldea-Aqua', 'Choice Band').
-item('Tauros-Paldea-Aqua', 'Life Orb').
-item('Tauros-Paldea-Aqua', 'Sitrus Berry').
-role('Tauros-Paldea-Aqua', 'Wallbreaker').
-ability('Tauros-Paldea-Aqua','Wallbreaker', 'Intimidate').
-item('Tauros-Paldea-Aqua','Wallbreaker', 'Choice Band').
-tera('Tauros-Paldea-Aqua','Wallbreaker', 'Water').
-move('Tauros-Paldea-Aqua','Wallbreaker', 'Aqua Jet').
-move('Tauros-Paldea-Aqua','Wallbreaker', 'Close Combat').
-move('Tauros-Paldea-Aqua','Wallbreaker', 'Stone Edge').
-move('Tauros-Paldea-Aqua','Wallbreaker', 'Wave Crash').
-role('Tauros-Paldea-Aqua', 'Setup Sweeper').
-ability('Tauros-Paldea-Aqua','Setup Sweeper', 'Intimidate').
-item('Tauros-Paldea-Aqua','Setup Sweeper', 'Life Orb').
-tera('Tauros-Paldea-Aqua','Setup Sweeper', 'Water').
-move('Tauros-Paldea-Aqua','Setup Sweeper', 'Aqua Jet').
-move('Tauros-Paldea-Aqua','Setup Sweeper', 'Bulk Up').
-move('Tauros-Paldea-Aqua','Setup Sweeper', 'Close Combat').
-move('Tauros-Paldea-Aqua','Setup Sweeper', 'Liquidation').
-role('Tauros-Paldea-Aqua', 'Fast Bulky Setup').
-ability('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Cud Chew').
-item('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Sitrus Berry').
-tera('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Steel').
-tera('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Water').
-move('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Bulk Up').
-move('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Close Combat').
-move('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Liquidation').
-move('Tauros-Paldea-Aqua','Fast Bulky Setup', 'Substitute').
-pokemon('Tauros-Paldea-Blaze', 81).
-ability('Tauros-Paldea-Blaze', 'Cud Chew').
-ability('Tauros-Paldea-Blaze', 'Intimidate').
-item('Tauros-Paldea-Blaze', 'Choice Band').
-item('Tauros-Paldea-Blaze', 'Sitrus Berry').
-role('Tauros-Paldea-Blaze', 'Wallbreaker').
-ability('Tauros-Paldea-Blaze','Wallbreaker', 'Intimidate').
-item('Tauros-Paldea-Blaze','Wallbreaker', 'Choice Band').
-tera('Tauros-Paldea-Blaze','Wallbreaker', 'Fighting').
-move('Tauros-Paldea-Blaze','Wallbreaker', 'Close Combat').
-move('Tauros-Paldea-Blaze','Wallbreaker', 'Flare Blitz').
-move('Tauros-Paldea-Blaze','Wallbreaker', 'Stone Edge').
-move('Tauros-Paldea-Blaze','Wallbreaker', 'Wild Charge').
-role('Tauros-Paldea-Blaze', 'Fast Bulky Setup').
-ability('Tauros-Paldea-Blaze','Fast Bulky Setup', 'Cud Chew').
-item('Tauros-Paldea-Blaze','Fast Bulky Setup', 'Sitrus Berry').
-tera('Tauros-Paldea-Blaze','Fast Bulky Setup', 'Water').
-move('Tauros-Paldea-Blaze','Fast Bulky Setup', 'Bulk Up').
-move('Tauros-Paldea-Blaze','Fast Bulky Setup', 'Close Combat').
-move('Tauros-Paldea-Blaze','Fast Bulky Setup', 'Raging Bull').
-move('Tauros-Paldea-Blaze','Fast Bulky Setup', 'Substitute').
-pokemon('Tauros-Paldea-Combat', 82).
-ability('Tauros-Paldea-Combat', 'Intimidate').
-item('Tauros-Paldea-Combat', 'Choice Band').
-item('Tauros-Paldea-Combat', 'Life Orb').
-role('Tauros-Paldea-Combat', 'Wallbreaker').
-ability('Tauros-Paldea-Combat','Wallbreaker', 'Intimidate').
-item('Tauros-Paldea-Combat','Wallbreaker', 'Choice Band').
-item('Tauros-Paldea-Combat','Wallbreaker', 'Life Orb').
-tera('Tauros-Paldea-Combat','Wallbreaker', 'Dark').
-tera('Tauros-Paldea-Combat','Wallbreaker', 'Fighting').
-tera('Tauros-Paldea-Combat','Wallbreaker', 'Steel').
-move('Tauros-Paldea-Combat','Wallbreaker', 'Bulk Up').
-move('Tauros-Paldea-Combat','Wallbreaker', 'Close Combat').
-move('Tauros-Paldea-Combat','Wallbreaker', 'Earthquake').
-move('Tauros-Paldea-Combat','Wallbreaker', 'Iron Head').
-move('Tauros-Paldea-Combat','Wallbreaker', 'Stone Edge').
-move('Tauros-Paldea-Combat','Wallbreaker', 'Throat Chop').
-pokemon('Tentacruel', 84).
-ability('Tentacruel', 'Liquid Ooze').
-item('Tentacruel', 'Assault Vest').
-item('Tentacruel', 'Leftovers').
-role('Tentacruel', 'Bulky Support').
-ability('Tentacruel','Bulky Support', 'Liquid Ooze').
-item('Tentacruel','Bulky Support', 'Assault Vest').
-item('Tentacruel','Bulky Support', 'Leftovers').
-tera('Tentacruel','Bulky Support', 'Flying').
-tera('Tentacruel','Bulky Support', 'Grass').
-move('Tentacruel','Bulky Support', 'Flip Turn').
-move('Tentacruel','Bulky Support', 'Haze').
-move('Tentacruel','Bulky Support', 'Knock Off').
-move('Tentacruel','Bulky Support', 'Rapid Spin').
-move('Tentacruel','Bulky Support', 'Sludge Bomb').
-move('Tentacruel','Bulky Support', 'Surf').
-move('Tentacruel','Bulky Support', 'Toxic').
-move('Tentacruel','Bulky Support', 'Toxic Spikes').
-pokemon('Terapagos', 77).
-ability('Terapagos', 'Tera Shift').
-item('Terapagos', 'Chesto Berry').
-item('Terapagos', 'Heavy-Duty Boots').
-role('Terapagos', 'Fast Bulky Setup').
-ability('Terapagos','Fast Bulky Setup', 'Tera Shift').
-item('Terapagos','Fast Bulky Setup', 'Chesto Berry').
-item('Terapagos','Fast Bulky Setup', 'Heavy-Duty Boots').
-tera('Terapagos','Fast Bulky Setup', 'Stellar').
-move('Terapagos','Fast Bulky Setup', 'Calm Mind').
-move('Terapagos','Fast Bulky Setup', 'Earth Power').
-move('Terapagos','Fast Bulky Setup', 'Rapid Spin').
-move('Terapagos','Fast Bulky Setup', 'Rest').
-move('Terapagos','Fast Bulky Setup', 'Tera Starstorm').
-role('Terapagos', 'Setup Sweeper').
-ability('Terapagos','Setup Sweeper', 'Tera Shift').
-item('Terapagos','Setup Sweeper', 'Chesto Berry').
-item('Terapagos','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Terapagos','Setup Sweeper', 'Stellar').
-move('Terapagos','Setup Sweeper', 'Calm Mind').
-move('Terapagos','Setup Sweeper', 'Dark Pulse').
-move('Terapagos','Setup Sweeper', 'Rapid Spin').
-move('Terapagos','Setup Sweeper', 'Rest').
-move('Terapagos','Setup Sweeper', 'Tera Starstorm').
-pokemon('Terrakion', 79).
-ability('Terrakion', 'Justified').
-item('Terrakion', 'Choice Band').
-item('Terrakion', 'Life Orb').
-role('Terrakion', 'Wallbreaker').
-ability('Terrakion','Wallbreaker', 'Justified').
-item('Terrakion','Wallbreaker', 'Choice Band').
-tera('Terrakion','Wallbreaker', 'Fighting').
-tera('Terrakion','Wallbreaker', 'Ground').
-move('Terrakion','Wallbreaker', 'Close Combat').
-move('Terrakion','Wallbreaker', 'Earthquake').
-move('Terrakion','Wallbreaker', 'Quick Attack').
-move('Terrakion','Wallbreaker', 'Stone Edge').
-role('Terrakion', 'Setup Sweeper').
-ability('Terrakion','Setup Sweeper', 'Justified').
-item('Terrakion','Setup Sweeper', 'Life Orb').
-tera('Terrakion','Setup Sweeper', 'Fighting').
-tera('Terrakion','Setup Sweeper', 'Ground').
-move('Terrakion','Setup Sweeper', 'Close Combat').
-move('Terrakion','Setup Sweeper', 'Earthquake').
-move('Terrakion','Setup Sweeper', 'Stone Edge').
-move('Terrakion','Setup Sweeper', 'Swords Dance').
-pokemon('Thundurus', 80).
-ability('Thundurus', 'Defiant').
-ability('Thundurus', 'Prankster').
-item('Thundurus', 'Choice Specs').
-item('Thundurus', 'Heavy-Duty Boots').
-role('Thundurus', 'Wallbreaker').
-ability('Thundurus','Wallbreaker', 'Defiant').
-ability('Thundurus','Wallbreaker', 'Prankster').
-tera('Thundurus','Wallbreaker', 'Electric').
-tera('Thundurus','Wallbreaker', 'Flying').
-tera('Thundurus','Wallbreaker', 'Grass').
-tera('Thundurus','Wallbreaker', 'Steel').
-move('Thundurus','Wallbreaker', 'Acrobatics').
-move('Thundurus','Wallbreaker', 'Focus Blast').
-move('Thundurus','Wallbreaker', 'Grass Knot').
-move('Thundurus','Wallbreaker', 'Knock Off').
-move('Thundurus','Wallbreaker', 'Taunt').
-move('Thundurus','Wallbreaker', 'Thunder Wave').
-move('Thundurus','Wallbreaker', 'Thunderbolt').
-move('Thundurus','Wallbreaker', 'U-turn').
-role('Thundurus', 'Fast Attacker').
-ability('Thundurus','Fast Attacker', 'Defiant').
-ability('Thundurus','Fast Attacker', 'Prankster').
-item('Thundurus','Fast Attacker', 'Choice Specs').
-item('Thundurus','Fast Attacker', 'Heavy-Duty Boots').
-tera('Thundurus','Fast Attacker', 'Electric').
-tera('Thundurus','Fast Attacker', 'Grass').
-tera('Thundurus','Fast Attacker', 'Steel').
-move('Thundurus','Fast Attacker', 'Focus Blast').
-move('Thundurus','Fast Attacker', 'Grass Knot').
-move('Thundurus','Fast Attacker', 'Knock Off').
-move('Thundurus','Fast Attacker', 'Nasty Plot').
-move('Thundurus','Fast Attacker', 'Sludge Wave').
-move('Thundurus','Fast Attacker', 'Taunt').
-move('Thundurus','Fast Attacker', 'Thunder Wave').
-move('Thundurus','Fast Attacker', 'Thunderbolt').
-move('Thundurus','Fast Attacker', 'U-turn').
-role('Thundurus', 'Tera Blast user').
-ability('Thundurus','Tera Blast user', 'Defiant').
-item('Thundurus','Tera Blast user', 'Heavy-Duty Boots').
-tera('Thundurus','Tera Blast user', 'Flying').
-move('Thundurus','Tera Blast user', 'Focus Blast').
-move('Thundurus','Tera Blast user', 'Nasty Plot').
-move('Thundurus','Tera Blast user', 'Tera Blast').
-move('Thundurus','Tera Blast user', 'Thunderbolt').
-pokemon('Thundurus-Therian', 80).
-ability('Thundurus-Therian', 'Volt Absorb').
-item('Thundurus-Therian', 'Choice Scarf').
-item('Thundurus-Therian', 'Choice Specs').
-item('Thundurus-Therian', 'Heavy-Duty Boots').
-role('Thundurus-Therian', 'Fast Attacker').
-ability('Thundurus-Therian','Fast Attacker', 'Volt Absorb').
-item('Thundurus-Therian','Fast Attacker', 'Choice Scarf').
-item('Thundurus-Therian','Fast Attacker', 'Choice Specs').
-item('Thundurus-Therian','Fast Attacker', 'Heavy-Duty Boots').
-tera('Thundurus-Therian','Fast Attacker', 'Electric').
-tera('Thundurus-Therian','Fast Attacker', 'Poison').
-tera('Thundurus-Therian','Fast Attacker', 'Psychic').
-move('Thundurus-Therian','Fast Attacker', 'Focus Blast').
-move('Thundurus-Therian','Fast Attacker', 'Grass Knot').
-move('Thundurus-Therian','Fast Attacker', 'Nasty Plot').
-move('Thundurus-Therian','Fast Attacker', 'Psychic').
-move('Thundurus-Therian','Fast Attacker', 'Sludge Wave').
-move('Thundurus-Therian','Fast Attacker', 'Thunderbolt').
-move('Thundurus-Therian','Fast Attacker', 'Volt Switch').
-role('Thundurus-Therian', 'Tera Blast user').
-ability('Thundurus-Therian','Tera Blast user', 'Volt Absorb').
-item('Thundurus-Therian','Tera Blast user', 'Heavy-Duty Boots').
-tera('Thundurus-Therian','Tera Blast user', 'Flying').
-move('Thundurus-Therian','Tera Blast user', 'Focus Blast').
-move('Thundurus-Therian','Tera Blast user', 'Nasty Plot').
-move('Thundurus-Therian','Tera Blast user', 'Tera Blast').
-move('Thundurus-Therian','Tera Blast user', 'Thunderbolt').
-pokemon('Ting-Lu', 78).
-ability('Ting-Lu', 'Vessel of Ruin').
-item('Ting-Lu', 'Assault Vest').
-item('Ting-Lu', 'Leftovers').
-role('Ting-Lu', 'Bulky Attacker').
-ability('Ting-Lu','Bulky Attacker', 'Vessel of Ruin').
-item('Ting-Lu','Bulky Attacker', 'Assault Vest').
-item('Ting-Lu','Bulky Attacker', 'Leftovers').
-tera('Ting-Lu','Bulky Attacker', 'Ghost').
-tera('Ting-Lu','Bulky Attacker', 'Poison').
-tera('Ting-Lu','Bulky Attacker', 'Steel').
-move('Ting-Lu','Bulky Attacker', 'Earthquake').
-move('Ting-Lu','Bulky Attacker', 'Heavy Slam').
-move('Ting-Lu','Bulky Attacker', 'Payback').
-move('Ting-Lu','Bulky Attacker', 'Ruination').
-move('Ting-Lu','Bulky Attacker', 'Spikes').
-move('Ting-Lu','Bulky Attacker', 'Stealth Rock').
-role('Ting-Lu', 'Bulky Support').
-ability('Ting-Lu','Bulky Support', 'Vessel of Ruin').
-item('Ting-Lu','Bulky Support', 'Leftovers').
-tera('Ting-Lu','Bulky Support', 'Ghost').
-tera('Ting-Lu','Bulky Support', 'Poison').
-move('Ting-Lu','Bulky Support', 'Earthquake').
-move('Ting-Lu','Bulky Support', 'Spikes').
-move('Ting-Lu','Bulky Support', 'Stealth Rock').
-move('Ting-Lu','Bulky Support', 'Throat Chop').
-move('Ting-Lu','Bulky Support', 'Whirlwind').
-pokemon('Tinkaton', 82).
-ability('Tinkaton', 'Mold Breaker').
-item('Tinkaton', 'Leftovers').
-role('Tinkaton', 'Bulky Setup').
-ability('Tinkaton','Bulky Setup', 'Mold Breaker').
-item('Tinkaton','Bulky Setup', 'Leftovers').
-tera('Tinkaton','Bulky Setup', 'Steel').
-move('Tinkaton','Bulky Setup', 'Gigaton Hammer').
-move('Tinkaton','Bulky Setup', 'Knock Off').
-move('Tinkaton','Bulky Setup', 'Play Rough').
-move('Tinkaton','Bulky Setup', 'Protect').
-move('Tinkaton','Bulky Setup', 'Swords Dance').
-role('Tinkaton', 'Bulky Attacker').
-ability('Tinkaton','Bulky Attacker', 'Mold Breaker').
-item('Tinkaton','Bulky Attacker', 'Leftovers').
-tera('Tinkaton','Bulky Attacker', 'Water').
-move('Tinkaton','Bulky Attacker', 'Encore').
-move('Tinkaton','Bulky Attacker', 'Gigaton Hammer').
-move('Tinkaton','Bulky Attacker', 'Knock Off').
-move('Tinkaton','Bulky Attacker', 'Play Rough').
-move('Tinkaton','Bulky Attacker', 'Stealth Rock').
-move('Tinkaton','Bulky Attacker', 'Thunder Wave').
-pokemon('Toedscruel', 87).
-ability('Toedscruel', 'Mycelium Might').
-item('Toedscruel', 'Assault Vest').
-item('Toedscruel', 'Leftovers').
-role('Toedscruel', 'Bulky Support').
-ability('Toedscruel','Bulky Support', 'Mycelium Might').
-item('Toedscruel','Bulky Support', 'Assault Vest').
-item('Toedscruel','Bulky Support', 'Leftovers').
-tera('Toedscruel','Bulky Support', 'Water').
-move('Toedscruel','Bulky Support', 'Earth Power').
-move('Toedscruel','Bulky Support', 'Giga Drain').
-move('Toedscruel','Bulky Support', 'Knock Off').
-move('Toedscruel','Bulky Support', 'Leaf Storm').
-move('Toedscruel','Bulky Support', 'Rapid Spin').
-move('Toedscruel','Bulky Support', 'Spore').
-move('Toedscruel','Bulky Support', 'Toxic').
-pokemon('Torkoal', 88).
-ability('Torkoal', 'Drought').
-item('Torkoal', 'Heavy-Duty Boots').
-role('Torkoal', 'Bulky Support').
-ability('Torkoal','Bulky Support', 'Drought').
-item('Torkoal','Bulky Support', 'Heavy-Duty Boots').
-tera('Torkoal','Bulky Support', 'Dragon').
-tera('Torkoal','Bulky Support', 'Grass').
-move('Torkoal','Bulky Support', 'Lava Plume').
-move('Torkoal','Bulky Support', 'Rapid Spin').
-move('Torkoal','Bulky Support', 'Solar Beam').
-move('Torkoal','Bulky Support', 'Stealth Rock').
-move('Torkoal','Bulky Support', 'Yawn').
-role('Torkoal', 'Wallbreaker').
-ability('Torkoal','Wallbreaker', 'Drought').
-item('Torkoal','Wallbreaker', 'Heavy-Duty Boots').
-tera('Torkoal','Wallbreaker', 'Grass').
-move('Torkoal','Wallbreaker', 'Earthquake').
-move('Torkoal','Wallbreaker', 'Fire Blast').
-move('Torkoal','Wallbreaker', 'Lava Plume').
-move('Torkoal','Wallbreaker', 'Rapid Spin').
-move('Torkoal','Wallbreaker', 'Solar Beam').
-move('Torkoal','Wallbreaker', 'Stealth Rock').
-move('Torkoal','Wallbreaker', 'Yawn').
-pokemon('Tornadus', 82).
-ability('Tornadus', 'Defiant').
-ability('Tornadus', 'Prankster').
-item('Tornadus', 'Choice Specs').
-item('Tornadus', 'Heavy-Duty Boots').
-role('Tornadus', 'Fast Attacker').
-ability('Tornadus','Fast Attacker', 'Defiant').
-ability('Tornadus','Fast Attacker', 'Prankster').
-item('Tornadus','Fast Attacker', 'Choice Specs').
-item('Tornadus','Fast Attacker', 'Heavy-Duty Boots').
-tera('Tornadus','Fast Attacker', 'Fighting').
-tera('Tornadus','Fast Attacker', 'Fire').
-tera('Tornadus','Fast Attacker', 'Flying').
-move('Tornadus','Fast Attacker', 'Bleakwind Storm').
-move('Tornadus','Fast Attacker', 'Focus Blast').
-move('Tornadus','Fast Attacker', 'Grass Knot').
-move('Tornadus','Fast Attacker', 'Heat Wave').
-move('Tornadus','Fast Attacker', 'Nasty Plot').
-move('Tornadus','Fast Attacker', 'U-turn').
-pokemon('Tornadus-Therian', 79).
-ability('Tornadus-Therian', 'Regenerator').
-item('Tornadus-Therian', 'Assault Vest').
-item('Tornadus-Therian', 'Choice Specs').
-item('Tornadus-Therian', 'Heavy-Duty Boots').
-role('Tornadus-Therian', 'AV Pivot').
-ability('Tornadus-Therian','AV Pivot', 'Regenerator').
-item('Tornadus-Therian','AV Pivot', 'Assault Vest').
-tera('Tornadus-Therian','AV Pivot', 'Dark').
-tera('Tornadus-Therian','AV Pivot', 'Steel').
-move('Tornadus-Therian','AV Pivot', 'Bleakwind Storm').
-move('Tornadus-Therian','AV Pivot', 'Heat Wave').
-move('Tornadus-Therian','AV Pivot', 'Knock Off').
-move('Tornadus-Therian','AV Pivot', 'U-turn').
-role('Tornadus-Therian', 'Fast Attacker').
-ability('Tornadus-Therian','Fast Attacker', 'Regenerator').
-item('Tornadus-Therian','Fast Attacker', 'Choice Specs').
-item('Tornadus-Therian','Fast Attacker', 'Heavy-Duty Boots').
-tera('Tornadus-Therian','Fast Attacker', 'Fighting').
-tera('Tornadus-Therian','Fast Attacker', 'Fire').
-tera('Tornadus-Therian','Fast Attacker', 'Flying').
-move('Tornadus-Therian','Fast Attacker', 'Bleakwind Storm').
-move('Tornadus-Therian','Fast Attacker', 'Focus Blast').
-move('Tornadus-Therian','Fast Attacker', 'Grass Knot').
-move('Tornadus-Therian','Fast Attacker', 'Heat Wave').
-move('Tornadus-Therian','Fast Attacker', 'Nasty Plot').
-move('Tornadus-Therian','Fast Attacker', 'U-turn').
-pokemon('Torterra', 78).
-ability('Torterra', 'Overgrow').
-item('Torterra', 'Loaded Dice').
-role('Torterra', 'Setup Sweeper').
-ability('Torterra','Setup Sweeper', 'Overgrow').
-item('Torterra','Setup Sweeper', 'Loaded Dice').
-tera('Torterra','Setup Sweeper', 'Grass').
-tera('Torterra','Setup Sweeper', 'Ground').
-tera('Torterra','Setup Sweeper', 'Rock').
-tera('Torterra','Setup Sweeper', 'Water').
-move('Torterra','Setup Sweeper', 'Bullet Seed').
-move('Torterra','Setup Sweeper', 'Headlong Rush').
-move('Torterra','Setup Sweeper', 'Rock Blast').
-move('Torterra','Setup Sweeper', 'Shell Smash').
-pokemon('Toucannon', 88).
-ability('Toucannon', 'Keen Eye').
-ability('Toucannon', 'Skill Link').
-item('Toucannon', 'Heavy-Duty Boots').
-role('Toucannon', 'Bulky Support').
-ability('Toucannon','Bulky Support', 'Keen Eye').
-ability('Toucannon','Bulky Support', 'Skill Link').
-item('Toucannon','Bulky Support', 'Heavy-Duty Boots').
-tera('Toucannon','Bulky Support', 'Steel').
-move('Toucannon','Bulky Support', 'Beak Blast').
-move('Toucannon','Bulky Support', 'Boomburst').
-move('Toucannon','Bulky Support', 'Bullet Seed').
-move('Toucannon','Bulky Support', 'Knock Off').
-move('Toucannon','Bulky Support', 'Roost').
-move('Toucannon','Bulky Support', 'U-turn').
-pokemon('Toxapex', 82).
-ability('Toxapex', 'Regenerator').
-item('Toxapex', 'Leftovers').
-item('Toxapex', 'Rocky Helmet').
-role('Toxapex', 'Bulky Support').
-ability('Toxapex','Bulky Support', 'Regenerator').
-item('Toxapex','Bulky Support', 'Leftovers').
-item('Toxapex','Bulky Support', 'Rocky Helmet').
-tera('Toxapex','Bulky Support', 'Fairy').
-tera('Toxapex','Bulky Support', 'Flying').
-tera('Toxapex','Bulky Support', 'Grass').
-tera('Toxapex','Bulky Support', 'Steel').
-move('Toxapex','Bulky Support', 'Haze').
-move('Toxapex','Bulky Support', 'Liquidation').
-move('Toxapex','Bulky Support', 'Recover').
-move('Toxapex','Bulky Support', 'Toxic').
-move('Toxapex','Bulky Support', 'Toxic Spikes').
-pokemon('Toxicroak', 84).
-ability('Toxicroak', 'Dry Skin').
-item('Toxicroak', 'Choice Band').
-item('Toxicroak', 'Choice Scarf').
-item('Toxicroak', 'Life Orb').
-role('Toxicroak', 'Fast Attacker').
-ability('Toxicroak','Fast Attacker', 'Dry Skin').
-item('Toxicroak','Fast Attacker', 'Choice Band').
-item('Toxicroak','Fast Attacker', 'Choice Scarf').
-item('Toxicroak','Fast Attacker', 'Life Orb').
-tera('Toxicroak','Fast Attacker', 'Dark').
-move('Toxicroak','Fast Attacker', 'Close Combat').
-move('Toxicroak','Fast Attacker', 'Earthquake').
-move('Toxicroak','Fast Attacker', 'Gunk Shot').
-move('Toxicroak','Fast Attacker', 'Knock Off').
-move('Toxicroak','Fast Attacker', 'Sucker Punch').
-move('Toxicroak','Fast Attacker', 'Swords Dance').
-role('Toxicroak', 'Setup Sweeper').
-ability('Toxicroak','Setup Sweeper', 'Dry Skin').
-item('Toxicroak','Setup Sweeper', 'Life Orb').
-tera('Toxicroak','Setup Sweeper', 'Dark').
-tera('Toxicroak','Setup Sweeper', 'Fighting').
-tera('Toxicroak','Setup Sweeper', 'Ground').
-move('Toxicroak','Setup Sweeper', 'Close Combat').
-move('Toxicroak','Setup Sweeper', 'Earthquake').
-move('Toxicroak','Setup Sweeper', 'Gunk Shot').
-move('Toxicroak','Setup Sweeper', 'Sucker Punch').
-move('Toxicroak','Setup Sweeper', 'Swords Dance').
-pokemon('Toxtricity', 82).
-ability('Toxtricity', 'Punk Rock').
-item('Toxtricity', 'Choice Scarf').
-item('Toxtricity', 'Choice Specs').
-item('Toxtricity', 'Throat Spray').
-role('Toxtricity', 'Setup Sweeper').
-ability('Toxtricity','Setup Sweeper', 'Punk Rock').
-item('Toxtricity','Setup Sweeper', 'Throat Spray').
-tera('Toxtricity','Setup Sweeper', 'Normal').
-move('Toxtricity','Setup Sweeper', 'Boomburst').
-move('Toxtricity','Setup Sweeper', 'Gunk Shot').
-move('Toxtricity','Setup Sweeper', 'Overdrive').
-move('Toxtricity','Setup Sweeper', 'Shift Gear').
-role('Toxtricity', 'Fast Attacker').
-ability('Toxtricity','Fast Attacker', 'Punk Rock').
-item('Toxtricity','Fast Attacker', 'Choice Scarf').
-item('Toxtricity','Fast Attacker', 'Choice Specs').
-tera('Toxtricity','Fast Attacker', 'Normal').
-move('Toxtricity','Fast Attacker', 'Boomburst').
-move('Toxtricity','Fast Attacker', 'Overdrive').
-move('Toxtricity','Fast Attacker', 'Sludge Wave').
-move('Toxtricity','Fast Attacker', 'Volt Switch').
-pokemon('Trevenant', 89).
-ability('Trevenant', 'Harvest').
-ability('Trevenant', 'Natural Cure').
-item('Trevenant', 'Choice Band').
-item('Trevenant', 'Life Orb').
-item('Trevenant', 'Sitrus Berry').
-role('Trevenant', 'Wallbreaker').
-ability('Trevenant','Wallbreaker', 'Natural Cure').
-item('Trevenant','Wallbreaker', 'Choice Band').
-item('Trevenant','Wallbreaker', 'Life Orb').
-tera('Trevenant','Wallbreaker', 'Fighting').
-move('Trevenant','Wallbreaker', 'Drain Punch').
-move('Trevenant','Wallbreaker', 'Horn Leech').
-move('Trevenant','Wallbreaker', 'Poltergeist').
-move('Trevenant','Wallbreaker', 'Rest').
-move('Trevenant','Wallbreaker', 'Will-O-Wisp').
-move('Trevenant','Wallbreaker', 'Wood Hammer').
-role('Trevenant', 'Bulky Support').
-ability('Trevenant','Bulky Support', 'Harvest').
-item('Trevenant','Bulky Support', 'Sitrus Berry').
-tera('Trevenant','Bulky Support', 'Dark').
-tera('Trevenant','Bulky Support', 'Fairy').
-tera('Trevenant','Bulky Support', 'Fighting').
-tera('Trevenant','Bulky Support', 'Steel').
-move('Trevenant','Bulky Support', 'Drain Punch').
-move('Trevenant','Bulky Support', 'Poltergeist').
-move('Trevenant','Bulky Support', 'Protect').
-move('Trevenant','Bulky Support', 'Toxic').
-pokemon('Tropius', 91).
-ability('Tropius', 'Harvest').
-item('Tropius', 'Sitrus Berry').
-role('Tropius', 'Setup Sweeper').
-ability('Tropius','Setup Sweeper', 'Harvest').
-item('Tropius','Setup Sweeper', 'Sitrus Berry').
-tera('Tropius','Setup Sweeper', 'Ground').
-move('Tropius','Setup Sweeper', 'Dragon Dance').
-move('Tropius','Setup Sweeper', 'Dual Wingbeat').
-move('Tropius','Setup Sweeper', 'Earthquake').
-move('Tropius','Setup Sweeper', 'Leaf Blade').
-move('Tropius','Setup Sweeper', 'Synthesis').
-role('Tropius', 'Bulky Support').
-ability('Tropius','Bulky Support', 'Harvest').
-item('Tropius','Bulky Support', 'Sitrus Berry').
-tera('Tropius','Bulky Support', 'Steel').
-move('Tropius','Bulky Support', 'Air Slash').
-move('Tropius','Bulky Support', 'Leech Seed').
-move('Tropius','Bulky Support', 'Protect').
-move('Tropius','Bulky Support', 'Substitute').
-pokemon('Tsareena', 87).
-ability('Tsareena', 'Queenly Majesty').
-item('Tsareena', 'Assault Vest').
-item('Tsareena', 'Choice Band').
-item('Tsareena', 'Choice Scarf').
-item('Tsareena', 'Heavy-Duty Boots').
-item('Tsareena', 'Life Orb').
-role('Tsareena', 'Fast Support').
-ability('Tsareena','Fast Support', 'Queenly Majesty').
-item('Tsareena','Fast Support', 'Assault Vest').
-item('Tsareena','Fast Support', 'Choice Band').
-item('Tsareena','Fast Support', 'Choice Scarf').
-item('Tsareena','Fast Support', 'Heavy-Duty Boots').
-item('Tsareena','Fast Support', 'Life Orb').
-tera('Tsareena','Fast Support', 'Fighting').
-tera('Tsareena','Fast Support', 'Steel').
-move('Tsareena','Fast Support', 'High Jump Kick').
-move('Tsareena','Fast Support', 'Knock Off').
-move('Tsareena','Fast Support', 'Power Whip').
-move('Tsareena','Fast Support', 'Rapid Spin').
-move('Tsareena','Fast Support', 'Synthesis').
-move('Tsareena','Fast Support', 'Triple Axel').
-move('Tsareena','Fast Support', 'U-turn').
-pokemon('Typhlosion', 84).
-ability('Typhlosion', 'Blaze').
-ability('Typhlosion', 'Flash Fire').
-item('Typhlosion', 'Choice Scarf').
-item('Typhlosion', 'Choice Specs').
-role('Typhlosion', 'Fast Attacker').
-ability('Typhlosion','Fast Attacker', 'Blaze').
-ability('Typhlosion','Fast Attacker', 'Flash Fire').
-item('Typhlosion','Fast Attacker', 'Choice Scarf').
-item('Typhlosion','Fast Attacker', 'Choice Specs').
-tera('Typhlosion','Fast Attacker', 'Fire').
-move('Typhlosion','Fast Attacker', 'Eruption').
-move('Typhlosion','Fast Attacker', 'Fire Blast').
-move('Typhlosion','Fast Attacker', 'Focus Blast').
-move('Typhlosion','Fast Attacker', 'Scorching Sands').
-pokemon('Typhlosion-Hisui', 83).
-ability('Typhlosion-Hisui', 'Blaze').
-item('Typhlosion-Hisui', 'Choice Scarf').
-item('Typhlosion-Hisui', 'Choice Specs').
-item('Typhlosion-Hisui', 'Heavy-Duty Boots').
-item('Typhlosion-Hisui', 'Leftovers').
-role('Typhlosion-Hisui', 'Fast Attacker').
-ability('Typhlosion-Hisui','Fast Attacker', 'Blaze').
-item('Typhlosion-Hisui','Fast Attacker', 'Choice Scarf').
-item('Typhlosion-Hisui','Fast Attacker', 'Choice Specs').
-tera('Typhlosion-Hisui','Fast Attacker', 'Fire').
-move('Typhlosion-Hisui','Fast Attacker', 'Eruption').
-move('Typhlosion-Hisui','Fast Attacker', 'Fire Blast').
-move('Typhlosion-Hisui','Fast Attacker', 'Focus Blast').
-move('Typhlosion-Hisui','Fast Attacker', 'Shadow Ball').
-role('Typhlosion-Hisui', 'Fast Bulky Setup').
-ability('Typhlosion-Hisui','Fast Bulky Setup', 'Blaze').
-item('Typhlosion-Hisui','Fast Bulky Setup', 'Heavy-Duty Boots').
-item('Typhlosion-Hisui','Fast Bulky Setup', 'Leftovers').
-tera('Typhlosion-Hisui','Fast Bulky Setup', 'Fighting').
-tera('Typhlosion-Hisui','Fast Bulky Setup', 'Fire').
-tera('Typhlosion-Hisui','Fast Bulky Setup', 'Ghost').
-move('Typhlosion-Hisui','Fast Bulky Setup', 'Calm Mind').
-move('Typhlosion-Hisui','Fast Bulky Setup', 'Fire Blast').
-move('Typhlosion-Hisui','Fast Bulky Setup', 'Focus Blast').
-move('Typhlosion-Hisui','Fast Bulky Setup', 'Shadow Ball').
-move('Typhlosion-Hisui','Fast Bulky Setup', 'Substitute').
-move('Typhlosion-Hisui','Fast Bulky Setup', 'Will-O-Wisp').
-pokemon('Tyranitar', 78).
-ability('Tyranitar', 'Sand Stream').
-item('Tyranitar', 'Assault Vest').
-item('Tyranitar', 'Leftovers').
-item('Tyranitar', 'Weakness Policy').
-role('Tyranitar', 'Bulky Setup').
-ability('Tyranitar','Bulky Setup', 'Sand Stream').
-item('Tyranitar','Bulky Setup', 'Weakness Policy').
-tera('Tyranitar','Bulky Setup', 'Ghost').
-tera('Tyranitar','Bulky Setup', 'Rock').
-move('Tyranitar','Bulky Setup', 'Dragon Dance').
-move('Tyranitar','Bulky Setup', 'Earthquake').
-move('Tyranitar','Bulky Setup', 'Ice Punch').
-move('Tyranitar','Bulky Setup', 'Knock Off').
-move('Tyranitar','Bulky Setup', 'Stone Edge').
-role('Tyranitar', 'Bulky Support').
-ability('Tyranitar','Bulky Support', 'Sand Stream').
-item('Tyranitar','Bulky Support', 'Assault Vest').
-item('Tyranitar','Bulky Support', 'Leftovers').
-tera('Tyranitar','Bulky Support', 'Ghost').
-tera('Tyranitar','Bulky Support', 'Rock').
-move('Tyranitar','Bulky Support', 'Dragon Tail').
-move('Tyranitar','Bulky Support', 'Earthquake').
-move('Tyranitar','Bulky Support', 'Ice Beam').
-move('Tyranitar','Bulky Support', 'Knock Off').
-move('Tyranitar','Bulky Support', 'Stealth Rock').
-move('Tyranitar','Bulky Support', 'Stone Edge').
-move('Tyranitar','Bulky Support', 'Thunder Wave').
-pokemon('Umbreon', 84).
-ability('Umbreon', 'Synchronize').
-item('Umbreon', 'Leftovers').
-role('Umbreon', 'Bulky Support').
-ability('Umbreon','Bulky Support', 'Synchronize').
-item('Umbreon','Bulky Support', 'Leftovers').
-tera('Umbreon','Bulky Support', 'Poison').
-move('Umbreon','Bulky Support', 'Foul Play').
-move('Umbreon','Bulky Support', 'Protect').
-move('Umbreon','Bulky Support', 'Toxic').
-move('Umbreon','Bulky Support', 'Wish').
-pokemon('Ursaluna', 79).
-ability('Ursaluna', 'Guts').
-item('Ursaluna', 'Flame Orb').
-role('Ursaluna', 'Bulky Attacker').
-ability('Ursaluna','Bulky Attacker', 'Guts').
-item('Ursaluna','Bulky Attacker', 'Flame Orb').
-tera('Ursaluna','Bulky Attacker', 'Normal').
-move('Ursaluna','Bulky Attacker', 'Crunch').
-move('Ursaluna','Bulky Attacker', 'Facade').
-move('Ursaluna','Bulky Attacker', 'Headlong Rush').
-move('Ursaluna','Bulky Attacker', 'Swords Dance').
-move('Ursaluna','Bulky Attacker', 'Throat Chop').
-move('Ursaluna','Bulky Attacker', 'Trailblaze').
-pokemon('Ursaluna-Bloodmoon', 79).
-ability('Ursaluna-Bloodmoon', 'Mind's Eye').
-item('Ursaluna-Bloodmoon', 'Leftovers').
-role('Ursaluna-Bloodmoon', 'Bulky Setup').
-ability('Ursaluna-Bloodmoon','Bulky Setup', 'Mind's Eye').
-item('Ursaluna-Bloodmoon','Bulky Setup', 'Leftovers').
-tera('Ursaluna-Bloodmoon','Bulky Setup', 'Fighting').
-tera('Ursaluna-Bloodmoon','Bulky Setup', 'Ghost').
-tera('Ursaluna-Bloodmoon','Bulky Setup', 'Normal').
-tera('Ursaluna-Bloodmoon','Bulky Setup', 'Poison').
-move('Ursaluna-Bloodmoon','Bulky Setup', 'Blood Moon').
-move('Ursaluna-Bloodmoon','Bulky Setup', 'Calm Mind').
-move('Ursaluna-Bloodmoon','Bulky Setup', 'Moonlight').
-move('Ursaluna-Bloodmoon','Bulky Setup', 'Vacuum Wave').
-role('Ursaluna-Bloodmoon', 'Bulky Attacker').
-ability('Ursaluna-Bloodmoon','Bulky Attacker', 'Mind's Eye').
-item('Ursaluna-Bloodmoon','Bulky Attacker', 'Leftovers').
-tera('Ursaluna-Bloodmoon','Bulky Attacker', 'Ghost').
-tera('Ursaluna-Bloodmoon','Bulky Attacker', 'Normal').
-tera('Ursaluna-Bloodmoon','Bulky Attacker', 'Poison').
-move('Ursaluna-Bloodmoon','Bulky Attacker', 'Blood Moon').
-move('Ursaluna-Bloodmoon','Bulky Attacker', 'Calm Mind').
-move('Ursaluna-Bloodmoon','Bulky Attacker', 'Earth Power').
-move('Ursaluna-Bloodmoon','Bulky Attacker', 'Moonlight').
-pokemon('Ursaring', 84).
-ability('Ursaring', 'Guts').
-ability('Ursaring', 'Quick Feet').
-item('Ursaring', 'Eviolite').
-item('Ursaring', 'Toxic Orb').
-role('Ursaring', 'Bulky Attacker').
-ability('Ursaring','Bulky Attacker', 'Guts').
-item('Ursaring','Bulky Attacker', 'Eviolite').
-tera('Ursaring','Bulky Attacker', 'Ghost').
-tera('Ursaring','Bulky Attacker', 'Ground').
-move('Ursaring','Bulky Attacker', 'Body Slam').
-move('Ursaring','Bulky Attacker', 'Earthquake').
-move('Ursaring','Bulky Attacker', 'Rest').
-move('Ursaring','Bulky Attacker', 'Sleep Talk').
-move('Ursaring','Bulky Attacker', 'Throat Chop').
-role('Ursaring', 'Setup Sweeper').
-ability('Ursaring','Setup Sweeper', 'Quick Feet').
-item('Ursaring','Setup Sweeper', 'Toxic Orb').
-tera('Ursaring','Setup Sweeper', 'Normal').
-move('Ursaring','Setup Sweeper', 'Close Combat').
-move('Ursaring','Setup Sweeper', 'Crunch').
-move('Ursaring','Setup Sweeper', 'Facade').
-move('Ursaring','Setup Sweeper', 'Swords Dance').
-move('Ursaring','Setup Sweeper', 'Throat Chop').
-pokemon('Urshifu', 74).
-ability('Urshifu', 'Unseen Fist').
-item('Urshifu', 'Choice Band').
-item('Urshifu', 'Choice Scarf').
-item('Urshifu', 'Life Orb').
-role('Urshifu', 'Fast Attacker').
-ability('Urshifu','Fast Attacker', 'Unseen Fist').
-item('Urshifu','Fast Attacker', 'Choice Band').
-item('Urshifu','Fast Attacker', 'Choice Scarf').
-item('Urshifu','Fast Attacker', 'Life Orb').
-tera('Urshifu','Fast Attacker', 'Dark').
-tera('Urshifu','Fast Attacker', 'Fighting').
-tera('Urshifu','Fast Attacker', 'Poison').
-move('Urshifu','Fast Attacker', 'Close Combat').
-move('Urshifu','Fast Attacker', 'Poison Jab').
-move('Urshifu','Fast Attacker', 'Sucker Punch').
-move('Urshifu','Fast Attacker', 'Swords Dance').
-move('Urshifu','Fast Attacker', 'U-turn').
-move('Urshifu','Fast Attacker', 'Wicked Blow').
-pokemon('Urshifu-Rapid-Strike', 75).
-ability('Urshifu-Rapid-Strike', 'Unseen Fist').
-item('Urshifu-Rapid-Strike', 'Choice Band').
-item('Urshifu-Rapid-Strike', 'Choice Scarf').
-item('Urshifu-Rapid-Strike', 'Life Orb').
-role('Urshifu-Rapid-Strike', 'Fast Attacker').
-ability('Urshifu-Rapid-Strike','Fast Attacker', 'Unseen Fist').
-item('Urshifu-Rapid-Strike','Fast Attacker', 'Choice Band').
-item('Urshifu-Rapid-Strike','Fast Attacker', 'Choice Scarf').
-item('Urshifu-Rapid-Strike','Fast Attacker', 'Life Orb').
-tera('Urshifu-Rapid-Strike','Fast Attacker', 'Water').
-move('Urshifu-Rapid-Strike','Fast Attacker', 'Aqua Jet').
-move('Urshifu-Rapid-Strike','Fast Attacker', 'Close Combat').
-move('Urshifu-Rapid-Strike','Fast Attacker', 'Ice Spinner').
-move('Urshifu-Rapid-Strike','Fast Attacker', 'Surging Strikes').
-move('Urshifu-Rapid-Strike','Fast Attacker', 'Swords Dance').
-move('Urshifu-Rapid-Strike','Fast Attacker', 'U-turn').
-pokemon('Uxie', 83).
-ability('Uxie', 'Levitate').
-item('Uxie', 'Leftovers').
-role('Uxie', 'Bulky Setup').
-ability('Uxie','Bulky Setup', 'Levitate').
-item('Uxie','Bulky Setup', 'Leftovers').
-tera('Uxie','Bulky Setup', 'Fairy').
-move('Uxie','Bulky Setup', 'Draining Kiss').
-move('Uxie','Bulky Setup', 'Encore').
-move('Uxie','Bulky Setup', 'Nasty Plot').
-move('Uxie','Bulky Setup', 'Psychic Noise').
-move('Uxie','Bulky Setup', 'Psyshock').
-move('Uxie','Bulky Setup', 'Substitute').
-role('Uxie', 'Bulky Support').
-ability('Uxie','Bulky Support', 'Levitate').
-item('Uxie','Bulky Support', 'Leftovers').
-tera('Uxie','Bulky Support', 'Dark').
-tera('Uxie','Bulky Support', 'Electric').
-tera('Uxie','Bulky Support', 'Steel').
-move('Uxie','Bulky Support', 'Encore').
-move('Uxie','Bulky Support', 'Knock Off').
-move('Uxie','Bulky Support', 'Psychic Noise').
-move('Uxie','Bulky Support', 'Stealth Rock').
-move('Uxie','Bulky Support', 'Thunder Wave').
-move('Uxie','Bulky Support', 'U-turn').
-move('Uxie','Bulky Support', 'Yawn').
-pokemon('Vaporeon', 86).
-ability('Vaporeon', 'Water Absorb').
-item('Vaporeon', 'Leftovers').
-role('Vaporeon', 'Bulky Support').
-ability('Vaporeon','Bulky Support', 'Water Absorb').
-item('Vaporeon','Bulky Support', 'Leftovers').
-tera('Vaporeon','Bulky Support', 'Ghost').
-tera('Vaporeon','Bulky Support', 'Ground').
-tera('Vaporeon','Bulky Support', 'Poison').
-move('Vaporeon','Bulky Support', 'Flip Turn').
-move('Vaporeon','Bulky Support', 'Ice Beam').
-move('Vaporeon','Bulky Support', 'Protect').
-move('Vaporeon','Bulky Support', 'Scald').
-move('Vaporeon','Bulky Support', 'Wish').
-role('Vaporeon', 'Bulky Attacker').
-ability('Vaporeon','Bulky Attacker', 'Water Absorb').
-item('Vaporeon','Bulky Attacker', 'Leftovers').
-tera('Vaporeon','Bulky Attacker', 'Ghost').
-tera('Vaporeon','Bulky Attacker', 'Ground').
-tera('Vaporeon','Bulky Attacker', 'Poison').
-move('Vaporeon','Bulky Attacker', 'Haze').
-move('Vaporeon','Bulky Attacker', 'Protect').
-move('Vaporeon','Bulky Attacker', 'Roar').
-move('Vaporeon','Bulky Attacker', 'Scald').
-move('Vaporeon','Bulky Attacker', 'Wish').
-role('Vaporeon', 'Bulky Setup').
-ability('Vaporeon','Bulky Setup', 'Water Absorb').
-item('Vaporeon','Bulky Setup', 'Leftovers').
-tera('Vaporeon','Bulky Setup', 'Ghost').
-tera('Vaporeon','Bulky Setup', 'Ground').
-tera('Vaporeon','Bulky Setup', 'Poison').
-move('Vaporeon','Bulky Setup', 'Calm Mind').
-move('Vaporeon','Bulky Setup', 'Protect').
-move('Vaporeon','Bulky Setup', 'Scald').
-move('Vaporeon','Bulky Setup', 'Wish').
-pokemon('Veluza', 85).
-ability('Veluza', 'Sharpness').
-item('Veluza', 'Choice Band').
-item('Veluza', 'Choice Scarf').
-item('Veluza', 'Sitrus Berry').
-role('Veluza', 'Setup Sweeper').
-ability('Veluza','Setup Sweeper', 'Sharpness').
-item('Veluza','Setup Sweeper', 'Sitrus Berry').
-tera('Veluza','Setup Sweeper', 'Dark').
-tera('Veluza','Setup Sweeper', 'Psychic').
-tera('Veluza','Setup Sweeper', 'Water').
-move('Veluza','Setup Sweeper', 'Aqua Cutter').
-move('Veluza','Setup Sweeper', 'Fillet Away').
-move('Veluza','Setup Sweeper', 'Night Slash').
-move('Veluza','Setup Sweeper', 'Psycho Cut').
-role('Veluza', 'Fast Attacker').
-ability('Veluza','Fast Attacker', 'Sharpness').
-item('Veluza','Fast Attacker', 'Choice Band').
-item('Veluza','Fast Attacker', 'Choice Scarf').
-tera('Veluza','Fast Attacker', 'Dark').
-tera('Veluza','Fast Attacker', 'Water').
-move('Veluza','Fast Attacker', 'Aqua Cutter').
-move('Veluza','Fast Attacker', 'Aqua Jet').
-move('Veluza','Fast Attacker', 'Flip Turn').
-move('Veluza','Fast Attacker', 'Night Slash').
-move('Veluza','Fast Attacker', 'Psycho Cut').
-pokemon('Venomoth', 84).
-ability('Venomoth', 'Tinted Lens').
-item('Venomoth', 'Heavy-Duty Boots').
-role('Venomoth', 'Setup Sweeper').
-ability('Venomoth','Setup Sweeper', 'Tinted Lens').
-item('Venomoth','Setup Sweeper', 'Heavy-Duty Boots').
-tera('Venomoth','Setup Sweeper', 'Bug').
-tera('Venomoth','Setup Sweeper', 'Poison').
-tera('Venomoth','Setup Sweeper', 'Steel').
-tera('Venomoth','Setup Sweeper', 'Water').
-move('Venomoth','Setup Sweeper', 'Bug Buzz').
-move('Venomoth','Setup Sweeper', 'Quiver Dance').
-move('Venomoth','Setup Sweeper', 'Sleep Powder').
-move('Venomoth','Setup Sweeper', 'Sludge Wave').
-pokemon('Venusaur', 84).
-ability('Venusaur', 'Chlorophyll').
-ability('Venusaur', 'Overgrow').
-item('Venusaur', 'Leftovers').
-role('Venusaur', 'Bulky Support').
-ability('Venusaur','Bulky Support', 'Chlorophyll').
-ability('Venusaur','Bulky Support', 'Overgrow').
-item('Venusaur','Bulky Support', 'Leftovers').
-tera('Venusaur','Bulky Support', 'Steel').
-tera('Venusaur','Bulky Support', 'Water').
-move('Venusaur','Bulky Support', 'Giga Drain').
-move('Venusaur','Bulky Support', 'Leech Seed').
-move('Venusaur','Bulky Support', 'Sleep Powder').
-move('Venusaur','Bulky Support', 'Sludge Bomb').
-move('Venusaur','Bulky Support', 'Substitute').
-role('Venusaur', 'Bulky Attacker').
-ability('Venusaur','Bulky Attacker', 'Chlorophyll').
-ability('Venusaur','Bulky Attacker', 'Overgrow').
-item('Venusaur','Bulky Attacker', 'Leftovers').
-tera('Venusaur','Bulky Attacker', 'Dark').
-tera('Venusaur','Bulky Attacker', 'Steel').
-tera('Venusaur','Bulky Attacker', 'Water').
-move('Venusaur','Bulky Attacker', 'Earth Power').
-move('Venusaur','Bulky Attacker', 'Energy Ball').
-move('Venusaur','Bulky Attacker', 'Knock Off').
-move('Venusaur','Bulky Attacker', 'Sleep Powder').
-move('Venusaur','Bulky Attacker', 'Sludge Bomb').
-move('Venusaur','Bulky Attacker', 'Synthesis').
-move('Venusaur','Bulky Attacker', 'Toxic').
-pokemon('Vespiquen', 99).
-ability('Vespiquen', 'Pressure').
-item('Vespiquen', 'Heavy-Duty Boots').
-role('Vespiquen', 'Bulky Support').
-ability('Vespiquen','Bulky Support', 'Pressure').
-item('Vespiquen','Bulky Support', 'Heavy-Duty Boots').
-tera('Vespiquen','Bulky Support', 'Steel').
-move('Vespiquen','Bulky Support', 'Air Slash').
-move('Vespiquen','Bulky Support', 'Hurricane').
-move('Vespiquen','Bulky Support', 'Roost').
-move('Vespiquen','Bulky Support', 'Spikes').
-move('Vespiquen','Bulky Support', 'Toxic').
-move('Vespiquen','Bulky Support', 'Toxic Spikes').
-move('Vespiquen','Bulky Support', 'U-turn').
-pokemon('Victreebel', 90).
-ability('Victreebel', 'Chlorophyll').
-item('Victreebel', 'Life Orb').
-role('Victreebel', 'Setup Sweeper').
-ability('Victreebel','Setup Sweeper', 'Chlorophyll').
-item('Victreebel','Setup Sweeper', 'Life Orb').
-tera('Victreebel','Setup Sweeper', 'Dark').
-tera('Victreebel','Setup Sweeper', 'Grass').
-move('Victreebel','Setup Sweeper', 'Poison Jab').
-move('Victreebel','Setup Sweeper', 'Power Whip').
-move('Victreebel','Setup Sweeper', 'Sucker Punch').
-move('Victreebel','Setup Sweeper', 'Swords Dance').
-role('Victreebel', 'Fast Attacker').
-ability('Victreebel','Fast Attacker', 'Chlorophyll').
-item('Victreebel','Fast Attacker', 'Life Orb').
-tera('Victreebel','Fast Attacker', 'Fire').
-move('Victreebel','Fast Attacker', 'Power Whip').
-move('Victreebel','Fast Attacker', 'Sludge Wave').
-move('Victreebel','Fast Attacker', 'Sunny Day').
-move('Victreebel','Fast Attacker', 'Weather Ball').
-role('Victreebel', 'Wallbreaker').
-ability('Victreebel','Wallbreaker', 'Chlorophyll').
-item('Victreebel','Wallbreaker', 'Life Orb').
-tera('Victreebel','Wallbreaker', 'Grass').
-tera('Victreebel','Wallbreaker', 'Steel').
-move('Victreebel','Wallbreaker', 'Knock Off').
-move('Victreebel','Wallbreaker', 'Power Whip').
-move('Victreebel','Wallbreaker', 'Sleep Powder').
-move('Victreebel','Wallbreaker', 'Sludge Wave').
-move('Victreebel','Wallbreaker', 'Strength Sap').
-move('Victreebel','Wallbreaker', 'Sucker Punch').
-pokemon('Vigoroth', 85).
-ability('Vigoroth', 'Vital Spirit').
-item('Vigoroth', 'Eviolite').
-role('Vigoroth', 'Bulky Attacker').
-ability('Vigoroth','Bulky Attacker', 'Vital Spirit').
-item('Vigoroth','Bulky Attacker', 'Eviolite').
-tera('Vigoroth','Bulky Attacker', 'Ground').
-move('Vigoroth','Bulky Attacker', 'Body Slam').
-move('Vigoroth','Bulky Attacker', 'Bulk Up').
-move('Vigoroth','Bulky Attacker', 'Earthquake').
-move('Vigoroth','Bulky Attacker', 'Slack Off').
-role('Vigoroth', 'Bulky Setup').
-ability('Vigoroth','Bulky Setup', 'Vital Spirit').
-item('Vigoroth','Bulky Setup', 'Eviolite').
-tera('Vigoroth','Bulky Setup', 'Ghost').
-move('Vigoroth','Bulky Setup', 'Body Slam').
-move('Vigoroth','Bulky Setup', 'Bulk Up').
-move('Vigoroth','Bulky Setup', 'Knock Off').
-move('Vigoroth','Bulky Setup', 'Slack Off').
-pokemon('Vikavolt', 83).
-ability('Vikavolt', 'Levitate').
-item('Vikavolt', 'Heavy-Duty Boots').
-role('Vikavolt', 'Bulky Support').
-ability('Vikavolt','Bulky Support', 'Levitate').
-item('Vikavolt','Bulky Support', 'Heavy-Duty Boots').
-tera('Vikavolt','Bulky Support', 'Electric').
-move('Vikavolt','Bulky Support', 'Bug Buzz').
-move('Vikavolt','Bulky Support', 'Discharge').
-move('Vikavolt','Bulky Support', 'Energy Ball').
-move('Vikavolt','Bulky Support', 'Sticky Web').
-move('Vikavolt','Bulky Support', 'Thunderbolt').
-move('Vikavolt','Bulky Support', 'Volt Switch').
-pokemon('Vileplume', 85).
-ability('Vileplume', 'Effect Spore').
-item('Vileplume', 'Leftovers').
-role('Vileplume', 'Bulky Attacker').
-ability('Vileplume','Bulky Attacker', 'Effect Spore').
-item('Vileplume','Bulky Attacker', 'Leftovers').
-tera('Vileplume','Bulky Attacker', 'Steel').
-tera('Vileplume','Bulky Attacker', 'Water').
-move('Vileplume','Bulky Attacker', 'Giga Drain').
-move('Vileplume','Bulky Attacker', 'Leech Seed').
-move('Vileplume','Bulky Attacker', 'Sleep Powder').
-move('Vileplume','Bulky Attacker', 'Sludge Bomb').
-move('Vileplume','Bulky Attacker', 'Strength Sap').
-pokemon('Virizion', 82).
-ability('Virizion', 'Justified').
-item('Virizion', 'Life Orb').
-role('Virizion', 'Setup Sweeper').
-ability('Virizion','Setup Sweeper', 'Justified').
-item('Virizion','Setup Sweeper', 'Life Orb').
-tera('Virizion','Setup Sweeper', 'Rock').
-move('Virizion','Setup Sweeper', 'Close Combat').
-move('Virizion','Setup Sweeper', 'Leaf Blade').
-move('Virizion','Setup Sweeper', 'Stone Edge').
-move('Virizion','Setup Sweeper', 'Swords Dance').
-pokemon('Vivillon', 83).
-ability('Vivillon', 'Compound Eyes').
-item('Vivillon', 'Heavy-Duty Boots').
-role('Vivillon', 'Fast Bulky Setup').
-ability('Vivillon','Fast Bulky Setup', 'Compound Eyes').
-item('Vivillon','Fast Bulky Setup', 'Heavy-Duty Boots').
-tera('Vivillon','Fast Bulky Setup', 'Flying').
-tera('Vivillon','Fast Bulky Setup', 'Steel').
-move('Vivillon','Fast Bulky Setup', 'Bug Buzz').
-move('Vivillon','Fast Bulky Setup', 'Hurricane').
-move('Vivillon','Fast Bulky Setup', 'Quiver Dance').
-move('Vivillon','Fast Bulky Setup', 'Sleep Powder').
-role('Vivillon', 'Tera Blast user').
-ability('Vivillon','Tera Blast user', 'Compound Eyes').
-item('Vivillon','Tera Blast user', 'Heavy-Duty Boots').
-tera('Vivillon','Tera Blast user', 'Ground').
-move('Vivillon','Tera Blast user', 'Hurricane').
-move('Vivillon','Tera Blast user', 'Quiver Dance').
-move('Vivillon','Tera Blast user', 'Sleep Powder').
-move('Vivillon','Tera Blast user', 'Tera Blast').
-pokemon('Volbeat', 90).
-ability('Volbeat', 'Prankster').
-item('Volbeat', 'Heavy-Duty Boots').
-role('Volbeat', 'Bulky Attacker').
-ability('Volbeat','Bulky Attacker', 'Prankster').
-item('Volbeat','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Volbeat','Bulky Attacker', 'Steel').
-tera('Volbeat','Bulky Attacker', 'Water').
-move('Volbeat','Bulky Attacker', 'Encore').
-move('Volbeat','Bulky Attacker', 'Lunge').
-move('Volbeat','Bulky Attacker', 'Roost').
-move('Volbeat','Bulky Attacker', 'Thunder Wave').
-role('Volbeat', 'Bulky Support').
-ability('Volbeat','Bulky Support', 'Prankster').
-item('Volbeat','Bulky Support', 'Heavy-Duty Boots').
-tera('Volbeat','Bulky Support', 'Steel').
-tera('Volbeat','Bulky Support', 'Water').
-move('Volbeat','Bulky Support', 'Encore').
-move('Volbeat','Bulky Support', 'Roost').
-move('Volbeat','Bulky Support', 'Thunder Wave').
-move('Volbeat','Bulky Support', 'U-turn').
-pokemon('Volcanion', 79).
-ability('Volcanion', 'Water Absorb').
-item('Volcanion', 'Assault Vest').
-item('Volcanion', 'Choice Scarf').
-item('Volcanion', 'Choice Specs').
-item('Volcanion', 'Heavy-Duty Boots').
-role('Volcanion', 'Bulky Attacker').
-ability('Volcanion','Bulky Attacker', 'Water Absorb').
-item('Volcanion','Bulky Attacker', 'Assault Vest').
-item('Volcanion','Bulky Attacker', 'Choice Scarf').
-item('Volcanion','Bulky Attacker', 'Choice Specs').
-item('Volcanion','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Volcanion','Bulky Attacker', 'Fire').
-tera('Volcanion','Bulky Attacker', 'Ground').
-tera('Volcanion','Bulky Attacker', 'Water').
-move('Volcanion','Bulky Attacker', 'Earth Power').
-move('Volcanion','Bulky Attacker', 'Flame Charge').
-move('Volcanion','Bulky Attacker', 'Flamethrower').
-move('Volcanion','Bulky Attacker', 'Haze').
-move('Volcanion','Bulky Attacker', 'Sludge Bomb').
-move('Volcanion','Bulky Attacker', 'Steam Eruption').
-pokemon('Volcarona', 77).
-ability('Volcarona', 'Flame Body').
-ability('Volcarona', 'Swarm').
-item('Volcarona', 'Heavy-Duty Boots').
-role('Volcarona', 'Fast Bulky Setup').
-ability('Volcarona','Fast Bulky Setup', 'Flame Body').
-ability('Volcarona','Fast Bulky Setup', 'Swarm').
-item('Volcarona','Fast Bulky Setup', 'Heavy-Duty Boots').
-tera('Volcarona','Fast Bulky Setup', 'Fire').
-tera('Volcarona','Fast Bulky Setup', 'Grass').
-tera('Volcarona','Fast Bulky Setup', 'Steel').
-move('Volcarona','Fast Bulky Setup', 'Bug Buzz').
-move('Volcarona','Fast Bulky Setup', 'Fiery Dance').
-move('Volcarona','Fast Bulky Setup', 'Fire Blast').
-move('Volcarona','Fast Bulky Setup', 'Giga Drain').
-move('Volcarona','Fast Bulky Setup', 'Morning Sun').
-move('Volcarona','Fast Bulky Setup', 'Quiver Dance').
-role('Volcarona', 'Tera Blast user').
-ability('Volcarona','Tera Blast user', 'Flame Body').
-ability('Volcarona','Tera Blast user', 'Swarm').
-item('Volcarona','Tera Blast user', 'Heavy-Duty Boots').
-tera('Volcarona','Tera Blast user', 'Ground').
-tera('Volcarona','Tera Blast user', 'Water').
-move('Volcarona','Tera Blast user', 'Bug Buzz').
-move('Volcarona','Tera Blast user', 'Fiery Dance').
-move('Volcarona','Tera Blast user', 'Fire Blast').
-move('Volcarona','Tera Blast user', 'Giga Drain').
-move('Volcarona','Tera Blast user', 'Quiver Dance').
-move('Volcarona','Tera Blast user', 'Tera Blast').
-pokemon('Walking Wake', 79).
-ability('Walking Wake', 'Protosynthesis').
-item('Walking Wake', 'Choice Specs').
-item('Walking Wake', 'Life Orb').
-role('Walking Wake', 'Wallbreaker').
-ability('Walking Wake','Wallbreaker', 'Protosynthesis').
-item('Walking Wake','Wallbreaker', 'Choice Specs').
-tera('Walking Wake','Wallbreaker', 'Fire').
-tera('Walking Wake','Wallbreaker', 'Water').
-move('Walking Wake','Wallbreaker', 'Draco Meteor').
-move('Walking Wake','Wallbreaker', 'Flamethrower').
-move('Walking Wake','Wallbreaker', 'Flip Turn').
-move('Walking Wake','Wallbreaker', 'Hydro Pump').
-role('Walking Wake', 'Fast Attacker').
-ability('Walking Wake','Fast Attacker', 'Protosynthesis').
-item('Walking Wake','Fast Attacker', 'Life Orb').
-tera('Walking Wake','Fast Attacker', 'Fire').
-move('Walking Wake','Fast Attacker', 'Draco Meteor').
-move('Walking Wake','Fast Attacker', 'Flamethrower').
-move('Walking Wake','Fast Attacker', 'Hydro Steam').
-move('Walking Wake','Fast Attacker', 'Sunny Day').
-pokemon('Weavile', 79).
-ability('Weavile', 'Pickpocket').
-item('Weavile', 'Choice Band').
-item('Weavile', 'Heavy-Duty Boots').
-role('Weavile', 'Fast Attacker').
-ability('Weavile','Fast Attacker', 'Pickpocket').
-item('Weavile','Fast Attacker', 'Choice Band').
-item('Weavile','Fast Attacker', 'Heavy-Duty Boots').
-tera('Weavile','Fast Attacker', 'Dark').
-tera('Weavile','Fast Attacker', 'Fighting').
-tera('Weavile','Fast Attacker', 'Ice').
-move('Weavile','Fast Attacker', 'Ice Shard').
-move('Weavile','Fast Attacker', 'Knock Off').
-move('Weavile','Fast Attacker', 'Low Kick').
-move('Weavile','Fast Attacker', 'Swords Dance').
-move('Weavile','Fast Attacker', 'Triple Axel').
-pokemon('Weezing', 88).
-ability('Weezing', 'Levitate').
-item('Weezing', 'Leftovers').
-role('Weezing', 'Bulky Attacker').
-ability('Weezing','Bulky Attacker', 'Levitate').
-item('Weezing','Bulky Attacker', 'Leftovers').
-tera('Weezing','Bulky Attacker', 'Steel').
-move('Weezing','Bulky Attacker', 'Fire Blast').
-move('Weezing','Bulky Attacker', 'Gunk Shot').
-move('Weezing','Bulky Attacker', 'Pain Split').
-move('Weezing','Bulky Attacker', 'Sludge Bomb').
-move('Weezing','Bulky Attacker', 'Toxic Spikes').
-move('Weezing','Bulky Attacker', 'Will-O-Wisp').
-pokemon('Weezing-Galar', 86).
-ability('Weezing-Galar', 'Levitate').
-item('Weezing-Galar', 'Leftovers').
-role('Weezing-Galar', 'Bulky Support').
-ability('Weezing-Galar','Bulky Support', 'Levitate').
-item('Weezing-Galar','Bulky Support', 'Leftovers').
-tera('Weezing-Galar','Bulky Support', 'Steel').
-move('Weezing-Galar','Bulky Support', 'Defog').
-move('Weezing-Galar','Bulky Support', 'Fire Blast').
-move('Weezing-Galar','Bulky Support', 'Gunk Shot').
-move('Weezing-Galar','Bulky Support', 'Pain Split').
-move('Weezing-Galar','Bulky Support', 'Strange Steam').
-move('Weezing-Galar','Bulky Support', 'Will-O-Wisp').
-pokemon('Whimsicott', 84).
-ability('Whimsicott', 'Prankster').
-item('Whimsicott', 'Heavy-Duty Boots').
-item('Whimsicott', 'Leftovers').
-role('Whimsicott', 'Fast Support').
-ability('Whimsicott','Fast Support', 'Prankster').
-item('Whimsicott','Fast Support', 'Heavy-Duty Boots').
-item('Whimsicott','Fast Support', 'Leftovers').
-tera('Whimsicott','Fast Support', 'Poison').
-tera('Whimsicott','Fast Support', 'Steel').
-move('Whimsicott','Fast Support', 'Encore').
-move('Whimsicott','Fast Support', 'Giga Drain').
-move('Whimsicott','Fast Support', 'Moonblast').
-move('Whimsicott','Fast Support', 'Stun Spore').
-move('Whimsicott','Fast Support', 'U-turn').
-role('Whimsicott', 'Bulky Support').
-ability('Whimsicott','Bulky Support', 'Prankster').
-item('Whimsicott','Bulky Support', 'Leftovers').
-tera('Whimsicott','Bulky Support', 'Poison').
-tera('Whimsicott','Bulky Support', 'Steel').
-move('Whimsicott','Bulky Support', 'Encore').
-move('Whimsicott','Bulky Support', 'Leech Seed').
-move('Whimsicott','Bulky Support', 'Moonblast').
-move('Whimsicott','Bulky Support', 'Substitute').
-pokemon('Whiscash', 88).
-ability('Whiscash', 'Oblivious').
-item('Whiscash', 'Leftovers').
-item('Whiscash', 'Life Orb').
-role('Whiscash', 'Setup Sweeper').
-ability('Whiscash','Setup Sweeper', 'Oblivious').
-item('Whiscash','Setup Sweeper', 'Life Orb').
-tera('Whiscash','Setup Sweeper', 'Ground').
-tera('Whiscash','Setup Sweeper', 'Steel').
-move('Whiscash','Setup Sweeper', 'Dragon Dance').
-move('Whiscash','Setup Sweeper', 'Earthquake').
-move('Whiscash','Setup Sweeper', 'Liquidation').
-move('Whiscash','Setup Sweeper', 'Stone Edge').
-role('Whiscash', 'Bulky Support').
-ability('Whiscash','Bulky Support', 'Oblivious').
-item('Whiscash','Bulky Support', 'Leftovers').
-tera('Whiscash','Bulky Support', 'Ghost').
-tera('Whiscash','Bulky Support', 'Poison').
-tera('Whiscash','Bulky Support', 'Steel').
-move('Whiscash','Bulky Support', 'Earthquake').
-move('Whiscash','Bulky Support', 'Hydro Pump').
-move('Whiscash','Bulky Support', 'Ice Beam').
-move('Whiscash','Bulky Support', 'Spikes').
-move('Whiscash','Bulky Support', 'Stealth Rock').
-pokemon('Wigglytuff', 96).
-ability('Wigglytuff', 'Competitive').
-item('Wigglytuff', 'Leftovers').
-role('Wigglytuff', 'Bulky Support').
-ability('Wigglytuff','Bulky Support', 'Competitive').
-item('Wigglytuff','Bulky Support', 'Leftovers').
-tera('Wigglytuff','Bulky Support', 'Poison').
-tera('Wigglytuff','Bulky Support', 'Steel').
-move('Wigglytuff','Bulky Support', 'Alluring Voice').
-move('Wigglytuff','Bulky Support', 'Dazzling Gleam').
-move('Wigglytuff','Bulky Support', 'Fire Blast').
-move('Wigglytuff','Bulky Support', 'Knock Off').
-move('Wigglytuff','Bulky Support', 'Protect').
-move('Wigglytuff','Bulky Support', 'Thunder Wave').
-move('Wigglytuff','Bulky Support', 'Wish').
-pokemon('Wo-Chien', 83).
-ability('Wo-Chien', 'Tablets of Ruin').
-item('Wo-Chien', 'Leftovers').
-role('Wo-Chien', 'Bulky Support').
-ability('Wo-Chien','Bulky Support', 'Tablets of Ruin').
-item('Wo-Chien','Bulky Support', 'Leftovers').
-tera('Wo-Chien','Bulky Support', 'Poison').
-move('Wo-Chien','Bulky Support', 'Giga Drain').
-move('Wo-Chien','Bulky Support', 'Knock Off').
-move('Wo-Chien','Bulky Support', 'Leech Seed').
-move('Wo-Chien','Bulky Support', 'Protect').
-move('Wo-Chien','Bulky Support', 'Ruination').
-move('Wo-Chien','Bulky Support', 'Stun Spore').
-pokemon('Wugtrio', 91).
-ability('Wugtrio', 'Gooey').
-item('Wugtrio', 'Choice Band').
-role('Wugtrio', 'Fast Attacker').
-ability('Wugtrio','Fast Attacker', 'Gooey').
-item('Wugtrio','Fast Attacker', 'Choice Band').
-tera('Wugtrio','Fast Attacker', 'Dark').
-tera('Wugtrio','Fast Attacker', 'Ground').
-tera('Wugtrio','Fast Attacker', 'Water').
-move('Wugtrio','Fast Attacker', 'Aqua Jet').
-move('Wugtrio','Fast Attacker', 'Liquidation').
-move('Wugtrio','Fast Attacker', 'Stomping Tantrum').
-move('Wugtrio','Fast Attacker', 'Throat Chop').
-pokemon('Wyrdeer', 87).
-ability('Wyrdeer', 'Intimidate').
-item('Wyrdeer', 'Assault Vest').
-item('Wyrdeer', 'Leftovers').
-role('Wyrdeer', 'Bulky Attacker').
-ability('Wyrdeer','Bulky Attacker', 'Intimidate').
-item('Wyrdeer','Bulky Attacker', 'Assault Vest').
-item('Wyrdeer','Bulky Attacker', 'Leftovers').
-tera('Wyrdeer','Bulky Attacker', 'Ground').
-move('Wyrdeer','Bulky Attacker', 'Body Slam').
-move('Wyrdeer','Bulky Attacker', 'Earthquake').
-move('Wyrdeer','Bulky Attacker', 'Megahorn').
-move('Wyrdeer','Bulky Attacker', 'Psychic Noise').
-move('Wyrdeer','Bulky Attacker', 'Thunder Wave').
-pokemon('Yanmega', 82).
-ability('Yanmega', 'Speed Boost').
-ability('Yanmega', 'Tinted Lens').
-item('Yanmega', 'Choice Specs').
-item('Yanmega', 'Heavy-Duty Boots').
-role('Yanmega', 'Wallbreaker').
-ability('Yanmega','Wallbreaker', 'Tinted Lens').
-item('Yanmega','Wallbreaker', 'Choice Specs').
-tera('Yanmega','Wallbreaker', 'Bug').
-move('Yanmega','Wallbreaker', 'Air Slash').
-move('Yanmega','Wallbreaker', 'Bug Buzz').
-move('Yanmega','Wallbreaker', 'Giga Drain').
-move('Yanmega','Wallbreaker', 'U-turn').
-role('Yanmega', 'Tera Blast user').
-ability('Yanmega','Tera Blast user', 'Speed Boost').
-item('Yanmega','Tera Blast user', 'Heavy-Duty Boots').
-tera('Yanmega','Tera Blast user', 'Ground').
-move('Yanmega','Tera Blast user', 'Air Slash').
-move('Yanmega','Tera Blast user', 'Bug Buzz').
-move('Yanmega','Tera Blast user', 'Protect').
-move('Yanmega','Tera Blast user', 'Tera Blast').
-pokemon('Zacian', 69).
-ability('Zacian', 'Intrepid Sword').
-item('Zacian', 'Choice Band').
-item('Zacian', 'Life Orb').
-role('Zacian', 'Fast Attacker').
-ability('Zacian','Fast Attacker', 'Intrepid Sword').
-item('Zacian','Fast Attacker', 'Choice Band').
-item('Zacian','Fast Attacker', 'Life Orb').
-tera('Zacian','Fast Attacker', 'Fighting').
-move('Zacian','Fast Attacker', 'Close Combat').
-move('Zacian','Fast Attacker', 'Crunch').
-move('Zacian','Fast Attacker', 'Play Rough').
-move('Zacian','Fast Attacker', 'Psychic Fangs').
-move('Zacian','Fast Attacker', 'Swords Dance').
-move('Zacian','Fast Attacker', 'Wild Charge').
-pokemon('Zacian-Crowned', 64).
-ability('Zacian-Crowned', 'Intrepid Sword').
-item('Zacian-Crowned', 'Rusted Sword').
-role('Zacian-Crowned', 'Setup Sweeper').
-ability('Zacian-Crowned','Setup Sweeper', 'Intrepid Sword').
-item('Zacian-Crowned','Setup Sweeper', 'Rusted Sword').
-tera('Zacian-Crowned','Setup Sweeper', 'Fighting').
-move('Zacian-Crowned','Setup Sweeper', 'Behemoth Blade').
-move('Zacian-Crowned','Setup Sweeper', 'Close Combat').
-move('Zacian-Crowned','Setup Sweeper', 'Play Rough').
-move('Zacian-Crowned','Setup Sweeper', 'Swords Dance').
-pokemon('Zamazenta', 71).
-ability('Zamazenta', 'Dauntless Shield').
-item('Zamazenta', 'Chesto Berry').
-item('Zamazenta', 'Choice Band').
-item('Zamazenta', 'Leftovers').
-role('Zamazenta', 'Bulky Setup').
-ability('Zamazenta','Bulky Setup', 'Dauntless Shield').
-item('Zamazenta','Bulky Setup', 'Chesto Berry').
-item('Zamazenta','Bulky Setup', 'Leftovers').
-tera('Zamazenta','Bulky Setup', 'Steel').
-move('Zamazenta','Bulky Setup', 'Body Press').
-move('Zamazenta','Bulky Setup', 'Crunch').
-move('Zamazenta','Bulky Setup', 'Iron Defense').
-move('Zamazenta','Bulky Setup', 'Iron Head').
-move('Zamazenta','Bulky Setup', 'Rest').
-move('Zamazenta','Bulky Setup', 'Stone Edge').
-move('Zamazenta','Bulky Setup', 'Substitute').
-role('Zamazenta', 'Bulky Attacker').
-ability('Zamazenta','Bulky Attacker', 'Dauntless Shield').
-item('Zamazenta','Bulky Attacker', 'Choice Band').
-tera('Zamazenta','Bulky Attacker', 'Dark').
-tera('Zamazenta','Bulky Attacker', 'Fighting').
-tera('Zamazenta','Bulky Attacker', 'Steel').
-move('Zamazenta','Bulky Attacker', 'Close Combat').
-move('Zamazenta','Bulky Attacker', 'Crunch').
-move('Zamazenta','Bulky Attacker', 'Iron Head').
-move('Zamazenta','Bulky Attacker', 'Psychic Fangs').
-move('Zamazenta','Bulky Attacker', 'Stone Edge').
-pokemon('Zamazenta-Crowned', 68).
-ability('Zamazenta-Crowned', 'Dauntless Shield').
-item('Zamazenta-Crowned', 'Rusted Shield').
-role('Zamazenta-Crowned', 'Bulky Setup').
-ability('Zamazenta-Crowned','Bulky Setup', 'Dauntless Shield').
-item('Zamazenta-Crowned','Bulky Setup', 'Rusted Shield').
-tera('Zamazenta-Crowned','Bulky Setup', 'Fighting').
-tera('Zamazenta-Crowned','Bulky Setup', 'Ghost').
-move('Zamazenta-Crowned','Bulky Setup', 'Body Press').
-move('Zamazenta-Crowned','Bulky Setup', 'Heavy Slam').
-move('Zamazenta-Crowned','Bulky Setup', 'Iron Defense').
-move('Zamazenta-Crowned','Bulky Setup', 'Stone Edge').
-pokemon('Zangoose', 85).
-ability('Zangoose', 'Toxic Boost').
-item('Zangoose', 'Toxic Orb').
-role('Zangoose', 'Fast Attacker').
-ability('Zangoose','Fast Attacker', 'Toxic Boost').
-item('Zangoose','Fast Attacker', 'Toxic Orb').
-tera('Zangoose','Fast Attacker', 'Normal').
-move('Zangoose','Fast Attacker', 'Close Combat').
-move('Zangoose','Fast Attacker', 'Facade').
-move('Zangoose','Fast Attacker', 'Knock Off').
-move('Zangoose','Fast Attacker', 'Quick Attack').
-move('Zangoose','Fast Attacker', 'Swords Dance').
-pokemon('Zapdos', 78).
-ability('Zapdos', 'Static').
-item('Zapdos', 'Heavy-Duty Boots').
-role('Zapdos', 'Bulky Attacker').
-ability('Zapdos','Bulky Attacker', 'Static').
-item('Zapdos','Bulky Attacker', 'Heavy-Duty Boots').
-tera('Zapdos','Bulky Attacker', 'Electric').
-tera('Zapdos','Bulky Attacker', 'Steel').
-move('Zapdos','Bulky Attacker', 'Discharge').
-move('Zapdos','Bulky Attacker', 'Heat Wave').
-move('Zapdos','Bulky Attacker', 'Hurricane').
-move('Zapdos','Bulky Attacker', 'Roost').
-move('Zapdos','Bulky Attacker', 'Thunderbolt').
-move('Zapdos','Bulky Attacker', 'U-turn').
-pokemon('Zapdos-Galar', 77).
-ability('Zapdos-Galar', 'Defiant').
-item('Zapdos-Galar', 'Choice Band').
-item('Zapdos-Galar', 'Choice Scarf').
-item('Zapdos-Galar', 'Life Orb').
-role('Zapdos-Galar', 'Fast Attacker').
-ability('Zapdos-Galar','Fast Attacker', 'Defiant').
-item('Zapdos-Galar','Fast Attacker', 'Choice Band').
-item('Zapdos-Galar','Fast Attacker', 'Choice Scarf').
-item('Zapdos-Galar','Fast Attacker', 'Life Orb').
-tera('Zapdos-Galar','Fast Attacker', 'Dark').
-tera('Zapdos-Galar','Fast Attacker', 'Fighting').
-tera('Zapdos-Galar','Fast Attacker', 'Steel').
-move('Zapdos-Galar','Fast Attacker', 'Brave Bird').
-move('Zapdos-Galar','Fast Attacker', 'Bulk Up').
-move('Zapdos-Galar','Fast Attacker', 'Close Combat').
-move('Zapdos-Galar','Fast Attacker', 'Knock Off').
-move('Zapdos-Galar','Fast Attacker', 'U-turn').
-pokemon('Zarude', 77).
-ability('Zarude', 'Leaf Guard').
-item('Zarude', 'Choice Band').
-item('Zarude', 'Choice Scarf').
-item('Zarude', 'Leftovers').
-item('Zarude', 'Life Orb').
-role('Zarude', 'Fast Attacker').
-ability('Zarude','Fast Attacker', 'Leaf Guard').
-item('Zarude','Fast Attacker', 'Choice Band').
-item('Zarude','Fast Attacker', 'Choice Scarf').
-tera('Zarude','Fast Attacker', 'Dark').
-tera('Zarude','Fast Attacker', 'Fighting').
-tera('Zarude','Fast Attacker', 'Grass').
-move('Zarude','Fast Attacker', 'Close Combat').
-move('Zarude','Fast Attacker', 'Knock Off').
-move('Zarude','Fast Attacker', 'Power Whip').
-move('Zarude','Fast Attacker', 'U-turn').
-role('Zarude', 'Fast Bulky Setup').
-ability('Zarude','Fast Bulky Setup', 'Leaf Guard').
-item('Zarude','Fast Bulky Setup', 'Leftovers').
-item('Zarude','Fast Bulky Setup', 'Life Orb').
-tera('Zarude','Fast Bulky Setup', 'Dark').
-tera('Zarude','Fast Bulky Setup', 'Fighting').
-tera('Zarude','Fast Bulky Setup', 'Grass').
-move('Zarude','Fast Bulky Setup', 'Close Combat').
-move('Zarude','Fast Bulky Setup', 'Knock Off').
-move('Zarude','Fast Bulky Setup', 'Power Whip').
-move('Zarude','Fast Bulky Setup', 'Swords Dance').
-move('Zarude','Fast Bulky Setup', 'Synthesis').
-pokemon('Zebstrika', 87).
-ability('Zebstrika', 'Sap Sipper').
-item('Zebstrika', 'Life Orb').
-role('Zebstrika', 'Fast Attacker').
-ability('Zebstrika','Fast Attacker', 'Sap Sipper').
-item('Zebstrika','Fast Attacker', 'Life Orb').
-tera('Zebstrika','Fast Attacker', 'Ground').
-move('Zebstrika','Fast Attacker', 'High Horsepower').
-move('Zebstrika','Fast Attacker', 'Overheat').
-move('Zebstrika','Fast Attacker', 'Supercell Slam').
-move('Zebstrika','Fast Attacker', 'Volt Switch').
-pokemon('Zekrom', 71).
-ability('Zekrom', 'Teravolt').
-item('Zekrom', 'Leftovers').
-role('Zekrom', 'Setup Sweeper').
-ability('Zekrom','Setup Sweeper', 'Teravolt').
-item('Zekrom','Setup Sweeper', 'Leftovers').
-tera('Zekrom','Setup Sweeper', 'Electric').
-tera('Zekrom','Setup Sweeper', 'Fairy').
-tera('Zekrom','Setup Sweeper', 'Grass').
-tera('Zekrom','Setup Sweeper', 'Steel').
-move('Zekrom','Setup Sweeper', 'Bolt Strike').
-move('Zekrom','Setup Sweeper', 'Dragon Dance').
-move('Zekrom','Setup Sweeper', 'Outrage').
-move('Zekrom','Setup Sweeper', 'Substitute').
-pokemon('Zoroark', 83).
-ability('Zoroark', 'Illusion').
-item('Zoroark', 'Choice Specs').
-item('Zoroark', 'Life Orb').
-role('Zoroark', 'Setup Sweeper').
-ability('Zoroark','Setup Sweeper', 'Illusion').
-item('Zoroark','Setup Sweeper', 'Life Orb').
-tera('Zoroark','Setup Sweeper', 'Poison').
-move('Zoroark','Setup Sweeper', 'Dark Pulse').
-move('Zoroark','Setup Sweeper', 'Encore').
-move('Zoroark','Setup Sweeper', 'Focus Blast').
-move('Zoroark','Setup Sweeper', 'Nasty Plot').
-move('Zoroark','Setup Sweeper', 'Psychic').
-move('Zoroark','Setup Sweeper', 'Sludge Bomb').
-role('Zoroark', 'Wallbreaker').
-ability('Zoroark','Wallbreaker', 'Illusion').
-item('Zoroark','Wallbreaker', 'Choice Specs').
-tera('Zoroark','Wallbreaker', 'Poison').
-move('Zoroark','Wallbreaker', 'Dark Pulse').
-move('Zoroark','Wallbreaker', 'Flamethrower').
-move('Zoroark','Wallbreaker', 'Focus Blast').
-move('Zoroark','Wallbreaker', 'Psychic').
-move('Zoroark','Wallbreaker', 'Sludge Bomb').
-move('Zoroark','Wallbreaker', 'Trick').
-move('Zoroark','Wallbreaker', 'U-turn').
-pokemon('Zoroark-Hisui', 80).
-ability('Zoroark-Hisui', 'Illusion').
-item('Zoroark-Hisui', 'Choice Specs').
-item('Zoroark-Hisui', 'Life Orb').
-role('Zoroark-Hisui', 'Wallbreaker').
-ability('Zoroark-Hisui','Wallbreaker', 'Illusion').
-item('Zoroark-Hisui','Wallbreaker', 'Choice Specs').
-item('Zoroark-Hisui','Wallbreaker', 'Life Orb').
-tera('Zoroark-Hisui','Wallbreaker', 'Fighting').
-tera('Zoroark-Hisui','Wallbreaker', 'Normal').
-move('Zoroark-Hisui','Wallbreaker', 'Bitter Malice').
-move('Zoroark-Hisui','Wallbreaker', 'Flamethrower').
-move('Zoroark-Hisui','Wallbreaker', 'Focus Blast').
-move('Zoroark-Hisui','Wallbreaker', 'Hyper Voice').
-move('Zoroark-Hisui','Wallbreaker', 'Nasty Plot').
-move('Zoroark-Hisui','Wallbreaker', 'Trick').
-move('Zoroark-Hisui','Wallbreaker', 'U-turn').
-role('Zoroark-Hisui', 'Fast Attacker').
-ability('Zoroark-Hisui','Fast Attacker', 'Illusion').
-item('Zoroark-Hisui','Fast Attacker', 'Life Orb').
-tera('Zoroark-Hisui','Fast Attacker', 'Fighting').
-tera('Zoroark-Hisui','Fast Attacker', 'Normal').
-move('Zoroark-Hisui','Fast Attacker', 'Focus Blast').
-move('Zoroark-Hisui','Fast Attacker', 'Hyper Voice').
-move('Zoroark-Hisui','Fast Attacker', 'Poltergeist').
-move('Zoroark-Hisui','Fast Attacker', 'Will-O-Wisp').
+pokemon('abomasnow', 84).
+ability('abomasnow', 'snow warning').
+item('abomasnow', 'light clay').
+role('abomasnow', 'bulky support').
+ability('abomasnow','bulky support', 'snow warning').
+item('abomasnow','bulky support', 'light clay').
+tera('abomasnow','bulky support', 'ghost').
+tera('abomasnow','bulky support', 'water').
+move('abomasnow','bulky support', 'aurora veil').
+move('abomasnow','bulky support', 'blizzard').
+move('abomasnow','bulky support', 'earthquake').
+move('abomasnow','bulky support', 'ice shard').
+move('abomasnow','bulky support', 'wood hammer').
+pokemon('alcremie', 90).
+ability('alcremie', 'aroma veil').
+item('alcremie', 'leftovers').
+role('alcremie', 'bulky setup').
+ability('alcremie','bulky setup', 'aroma veil').
+item('alcremie','bulky setup', 'leftovers').
+tera('alcremie','bulky setup', 'poison').
+tera('alcremie','bulky setup', 'steel').
+move('alcremie','bulky setup', 'alluring voice').
+move('alcremie','bulky setup', 'calm mind').
+move('alcremie','bulky setup', 'psyshock').
+move('alcremie','bulky setup', 'recover').
+role('alcremie', 'tera blast user').
+ability('alcremie','tera blast user', 'aroma veil').
+item('alcremie','tera blast user', 'leftovers').
+tera('alcremie','tera blast user', 'ground').
+move('alcremie','tera blast user', 'alluring voice').
+move('alcremie','tera blast user', 'calm mind').
+move('alcremie','tera blast user', 'recover').
+move('alcremie','tera blast user', 'tera blast').
+pokemon('alomomola', 87).
+ability('alomomola', 'regenerator').
+item('alomomola', 'heavy-duty boots').
+item('alomomola', 'leftovers').
+item('alomomola', 'rocky helmet').
+role('alomomola', 'fast support').
+ability('alomomola','fast support', 'regenerator').
+item('alomomola','fast support', 'heavy-duty boots').
+tera('alomomola','fast support', 'poison').
+tera('alomomola','fast support', 'steel').
+move('alomomola','fast support', 'flip turn').
+move('alomomola','fast support', 'protect').
+move('alomomola','fast support', 'scald').
+move('alomomola','fast support', 'wish').
+role('alomomola', 'bulky support').
+ability('alomomola','bulky support', 'regenerator').
+item('alomomola','bulky support', 'leftovers').
+item('alomomola','bulky support', 'rocky helmet').
+tera('alomomola','bulky support', 'poison').
+tera('alomomola','bulky support', 'steel').
+move('alomomola','bulky support', 'flip turn').
+move('alomomola','bulky support', 'protect').
+move('alomomola','bulky support', 'scald').
+move('alomomola','bulky support', 'wish').
+pokemon('altaria', 89).
+ability('altaria', 'natural cure').
+item('altaria', 'heavy-duty boots').
+role('altaria', 'bulky support').
+ability('altaria','bulky support', 'natural cure').
+item('altaria','bulky support', 'heavy-duty boots').
+tera('altaria','bulky support', 'steel').
+move('altaria','bulky support', 'brave bird').
+move('altaria','bulky support', 'defog').
+move('altaria','bulky support', 'earthquake').
+move('altaria','bulky support', 'haze').
+move('altaria','bulky support', 'roost').
+move('altaria','bulky support', 'will-o-wisp').
+role('altaria', 'bulky setup').
+ability('altaria','bulky setup', 'natural cure').
+item('altaria','bulky setup', 'heavy-duty boots').
+tera('altaria','bulky setup', 'ground').
+tera('altaria','bulky setup', 'steel').
+move('altaria','bulky setup', 'brave bird').
+move('altaria','bulky setup', 'dragon dance').
+move('altaria','bulky setup', 'earthquake').
+move('altaria','bulky setup', 'roost').
+pokemon('ambipom', 84).
+ability('ambipom', 'technician').
+item('ambipom', 'choice band').
+item('ambipom', 'silk scarf').
+role('ambipom', 'wallbreaker').
+ability('ambipom','wallbreaker', 'technician').
+item('ambipom','wallbreaker', 'silk scarf').
+tera('ambipom','wallbreaker', 'normal').
+move('ambipom','wallbreaker', 'double-edge').
+move('ambipom','wallbreaker', 'fake out').
+move('ambipom','wallbreaker', 'knock off').
+move('ambipom','wallbreaker', 'low kick').
+move('ambipom','wallbreaker', 'u-turn').
+role('ambipom', 'fast attacker').
+ability('ambipom','fast attacker', 'technician').
+item('ambipom','fast attacker', 'choice band').
+tera('ambipom','fast attacker', 'ice').
+move('ambipom','fast attacker', 'double-edge').
+move('ambipom','fast attacker', 'knock off').
+move('ambipom','fast attacker', 'low kick').
+move('ambipom','fast attacker', 'triple axel').
+move('ambipom','fast attacker', 'u-turn').
+pokemon('amoonguss', 82).
+ability('amoonguss', 'regenerator').
+item('amoonguss', 'leftovers').
+item('amoonguss', 'rocky helmet').
+role('amoonguss', 'bulky attacker').
+ability('amoonguss','bulky attacker', 'regenerator').
+item('amoonguss','bulky attacker', 'leftovers').
+item('amoonguss','bulky attacker', 'rocky helmet').
+tera('amoonguss','bulky attacker', 'steel').
+tera('amoonguss','bulky attacker', 'water').
+move('amoonguss','bulky attacker', 'giga drain').
+move('amoonguss','bulky attacker', 'sludge bomb').
+move('amoonguss','bulky attacker', 'spore').
+move('amoonguss','bulky attacker', 'stomping tantrum').
+role('amoonguss', 'bulky support').
+ability('amoonguss','bulky support', 'regenerator').
+item('amoonguss','bulky support', 'leftovers').
+item('amoonguss','bulky support', 'rocky helmet').
+tera('amoonguss','bulky support', 'steel').
+tera('amoonguss','bulky support', 'water').
+move('amoonguss','bulky support', 'clear smog').
+move('amoonguss','bulky support', 'giga drain').
+move('amoonguss','bulky support', 'sludge bomb').
+move('amoonguss','bulky support', 'spore').
+move('amoonguss','bulky support', 'toxic').
+pokemon('ampharos', 88).
+ability('ampharos', 'static').
+item('ampharos', 'assault vest').
+item('ampharos', 'choice specs').
+item('ampharos', 'life orb').
+role('ampharos', 'av pivot').
+ability('ampharos','av pivot', 'static').
+item('ampharos','av pivot', 'assault vest').
+tera('ampharos','av pivot', 'fairy').
+move('ampharos','av pivot', 'dazzling gleam').
+move('ampharos','av pivot', 'discharge').
+move('ampharos','av pivot', 'dragon tail').
+move('ampharos','av pivot', 'focus blast').
+move('ampharos','av pivot', 'thunderbolt').
+move('ampharos','av pivot', 'volt switch').
+role('ampharos', 'wallbreaker').
+ability('ampharos','wallbreaker', 'static').
+item('ampharos','wallbreaker', 'choice specs').
+item('ampharos','wallbreaker', 'life orb').
+tera('ampharos','wallbreaker', 'electric').
+tera('ampharos','wallbreaker', 'fairy').
+move('ampharos','wallbreaker', 'agility').
+move('ampharos','wallbreaker', 'dazzling gleam').
+move('ampharos','wallbreaker', 'focus blast').
+move('ampharos','wallbreaker', 'thunderbolt').
+move('ampharos','wallbreaker', 'volt switch').
+pokemon('annihilape', 76).
+ability('annihilape', 'defiant').
+item('annihilape', 'chesto berry').
+item('annihilape', 'leftovers').
+role('annihilape', 'bulky setup').
+ability('annihilape','bulky setup', 'defiant').
+item('annihilape','bulky setup', 'chesto berry').
+item('annihilape','bulky setup', 'leftovers').
+tera('annihilape','bulky setup', 'fairy').
+tera('annihilape','bulky setup', 'ghost').
+tera('annihilape','bulky setup', 'steel').
+tera('annihilape','bulky setup', 'water').
+move('annihilape','bulky setup', 'bulk up').
+move('annihilape','bulky setup', 'drain punch').
+move('annihilape','bulky setup', 'gunk shot').
+move('annihilape','bulky setup', 'rage fist').
+move('annihilape','bulky setup', 'rest').
+move('annihilape','bulky setup', 'taunt').
+pokemon('appletun', 92).
+ability('appletun', 'thick fat').
+item('appletun', 'leftovers').
+role('appletun', 'bulky attacker').
+ability('appletun','bulky attacker', 'thick fat').
+item('appletun','bulky attacker', 'leftovers').
+tera('appletun','bulky attacker', 'steel').
+move('appletun','bulky attacker', 'apple acid').
+move('appletun','bulky attacker', 'draco meteor').
+move('appletun','bulky attacker', 'dragon pulse').
+move('appletun','bulky attacker', 'dragon tail').
+move('appletun','bulky attacker', 'leech seed').
+move('appletun','bulky attacker', 'recover').
+pokemon('araquanid', 82).
+ability('araquanid', 'water bubble').
+item('araquanid', 'heavy-duty boots').
+role('araquanid', 'bulky attacker').
+ability('araquanid','bulky attacker', 'water bubble').
+item('araquanid','bulky attacker', 'heavy-duty boots').
+tera('araquanid','bulky attacker', 'ground').
+tera('araquanid','bulky attacker', 'steel').
+tera('araquanid','bulky attacker', 'water').
+move('araquanid','bulky attacker', 'hydro pump').
+move('araquanid','bulky attacker', 'leech life').
+move('araquanid','bulky attacker', 'liquidation').
+move('araquanid','bulky attacker', 'mirror coat').
+move('araquanid','bulky attacker', 'sticky web').
+pokemon('arbok', 87).
+ability('arbok', 'intimidate').
+item('arbok', 'choice band').
+item('arbok', 'focus sash').
+item('arbok', 'leftovers').
+item('arbok', 'life orb').
+role('arbok', 'bulky setup').
+ability('arbok','bulky setup', 'intimidate').
+item('arbok','bulky setup', 'leftovers').
+tera('arbok','bulky setup', 'grass').
+tera('arbok','bulky setup', 'ground').
+move('arbok','bulky setup', 'coil').
+move('arbok','bulky setup', 'earthquake').
+move('arbok','bulky setup', 'gunk shot').
+move('arbok','bulky setup', 'trailblaze').
+role('arbok', 'bulky attacker').
+ability('arbok','bulky attacker', 'intimidate').
+item('arbok','bulky attacker', 'leftovers').
+tera('arbok','bulky attacker', 'dark').
+tera('arbok','bulky attacker', 'ground').
+move('arbok','bulky attacker', 'coil').
+move('arbok','bulky attacker', 'earthquake').
+move('arbok','bulky attacker', 'gunk shot').
+move('arbok','bulky attacker', 'sucker punch').
+role('arbok', 'fast support').
+ability('arbok','fast support', 'intimidate').
+item('arbok','fast support', 'choice band').
+item('arbok','fast support', 'focus sash').
+item('arbok','fast support', 'leftovers').
+item('arbok','fast support', 'life orb').
+tera('arbok','fast support', 'dark').
+tera('arbok','fast support', 'ground').
+move('arbok','fast support', 'earthquake').
+move('arbok','fast support', 'glare').
+move('arbok','fast support', 'gunk shot').
+move('arbok','fast support', 'knock off').
+move('arbok','fast support', 'sucker punch').
+move('arbok','fast support', 'toxic spikes').
+pokemon('arboliva', 91).
+ability('arboliva', 'harvest').
+ability('arboliva', 'seed sower').
+item('arboliva', 'leftovers').
+item('arboliva', 'sitrus berry').
+role('arboliva', 'bulky attacker').
+ability('arboliva','bulky attacker', 'seed sower').
+item('arboliva','bulky attacker', 'leftovers').
+tera('arboliva','bulky attacker', 'grass').
+tera('arboliva','bulky attacker', 'ground').
+tera('arboliva','bulky attacker', 'poison').
+move('arboliva','bulky attacker', 'earth power').
+move('arboliva','bulky attacker', 'energy ball').
+move('arboliva','bulky attacker', 'hyper voice').
+move('arboliva','bulky attacker', 'strength sap').
+role('arboliva', 'bulky support').
+ability('arboliva','bulky support', 'harvest').
+item('arboliva','bulky support', 'sitrus berry').
+tera('arboliva','bulky support', 'poison').
+tera('arboliva','bulky support', 'water').
+move('arboliva','bulky support', 'hyper voice').
+move('arboliva','bulky support', 'leech seed').
+move('arboliva','bulky support', 'protect').
+move('arboliva','bulky support', 'substitute').
+pokemon('arcanine', 84).
+ability('arcanine', 'intimidate').
+item('arcanine', 'heavy-duty boots').
+role('arcanine', 'bulky attacker').
+ability('arcanine','bulky attacker', 'intimidate').
+item('arcanine','bulky attacker', 'heavy-duty boots').
+tera('arcanine','bulky attacker', 'fighting').
+tera('arcanine','bulky attacker', 'normal').
+move('arcanine','bulky attacker', 'close combat').
+move('arcanine','bulky attacker', 'extreme speed').
+move('arcanine','bulky attacker', 'flare blitz').
+move('arcanine','bulky attacker', 'morning sun').
+move('arcanine','bulky attacker', 'roar').
+move('arcanine','bulky attacker', 'will-o-wisp').
+pokemon('arcanine-hisui', 79).
+ability('arcanine-hisui', 'rock head').
+item('arcanine-hisui', 'choice band').
+item('arcanine-hisui', 'choice scarf').
+item('arcanine-hisui', 'heavy-duty boots').
+role('arcanine-hisui', 'bulky attacker').
+ability('arcanine-hisui','bulky attacker', 'rock head').
+item('arcanine-hisui','bulky attacker', 'heavy-duty boots').
+tera('arcanine-hisui','bulky attacker', 'fire').
+tera('arcanine-hisui','bulky attacker', 'grass').
+tera('arcanine-hisui','bulky attacker', 'normal').
+tera('arcanine-hisui','bulky attacker', 'rock').
+move('arcanine-hisui','bulky attacker', 'extreme speed').
+move('arcanine-hisui','bulky attacker', 'flare blitz').
+move('arcanine-hisui','bulky attacker', 'head smash').
+move('arcanine-hisui','bulky attacker', 'morning sun').
+role('arcanine-hisui', 'fast attacker').
+ability('arcanine-hisui','fast attacker', 'rock head').
+item('arcanine-hisui','fast attacker', 'choice band').
+item('arcanine-hisui','fast attacker', 'choice scarf').
+tera('arcanine-hisui','fast attacker', 'fire').
+tera('arcanine-hisui','fast attacker', 'normal').
+tera('arcanine-hisui','fast attacker', 'rock').
+move('arcanine-hisui','fast attacker', 'close combat').
+move('arcanine-hisui','fast attacker', 'extreme speed').
+move('arcanine-hisui','fast attacker', 'flare blitz').
+move('arcanine-hisui','fast attacker', 'head smash').
+move('arcanine-hisui','fast attacker', 'wild charge').
+pokemon('arceus', 68).
+ability('arceus', 'multitype').
+item('arceus', 'leftovers').
+item('arceus', 'life orb').
+role('arceus', 'setup sweeper').
+ability('arceus','setup sweeper', 'multitype').
+item('arceus','setup sweeper', 'life orb').
+tera('arceus','setup sweeper', 'normal').
+move('arceus','setup sweeper', 'earthquake').
+move('arceus','setup sweeper', 'extreme speed').
+move('arceus','setup sweeper', 'recover').
+move('arceus','setup sweeper', 'swords dance').
+role('arceus', 'fast bulky setup').
+ability('arceus','fast bulky setup', 'multitype').
+item('arceus','fast bulky setup', 'leftovers').
+item('arceus','fast bulky setup', 'life orb').
+tera('arceus','fast bulky setup', 'ghost').
+move('arceus','fast bulky setup', 'earthquake').
+move('arceus','fast bulky setup', 'extreme speed').
+move('arceus','fast bulky setup', 'recover').
+move('arceus','fast bulky setup', 'shadow claw').
+move('arceus','fast bulky setup', 'swords dance').
+pokemon('arceus-bug', 73).
+ability('arceus-bug', 'multitype').
+item('arceus-bug', 'insect plate').
+role('arceus-bug', 'bulky setup').
+ability('arceus-bug','bulky setup', 'multitype').
+item('arceus-bug','bulky setup', 'insect plate').
+tera('arceus-bug','bulky setup', 'fire').
+tera('arceus-bug','bulky setup', 'ground').
+move('arceus-bug','bulky setup', 'calm mind').
+move('arceus-bug','bulky setup', 'earth power').
+move('arceus-bug','bulky setup', 'fire blast').
+move('arceus-bug','bulky setup', 'judgment').
+move('arceus-bug','bulky setup', 'recover').
+pokemon('arceus-dark', 71).
+ability('arceus-dark', 'multitype').
+item('arceus-dark', 'dread plate').
+role('arceus-dark', 'bulky setup').
+ability('arceus-dark','bulky setup', 'multitype').
+item('arceus-dark','bulky setup', 'dread plate').
+tera('arceus-dark','bulky setup', 'fairy').
+tera('arceus-dark','bulky setup', 'poison').
+move('arceus-dark','bulky setup', 'calm mind').
+move('arceus-dark','bulky setup', 'dazzling gleam').
+move('arceus-dark','bulky setup', 'judgment').
+move('arceus-dark','bulky setup', 'recover').
+move('arceus-dark','bulky setup', 'sludge bomb').
+pokemon('arceus-dragon', 71).
+ability('arceus-dragon', 'multitype').
+item('arceus-dragon', 'draco plate').
+role('arceus-dragon', 'fast bulky setup').
+ability('arceus-dragon','fast bulky setup', 'multitype').
+item('arceus-dragon','fast bulky setup', 'draco plate').
+tera('arceus-dragon','fast bulky setup', 'fire').
+move('arceus-dragon','fast bulky setup', 'calm mind').
+move('arceus-dragon','fast bulky setup', 'fire blast').
+move('arceus-dragon','fast bulky setup', 'judgment').
+move('arceus-dragon','fast bulky setup', 'recover').
+move('arceus-dragon','fast bulky setup', 'sludge bomb').
+role('arceus-dragon', 'bulky setup').
+ability('arceus-dragon','bulky setup', 'multitype').
+item('arceus-dragon','bulky setup', 'draco plate').
+tera('arceus-dragon','bulky setup', 'fire').
+tera('arceus-dragon','bulky setup', 'steel').
+move('arceus-dragon','bulky setup', 'dragon dance').
+move('arceus-dragon','bulky setup', 'flare blitz').
+move('arceus-dragon','bulky setup', 'heavy slam').
+move('arceus-dragon','bulky setup', 'outrage').
+role('arceus-dragon', 'setup sweeper').
+ability('arceus-dragon','setup sweeper', 'multitype').
+item('arceus-dragon','setup sweeper', 'draco plate').
+tera('arceus-dragon','setup sweeper', 'fire').
+move('arceus-dragon','setup sweeper', 'extreme speed').
+move('arceus-dragon','setup sweeper', 'flare blitz').
+move('arceus-dragon','setup sweeper', 'heavy slam').
+move('arceus-dragon','setup sweeper', 'outrage').
+move('arceus-dragon','setup sweeper', 'swords dance').
+pokemon('arceus-electric', 70).
+ability('arceus-electric', 'multitype').
+item('arceus-electric', 'zap plate').
+role('arceus-electric', 'bulky setup').
+ability('arceus-electric','bulky setup', 'multitype').
+item('arceus-electric','bulky setup', 'zap plate').
+tera('arceus-electric','bulky setup', 'electric').
+tera('arceus-electric','bulky setup', 'ice').
+move('arceus-electric','bulky setup', 'calm mind').
+move('arceus-electric','bulky setup', 'ice beam').
+move('arceus-electric','bulky setup', 'judgment').
+move('arceus-electric','bulky setup', 'recover').
+pokemon('arceus-fairy', 69).
+ability('arceus-fairy', 'multitype').
+item('arceus-fairy', 'pixie plate').
+role('arceus-fairy', 'bulky setup').
+ability('arceus-fairy','bulky setup', 'multitype').
+item('arceus-fairy','bulky setup', 'pixie plate').
+tera('arceus-fairy','bulky setup', 'ground').
+tera('arceus-fairy','bulky setup', 'steel').
+move('arceus-fairy','bulky setup', 'calm mind').
+move('arceus-fairy','bulky setup', 'earth power').
+move('arceus-fairy','bulky setup', 'judgment').
+move('arceus-fairy','bulky setup', 'recover').
+pokemon('arceus-fighting', 70).
+ability('arceus-fighting', 'multitype').
+item('arceus-fighting', 'fist plate').
+role('arceus-fighting', 'fast bulky setup').
+ability('arceus-fighting','fast bulky setup', 'multitype').
+item('arceus-fighting','fast bulky setup', 'fist plate').
+tera('arceus-fighting','fast bulky setup', 'steel').
+move('arceus-fighting','fast bulky setup', 'body press').
+move('arceus-fighting','fast bulky setup', 'cosmic power').
+move('arceus-fighting','fast bulky setup', 'recover').
+move('arceus-fighting','fast bulky setup', 'stored power').
+role('arceus-fighting', 'bulky setup').
+ability('arceus-fighting','bulky setup', 'multitype').
+item('arceus-fighting','bulky setup', 'fist plate').
+tera('arceus-fighting','bulky setup', 'steel').
+move('arceus-fighting','bulky setup', 'body press').
+move('arceus-fighting','bulky setup', 'iron defense').
+move('arceus-fighting','bulky setup', 'recover').
+move('arceus-fighting','bulky setup', 'shadow ball').
+pokemon('arceus-fire', 72).
+ability('arceus-fire', 'multitype').
+item('arceus-fire', 'flame plate').
+role('arceus-fire', 'fast bulky setup').
+ability('arceus-fire','fast bulky setup', 'multitype').
+item('arceus-fire','fast bulky setup', 'flame plate').
+tera('arceus-fire','fast bulky setup', 'fire').
+tera('arceus-fire','fast bulky setup', 'ground').
+move('arceus-fire','fast bulky setup', 'dragon dance').
+move('arceus-fire','fast bulky setup', 'earthquake').
+move('arceus-fire','fast bulky setup', 'flare blitz').
+move('arceus-fire','fast bulky setup', 'recover').
+role('arceus-fire', 'setup sweeper').
+ability('arceus-fire','setup sweeper', 'multitype').
+item('arceus-fire','setup sweeper', 'flame plate').
+tera('arceus-fire','setup sweeper', 'fire').
+tera('arceus-fire','setup sweeper', 'ground').
+move('arceus-fire','setup sweeper', 'earthquake').
+move('arceus-fire','setup sweeper', 'extreme speed').
+move('arceus-fire','setup sweeper', 'flare blitz').
+move('arceus-fire','setup sweeper', 'recover').
+move('arceus-fire','setup sweeper', 'swords dance').
+role('arceus-fire', 'bulky setup').
+ability('arceus-fire','bulky setup', 'multitype').
+item('arceus-fire','bulky setup', 'flame plate').
+tera('arceus-fire','bulky setup', 'grass').
+tera('arceus-fire','bulky setup', 'ground').
+move('arceus-fire','bulky setup', 'calm mind').
+move('arceus-fire','bulky setup', 'earth power').
+move('arceus-fire','bulky setup', 'energy ball').
+move('arceus-fire','bulky setup', 'judgment').
+move('arceus-fire','bulky setup', 'recover').
+pokemon('arceus-flying', 69).
+ability('arceus-flying', 'multitype').
+item('arceus-flying', 'sky plate').
+role('arceus-flying', 'bulky setup').
+ability('arceus-flying','bulky setup', 'multitype').
+item('arceus-flying','bulky setup', 'sky plate').
+tera('arceus-flying','bulky setup', 'ground').
+tera('arceus-flying','bulky setup', 'steel').
+move('arceus-flying','bulky setup', 'calm mind').
+move('arceus-flying','bulky setup', 'earth power').
+move('arceus-flying','bulky setup', 'judgment').
+move('arceus-flying','bulky setup', 'recover').
+pokemon('arceus-ghost', 69).
+ability('arceus-ghost', 'multitype').
+item('arceus-ghost', 'spooky plate').
+role('arceus-ghost', 'bulky attacker').
+ability('arceus-ghost','bulky attacker', 'multitype').
+item('arceus-ghost','bulky attacker', 'spooky plate').
+tera('arceus-ghost','bulky attacker', 'dark').
+tera('arceus-ghost','bulky attacker', 'fighting').
+move('arceus-ghost','bulky attacker', 'calm mind').
+move('arceus-ghost','bulky attacker', 'focus blast').
+move('arceus-ghost','bulky attacker', 'judgment').
+move('arceus-ghost','bulky attacker', 'recover').
+move('arceus-ghost','bulky attacker', 'will-o-wisp').
+pokemon('arceus-grass', 73).
+ability('arceus-grass', 'multitype').
+item('arceus-grass', 'meadow plate').
+role('arceus-grass', 'setup sweeper').
+ability('arceus-grass','setup sweeper', 'multitype').
+item('arceus-grass','setup sweeper', 'meadow plate').
+tera('arceus-grass','setup sweeper', 'ground').
+move('arceus-grass','setup sweeper', 'calm mind').
+move('arceus-grass','setup sweeper', 'earth power').
+move('arceus-grass','setup sweeper', 'ice beam').
+move('arceus-grass','setup sweeper', 'judgment').
+role('arceus-grass', 'bulky setup').
+ability('arceus-grass','bulky setup', 'multitype').
+item('arceus-grass','bulky setup', 'meadow plate').
+tera('arceus-grass','bulky setup', 'fire').
+move('arceus-grass','bulky setup', 'calm mind').
+move('arceus-grass','bulky setup', 'fire blast').
+move('arceus-grass','bulky setup', 'judgment').
+move('arceus-grass','bulky setup', 'recover').
+pokemon('arceus-ground', 70).
+ability('arceus-ground', 'multitype').
+item('arceus-ground', 'earth plate').
+role('arceus-ground', 'fast bulky setup').
+ability('arceus-ground','fast bulky setup', 'multitype').
+item('arceus-ground','fast bulky setup', 'earth plate').
+tera('arceus-ground','fast bulky setup', 'ground').
+tera('arceus-ground','fast bulky setup', 'steel').
+move('arceus-ground','fast bulky setup', 'dragon dance').
+move('arceus-ground','fast bulky setup', 'earthquake').
+move('arceus-ground','fast bulky setup', 'recover').
+move('arceus-ground','fast bulky setup', 'stone edge').
+role('arceus-ground', 'bulky setup').
+ability('arceus-ground','bulky setup', 'multitype').
+item('arceus-ground','bulky setup', 'earth plate').
+tera('arceus-ground','bulky setup', 'dragon').
+tera('arceus-ground','bulky setup', 'fire').
+tera('arceus-ground','bulky setup', 'steel').
+move('arceus-ground','bulky setup', 'calm mind').
+move('arceus-ground','bulky setup', 'fire blast').
+move('arceus-ground','bulky setup', 'ice beam').
+move('arceus-ground','bulky setup', 'judgment').
+move('arceus-ground','bulky setup', 'recover').
+role('arceus-ground', 'setup sweeper').
+ability('arceus-ground','setup sweeper', 'multitype').
+item('arceus-ground','setup sweeper', 'earth plate').
+tera('arceus-ground','setup sweeper', 'normal').
+move('arceus-ground','setup sweeper', 'earthquake').
+move('arceus-ground','setup sweeper', 'extreme speed').
+move('arceus-ground','setup sweeper', 'stone edge').
+move('arceus-ground','setup sweeper', 'swords dance').
+pokemon('arceus-ice', 72).
+ability('arceus-ice', 'multitype').
+item('arceus-ice', 'icicle plate').
+role('arceus-ice', 'bulky setup').
+ability('arceus-ice','bulky setup', 'multitype').
+item('arceus-ice','bulky setup', 'icicle plate').
+tera('arceus-ice','bulky setup', 'electric').
+tera('arceus-ice','bulky setup', 'ground').
+move('arceus-ice','bulky setup', 'calm mind').
+move('arceus-ice','bulky setup', 'earth power').
+move('arceus-ice','bulky setup', 'judgment').
+move('arceus-ice','bulky setup', 'recover').
+move('arceus-ice','bulky setup', 'thunderbolt').
+pokemon('arceus-poison', 70).
+ability('arceus-poison', 'multitype').
+item('arceus-poison', 'toxic plate').
+role('arceus-poison', 'fast bulky setup').
+ability('arceus-poison','fast bulky setup', 'multitype').
+item('arceus-poison','fast bulky setup', 'toxic plate').
+tera('arceus-poison','fast bulky setup', 'ground').
+tera('arceus-poison','fast bulky setup', 'normal').
+move('arceus-poison','fast bulky setup', 'earthquake').
+move('arceus-poison','fast bulky setup', 'extreme speed').
+move('arceus-poison','fast bulky setup', 'gunk shot').
+move('arceus-poison','fast bulky setup', 'swords dance').
+role('arceus-poison', 'setup sweeper').
+ability('arceus-poison','setup sweeper', 'multitype').
+item('arceus-poison','setup sweeper', 'toxic plate').
+tera('arceus-poison','setup sweeper', 'ground').
+move('arceus-poison','setup sweeper', 'dragon dance').
+move('arceus-poison','setup sweeper', 'earthquake').
+move('arceus-poison','setup sweeper', 'flare blitz').
+move('arceus-poison','setup sweeper', 'gunk shot').
+move('arceus-poison','setup sweeper', 'liquidation').
+move('arceus-poison','setup sweeper', 'recover').
+move('arceus-poison','setup sweeper', 'swords dance').
+pokemon('arceus-psychic', 70).
+ability('arceus-psychic', 'multitype').
+item('arceus-psychic', 'mind plate').
+role('arceus-psychic', 'bulky setup').
+ability('arceus-psychic','bulky setup', 'multitype').
+item('arceus-psychic','bulky setup', 'mind plate').
+tera('arceus-psychic','bulky setup', 'steel').
+move('arceus-psychic','bulky setup', 'body press').
+move('arceus-psychic','bulky setup', 'cosmic power').
+move('arceus-psychic','bulky setup', 'recover').
+move('arceus-psychic','bulky setup', 'stored power').
+pokemon('arceus-rock', 74).
+ability('arceus-rock', 'multitype').
+item('arceus-rock', 'stone plate').
+role('arceus-rock', 'bulky setup').
+ability('arceus-rock','bulky setup', 'multitype').
+item('arceus-rock','bulky setup', 'stone plate').
+tera('arceus-rock','bulky setup', 'dragon').
+tera('arceus-rock','bulky setup', 'ground').
+move('arceus-rock','bulky setup', 'calm mind').
+move('arceus-rock','bulky setup', 'earth power').
+move('arceus-rock','bulky setup', 'fire blast').
+move('arceus-rock','bulky setup', 'judgment').
+move('arceus-rock','bulky setup', 'recover').
+role('arceus-rock', 'setup sweeper').
+ability('arceus-rock','setup sweeper', 'multitype').
+item('arceus-rock','setup sweeper', 'stone plate').
+tera('arceus-rock','setup sweeper', 'ground').
+move('arceus-rock','setup sweeper', 'dragon dance').
+move('arceus-rock','setup sweeper', 'earthquake').
+move('arceus-rock','setup sweeper', 'recover').
+move('arceus-rock','setup sweeper', 'stone edge').
+move('arceus-rock','setup sweeper', 'swords dance').
+pokemon('arceus-steel', 70).
+ability('arceus-steel', 'multitype').
+item('arceus-steel', 'iron plate').
+role('arceus-steel', 'bulky support').
+ability('arceus-steel','bulky support', 'multitype').
+item('arceus-steel','bulky support', 'iron plate').
+tera('arceus-steel','bulky support', 'ghost').
+move('arceus-steel','bulky support', 'earthquake').
+move('arceus-steel','bulky support', 'judgment').
+move('arceus-steel','bulky support', 'recover').
+move('arceus-steel','bulky support', 'will-o-wisp').
+role('arceus-steel', 'bulky setup').
+ability('arceus-steel','bulky setup', 'multitype').
+item('arceus-steel','bulky setup', 'iron plate').
+tera('arceus-steel','bulky setup', 'ghost').
+move('arceus-steel','bulky setup', 'calm mind').
+move('arceus-steel','bulky setup', 'earth power').
+move('arceus-steel','bulky setup', 'judgment').
+move('arceus-steel','bulky setup', 'recover').
+pokemon('arceus-water', 71).
+ability('arceus-water', 'multitype').
+item('arceus-water', 'splash plate').
+role('arceus-water', 'bulky support').
+ability('arceus-water','bulky support', 'multitype').
+item('arceus-water','bulky support', 'splash plate').
+tera('arceus-water','bulky support', 'steel').
+move('arceus-water','bulky support', 'calm mind').
+move('arceus-water','bulky support', 'ice beam').
+move('arceus-water','bulky support', 'judgment').
+move('arceus-water','bulky support', 'recover').
+move('arceus-water','bulky support', 'will-o-wisp').
+pokemon('archaludon', 77).
+ability('archaludon', 'stamina').
+item('archaludon', 'assault vest').
+item('archaludon', 'leftovers').
+item('archaludon', 'lum berry').
+role('archaludon', 'bulky setup').
+ability('archaludon','bulky setup', 'stamina').
+item('archaludon','bulky setup', 'lum berry').
+tera('archaludon','bulky setup', 'ground').
+move('archaludon','bulky setup', 'earthquake').
+move('archaludon','bulky setup', 'iron head').
+move('archaludon','bulky setup', 'outrage').
+move('archaludon','bulky setup', 'swords dance').
+role('archaludon', 'bulky attacker').
+ability('archaludon','bulky attacker', 'stamina').
+item('archaludon','bulky attacker', 'assault vest').
+item('archaludon','bulky attacker', 'leftovers').
+tera('archaludon','bulky attacker', 'fighting').
+move('archaludon','bulky attacker', 'body press').
+move('archaludon','bulky attacker', 'draco meteor').
+move('archaludon','bulky attacker', 'dragon tail').
+move('archaludon','bulky attacker', 'flash cannon').
+move('archaludon','bulky attacker', 'stealth rock').
+move('archaludon','bulky attacker', 'thunder wave').
+move('archaludon','bulky attacker', 'thunderbolt').
+pokemon('ariados', 95).
+ability('ariados', 'insomnia').
+ability('ariados', 'swarm').
+item('ariados', 'focus sash').
+item('ariados', 'heavy-duty boots').
+role('ariados', 'fast support').
+ability('ariados','fast support', 'insomnia').
+ability('ariados','fast support', 'swarm').
+item('ariados','fast support', 'focus sash').
+item('ariados','fast support', 'heavy-duty boots').
+tera('ariados','fast support', 'ghost').
+move('ariados','fast support', 'knock off').
+move('ariados','fast support', 'megahorn').
+move('ariados','fast support', 'poison jab').
+move('ariados','fast support', 'sticky web').
+move('ariados','fast support', 'sucker punch').
+move('ariados','fast support', 'toxic spikes').
+pokemon('armarouge', 80).
+ability('armarouge', 'weak armor').
+item('armarouge', 'choice specs').
+item('armarouge', 'power herb').
+role('armarouge', 'setup sweeper').
+ability('armarouge','setup sweeper', 'weak armor').
+item('armarouge','setup sweeper', 'power herb').
+tera('armarouge','setup sweeper', 'fire').
+tera('armarouge','setup sweeper', 'grass').
+move('armarouge','setup sweeper', 'armor cannon').
+move('armarouge','setup sweeper', 'energy ball').
+move('armarouge','setup sweeper', 'meteor beam').
+move('armarouge','setup sweeper', 'psyshock').
+role('armarouge', 'wallbreaker').
+ability('armarouge','wallbreaker', 'weak armor').
+item('armarouge','wallbreaker', 'choice specs').
+tera('armarouge','wallbreaker', 'fighting').
+tera('armarouge','wallbreaker', 'fire').
+tera('armarouge','wallbreaker', 'grass').
+tera('armarouge','wallbreaker', 'psychic').
+move('armarouge','wallbreaker', 'armor cannon').
+move('armarouge','wallbreaker', 'aura sphere').
+move('armarouge','wallbreaker', 'energy ball').
+move('armarouge','wallbreaker', 'focus blast').
+move('armarouge','wallbreaker', 'psyshock').
+pokemon('articuno', 86).
+ability('articuno', 'pressure').
+item('articuno', 'heavy-duty boots').
+role('articuno', 'bulky support').
+ability('articuno','bulky support', 'pressure').
+item('articuno','bulky support', 'heavy-duty boots').
+tera('articuno','bulky support', 'ground').
+tera('articuno','bulky support', 'steel').
+move('articuno','bulky support', 'brave bird').
+move('articuno','bulky support', 'freeze-dry').
+move('articuno','bulky support', 'haze').
+move('articuno','bulky support', 'roost').
+move('articuno','bulky support', 'substitute').
+move('articuno','bulky support', 'u-turn').
+pokemon('articuno-galar', 84).
+ability('articuno-galar', 'competitive').
+item('articuno-galar', 'heavy-duty boots').
+role('articuno-galar', 'fast bulky setup').
+ability('articuno-galar','fast bulky setup', 'competitive').
+item('articuno-galar','fast bulky setup', 'heavy-duty boots').
+tera('articuno-galar','fast bulky setup', 'steel').
+move('articuno-galar','fast bulky setup', 'calm mind').
+move('articuno-galar','fast bulky setup', 'hurricane').
+move('articuno-galar','fast bulky setup', 'psyshock').
+move('articuno-galar','fast bulky setup', 'recover').
+pokemon('avalugg', 88).
+ability('avalugg', 'sturdy').
+item('avalugg', 'heavy-duty boots').
+role('avalugg', 'bulky support').
+ability('avalugg','bulky support', 'sturdy').
+item('avalugg','bulky support', 'heavy-duty boots').
+tera('avalugg','bulky support', 'fighting').
+move('avalugg','bulky support', 'avalanche').
+move('avalugg','bulky support', 'body press').
+move('avalugg','bulky support', 'curse').
+move('avalugg','bulky support', 'rapid spin').
+move('avalugg','bulky support', 'recover').
+pokemon('avalugg-hisui', 91).
+ability('avalugg-hisui', 'sturdy').
+item('avalugg-hisui', 'heavy-duty boots').
+role('avalugg-hisui', 'bulky attacker').
+ability('avalugg-hisui','bulky attacker', 'sturdy').
+item('avalugg-hisui','bulky attacker', 'heavy-duty boots').
+tera('avalugg-hisui','bulky attacker', 'flying').
+tera('avalugg-hisui','bulky attacker', 'ghost').
+tera('avalugg-hisui','bulky attacker', 'poison').
+move('avalugg-hisui','bulky attacker', 'avalanche').
+move('avalugg-hisui','bulky attacker', 'body press').
+move('avalugg-hisui','bulky attacker', 'rapid spin').
+move('avalugg-hisui','bulky attacker', 'recover').
+move('avalugg-hisui','bulky attacker', 'stone edge').
+pokemon('azelf', 82).
+ability('azelf', 'levitate').
+item('azelf', 'assault vest').
+item('azelf', 'choice specs').
+item('azelf', 'focus sash').
+item('azelf', 'leftovers').
+item('azelf', 'life orb').
+role('azelf', 'fast support').
+ability('azelf','fast support', 'levitate').
+item('azelf','fast support', 'assault vest').
+item('azelf','fast support', 'focus sash').
+item('azelf','fast support', 'leftovers').
+item('azelf','fast support', 'life orb').
+tera('azelf','fast support', 'dark').
+tera('azelf','fast support', 'fire').
+move('azelf','fast support', 'encore').
+move('azelf','fast support', 'explosion').
+move('azelf','fast support', 'fire blast').
+move('azelf','fast support', 'knock off').
+move('azelf','fast support', 'psychic').
+move('azelf','fast support', 'stealth rock').
+move('azelf','fast support', 'taunt').
+move('azelf','fast support', 'u-turn').
+role('azelf', 'fast attacker').
+ability('azelf','fast attacker', 'levitate').
+item('azelf','fast attacker', 'choice specs').
+item('azelf','fast attacker', 'life orb').
+tera('azelf','fast attacker', 'fairy').
+tera('azelf','fast attacker', 'fire').
+tera('azelf','fast attacker', 'psychic').
+move('azelf','fast attacker', 'dazzling gleam').
+move('azelf','fast attacker', 'fire blast').
+move('azelf','fast attacker', 'nasty plot').
+move('azelf','fast attacker', 'psychic').
+move('azelf','fast attacker', 'psyshock').
+move('azelf','fast attacker', 'u-turn').
+pokemon('azumarill', 82).
+ability('azumarill', 'huge power').
+item('azumarill', 'choice band').
+item('azumarill', 'sitrus berry').
+role('azumarill', 'bulky attacker').
+ability('azumarill','bulky attacker', 'huge power').
+item('azumarill','bulky attacker', 'choice band').
+item('azumarill','bulky attacker', 'sitrus berry').
+tera('azumarill','bulky attacker', 'water').
+move('azumarill','bulky attacker', 'aqua jet').
+move('azumarill','bulky attacker', 'belly drum').
+move('azumarill','bulky attacker', 'ice spinner').
+move('azumarill','bulky attacker', 'knock off').
+move('azumarill','bulky attacker', 'liquidation').
+move('azumarill','bulky attacker', 'play rough').
+move('azumarill','bulky attacker', 'superpower').
+pokemon('banette', 93).
+ability('banette', 'cursed body').
+ability('banette', 'insomnia').
+item('banette', 'life orb').
+role('banette', 'wallbreaker').
+ability('banette','wallbreaker', 'cursed body').
+ability('banette','wallbreaker', 'insomnia').
+item('banette','wallbreaker', 'life orb').
+tera('banette','wallbreaker', 'ghost').
+tera('banette','wallbreaker', 'poison').
+move('banette','wallbreaker', 'gunk shot').
+move('banette','wallbreaker', 'poltergeist').
+move('banette','wallbreaker', 'shadow sneak').
+move('banette','wallbreaker', 'swords dance').
+move('banette','wallbreaker', 'thunder wave').
+pokemon('barraskewda', 81).
+ability('barraskewda', 'swift swim').
+item('barraskewda', 'choice band').
+role('barraskewda', 'wallbreaker').
+ability('barraskewda','wallbreaker', 'swift swim').
+item('barraskewda','wallbreaker', 'choice band').
+tera('barraskewda','wallbreaker', 'fighting').
+tera('barraskewda','wallbreaker', 'water').
+move('barraskewda','wallbreaker', 'close combat').
+move('barraskewda','wallbreaker', 'flip turn').
+move('barraskewda','wallbreaker', 'poison jab').
+move('barraskewda','wallbreaker', 'psychic fangs').
+move('barraskewda','wallbreaker', 'throat chop').
+move('barraskewda','wallbreaker', 'waterfall').
+pokemon('basculegion', 80).
+ability('basculegion', 'adaptability').
+item('basculegion', 'assault vest').
+role('basculegion', 'av pivot').
+ability('basculegion','av pivot', 'adaptability').
+item('basculegion','av pivot', 'assault vest').
+tera('basculegion','av pivot', 'water').
+move('basculegion','av pivot', 'aqua jet').
+move('basculegion','av pivot', 'flip turn').
+move('basculegion','av pivot', 'shadow ball').
+move('basculegion','av pivot', 'wave crash').
+pokemon('basculegion-f', 83).
+ability('basculegion-f', 'adaptability').
+item('basculegion-f', 'assault vest').
+item('basculegion-f', 'choice specs').
+role('basculegion-f', 'av pivot').
+ability('basculegion-f','av pivot', 'adaptability').
+item('basculegion-f','av pivot', 'assault vest').
+tera('basculegion-f','av pivot', 'water').
+move('basculegion-f','av pivot', 'flip turn').
+move('basculegion-f','av pivot', 'hydro pump').
+move('basculegion-f','av pivot', 'shadow ball').
+move('basculegion-f','av pivot', 'wave crash').
+role('basculegion-f', 'wallbreaker').
+ability('basculegion-f','wallbreaker', 'adaptability').
+item('basculegion-f','wallbreaker', 'choice specs').
+tera('basculegion-f','wallbreaker', 'water').
+move('basculegion-f','wallbreaker', 'flip turn').
+move('basculegion-f','wallbreaker', 'hydro pump').
+move('basculegion-f','wallbreaker', 'ice beam').
+move('basculegion-f','wallbreaker', 'shadow ball').
+pokemon('basculin', 86).
+ability('basculin', 'adaptability').
+item('basculin', 'choice band').
+role('basculin', 'wallbreaker').
+ability('basculin','wallbreaker', 'adaptability').
+item('basculin','wallbreaker', 'choice band').
+tera('basculin','wallbreaker', 'water').
+move('basculin','wallbreaker', 'aqua jet').
+move('basculin','wallbreaker', 'double-edge').
+move('basculin','wallbreaker', 'flip turn').
+move('basculin','wallbreaker', 'wave crash').
+pokemon('bastiodon', 89).
+ability('bastiodon', 'soundproof').
+item('bastiodon', 'chesto berry').
+role('bastiodon', 'bulky setup').
+ability('bastiodon','bulky setup', 'soundproof').
+item('bastiodon','bulky setup', 'chesto berry').
+tera('bastiodon','bulky setup', 'fighting').
+move('bastiodon','bulky setup', 'body press').
+move('bastiodon','bulky setup', 'foul play').
+move('bastiodon','bulky setup', 'iron defense').
+move('bastiodon','bulky setup', 'rest').
+pokemon('baxcalibur', 75).
+ability('baxcalibur', 'thermal exchange').
+item('baxcalibur', 'choice band').
+item('baxcalibur', 'heavy-duty boots').
+item('baxcalibur', 'loaded dice').
+role('baxcalibur', 'bulky setup').
+ability('baxcalibur','bulky setup', 'thermal exchange').
+item('baxcalibur','bulky setup', 'loaded dice').
+tera('baxcalibur','bulky setup', 'dragon').
+tera('baxcalibur','bulky setup', 'ground').
+move('baxcalibur','bulky setup', 'earthquake').
+move('baxcalibur','bulky setup', 'icicle spear').
+move('baxcalibur','bulky setup', 'scale shot').
+move('baxcalibur','bulky setup', 'swords dance').
+role('baxcalibur', 'fast attacker').
+ability('baxcalibur','fast attacker', 'thermal exchange').
+item('baxcalibur','fast attacker', 'choice band').
+tera('baxcalibur','fast attacker', 'dragon').
+tera('baxcalibur','fast attacker', 'ground').
+move('baxcalibur','fast attacker', 'earthquake').
+move('baxcalibur','fast attacker', 'glaive rush').
+move('baxcalibur','fast attacker', 'ice shard').
+move('baxcalibur','fast attacker', 'icicle crash').
+role('baxcalibur', 'setup sweeper').
+ability('baxcalibur','setup sweeper', 'thermal exchange').
+item('baxcalibur','setup sweeper', 'heavy-duty boots').
+tera('baxcalibur','setup sweeper', 'dragon').
+tera('baxcalibur','setup sweeper', 'ground').
+move('baxcalibur','setup sweeper', 'dragon dance').
+move('baxcalibur','setup sweeper', 'earthquake').
+move('baxcalibur','setup sweeper', 'glaive rush').
+move('baxcalibur','setup sweeper', 'icicle crash').
+pokemon('beartic', 91).
+ability('beartic', 'slush rush').
+ability('beartic', 'swift swim').
+item('beartic', 'choice band').
+item('beartic', 'heavy-duty boots').
+role('beartic', 'wallbreaker').
+ability('beartic','wallbreaker', 'slush rush').
+ability('beartic','wallbreaker', 'swift swim').
+item('beartic','wallbreaker', 'choice band').
+item('beartic','wallbreaker', 'heavy-duty boots').
+tera('beartic','wallbreaker', 'fighting').
+tera('beartic','wallbreaker', 'ground').
+move('beartic','wallbreaker', 'aqua jet').
+move('beartic','wallbreaker', 'close combat').
+move('beartic','wallbreaker', 'earthquake').
+move('beartic','wallbreaker', 'icicle crash').
+move('beartic','wallbreaker', 'snowscape').
+move('beartic','wallbreaker', 'swords dance').
+pokemon('bellibolt', 84).
+ability('bellibolt', 'electromorphosis').
+item('bellibolt', 'leftovers').
+role('bellibolt', 'bulky attacker').
+ability('bellibolt','bulky attacker', 'electromorphosis').
+item('bellibolt','bulky attacker', 'leftovers').
+tera('bellibolt','bulky attacker', 'electric').
+tera('bellibolt','bulky attacker', 'water').
+move('bellibolt','bulky attacker', 'muddy water').
+move('bellibolt','bulky attacker', 'slack off').
+move('bellibolt','bulky attacker', 'thunderbolt').
+move('bellibolt','bulky attacker', 'toxic').
+move('bellibolt','bulky attacker', 'volt switch').
+pokemon('bellossom', 84).
+ability('bellossom', 'chlorophyll').
+item('bellossom', 'leftovers').
+role('bellossom', 'bulky setup').
+ability('bellossom','bulky setup', 'chlorophyll').
+item('bellossom','bulky setup', 'leftovers').
+tera('bellossom','bulky setup', 'fairy').
+tera('bellossom','bulky setup', 'poison').
+move('bellossom','bulky setup', 'giga drain').
+move('bellossom','bulky setup', 'moonblast').
+move('bellossom','bulky setup', 'quiver dance').
+move('bellossom','bulky setup', 'sludge bomb').
+move('bellossom','bulky setup', 'strength sap').
+role('bellossom', 'tera blast user').
+ability('bellossom','tera blast user', 'chlorophyll').
+item('bellossom','tera blast user', 'leftovers').
+tera('bellossom','tera blast user', 'fire').
+tera('bellossom','tera blast user', 'rock').
+move('bellossom','tera blast user', 'giga drain').
+move('bellossom','tera blast user', 'quiver dance').
+move('bellossom','tera blast user', 'strength sap').
+move('bellossom','tera blast user', 'tera blast').
+pokemon('bisharp', 79).
+ability('bisharp', 'defiant').
+item('bisharp', 'eviolite').
+role('bisharp', 'bulky attacker').
+ability('bisharp','bulky attacker', 'defiant').
+item('bisharp','bulky attacker', 'eviolite').
+tera('bisharp','bulky attacker', 'flying').
+tera('bisharp','bulky attacker', 'ghost').
+move('bisharp','bulky attacker', 'iron head').
+move('bisharp','bulky attacker', 'stealth rock').
+move('bisharp','bulky attacker', 'sucker punch').
+move('bisharp','bulky attacker', 'swords dance').
+move('bisharp','bulky attacker', 'throat chop').
+pokemon('blastoise', 80).
+ability('blastoise', 'torrent').
+item('blastoise', 'white herb').
+role('blastoise', 'setup sweeper').
+ability('blastoise','setup sweeper', 'torrent').
+item('blastoise','setup sweeper', 'white herb').
+tera('blastoise','setup sweeper', 'ground').
+tera('blastoise','setup sweeper', 'steel').
+tera('blastoise','setup sweeper', 'water').
+move('blastoise','setup sweeper', 'earthquake').
+move('blastoise','setup sweeper', 'hydro pump').
+move('blastoise','setup sweeper', 'ice beam').
+move('blastoise','setup sweeper', 'shell smash').
+role('blastoise', 'tera blast user').
+ability('blastoise','tera blast user', 'torrent').
+item('blastoise','tera blast user', 'white herb').
+tera('blastoise','tera blast user', 'electric').
+tera('blastoise','tera blast user', 'grass').
+move('blastoise','tera blast user', 'hydro pump').
+move('blastoise','tera blast user', 'ice beam').
+move('blastoise','tera blast user', 'shell smash').
+move('blastoise','tera blast user', 'tera blast').
+pokemon('blaziken', 76).
+ability('blaziken', 'speed boost').
+item('blaziken', 'life orb').
+role('blaziken', 'setup sweeper').
+ability('blaziken','setup sweeper', 'speed boost').
+item('blaziken','setup sweeper', 'life orb').
+tera('blaziken','setup sweeper', 'dark').
+tera('blaziken','setup sweeper', 'fighting').
+move('blaziken','setup sweeper', 'close combat').
+move('blaziken','setup sweeper', 'flare blitz').
+move('blaziken','setup sweeper', 'knock off').
+move('blaziken','setup sweeper', 'protect').
+move('blaziken','setup sweeper', 'stone edge').
+move('blaziken','setup sweeper', 'swords dance').
+pokemon('blissey', 85).
+ability('blissey', 'natural cure').
+item('blissey', 'leftovers').
+role('blissey', 'bulky support').
+ability('blissey','bulky support', 'natural cure').
+item('blissey','bulky support', 'leftovers').
+tera('blissey','bulky support', 'dark').
+tera('blissey','bulky support', 'fairy').
+tera('blissey','bulky support', 'ghost').
+tera('blissey','bulky support', 'poison').
+move('blissey','bulky support', 'heal bell').
+move('blissey','bulky support', 'seismic toss').
+move('blissey','bulky support', 'soft-boiled').
+move('blissey','bulky support', 'stealth rock').
+move('blissey','bulky support', 'thunder wave').
+pokemon('bombirdier', 85).
+ability('bombirdier', 'big pecks').
+ability('bombirdier', 'rocky payload').
+item('bombirdier', 'choice band').
+item('bombirdier', 'choice scarf').
+item('bombirdier', 'heavy-duty boots').
+role('bombirdier', 'fast attacker').
+ability('bombirdier','fast attacker', 'rocky payload').
+item('bombirdier','fast attacker', 'choice band').
+item('bombirdier','fast attacker', 'choice scarf').
+item('bombirdier','fast attacker', 'heavy-duty boots').
+tera('bombirdier','fast attacker', 'rock').
+move('bombirdier','fast attacker', 'brave bird').
+move('bombirdier','fast attacker', 'knock off').
+move('bombirdier','fast attacker', 'roost').
+move('bombirdier','fast attacker', 'stone edge').
+move('bombirdier','fast attacker', 'sucker punch').
+move('bombirdier','fast attacker', 'u-turn').
+role('bombirdier', 'bulky support').
+ability('bombirdier','bulky support', 'big pecks').
+item('bombirdier','bulky support', 'heavy-duty boots').
+tera('bombirdier','bulky support', 'dark').
+tera('bombirdier','bulky support', 'steel').
+move('bombirdier','bulky support', 'brave bird').
+move('bombirdier','bulky support', 'knock off').
+move('bombirdier','bulky support', 'roost').
+move('bombirdier','bulky support', 'stealth rock').
+move('bombirdier','bulky support', 'sucker punch').
+move('bombirdier','bulky support', 'u-turn').
+pokemon('brambleghast', 88).
+ability('brambleghast', 'wind rider').
+item('brambleghast', 'heavy-duty boots').
+item('brambleghast', 'leftovers').
+role('brambleghast', 'fast support').
+ability('brambleghast','fast support', 'wind rider').
+item('brambleghast','fast support', 'heavy-duty boots').
+item('brambleghast','fast support', 'leftovers').
+tera('brambleghast','fast support', 'fairy').
+tera('brambleghast','fast support', 'steel').
+tera('brambleghast','fast support', 'water').
+move('brambleghast','fast support', 'leech seed').
+move('brambleghast','fast support', 'poltergeist').
+move('brambleghast','fast support', 'power whip').
+move('brambleghast','fast support', 'rapid spin').
+move('brambleghast','fast support', 'spikes').
+move('brambleghast','fast support', 'strength sap').
+move('brambleghast','fast support', 'substitute').
+pokemon('braviary', 85).
+ability('braviary', 'defiant').
+item('braviary', 'heavy-duty boots').
+role('braviary', 'fast bulky setup').
+ability('braviary','fast bulky setup', 'defiant').
+item('braviary','fast bulky setup', 'heavy-duty boots').
+tera('braviary','fast bulky setup', 'fighting').
+tera('braviary','fast bulky setup', 'steel').
+move('braviary','fast bulky setup', 'brave bird').
+move('braviary','fast bulky setup', 'bulk up').
+move('braviary','fast bulky setup', 'close combat').
+move('braviary','fast bulky setup', 'roost').
+pokemon('braviary-hisui', 85).
+ability('braviary-hisui', 'sheer force').
+ability('braviary-hisui', 'tinted lens').
+item('braviary-hisui', 'choice specs').
+item('braviary-hisui', 'heavy-duty boots').
+item('braviary-hisui', 'life orb').
+role('braviary-hisui', 'bulky attacker').
+ability('braviary-hisui','bulky attacker', 'tinted lens').
+item('braviary-hisui','bulky attacker', 'heavy-duty boots').
+tera('braviary-hisui','bulky attacker', 'fairy').
+tera('braviary-hisui','bulky attacker', 'psychic').
+tera('braviary-hisui','bulky attacker', 'steel').
+move('braviary-hisui','bulky attacker', 'calm mind').
+move('braviary-hisui','bulky attacker', 'defog').
+move('braviary-hisui','bulky attacker', 'esper wing').
+move('braviary-hisui','bulky attacker', 'hurricane').
+move('braviary-hisui','bulky attacker', 'roost').
+role('braviary-hisui', 'wallbreaker').
+ability('braviary-hisui','wallbreaker', 'tinted lens').
+item('braviary-hisui','wallbreaker', 'choice specs').
+tera('braviary-hisui','wallbreaker', 'fairy').
+tera('braviary-hisui','wallbreaker', 'fighting').
+tera('braviary-hisui','wallbreaker', 'psychic').
+tera('braviary-hisui','wallbreaker', 'steel').
+move('braviary-hisui','wallbreaker', 'esper wing').
+move('braviary-hisui','wallbreaker', 'hurricane').
+move('braviary-hisui','wallbreaker', 'u-turn').
+move('braviary-hisui','wallbreaker', 'vacuum wave').
+role('braviary-hisui', 'setup sweeper').
+ability('braviary-hisui','setup sweeper', 'sheer force').
+item('braviary-hisui','setup sweeper', 'life orb').
+tera('braviary-hisui','setup sweeper', 'fairy').
+tera('braviary-hisui','setup sweeper', 'fire').
+tera('braviary-hisui','setup sweeper', 'psychic').
+tera('braviary-hisui','setup sweeper', 'steel').
+move('braviary-hisui','setup sweeper', 'agility').
+move('braviary-hisui','setup sweeper', 'heat wave').
+move('braviary-hisui','setup sweeper', 'hurricane').
+move('braviary-hisui','setup sweeper', 'psychic').
+pokemon('breloom', 83).
+ability('breloom', 'technician').
+item('breloom', 'life orb').
+role('breloom', 'fast attacker').
+ability('breloom','fast attacker', 'technician').
+item('breloom','fast attacker', 'life orb').
+tera('breloom','fast attacker', 'fighting').
+tera('breloom','fast attacker', 'rock').
+move('breloom','fast attacker', 'bullet seed').
+move('breloom','fast attacker', 'mach punch').
+move('breloom','fast attacker', 'rock tomb').
+move('breloom','fast attacker', 'spore').
+move('breloom','fast attacker', 'swords dance').
+pokemon('bronzong', 88).
+ability('bronzong', 'levitate').
+item('bronzong', 'chesto berry').
+item('bronzong', 'leftovers').
+role('bronzong', 'bulky setup').
+ability('bronzong','bulky setup', 'levitate').
+item('bronzong','bulky setup', 'chesto berry').
+item('bronzong','bulky setup', 'leftovers').
+tera('bronzong','bulky setup', 'fighting').
+move('bronzong','bulky setup', 'body press').
+move('bronzong','bulky setup', 'iron defense').
+move('bronzong','bulky setup', 'iron head').
+move('bronzong','bulky setup', 'psychic noise').
+move('bronzong','bulky setup', 'rest').
+role('bronzong', 'bulky support').
+ability('bronzong','bulky support', 'levitate').
+item('bronzong','bulky support', 'leftovers').
+tera('bronzong','bulky support', 'electric').
+tera('bronzong','bulky support', 'water').
+move('bronzong','bulky support', 'earthquake').
+move('bronzong','bulky support', 'hypnosis').
+move('bronzong','bulky support', 'iron head').
+move('bronzong','bulky support', 'psychic').
+move('bronzong','bulky support', 'psychic noise').
+move('bronzong','bulky support', 'stealth rock').
+pokemon('brute bonnet', 80).
+ability('brute bonnet', 'protosynthesis').
+item('brute bonnet', 'leftovers').
+role('brute bonnet', 'bulky support').
+ability('brute bonnet','bulky support', 'protosynthesis').
+item('brute bonnet','bulky support', 'leftovers').
+tera('brute bonnet','bulky support', 'dark').
+tera('brute bonnet','bulky support', 'poison').
+move('brute bonnet','bulky support', 'crunch').
+move('brute bonnet','bulky support', 'seed bomb').
+move('brute bonnet','bulky support', 'spore').
+move('brute bonnet','bulky support', 'sucker punch').
+role('brute bonnet', 'bulky attacker').
+ability('brute bonnet','bulky attacker', 'protosynthesis').
+item('brute bonnet','bulky attacker', 'leftovers').
+tera('brute bonnet','bulky attacker', 'fighting').
+tera('brute bonnet','bulky attacker', 'poison').
+move('brute bonnet','bulky attacker', 'close combat').
+move('brute bonnet','bulky attacker', 'crunch').
+move('brute bonnet','bulky attacker', 'spore').
+move('brute bonnet','bulky attacker', 'sucker punch').
+pokemon('bruxish', 85).
+ability('bruxish', 'strong jaw').
+item('bruxish', 'choice band').
+item('bruxish', 'choice scarf').
+item('bruxish', 'life orb').
+role('bruxish', 'fast attacker').
+ability('bruxish','fast attacker', 'strong jaw').
+item('bruxish','fast attacker', 'choice band').
+item('bruxish','fast attacker', 'choice scarf').
+item('bruxish','fast attacker', 'life orb').
+tera('bruxish','fast attacker', 'dark').
+tera('bruxish','fast attacker', 'psychic').
+move('bruxish','fast attacker', 'aqua jet').
+move('bruxish','fast attacker', 'crunch').
+move('bruxish','fast attacker', 'flip turn').
+move('bruxish','fast attacker', 'ice fang').
+move('bruxish','fast attacker', 'psychic fangs').
+move('bruxish','fast attacker', 'swords dance').
+move('bruxish','fast attacker', 'wave crash').
+pokemon('cacturne', 92).
+ability('cacturne', 'water absorb').
+item('cacturne', 'life orb').
+role('cacturne', 'setup sweeper').
+ability('cacturne','setup sweeper', 'water absorb').
+item('cacturne','setup sweeper', 'life orb').
+tera('cacturne','setup sweeper', 'dark').
+tera('cacturne','setup sweeper', 'poison').
+move('cacturne','setup sweeper', 'knock off').
+move('cacturne','setup sweeper', 'seed bomb').
+move('cacturne','setup sweeper', 'sucker punch').
+move('cacturne','setup sweeper', 'swords dance').
+role('cacturne', 'wallbreaker').
+ability('cacturne','wallbreaker', 'water absorb').
+item('cacturne','wallbreaker', 'life orb').
+tera('cacturne','wallbreaker', 'dark').
+tera('cacturne','wallbreaker', 'grass').
+tera('cacturne','wallbreaker', 'poison').
+move('cacturne','wallbreaker', 'focus blast').
+move('cacturne','wallbreaker', 'knock off').
+move('cacturne','wallbreaker', 'leaf storm').
+move('cacturne','wallbreaker', 'spikes').
+move('cacturne','wallbreaker', 'sucker punch').
+move('cacturne','wallbreaker', 'toxic spikes').
+pokemon('calyrex', 93).
+ability('calyrex', 'unnerve').
+item('calyrex', 'leftovers').
+role('calyrex', 'bulky setup').
+ability('calyrex','bulky setup', 'unnerve').
+item('calyrex','bulky setup', 'leftovers').
+tera('calyrex','bulky setup', 'steel').
+move('calyrex','bulky setup', 'calm mind').
+move('calyrex','bulky setup', 'encore').
+move('calyrex','bulky setup', 'giga drain').
+move('calyrex','bulky setup', 'leech seed').
+move('calyrex','bulky setup', 'psychic').
+move('calyrex','bulky setup', 'psyshock').
+role('calyrex', 'bulky attacker').
+ability('calyrex','bulky attacker', 'unnerve').
+item('calyrex','bulky attacker', 'leftovers').
+tera('calyrex','bulky attacker', 'fighting').
+tera('calyrex','bulky attacker', 'steel').
+move('calyrex','bulky attacker', 'body press').
+move('calyrex','bulky attacker', 'encore').
+move('calyrex','bulky attacker', 'giga drain').
+move('calyrex','bulky attacker', 'leech seed').
+move('calyrex','bulky attacker', 'psychic').
+move('calyrex','bulky attacker', 'psyshock').
+pokemon('calyrex-ice', 72).
+ability('calyrex-ice', 'as one (glastrier)').
+item('calyrex-ice', 'heavy-duty boots').
+item('calyrex-ice', 'weakness policy').
+role('calyrex-ice', 'bulky setup').
+ability('calyrex-ice','bulky setup', 'as one (glastrier)').
+item('calyrex-ice','bulky setup', 'weakness policy').
+tera('calyrex-ice','bulky setup', 'fighting').
+tera('calyrex-ice','bulky setup', 'ground').
+move('calyrex-ice','bulky setup', 'agility').
+move('calyrex-ice','bulky setup', 'close combat').
+move('calyrex-ice','bulky setup', 'glacial lance').
+move('calyrex-ice','bulky setup', 'high horsepower').
+role('calyrex-ice', 'wallbreaker').
+ability('calyrex-ice','wallbreaker', 'as one (glastrier)').
+item('calyrex-ice','wallbreaker', 'heavy-duty boots').
+tera('calyrex-ice','wallbreaker', 'fighting').
+tera('calyrex-ice','wallbreaker', 'ground').
+move('calyrex-ice','wallbreaker', 'close combat').
+move('calyrex-ice','wallbreaker', 'glacial lance').
+move('calyrex-ice','wallbreaker', 'high horsepower').
+move('calyrex-ice','wallbreaker', 'trick room').
+pokemon('calyrex-shadow', 64).
+ability('calyrex-shadow', 'as one (spectrier)').
+item('calyrex-shadow', 'choice specs').
+item('calyrex-shadow', 'life orb').
+role('calyrex-shadow', 'fast attacker').
+ability('calyrex-shadow','fast attacker', 'as one (spectrier)').
+item('calyrex-shadow','fast attacker', 'choice specs').
+item('calyrex-shadow','fast attacker', 'life orb').
+tera('calyrex-shadow','fast attacker', 'dark').
+tera('calyrex-shadow','fast attacker', 'ghost').
+move('calyrex-shadow','fast attacker', 'astral barrage').
+move('calyrex-shadow','fast attacker', 'nasty plot').
+move('calyrex-shadow','fast attacker', 'pollen puff').
+move('calyrex-shadow','fast attacker', 'psyshock').
+move('calyrex-shadow','fast attacker', 'trick').
+pokemon('camerupt', 91).
+ability('camerupt', 'solid rock').
+item('camerupt', 'leftovers').
+role('camerupt', 'bulky support').
+ability('camerupt','bulky support', 'solid rock').
+item('camerupt','bulky support', 'leftovers').
+tera('camerupt','bulky support', 'grass').
+tera('camerupt','bulky support', 'water').
+move('camerupt','bulky support', 'earthquake').
+move('camerupt','bulky support', 'overheat').
+move('camerupt','bulky support', 'roar').
+move('camerupt','bulky support', 'stealth rock').
+move('camerupt','bulky support', 'will-o-wisp').
+pokemon('carbink', 90).
+ability('carbink', 'clear body').
+ability('carbink', 'sturdy').
+item('carbink', 'chesto berry').
+item('carbink', 'leftovers').
+role('carbink', 'fast bulky setup').
+ability('carbink','fast bulky setup', 'clear body').
+ability('carbink','fast bulky setup', 'sturdy').
+item('carbink','fast bulky setup', 'chesto berry').
+item('carbink','fast bulky setup', 'leftovers').
+tera('carbink','fast bulky setup', 'fighting').
+move('carbink','fast bulky setup', 'body press').
+move('carbink','fast bulky setup', 'iron defense').
+move('carbink','fast bulky setup', 'moonblast').
+move('carbink','fast bulky setup', 'rest').
+move('carbink','fast bulky setup', 'rock polish').
+pokemon('ceruledge', 78).
+ability('ceruledge', 'weak armor').
+item('ceruledge', 'heavy-duty boots').
+role('ceruledge', 'setup sweeper').
+ability('ceruledge','setup sweeper', 'weak armor').
+item('ceruledge','setup sweeper', 'heavy-duty boots').
+tera('ceruledge','setup sweeper', 'fighting').
+tera('ceruledge','setup sweeper', 'fire').
+tera('ceruledge','setup sweeper', 'ghost').
+move('ceruledge','setup sweeper', 'bitter blade').
+move('ceruledge','setup sweeper', 'close combat').
+move('ceruledge','setup sweeper', 'poltergeist').
+move('ceruledge','setup sweeper', 'shadow sneak').
+move('ceruledge','setup sweeper', 'swords dance').
+pokemon('cetitan', 82).
+ability('cetitan', 'sheer force').
+ability('cetitan', 'slush rush').
+ability('cetitan', 'thick fat').
+item('cetitan', 'life orb').
+item('cetitan', 'sitrus berry').
+role('cetitan', 'bulky setup').
+ability('cetitan','bulky setup', 'slush rush').
+ability('cetitan','bulky setup', 'thick fat').
+item('cetitan','bulky setup', 'sitrus berry').
+tera('cetitan','bulky setup', 'ice').
+move('cetitan','bulky setup', 'belly drum').
+move('cetitan','bulky setup', 'earthquake').
+move('cetitan','bulky setup', 'ice shard').
+move('cetitan','bulky setup', 'ice spinner').
+role('cetitan', 'wallbreaker').
+ability('cetitan','wallbreaker', 'sheer force').
+item('cetitan','wallbreaker', 'life orb').
+tera('cetitan','wallbreaker', 'water').
+move('cetitan','wallbreaker', 'earthquake').
+move('cetitan','wallbreaker', 'ice shard').
+move('cetitan','wallbreaker', 'icicle crash').
+move('cetitan','wallbreaker', 'liquidation').
+move('cetitan','wallbreaker', 'superpower').
+pokemon('chandelure', 83).
+ability('chandelure', 'flame body').
+ability('chandelure', 'flash fire').
+item('chandelure', 'choice scarf').
+item('chandelure', 'heavy-duty boots').
+item('chandelure', 'leftovers').
+role('chandelure', 'fast attacker').
+ability('chandelure','fast attacker', 'flash fire').
+item('chandelure','fast attacker', 'choice scarf').
+tera('chandelure','fast attacker', 'fire').
+tera('chandelure','fast attacker', 'ghost').
+tera('chandelure','fast attacker', 'grass').
+move('chandelure','fast attacker', 'energy ball').
+move('chandelure','fast attacker', 'fire blast').
+move('chandelure','fast attacker', 'shadow ball').
+move('chandelure','fast attacker', 'trick').
+role('chandelure', 'fast bulky setup').
+ability('chandelure','fast bulky setup', 'flame body').
+ability('chandelure','fast bulky setup', 'flash fire').
+item('chandelure','fast bulky setup', 'heavy-duty boots').
+item('chandelure','fast bulky setup', 'leftovers').
+tera('chandelure','fast bulky setup', 'fire').
+tera('chandelure','fast bulky setup', 'ghost').
+tera('chandelure','fast bulky setup', 'grass').
+move('chandelure','fast bulky setup', 'calm mind').
+move('chandelure','fast bulky setup', 'energy ball').
+move('chandelure','fast bulky setup', 'fire blast').
+move('chandelure','fast bulky setup', 'flame charge').
+move('chandelure','fast bulky setup', 'pain split').
+move('chandelure','fast bulky setup', 'shadow ball').
+move('chandelure','fast bulky setup', 'substitute').
+move('chandelure','fast bulky setup', 'will-o-wisp').
+pokemon('chansey', 85).
+ability('chansey', 'natural cure').
+item('chansey', 'eviolite').
+role('chansey', 'bulky support').
+ability('chansey','bulky support', 'natural cure').
+item('chansey','bulky support', 'eviolite').
+tera('chansey','bulky support', 'dark').
+tera('chansey','bulky support', 'fairy').
+tera('chansey','bulky support', 'ghost').
+tera('chansey','bulky support', 'poison').
+move('chansey','bulky support', 'heal bell').
+move('chansey','bulky support', 'seismic toss').
+move('chansey','bulky support', 'soft-boiled').
+move('chansey','bulky support', 'stealth rock').
+move('chansey','bulky support', 'thunder wave').
+pokemon('charizard', 85).
+ability('charizard', 'blaze').
+item('charizard', 'heavy-duty boots').
+role('charizard', 'setup sweeper').
+ability('charizard','setup sweeper', 'blaze').
+item('charizard','setup sweeper', 'heavy-duty boots').
+tera('charizard','setup sweeper', 'dragon').
+tera('charizard','setup sweeper', 'ground').
+move('charizard','setup sweeper', 'dragon dance').
+move('charizard','setup sweeper', 'earthquake').
+move('charizard','setup sweeper', 'flare blitz').
+move('charizard','setup sweeper', 'outrage').
+move('charizard','setup sweeper', 'swords dance').
+role('charizard', 'fast attacker').
+ability('charizard','fast attacker', 'blaze').
+item('charizard','fast attacker', 'heavy-duty boots').
+tera('charizard','fast attacker', 'dragon').
+tera('charizard','fast attacker', 'fire').
+tera('charizard','fast attacker', 'ground').
+move('charizard','fast attacker', 'earthquake').
+move('charizard','fast attacker', 'flamethrower').
+move('charizard','fast attacker', 'focus blast').
+move('charizard','fast attacker', 'hurricane').
+move('charizard','fast attacker', 'will-o-wisp').
+pokemon('chesnaught', 84).
+ability('chesnaught', 'bulletproof').
+item('chesnaught', 'leftovers').
+item('chesnaught', 'rocky helmet').
+role('chesnaught', 'fast bulky setup').
+ability('chesnaught','fast bulky setup', 'bulletproof').
+item('chesnaught','fast bulky setup', 'leftovers').
+tera('chesnaught','fast bulky setup', 'steel').
+move('chesnaught','fast bulky setup', 'body press').
+move('chesnaught','fast bulky setup', 'iron defense').
+move('chesnaught','fast bulky setup', 'synthesis').
+move('chesnaught','fast bulky setup', 'trailblaze').
+role('chesnaught', 'bulky support').
+ability('chesnaught','bulky support', 'bulletproof').
+item('chesnaught','bulky support', 'leftovers').
+item('chesnaught','bulky support', 'rocky helmet').
+tera('chesnaught','bulky support', 'steel').
+tera('chesnaught','bulky support', 'water').
+move('chesnaught','bulky support', 'body press').
+move('chesnaught','bulky support', 'knock off').
+move('chesnaught','bulky support', 'spikes').
+move('chesnaught','bulky support', 'synthesis').
+move('chesnaught','bulky support', 'wood hammer').
+pokemon('chi-yu', 77).
+ability('chi-yu', 'beads of ruin').
+item('chi-yu', 'choice scarf').
+item('chi-yu', 'choice specs').
+item('chi-yu', 'heavy-duty boots').
+role('chi-yu', 'fast attacker').
+ability('chi-yu','fast attacker', 'beads of ruin').
+item('chi-yu','fast attacker', 'choice scarf').
+item('chi-yu','fast attacker', 'choice specs').
+tera('chi-yu','fast attacker', 'dark').
+tera('chi-yu','fast attacker', 'fire').
+move('chi-yu','fast attacker', 'dark pulse').
+move('chi-yu','fast attacker', 'flamethrower').
+move('chi-yu','fast attacker', 'overheat').
+move('chi-yu','fast attacker', 'psychic').
+role('chi-yu', 'setup sweeper').
+ability('chi-yu','setup sweeper', 'beads of ruin').
+item('chi-yu','setup sweeper', 'heavy-duty boots').
+tera('chi-yu','setup sweeper', 'dark').
+tera('chi-yu','setup sweeper', 'fire').
+move('chi-yu','setup sweeper', 'dark pulse').
+move('chi-yu','setup sweeper', 'fire blast').
+move('chi-yu','setup sweeper', 'nasty plot').
+move('chi-yu','setup sweeper', 'psychic').
+move('chi-yu','setup sweeper', 'will-o-wisp').
+pokemon('chien-pao', 72).
+ability('chien-pao', 'sword of ruin').
+item('chien-pao', 'choice band').
+item('chien-pao', 'heavy-duty boots').
+role('chien-pao', 'wallbreaker').
+ability('chien-pao','wallbreaker', 'sword of ruin').
+item('chien-pao','wallbreaker', 'choice band').
+tera('chien-pao','wallbreaker', 'dark').
+tera('chien-pao','wallbreaker', 'fighting').
+tera('chien-pao','wallbreaker', 'ice').
+move('chien-pao','wallbreaker', 'crunch').
+move('chien-pao','wallbreaker', 'ice shard').
+move('chien-pao','wallbreaker', 'icicle crash').
+move('chien-pao','wallbreaker', 'sacred sword').
+move('chien-pao','wallbreaker', 'throat chop').
+role('chien-pao', 'setup sweeper').
+ability('chien-pao','setup sweeper', 'sword of ruin').
+item('chien-pao','setup sweeper', 'heavy-duty boots').
+tera('chien-pao','setup sweeper', 'dark').
+tera('chien-pao','setup sweeper', 'fighting').
+tera('chien-pao','setup sweeper', 'ice').
+move('chien-pao','setup sweeper', 'ice shard').
+move('chien-pao','setup sweeper', 'icicle crash').
+move('chien-pao','setup sweeper', 'sacred sword').
+move('chien-pao','setup sweeper', 'sucker punch').
+move('chien-pao','setup sweeper', 'swords dance').
+move('chien-pao','setup sweeper', 'throat chop').
+pokemon('chimecho', 93).
+ability('chimecho', 'levitate').
+item('chimecho', 'leftovers').
+role('chimecho', 'bulky attacker').
+ability('chimecho','bulky attacker', 'levitate').
+item('chimecho','bulky attacker', 'leftovers').
+tera('chimecho','bulky attacker', 'steel').
+move('chimecho','bulky attacker', 'cosmic power').
+move('chimecho','bulky attacker', 'dazzling gleam').
+move('chimecho','bulky attacker', 'recover').
+move('chimecho','bulky attacker', 'stored power').
+role('chimecho', 'bulky support').
+ability('chimecho','bulky support', 'levitate').
+item('chimecho','bulky support', 'leftovers').
+tera('chimecho','bulky support', 'dark').
+tera('chimecho','bulky support', 'electric').
+tera('chimecho','bulky support', 'poison').
+tera('chimecho','bulky support', 'steel').
+move('chimecho','bulky support', 'encore').
+move('chimecho','bulky support', 'heal bell').
+move('chimecho','bulky support', 'knock off').
+move('chimecho','bulky support', 'psychic noise').
+move('chimecho','bulky support', 'recover').
+move('chimecho','bulky support', 'thunder wave').
+role('chimecho', 'bulky setup').
+ability('chimecho','bulky setup', 'levitate').
+item('chimecho','bulky setup', 'leftovers').
+tera('chimecho','bulky setup', 'electric').
+tera('chimecho','bulky setup', 'fairy').
+tera('chimecho','bulky setup', 'poison').
+tera('chimecho','bulky setup', 'steel').
+move('chimecho','bulky setup', 'calm mind').
+move('chimecho','bulky setup', 'dazzling gleam').
+move('chimecho','bulky setup', 'psychic noise').
+move('chimecho','bulky setup', 'psyshock').
+move('chimecho','bulky setup', 'recover').
+pokemon('cinccino', 83).
+ability('cinccino', 'technician').
+item('cinccino', 'loaded dice').
+role('cinccino', 'fast attacker').
+ability('cinccino','fast attacker', 'technician').
+item('cinccino','fast attacker', 'loaded dice').
+tera('cinccino','fast attacker', 'grass').
+tera('cinccino','fast attacker', 'ice').
+tera('cinccino','fast attacker', 'normal').
+move('cinccino','fast attacker', 'bullet seed').
+move('cinccino','fast attacker', 'tail slap').
+move('cinccino','fast attacker', 'tidy up').
+move('cinccino','fast attacker', 'triple axel').
+move('cinccino','fast attacker', 'u-turn').
+pokemon('cinderace', 77).
+ability('cinderace', 'libero').
+item('cinderace', 'choice band').
+item('cinderace', 'heavy-duty boots').
+role('cinderace', 'wallbreaker').
+ability('cinderace','wallbreaker', 'libero').
+item('cinderace','wallbreaker', 'choice band').
+tera('cinderace','wallbreaker', 'fire').
+move('cinderace','wallbreaker', 'gunk shot').
+move('cinderace','wallbreaker', 'high jump kick').
+move('cinderace','wallbreaker', 'pyro ball').
+move('cinderace','wallbreaker', 'u-turn').
+role('cinderace', 'fast attacker').
+ability('cinderace','fast attacker', 'libero').
+item('cinderace','fast attacker', 'choice band').
+item('cinderace','fast attacker', 'heavy-duty boots').
+tera('cinderace','fast attacker', 'fighting').
+move('cinderace','fast attacker', 'court change').
+move('cinderace','fast attacker', 'gunk shot').
+move('cinderace','fast attacker', 'high jump kick').
+move('cinderace','fast attacker', 'pyro ball').
+move('cinderace','fast attacker', 'u-turn').
+role('cinderace', 'fast support').
+ability('cinderace','fast support', 'libero').
+item('cinderace','fast support', 'heavy-duty boots').
+tera('cinderace','fast support', 'grass').
+move('cinderace','fast support', 'court change').
+move('cinderace','fast support', 'pyro ball').
+move('cinderace','fast support', 'u-turn').
+move('cinderace','fast support', 'will-o-wisp').
+pokemon('clawitzer', 87).
+ability('clawitzer', 'mega launcher').
+item('clawitzer', 'assault vest').
+item('clawitzer', 'choice specs').
+role('clawitzer', 'wallbreaker').
+ability('clawitzer','wallbreaker', 'mega launcher').
+item('clawitzer','wallbreaker', 'choice specs').
+tera('clawitzer','wallbreaker', 'dark').
+tera('clawitzer','wallbreaker', 'dragon').
+tera('clawitzer','wallbreaker', 'fighting').
+move('clawitzer','wallbreaker', 'aura sphere').
+move('clawitzer','wallbreaker', 'dark pulse').
+move('clawitzer','wallbreaker', 'dragon pulse').
+move('clawitzer','wallbreaker', 'ice beam').
+move('clawitzer','wallbreaker', 'u-turn').
+move('clawitzer','wallbreaker', 'water pulse').
+role('clawitzer', 'av pivot').
+ability('clawitzer','av pivot', 'mega launcher').
+item('clawitzer','av pivot', 'assault vest').
+tera('clawitzer','av pivot', 'dragon').
+move('clawitzer','av pivot', 'aura sphere').
+move('clawitzer','av pivot', 'dark pulse').
+move('clawitzer','av pivot', 'dragon pulse').
+move('clawitzer','av pivot', 'u-turn').
+move('clawitzer','av pivot', 'water pulse').
+pokemon('clefable', 83).
+ability('clefable', 'magic guard').
+ability('clefable', 'unaware').
+item('clefable', 'leftovers').
+item('clefable', 'life orb').
+role('clefable', 'bulky setup').
+ability('clefable','bulky setup', 'magic guard').
+ability('clefable','bulky setup', 'unaware').
+item('clefable','bulky setup', 'leftovers').
+item('clefable','bulky setup', 'life orb').
+tera('clefable','bulky setup', 'fire').
+tera('clefable','bulky setup', 'steel').
+move('clefable','bulky setup', 'calm mind').
+move('clefable','bulky setup', 'fire blast').
+move('clefable','bulky setup', 'moonblast').
+move('clefable','bulky setup', 'moonlight').
+role('clefable', 'bulky support').
+ability('clefable','bulky support', 'magic guard').
+ability('clefable','bulky support', 'unaware').
+item('clefable','bulky support', 'leftovers').
+item('clefable','bulky support', 'life orb').
+tera('clefable','bulky support', 'poison').
+tera('clefable','bulky support', 'steel').
+move('clefable','bulky support', 'fire blast').
+move('clefable','bulky support', 'knock off').
+move('clefable','bulky support', 'moonblast').
+move('clefable','bulky support', 'moonlight').
+move('clefable','bulky support', 'stealth rock').
+move('clefable','bulky support', 'thunder wave').
+pokemon('clodsire', 81).
+ability('clodsire', 'unaware').
+ability('clodsire', 'water absorb').
+item('clodsire', 'leftovers').
+role('clodsire', 'bulky attacker').
+ability('clodsire','bulky attacker', 'unaware').
+ability('clodsire','bulky attacker', 'water absorb').
+item('clodsire','bulky attacker', 'leftovers').
+tera('clodsire','bulky attacker', 'flying').
+tera('clodsire','bulky attacker', 'steel').
+move('clodsire','bulky attacker', 'curse').
+move('clodsire','bulky attacker', 'earthquake').
+move('clodsire','bulky attacker', 'gunk shot').
+move('clodsire','bulky attacker', 'poison jab').
+move('clodsire','bulky attacker', 'recover').
+move('clodsire','bulky attacker', 'stealth rock').
+move('clodsire','bulky attacker', 'toxic spikes').
+role('clodsire', 'bulky support').
+ability('clodsire','bulky support', 'unaware').
+ability('clodsire','bulky support', 'water absorb').
+item('clodsire','bulky support', 'leftovers').
+tera('clodsire','bulky support', 'flying').
+tera('clodsire','bulky support', 'steel').
+move('clodsire','bulky support', 'earthquake').
+move('clodsire','bulky support', 'gunk shot').
+move('clodsire','bulky support', 'poison jab').
+move('clodsire','bulky support', 'recover').
+move('clodsire','bulky support', 'spikes').
+move('clodsire','bulky support', 'toxic').
+pokemon('cloyster', 80).
+ability('cloyster', 'skill link').
+item('cloyster', 'white herb').
+role('cloyster', 'fast attacker').
+ability('cloyster','fast attacker', 'skill link').
+item('cloyster','fast attacker', 'white herb').
+tera('cloyster','fast attacker', 'ground').
+move('cloyster','fast attacker', 'drill run').
+move('cloyster','fast attacker', 'icicle spear').
+move('cloyster','fast attacker', 'rock blast').
+move('cloyster','fast attacker', 'shell smash').
+role('cloyster', 'setup sweeper').
+ability('cloyster','setup sweeper', 'skill link').
+item('cloyster','setup sweeper', 'white herb').
+tera('cloyster','setup sweeper', 'ice').
+tera('cloyster','setup sweeper', 'rock').
+move('cloyster','setup sweeper', 'hydro pump').
+move('cloyster','setup sweeper', 'icicle spear').
+move('cloyster','setup sweeper', 'rock blast').
+move('cloyster','setup sweeper', 'shell smash').
+pokemon('coalossal', 89).
+ability('coalossal', 'flame body').
+item('coalossal', 'heavy-duty boots').
+role('coalossal', 'bulky support').
+ability('coalossal','bulky support', 'flame body').
+item('coalossal','bulky support', 'heavy-duty boots').
+tera('coalossal','bulky support', 'ghost').
+tera('coalossal','bulky support', 'grass').
+tera('coalossal','bulky support', 'water').
+move('coalossal','bulky support', 'flamethrower').
+move('coalossal','bulky support', 'overheat').
+move('coalossal','bulky support', 'rapid spin').
+move('coalossal','bulky support', 'spikes').
+move('coalossal','bulky support', 'stealth rock').
+move('coalossal','bulky support', 'stone edge').
+move('coalossal','bulky support', 'will-o-wisp').
+pokemon('cobalion', 80).
+ability('cobalion', 'justified').
+item('cobalion', 'leftovers').
+item('cobalion', 'life orb').
+role('cobalion', 'bulky setup').
+ability('cobalion','bulky setup', 'justified').
+item('cobalion','bulky setup', 'leftovers').
+tera('cobalion','bulky setup', 'fighting').
+tera('cobalion','bulky setup', 'ghost').
+tera('cobalion','bulky setup', 'water').
+move('cobalion','bulky setup', 'aura sphere').
+move('cobalion','bulky setup', 'calm mind').
+move('cobalion','bulky setup', 'flash cannon').
+move('cobalion','bulky setup', 'vacuum wave').
+role('cobalion', 'fast bulky setup').
+ability('cobalion','fast bulky setup', 'justified').
+item('cobalion','fast bulky setup', 'leftovers').
+item('cobalion','fast bulky setup', 'life orb').
+tera('cobalion','fast bulky setup', 'fighting').
+move('cobalion','fast bulky setup', 'close combat').
+move('cobalion','fast bulky setup', 'iron head').
+move('cobalion','fast bulky setup', 'stone edge').
+move('cobalion','fast bulky setup', 'swords dance').
+move('cobalion','fast bulky setup', 'taunt').
+role('cobalion', 'bulky support').
+ability('cobalion','bulky support', 'justified').
+item('cobalion','bulky support', 'leftovers').
+tera('cobalion','bulky support', 'ghost').
+tera('cobalion','bulky support', 'water').
+move('cobalion','bulky support', 'body press').
+move('cobalion','bulky support', 'iron defense').
+move('cobalion','bulky support', 'iron head').
+move('cobalion','bulky support', 'stealth rock').
+move('cobalion','bulky support', 'thunder wave').
+move('cobalion','bulky support', 'volt switch').
+pokemon('comfey', 85).
+ability('comfey', 'triage').
+item('comfey', 'leftovers').
+role('comfey', 'bulky setup').
+ability('comfey','bulky setup', 'triage').
+item('comfey','bulky setup', 'leftovers').
+tera('comfey','bulky setup', 'fairy').
+tera('comfey','bulky setup', 'poison').
+tera('comfey','bulky setup', 'steel').
+move('comfey','bulky setup', 'calm mind').
+move('comfey','bulky setup', 'draining kiss').
+move('comfey','bulky setup', 'giga drain').
+move('comfey','bulky setup', 'stored power').
+role('comfey', 'tera blast user').
+ability('comfey','tera blast user', 'triage').
+item('comfey','tera blast user', 'leftovers').
+tera('comfey','tera blast user', 'ground').
+move('comfey','tera blast user', 'calm mind').
+move('comfey','tera blast user', 'draining kiss').
+move('comfey','tera blast user', 'encore').
+move('comfey','tera blast user', 'giga drain').
+move('comfey','tera blast user', 'synthesis').
+move('comfey','tera blast user', 'taunt').
+move('comfey','tera blast user', 'tera blast').
+pokemon('conkeldurr', 80).
+ability('conkeldurr', 'guts').
+item('conkeldurr', 'flame orb').
+role('conkeldurr', 'wallbreaker').
+ability('conkeldurr','wallbreaker', 'guts').
+item('conkeldurr','wallbreaker', 'flame orb').
+tera('conkeldurr','wallbreaker', 'normal').
+move('conkeldurr','wallbreaker', 'close combat').
+move('conkeldurr','wallbreaker', 'facade').
+move('conkeldurr','wallbreaker', 'knock off').
+move('conkeldurr','wallbreaker', 'mach punch').
+pokemon('copperajah', 86).
+ability('copperajah', 'heavy metal').
+ability('copperajah', 'sheer force').
+item('copperajah', 'choice band').
+item('copperajah', 'life orb').
+role('copperajah', 'wallbreaker').
+ability('copperajah','wallbreaker', 'sheer force').
+item('copperajah','wallbreaker', 'life orb').
+tera('copperajah','wallbreaker', 'fairy').
+move('copperajah','wallbreaker', 'earthquake').
+move('copperajah','wallbreaker', 'iron head').
+move('copperajah','wallbreaker', 'play rough').
+move('copperajah','wallbreaker', 'rock slide').
+move('copperajah','wallbreaker', 'stealth rock').
+move('copperajah','wallbreaker', 'superpower').
+role('copperajah', 'bulky attacker').
+ability('copperajah','bulky attacker', 'heavy metal').
+item('copperajah','bulky attacker', 'choice band').
+tera('copperajah','bulky attacker', 'fire').
+tera('copperajah','bulky attacker', 'flying').
+move('copperajah','bulky attacker', 'earthquake').
+move('copperajah','bulky attacker', 'heat crash').
+move('copperajah','bulky attacker', 'heavy slam').
+move('copperajah','bulky attacker', 'knock off').
+move('copperajah','bulky attacker', 'stone edge').
+move('copperajah','bulky attacker', 'supercell slam').
+move('copperajah','bulky attacker', 'superpower').
+pokemon('corviknight', 80).
+ability('corviknight', 'mirror armor').
+ability('corviknight', 'pressure').
+item('corviknight', 'leftovers').
+item('corviknight', 'rocky helmet').
+role('corviknight', 'bulky support').
+ability('corviknight','bulky support', 'mirror armor').
+ability('corviknight','bulky support', 'pressure').
+item('corviknight','bulky support', 'leftovers').
+item('corviknight','bulky support', 'rocky helmet').
+tera('corviknight','bulky support', 'dragon').
+move('corviknight','bulky support', 'body press').
+move('corviknight','bulky support', 'brave bird').
+move('corviknight','bulky support', 'defog').
+move('corviknight','bulky support', 'roost').
+move('corviknight','bulky support', 'u-turn').
+pokemon('crabominable', 90).
+ability('crabominable', 'iron fist').
+item('crabominable', 'assault vest').
+item('crabominable', 'choice band').
+role('crabominable', 'av pivot').
+ability('crabominable','av pivot', 'iron fist').
+item('crabominable','av pivot', 'assault vest').
+tera('crabominable','av pivot', 'fighting').
+tera('crabominable','av pivot', 'ground').
+tera('crabominable','av pivot', 'water').
+move('crabominable','av pivot', 'drain punch').
+move('crabominable','av pivot', 'earthquake').
+move('crabominable','av pivot', 'ice hammer').
+move('crabominable','av pivot', 'knock off').
+role('crabominable', 'wallbreaker').
+ability('crabominable','wallbreaker', 'iron fist').
+item('crabominable','wallbreaker', 'choice band').
+tera('crabominable','wallbreaker', 'fighting').
+tera('crabominable','wallbreaker', 'ground').
+move('crabominable','wallbreaker', 'close combat').
+move('crabominable','wallbreaker', 'drain punch').
+move('crabominable','wallbreaker', 'earthquake').
+move('crabominable','wallbreaker', 'gunk shot').
+move('crabominable','wallbreaker', 'ice hammer').
+move('crabominable','wallbreaker', 'knock off').
+pokemon('cramorant', 86).
+ability('cramorant', 'gulp missile').
+item('cramorant', 'heavy-duty boots').
+role('cramorant', 'bulky support').
+ability('cramorant','bulky support', 'gulp missile').
+item('cramorant','bulky support', 'heavy-duty boots').
+tera('cramorant','bulky support', 'ground').
+move('cramorant','bulky support', 'brave bird').
+move('cramorant','bulky support', 'defog').
+move('cramorant','bulky support', 'roost').
+move('cramorant','bulky support', 'surf').
+pokemon('crawdaunt', 84).
+ability('crawdaunt', 'adaptability').
+item('crawdaunt', 'choice band').
+item('crawdaunt', 'life orb').
+role('crawdaunt', 'setup sweeper').
+ability('crawdaunt','setup sweeper', 'adaptability').
+item('crawdaunt','setup sweeper', 'life orb').
+tera('crawdaunt','setup sweeper', 'water').
+move('crawdaunt','setup sweeper', 'aqua jet').
+move('crawdaunt','setup sweeper', 'crabhammer').
+move('crawdaunt','setup sweeper', 'dragon dance').
+move('crawdaunt','setup sweeper', 'knock off').
+role('crawdaunt', 'fast attacker').
+ability('crawdaunt','fast attacker', 'adaptability').
+item('crawdaunt','fast attacker', 'choice band').
+item('crawdaunt','fast attacker', 'life orb').
+tera('crawdaunt','fast attacker', 'fighting').
+move('crawdaunt','fast attacker', 'aqua jet').
+move('crawdaunt','fast attacker', 'close combat').
+move('crawdaunt','fast attacker', 'crabhammer').
+move('crawdaunt','fast attacker', 'dragon dance').
+move('crawdaunt','fast attacker', 'knock off').
+pokemon('cresselia', 80).
+ability('cresselia', 'levitate').
+item('cresselia', 'leftovers').
+role('cresselia', 'bulky setup').
+ability('cresselia','bulky setup', 'levitate').
+item('cresselia','bulky setup', 'leftovers').
+tera('cresselia','bulky setup', 'electric').
+tera('cresselia','bulky setup', 'fairy').
+tera('cresselia','bulky setup', 'poison').
+tera('cresselia','bulky setup', 'steel').
+move('cresselia','bulky setup', 'calm mind').
+move('cresselia','bulky setup', 'moonblast').
+move('cresselia','bulky setup', 'moonlight').
+move('cresselia','bulky setup', 'psyshock').
+move('cresselia','bulky setup', 'thunderbolt').
+pokemon('cryogonal', 89).
+ability('cryogonal', 'levitate').
+item('cryogonal', 'heavy-duty boots').
+role('cryogonal', 'bulky support').
+ability('cryogonal','bulky support', 'levitate').
+item('cryogonal','bulky support', 'heavy-duty boots').
+tera('cryogonal','bulky support', 'poison').
+tera('cryogonal','bulky support', 'steel').
+move('cryogonal','bulky support', 'flash cannon').
+move('cryogonal','bulky support', 'freeze-dry').
+move('cryogonal','bulky support', 'haze').
+move('cryogonal','bulky support', 'rapid spin').
+move('cryogonal','bulky support', 'recover').
+role('cryogonal', 'tera blast user').
+ability('cryogonal','tera blast user', 'levitate').
+item('cryogonal','tera blast user', 'heavy-duty boots').
+tera('cryogonal','tera blast user', 'electric').
+move('cryogonal','tera blast user', 'ice beam').
+move('cryogonal','tera blast user', 'rapid spin').
+move('cryogonal','tera blast user', 'recover').
+move('cryogonal','tera blast user', 'tera blast').
+pokemon('cyclizar', 84).
+ability('cyclizar', 'regenerator').
+item('cyclizar', 'heavy-duty boots').
+role('cyclizar', 'fast support').
+ability('cyclizar','fast support', 'regenerator').
+item('cyclizar','fast support', 'heavy-duty boots').
+tera('cyclizar','fast support', 'dragon').
+tera('cyclizar','fast support', 'fairy').
+tera('cyclizar','fast support', 'ghost').
+tera('cyclizar','fast support', 'steel').
+move('cyclizar','fast support', 'draco meteor').
+move('cyclizar','fast support', 'knock off').
+move('cyclizar','fast support', 'rapid spin').
+move('cyclizar','fast support', 'shed tail').
+move('cyclizar','fast support', 'taunt').
+pokemon('dachsbun', 92).
+ability('dachsbun', 'well-baked body').
+item('dachsbun', 'leftovers').
+role('dachsbun', 'bulky support').
+ability('dachsbun','bulky support', 'well-baked body').
+item('dachsbun','bulky support', 'leftovers').
+tera('dachsbun','bulky support', 'steel').
+move('dachsbun','bulky support', 'body press').
+move('dachsbun','bulky support', 'play rough').
+move('dachsbun','bulky support', 'protect').
+move('dachsbun','bulky support', 'wish').
+move('dachsbun','bulky support', 'yawn').
+pokemon('darkrai', 77).
+ability('darkrai', 'bad dreams').
+item('darkrai', 'leftovers').
+item('darkrai', 'life orb').
+role('darkrai', 'setup sweeper').
+ability('darkrai','setup sweeper', 'bad dreams').
+item('darkrai','setup sweeper', 'leftovers').
+item('darkrai','setup sweeper', 'life orb').
+tera('darkrai','setup sweeper', 'poison').
+move('darkrai','setup sweeper', 'dark pulse').
+move('darkrai','setup sweeper', 'focus blast').
+move('darkrai','setup sweeper', 'hypnosis').
+move('darkrai','setup sweeper', 'nasty plot').
+move('darkrai','setup sweeper', 'sludge bomb').
+move('darkrai','setup sweeper', 'substitute').
+pokemon('decidueye', 88).
+ability('decidueye', 'overgrow').
+item('decidueye', 'assault vest').
+item('decidueye', 'heavy-duty boots').
+item('decidueye', 'life orb').
+role('decidueye', 'fast support').
+ability('decidueye','fast support', 'overgrow').
+item('decidueye','fast support', 'assault vest').
+item('decidueye','fast support', 'heavy-duty boots').
+item('decidueye','fast support', 'life orb').
+tera('decidueye','fast support', 'dark').
+tera('decidueye','fast support', 'ghost').
+tera('decidueye','fast support', 'grass').
+move('decidueye','fast support', 'defog').
+move('decidueye','fast support', 'knock off').
+move('decidueye','fast support', 'leaf storm').
+move('decidueye','fast support', 'roost').
+move('decidueye','fast support', 'spirit shackle').
+move('decidueye','fast support', 'u-turn').
+role('decidueye', 'setup sweeper').
+ability('decidueye','setup sweeper', 'overgrow').
+item('decidueye','setup sweeper', 'life orb').
+tera('decidueye','setup sweeper', 'ghost').
+move('decidueye','setup sweeper', 'leaf blade').
+move('decidueye','setup sweeper', 'poltergeist').
+move('decidueye','setup sweeper', 'shadow sneak').
+move('decidueye','setup sweeper', 'swords dance').
+pokemon('decidueye-hisui', 87).
+ability('decidueye-hisui', 'scrappy').
+item('decidueye-hisui', 'leftovers').
+role('decidueye-hisui', 'bulky attacker').
+ability('decidueye-hisui','bulky attacker', 'scrappy').
+item('decidueye-hisui','bulky attacker', 'leftovers').
+tera('decidueye-hisui','bulky attacker', 'steel').
+tera('decidueye-hisui','bulky attacker', 'water').
+move('decidueye-hisui','bulky attacker', 'defog').
+move('decidueye-hisui','bulky attacker', 'knock off').
+move('decidueye-hisui','bulky attacker', 'leaf blade').
+move('decidueye-hisui','bulky attacker', 'roost').
+move('decidueye-hisui','bulky attacker', 'sucker punch').
+move('decidueye-hisui','bulky attacker', 'swords dance').
+move('decidueye-hisui','bulky attacker', 'triple arrows').
+move('decidueye-hisui','bulky attacker', 'u-turn').
+pokemon('dedenne', 88).
+ability('dedenne', 'cheek pouch').
+item('dedenne', 'sitrus berry').
+role('dedenne', 'fast support').
+ability('dedenne','fast support', 'cheek pouch').
+item('dedenne','fast support', 'sitrus berry').
+tera('dedenne','fast support', 'flying').
+move('dedenne','fast support', 'dazzling gleam').
+move('dedenne','fast support', 'nuzzle').
+move('dedenne','fast support', 'super fang').
+move('dedenne','fast support', 'thunderbolt').
+move('dedenne','fast support', 'u-turn').
+pokemon('delibird', 100).
+ability('delibird', 'hustle').
+ability('delibird', 'insomnia').
+ability('delibird', 'vital spirit').
+item('delibird', 'heavy-duty boots').
+role('delibird', 'fast support').
+ability('delibird','fast support', 'insomnia').
+ability('delibird','fast support', 'vital spirit').
+item('delibird','fast support', 'heavy-duty boots').
+tera('delibird','fast support', 'ghost').
+move('delibird','fast support', 'brave bird').
+move('delibird','fast support', 'freeze-dry').
+move('delibird','fast support', 'rapid spin').
+move('delibird','fast support', 'spikes').
+role('delibird', 'fast attacker').
+ability('delibird','fast attacker', 'hustle').
+item('delibird','fast attacker', 'heavy-duty boots').
+tera('delibird','fast attacker', 'flying').
+tera('delibird','fast attacker', 'ground').
+tera('delibird','fast attacker', 'ice').
+move('delibird','fast attacker', 'brave bird').
+move('delibird','fast attacker', 'drill run').
+move('delibird','fast attacker', 'ice shard').
+move('delibird','fast attacker', 'ice spinner').
+move('delibird','fast attacker', 'spikes').
+pokemon('delphox', 84).
+ability('delphox', 'blaze').
+item('delphox', 'choice scarf').
+item('delphox', 'choice specs').
+item('delphox', 'heavy-duty boots').
+role('delphox', 'fast attacker').
+ability('delphox','fast attacker', 'blaze').
+item('delphox','fast attacker', 'choice scarf').
+item('delphox','fast attacker', 'choice specs').
+item('delphox','fast attacker', 'heavy-duty boots').
+tera('delphox','fast attacker', 'fighting').
+tera('delphox','fast attacker', 'fire').
+tera('delphox','fast attacker', 'grass').
+move('delphox','fast attacker', 'fire blast').
+move('delphox','fast attacker', 'focus blast').
+move('delphox','fast attacker', 'grass knot').
+move('delphox','fast attacker', 'nasty plot').
+move('delphox','fast attacker', 'psyshock').
+pokemon('deoxys', 74).
+ability('deoxys', 'pressure').
+item('deoxys', 'life orb').
+role('deoxys', 'fast attacker').
+ability('deoxys','fast attacker', 'pressure').
+item('deoxys','fast attacker', 'life orb').
+tera('deoxys','fast attacker', 'dark').
+tera('deoxys','fast attacker', 'fighting').
+tera('deoxys','fast attacker', 'normal').
+tera('deoxys','fast attacker', 'psychic').
+move('deoxys','fast attacker', 'extreme speed').
+move('deoxys','fast attacker', 'knock off').
+move('deoxys','fast attacker', 'psycho boost').
+move('deoxys','fast attacker', 'superpower').
+role('deoxys', 'wallbreaker').
+ability('deoxys','wallbreaker', 'pressure').
+item('deoxys','wallbreaker', 'life orb').
+tera('deoxys','wallbreaker', 'dark').
+tera('deoxys','wallbreaker', 'fighting').
+tera('deoxys','wallbreaker', 'psychic').
+move('deoxys','wallbreaker', 'ice beam').
+move('deoxys','wallbreaker', 'knock off').
+move('deoxys','wallbreaker', 'psycho boost').
+move('deoxys','wallbreaker', 'superpower').
+pokemon('deoxys-attack', 72).
+ability('deoxys-attack', 'pressure').
+item('deoxys-attack', 'life orb').
+role('deoxys-attack', 'wallbreaker').
+ability('deoxys-attack','wallbreaker', 'pressure').
+item('deoxys-attack','wallbreaker', 'life orb').
+tera('deoxys-attack','wallbreaker', 'dark').
+tera('deoxys-attack','wallbreaker', 'fighting').
+tera('deoxys-attack','wallbreaker', 'psychic').
+move('deoxys-attack','wallbreaker', 'ice beam').
+move('deoxys-attack','wallbreaker', 'knock off').
+move('deoxys-attack','wallbreaker', 'psycho boost').
+move('deoxys-attack','wallbreaker', 'superpower').
+role('deoxys-attack', 'fast attacker').
+ability('deoxys-attack','fast attacker', 'pressure').
+item('deoxys-attack','fast attacker', 'life orb').
+tera('deoxys-attack','fast attacker', 'dark').
+tera('deoxys-attack','fast attacker', 'fighting').
+tera('deoxys-attack','fast attacker', 'normal').
+tera('deoxys-attack','fast attacker', 'psychic').
+move('deoxys-attack','fast attacker', 'extreme speed').
+move('deoxys-attack','fast attacker', 'knock off').
+move('deoxys-attack','fast attacker', 'psycho boost').
+move('deoxys-attack','fast attacker', 'superpower').
+pokemon('deoxys-defense', 84).
+ability('deoxys-defense', 'pressure').
+item('deoxys-defense', 'leftovers').
+item('deoxys-defense', 'rocky helmet').
+role('deoxys-defense', 'bulky support').
+ability('deoxys-defense','bulky support', 'pressure').
+item('deoxys-defense','bulky support', 'leftovers').
+item('deoxys-defense','bulky support', 'rocky helmet').
+tera('deoxys-defense','bulky support', 'dark').
+tera('deoxys-defense','bulky support', 'fairy').
+tera('deoxys-defense','bulky support', 'steel').
+move('deoxys-defense','bulky support', 'knock off').
+move('deoxys-defense','bulky support', 'psychic noise').
+move('deoxys-defense','bulky support', 'recover').
+move('deoxys-defense','bulky support', 'spikes').
+move('deoxys-defense','bulky support', 'stealth rock').
+move('deoxys-defense','bulky support', 'teleport').
+role('deoxys-defense', 'bulky setup').
+ability('deoxys-defense','bulky setup', 'pressure').
+item('deoxys-defense','bulky setup', 'leftovers').
+tera('deoxys-defense','bulky setup', 'steel').
+move('deoxys-defense','bulky setup', 'cosmic power').
+move('deoxys-defense','bulky setup', 'night shade').
+move('deoxys-defense','bulky setup', 'recover').
+move('deoxys-defense','bulky setup', 'stored power').
+pokemon('deoxys-speed', 82).
+ability('deoxys-speed', 'pressure').
+item('deoxys-speed', 'focus sash').
+item('deoxys-speed', 'leftovers').
+item('deoxys-speed', 'life orb').
+role('deoxys-speed', 'setup sweeper').
+ability('deoxys-speed','setup sweeper', 'pressure').
+item('deoxys-speed','setup sweeper', 'life orb').
+tera('deoxys-speed','setup sweeper', 'dark').
+tera('deoxys-speed','setup sweeper', 'fighting').
+tera('deoxys-speed','setup sweeper', 'psychic').
+move('deoxys-speed','setup sweeper', 'dark pulse').
+move('deoxys-speed','setup sweeper', 'focus blast').
+move('deoxys-speed','setup sweeper', 'nasty plot').
+move('deoxys-speed','setup sweeper', 'psycho boost').
+role('deoxys-speed', 'fast support').
+ability('deoxys-speed','fast support', 'pressure').
+item('deoxys-speed','fast support', 'focus sash').
+item('deoxys-speed','fast support', 'leftovers').
+item('deoxys-speed','fast support', 'life orb').
+tera('deoxys-speed','fast support', 'dark').
+tera('deoxys-speed','fast support', 'fighting').
+tera('deoxys-speed','fast support', 'ghost').
+tera('deoxys-speed','fast support', 'steel').
+move('deoxys-speed','fast support', 'knock off').
+move('deoxys-speed','fast support', 'psycho boost').
+move('deoxys-speed','fast support', 'spikes').
+move('deoxys-speed','fast support', 'stealth rock').
+move('deoxys-speed','fast support', 'superpower').
+move('deoxys-speed','fast support', 'taunt').
+pokemon('dewgong', 94).
+ability('dewgong', 'thick fat').
+item('dewgong', 'assault vest').
+item('dewgong', 'heavy-duty boots').
+role('dewgong', 'bulky support').
+ability('dewgong','bulky support', 'thick fat').
+item('dewgong','bulky support', 'assault vest').
+item('dewgong','bulky support', 'heavy-duty boots').
+tera('dewgong','bulky support', 'dragon').
+tera('dewgong','bulky support', 'grass').
+tera('dewgong','bulky support', 'ground').
+tera('dewgong','bulky support', 'poison').
+tera('dewgong','bulky support', 'steel').
+move('dewgong','bulky support', 'encore').
+move('dewgong','bulky support', 'flip turn').
+move('dewgong','bulky support', 'hydro pump').
+move('dewgong','bulky support', 'ice beam').
+move('dewgong','bulky support', 'knock off').
+move('dewgong','bulky support', 'surf').
+role('dewgong', 'bulky attacker').
+ability('dewgong','bulky attacker', 'thick fat').
+item('dewgong','bulky attacker', 'assault vest').
+item('dewgong','bulky attacker', 'heavy-duty boots').
+tera('dewgong','bulky attacker', 'dragon').
+tera('dewgong','bulky attacker', 'grass').
+tera('dewgong','bulky attacker', 'ground').
+tera('dewgong','bulky attacker', 'poison').
+tera('dewgong','bulky attacker', 'steel').
+move('dewgong','bulky attacker', 'encore').
+move('dewgong','bulky attacker', 'flip turn').
+move('dewgong','bulky attacker', 'knock off').
+move('dewgong','bulky attacker', 'surf').
+move('dewgong','bulky attacker', 'triple axel').
+pokemon('dialga', 73).
+ability('dialga', 'pressure').
+item('dialga', 'assault vest').
+item('dialga', 'leftovers').
+role('dialga', 'bulky attacker').
+ability('dialga','bulky attacker', 'pressure').
+item('dialga','bulky attacker', 'leftovers').
+tera('dialga','bulky attacker', 'dragon').
+tera('dialga','bulky attacker', 'flying').
+tera('dialga','bulky attacker', 'steel').
+move('dialga','bulky attacker', 'draco meteor').
+move('dialga','bulky attacker', 'fire blast').
+move('dialga','bulky attacker', 'heavy slam').
+move('dialga','bulky attacker', 'stealth rock').
+move('dialga','bulky attacker', 'thunder wave').
+role('dialga', 'av pivot').
+ability('dialga','av pivot', 'pressure').
+item('dialga','av pivot', 'assault vest').
+tera('dialga','av pivot', 'dragon').
+tera('dialga','av pivot', 'flying').
+tera('dialga','av pivot', 'steel').
+move('dialga','av pivot', 'draco meteor').
+move('dialga','av pivot', 'dragon tail').
+move('dialga','av pivot', 'fire blast').
+move('dialga','av pivot', 'heavy slam').
+pokemon('dialga-origin', 73).
+ability('dialga-origin', 'pressure').
+item('dialga-origin', 'adamant crystal').
+role('dialga-origin', 'fast attacker').
+ability('dialga-origin','fast attacker', 'pressure').
+item('dialga-origin','fast attacker', 'adamant crystal').
+tera('dialga-origin','fast attacker', 'dragon').
+tera('dialga-origin','fast attacker', 'flying').
+tera('dialga-origin','fast attacker', 'steel').
+move('dialga-origin','fast attacker', 'draco meteor').
+move('dialga-origin','fast attacker', 'fire blast').
+move('dialga-origin','fast attacker', 'flash cannon').
+move('dialga-origin','fast attacker', 'heavy slam').
+move('dialga-origin','fast attacker', 'stealth rock').
+move('dialga-origin','fast attacker', 'thunder wave').
+role('dialga-origin', 'bulky attacker').
+ability('dialga-origin','bulky attacker', 'pressure').
+item('dialga-origin','bulky attacker', 'adamant crystal').
+tera('dialga-origin','bulky attacker', 'dragon').
+tera('dialga-origin','bulky attacker', 'flying').
+tera('dialga-origin','bulky attacker', 'steel').
+move('dialga-origin','bulky attacker', 'draco meteor').
+move('dialga-origin','bulky attacker', 'dragon tail').
+move('dialga-origin','bulky attacker', 'fire blast').
+move('dialga-origin','bulky attacker', 'flash cannon').
+move('dialga-origin','bulky attacker', 'heavy slam').
+move('dialga-origin','bulky attacker', 'stealth rock').
+pokemon('diancie', 82).
+ability('diancie', 'clear body').
+item('diancie', 'assault vest').
+item('diancie', 'leftovers').
+role('diancie', 'bulky attacker').
+ability('diancie','bulky attacker', 'clear body').
+item('diancie','bulky attacker', 'assault vest').
+item('diancie','bulky attacker', 'leftovers').
+tera('diancie','bulky attacker', 'fighting').
+move('diancie','bulky attacker', 'body press').
+move('diancie','bulky attacker', 'diamond storm').
+move('diancie','bulky attacker', 'earth power').
+move('diancie','bulky attacker', 'moonblast').
+move('diancie','bulky attacker', 'rock polish').
+move('diancie','bulky attacker', 'stealth rock').
+role('diancie', 'bulky setup').
+ability('diancie','bulky setup', 'clear body').
+item('diancie','bulky setup', 'leftovers').
+tera('diancie','bulky setup', 'fairy').
+tera('diancie','bulky setup', 'water').
+move('diancie','bulky setup', 'calm mind').
+move('diancie','bulky setup', 'diamond storm').
+move('diancie','bulky setup', 'draining kiss').
+move('diancie','bulky setup', 'earth power').
+pokemon('dipplin', 88).
+ability('dipplin', 'sticky hold').
+item('dipplin', 'eviolite').
+role('dipplin', 'bulky attacker').
+ability('dipplin','bulky attacker', 'sticky hold').
+item('dipplin','bulky attacker', 'eviolite').
+tera('dipplin','bulky attacker', 'steel').
+move('dipplin','bulky attacker', 'dragon pulse').
+move('dipplin','bulky attacker', 'dragon tail').
+move('dipplin','bulky attacker', 'giga drain').
+move('dipplin','bulky attacker', 'recover').
+move('dipplin','bulky attacker', 'sucker punch').
+pokemon('ditto', 87).
+ability('ditto', 'imposter').
+item('ditto', 'choice scarf').
+role('ditto', 'fast support').
+ability('ditto','fast support', 'imposter').
+item('ditto','fast support', 'choice scarf').
+tera('ditto','fast support', 'ghost').
+tera('ditto','fast support', 'steel').
+move('ditto','fast support', 'transform').
+pokemon('dodrio', 85).
+ability('dodrio', 'early bird').
+item('dodrio', 'choice band').
+item('dodrio', 'heavy-duty boots').
+role('dodrio', 'fast attacker').
+ability('dodrio','fast attacker', 'early bird').
+item('dodrio','fast attacker', 'choice band').
+tera('dodrio','fast attacker', 'flying').
+tera('dodrio','fast attacker', 'ground').
+tera('dodrio','fast attacker', 'normal').
+move('dodrio','fast attacker', 'brave bird').
+move('dodrio','fast attacker', 'double-edge').
+move('dodrio','fast attacker', 'drill run').
+move('dodrio','fast attacker', 'knock off').
+move('dodrio','fast attacker', 'quick attack').
+role('dodrio', 'setup sweeper').
+ability('dodrio','setup sweeper', 'early bird').
+item('dodrio','setup sweeper', 'heavy-duty boots').
+tera('dodrio','setup sweeper', 'flying').
+tera('dodrio','setup sweeper', 'ground').
+tera('dodrio','setup sweeper', 'normal').
+move('dodrio','setup sweeper', 'brave bird').
+move('dodrio','setup sweeper', 'double-edge').
+move('dodrio','setup sweeper', 'drill run').
+move('dodrio','setup sweeper', 'knock off').
+move('dodrio','setup sweeper', 'swords dance').
+pokemon('dondozo', 78).
+ability('dondozo', 'unaware').
+item('dondozo', 'leftovers').
+role('dondozo', 'bulky setup').
+ability('dondozo','bulky setup', 'unaware').
+item('dondozo','bulky setup', 'leftovers').
+tera('dondozo','bulky setup', 'dragon').
+tera('dondozo','bulky setup', 'fairy').
+move('dondozo','bulky setup', 'curse').
+move('dondozo','bulky setup', 'rest').
+move('dondozo','bulky setup', 'sleep talk').
+move('dondozo','bulky setup', 'wave crash').
+pokemon('donphan', 84).
+ability('donphan', 'sturdy').
+item('donphan', 'assault vest').
+item('donphan', 'choice band').
+item('donphan', 'leftovers').
+role('donphan', 'bulky support').
+ability('donphan','bulky support', 'sturdy').
+item('donphan','bulky support', 'assault vest').
+item('donphan','bulky support', 'choice band').
+item('donphan','bulky support', 'leftovers').
+tera('donphan','bulky support', 'dragon').
+tera('donphan','bulky support', 'steel').
+tera('donphan','bulky support', 'water').
+move('donphan','bulky support', 'earthquake').
+move('donphan','bulky support', 'ice shard').
+move('donphan','bulky support', 'ice spinner').
+move('donphan','bulky support', 'knock off').
+move('donphan','bulky support', 'rapid spin').
+move('donphan','bulky support', 'stealth rock').
+pokemon('dragalge', 88).
+ability('dragalge', 'adaptability').
+item('dragalge', 'assault vest').
+item('dragalge', 'choice specs').
+item('dragalge', 'leftovers').
+role('dragalge', 'bulky attacker').
+ability('dragalge','bulky attacker', 'adaptability').
+item('dragalge','bulky attacker', 'assault vest').
+item('dragalge','bulky attacker', 'choice specs').
+item('dragalge','bulky attacker', 'leftovers').
+tera('dragalge','bulky attacker', 'fighting').
+move('dragalge','bulky attacker', 'draco meteor').
+move('dragalge','bulky attacker', 'dragon tail').
+move('dragalge','bulky attacker', 'flip turn').
+move('dragalge','bulky attacker', 'focus blast').
+move('dragalge','bulky attacker', 'sludge wave').
+move('dragalge','bulky attacker', 'toxic').
+move('dragalge','bulky attacker', 'toxic spikes').
+pokemon('dragapult', 77).
+ability('dragapult', 'clear body').
+ability('dragapult', 'cursed body').
+ability('dragapult', 'infiltrator').
+item('dragapult', 'choice specs').
+item('dragapult', 'heavy-duty boots').
+item('dragapult', 'life orb').
+role('dragapult', 'fast attacker').
+ability('dragapult','fast attacker', 'infiltrator').
+item('dragapult','fast attacker', 'choice specs').
+tera('dragapult','fast attacker', 'dragon').
+tera('dragapult','fast attacker', 'fire').
+tera('dragapult','fast attacker', 'ghost').
+move('dragapult','fast attacker', 'draco meteor').
+move('dragapult','fast attacker', 'fire blast').
+move('dragapult','fast attacker', 'shadow ball').
+move('dragapult','fast attacker', 'u-turn').
+role('dragapult', 'fast support').
+ability('dragapult','fast support', 'cursed body').
+ability('dragapult','fast support', 'infiltrator').
+item('dragapult','fast support', 'heavy-duty boots').
+tera('dragapult','fast support', 'dragon').
+tera('dragapult','fast support', 'fairy').
+move('dragapult','fast support', 'dragon darts').
+move('dragapult','fast support', 'hex').
+move('dragapult','fast support', 'u-turn').
+move('dragapult','fast support', 'will-o-wisp').
+role('dragapult', 'tera blast user').
+ability('dragapult','tera blast user', 'clear body').
+item('dragapult','tera blast user', 'life orb').
+tera('dragapult','tera blast user', 'ghost').
+move('dragapult','tera blast user', 'dragon dance').
+move('dragapult','tera blast user', 'dragon darts').
+move('dragapult','tera blast user', 'fire blast').
+move('dragapult','tera blast user', 'tera blast').
+pokemon('dragonite', 74).
+ability('dragonite', 'multiscale').
+item('dragonite', 'heavy-duty boots').
+role('dragonite', 'bulky setup').
+ability('dragonite','bulky setup', 'multiscale').
+item('dragonite','bulky setup', 'heavy-duty boots').
+tera('dragonite','bulky setup', 'ground').
+tera('dragonite','bulky setup', 'steel').
+move('dragonite','bulky setup', 'dragon dance').
+move('dragonite','bulky setup', 'earthquake').
+move('dragonite','bulky setup', 'outrage').
+move('dragonite','bulky setup', 'roost').
+role('dragonite', 'setup sweeper').
+ability('dragonite','setup sweeper', 'multiscale').
+item('dragonite','setup sweeper', 'heavy-duty boots').
+tera('dragonite','setup sweeper', 'steel').
+move('dragonite','setup sweeper', 'dragon dance').
+move('dragonite','setup sweeper', 'earthquake').
+move('dragonite','setup sweeper', 'iron head').
+move('dragonite','setup sweeper', 'outrage').
+role('dragonite', 'tera blast user').
+ability('dragonite','tera blast user', 'multiscale').
+item('dragonite','tera blast user', 'heavy-duty boots').
+tera('dragonite','tera blast user', 'flying').
+move('dragonite','tera blast user', 'dragon dance').
+move('dragonite','tera blast user', 'earthquake').
+move('dragonite','tera blast user', 'outrage').
+move('dragonite','tera blast user', 'tera blast').
+pokemon('drednaw', 81).
+ability('drednaw', 'shell armor').
+ability('drednaw', 'strong jaw').
+ability('drednaw', 'swift swim').
+item('drednaw', 'white herb').
+role('drednaw', 'setup sweeper').
+ability('drednaw','setup sweeper', 'strong jaw').
+item('drednaw','setup sweeper', 'white herb').
+tera('drednaw','setup sweeper', 'dark').
+move('drednaw','setup sweeper', 'crunch').
+move('drednaw','setup sweeper', 'liquidation').
+move('drednaw','setup sweeper', 'shell smash').
+move('drednaw','setup sweeper', 'stone edge').
+role('drednaw', 'fast bulky setup').
+ability('drednaw','fast bulky setup', 'shell armor').
+ability('drednaw','fast bulky setup', 'swift swim').
+item('drednaw','fast bulky setup', 'white herb').
+tera('drednaw','fast bulky setup', 'ground').
+tera('drednaw','fast bulky setup', 'water').
+move('drednaw','fast bulky setup', 'earthquake').
+move('drednaw','fast bulky setup', 'liquidation').
+move('drednaw','fast bulky setup', 'shell smash').
+move('drednaw','fast bulky setup', 'stone edge').
+pokemon('drifblim', 86).
+ability('drifblim', 'aftermath').
+ability('drifblim', 'unburden').
+item('drifblim', 'heavy-duty boots').
+item('drifblim', 'sitrus berry').
+role('drifblim', 'bulky attacker').
+ability('drifblim','bulky attacker', 'aftermath').
+ability('drifblim','bulky attacker', 'unburden').
+item('drifblim','bulky attacker', 'heavy-duty boots').
+item('drifblim','bulky attacker', 'sitrus berry').
+tera('drifblim','bulky attacker', 'dark').
+tera('drifblim','bulky attacker', 'fairy').
+tera('drifblim','bulky attacker', 'steel').
+move('drifblim','bulky attacker', 'air slash').
+move('drifblim','bulky attacker', 'calm mind').
+move('drifblim','bulky attacker', 'defog').
+move('drifblim','bulky attacker', 'shadow ball').
+move('drifblim','bulky attacker', 'strength sap').
+pokemon('dudunsparce', 83).
+ability('dudunsparce', 'rattled').
+ability('dudunsparce', 'serene grace').
+item('dudunsparce', 'leftovers').
+role('dudunsparce', 'bulky attacker').
+ability('dudunsparce','bulky attacker', 'rattled').
+item('dudunsparce','bulky attacker', 'leftovers').
+tera('dudunsparce','bulky attacker', 'ghost').
+tera('dudunsparce','bulky attacker', 'ground').
+tera('dudunsparce','bulky attacker', 'poison').
+move('dudunsparce','bulky attacker', 'boomburst').
+move('dudunsparce','bulky attacker', 'earthquake').
+move('dudunsparce','bulky attacker', 'roost').
+move('dudunsparce','bulky attacker', 'toxic').
+role('dudunsparce', 'bulky support').
+ability('dudunsparce','bulky support', 'serene grace').
+item('dudunsparce','bulky support', 'leftovers').
+tera('dudunsparce','bulky support', 'ghost').
+tera('dudunsparce','bulky support', 'ground').
+move('dudunsparce','bulky support', 'earthquake').
+move('dudunsparce','bulky support', 'glare').
+move('dudunsparce','bulky support', 'headbutt').
+move('dudunsparce','bulky support', 'roost').
+role('dudunsparce', 'bulky setup').
+ability('dudunsparce','bulky setup', 'rattled').
+item('dudunsparce','bulky setup', 'leftovers').
+tera('dudunsparce','bulky setup', 'ghost').
+tera('dudunsparce','bulky setup', 'poison').
+move('dudunsparce','bulky setup', 'boomburst').
+move('dudunsparce','bulky setup', 'calm mind').
+move('dudunsparce','bulky setup', 'earth power').
+move('dudunsparce','bulky setup', 'roost').
+move('dudunsparce','bulky setup', 'shadow ball').
+pokemon('dugtrio', 84).
+ability('dugtrio', 'arena trap').
+item('dugtrio', 'choice band').
+item('dugtrio', 'life orb').
+role('dugtrio', 'fast attacker').
+ability('dugtrio','fast attacker', 'arena trap').
+item('dugtrio','fast attacker', 'life orb').
+tera('dugtrio','fast attacker', 'dark').
+tera('dugtrio','fast attacker', 'fairy').
+tera('dugtrio','fast attacker', 'flying').
+tera('dugtrio','fast attacker', 'ghost').
+tera('dugtrio','fast attacker', 'ground').
+move('dugtrio','fast attacker', 'earthquake').
+move('dugtrio','fast attacker', 'stone edge').
+move('dugtrio','fast attacker', 'sucker punch').
+move('dugtrio','fast attacker', 'swords dance').
+role('dugtrio', 'wallbreaker').
+ability('dugtrio','wallbreaker', 'arena trap').
+item('dugtrio','wallbreaker', 'choice band').
+tera('dugtrio','wallbreaker', 'dark').
+tera('dugtrio','wallbreaker', 'ground').
+move('dugtrio','wallbreaker', 'earthquake').
+move('dugtrio','wallbreaker', 'stone edge').
+move('dugtrio','wallbreaker', 'sucker punch').
+move('dugtrio','wallbreaker', 'throat chop').
+pokemon('dugtrio-alola', 84).
+ability('dugtrio-alola', 'sand force').
+ability('dugtrio-alola', 'tangling hair').
+item('dugtrio-alola', 'choice band').
+item('dugtrio-alola', 'life orb').
+role('dugtrio-alola', 'fast attacker').
+ability('dugtrio-alola','fast attacker', 'sand force').
+ability('dugtrio-alola','fast attacker', 'tangling hair').
+item('dugtrio-alola','fast attacker', 'choice band').
+item('dugtrio-alola','fast attacker', 'life orb').
+tera('dugtrio-alola','fast attacker', 'ground').
+tera('dugtrio-alola','fast attacker', 'steel').
+move('dugtrio-alola','fast attacker', 'earthquake').
+move('dugtrio-alola','fast attacker', 'iron head').
+move('dugtrio-alola','fast attacker', 'stealth rock').
+move('dugtrio-alola','fast attacker', 'stone edge').
+move('dugtrio-alola','fast attacker', 'sucker punch').
+move('dugtrio-alola','fast attacker', 'swords dance').
+pokemon('dunsparce', 86).
+ability('dunsparce', 'serene grace').
+item('dunsparce', 'eviolite').
+role('dunsparce', 'bulky setup').
+ability('dunsparce','bulky setup', 'serene grace').
+item('dunsparce','bulky setup', 'eviolite').
+tera('dunsparce','bulky setup', 'ghost').
+tera('dunsparce','bulky setup', 'ground').
+move('dunsparce','bulky setup', 'body slam').
+move('dunsparce','bulky setup', 'coil').
+move('dunsparce','bulky setup', 'earthquake').
+move('dunsparce','bulky setup', 'roost').
+pokemon('duraludon', 82).
+ability('duraludon', 'light metal').
+item('duraludon', 'eviolite').
+role('duraludon', 'bulky attacker').
+ability('duraludon','bulky attacker', 'light metal').
+item('duraludon','bulky attacker', 'eviolite').
+tera('duraludon','bulky attacker', 'fighting').
+move('duraludon','bulky attacker', 'body press').
+move('duraludon','bulky attacker', 'draco meteor').
+move('duraludon','bulky attacker', 'dragon tail').
+move('duraludon','bulky attacker', 'flash cannon').
+move('duraludon','bulky attacker', 'iron defense').
+move('duraludon','bulky attacker', 'stealth rock').
+move('duraludon','bulky attacker', 'thunder wave').
+pokemon('dusknoir', 89).
+ability('dusknoir', 'frisk').
+item('dusknoir', 'choice band').
+item('dusknoir', 'leftovers').
+item('dusknoir', 'life orb').
+role('dusknoir', 'wallbreaker').
+ability('dusknoir','wallbreaker', 'frisk').
+item('dusknoir','wallbreaker', 'choice band').
+item('dusknoir','wallbreaker', 'life orb').
+tera('dusknoir','wallbreaker', 'ghost').
+tera('dusknoir','wallbreaker', 'ground').
+move('dusknoir','wallbreaker', 'earthquake').
+move('dusknoir','wallbreaker', 'leech life').
+move('dusknoir','wallbreaker', 'pain split').
+move('dusknoir','wallbreaker', 'poltergeist').
+move('dusknoir','wallbreaker', 'shadow sneak').
+move('dusknoir','wallbreaker', 'trick').
+role('dusknoir', 'bulky support').
+ability('dusknoir','bulky support', 'frisk').
+item('dusknoir','bulky support', 'leftovers').
+tera('dusknoir','bulky support', 'dark').
+tera('dusknoir','bulky support', 'fairy').
+move('dusknoir','bulky support', 'earthquake').
+move('dusknoir','bulky support', 'pain split').
+move('dusknoir','bulky support', 'poltergeist').
+move('dusknoir','bulky support', 'shadow sneak').
+move('dusknoir','bulky support', 'will-o-wisp').
+role('dusknoir', 'bulky attacker').
+ability('dusknoir','bulky attacker', 'frisk').
+item('dusknoir','bulky attacker', 'leftovers').
+tera('dusknoir','bulky attacker', 'fighting').
+move('dusknoir','bulky attacker', 'focus punch').
+move('dusknoir','bulky attacker', 'pain split').
+move('dusknoir','bulky attacker', 'poltergeist').
+move('dusknoir','bulky attacker', 'substitute').
+pokemon('eelektross', 87).
+ability('eelektross', 'levitate').
+item('eelektross', 'assault vest').
+item('eelektross', 'leftovers').
+role('eelektross', 'bulky setup').
+ability('eelektross','bulky setup', 'levitate').
+item('eelektross','bulky setup', 'leftovers').
+tera('eelektross','bulky setup', 'fighting').
+move('eelektross','bulky setup', 'coil').
+move('eelektross','bulky setup', 'drain punch').
+move('eelektross','bulky setup', 'fire punch').
+move('eelektross','bulky setup', 'knock off').
+move('eelektross','bulky setup', 'supercell slam').
+role('eelektross', 'av pivot').
+ability('eelektross','av pivot', 'levitate').
+item('eelektross','av pivot', 'assault vest').
+tera('eelektross','av pivot', 'poison').
+tera('eelektross','av pivot', 'steel').
+move('eelektross','av pivot', 'close combat').
+move('eelektross','av pivot', 'discharge').
+move('eelektross','av pivot', 'dragon tail').
+move('eelektross','av pivot', 'flamethrower').
+move('eelektross','av pivot', 'giga drain').
+move('eelektross','av pivot', 'knock off').
+move('eelektross','av pivot', 'u-turn').
+pokemon('eiscue', 88).
+ability('eiscue', 'ice face').
+item('eiscue', 'sitrus berry').
+role('eiscue', 'setup sweeper').
+ability('eiscue','setup sweeper', 'ice face').
+item('eiscue','setup sweeper', 'sitrus berry').
+tera('eiscue','setup sweeper', 'water').
+move('eiscue','setup sweeper', 'belly drum').
+move('eiscue','setup sweeper', 'ice spinner').
+move('eiscue','setup sweeper', 'iron head').
+move('eiscue','setup sweeper', 'liquidation').
+move('eiscue','setup sweeper', 'zen headbutt').
+role('eiscue', 'tera blast user').
+ability('eiscue','tera blast user', 'ice face').
+item('eiscue','tera blast user', 'sitrus berry').
+tera('eiscue','tera blast user', 'electric').
+tera('eiscue','tera blast user', 'ground').
+move('eiscue','tera blast user', 'belly drum').
+move('eiscue','tera blast user', 'ice spinner').
+move('eiscue','tera blast user', 'liquidation').
+move('eiscue','tera blast user', 'tera blast').
+pokemon('electivire', 84).
+ability('electivire', 'motor drive').
+item('electivire', 'choice band').
+item('electivire', 'choice scarf').
+item('electivire', 'life orb').
+role('electivire', 'setup sweeper').
+ability('electivire','setup sweeper', 'motor drive').
+item('electivire','setup sweeper', 'life orb').
+tera('electivire','setup sweeper', 'flying').
+tera('electivire','setup sweeper', 'ground').
+move('electivire','setup sweeper', 'bulk up').
+move('electivire','setup sweeper', 'earthquake').
+move('electivire','setup sweeper', 'ice punch').
+move('electivire','setup sweeper', 'supercell slam').
+role('electivire', 'fast attacker').
+ability('electivire','fast attacker', 'motor drive').
+item('electivire','fast attacker', 'choice band').
+item('electivire','fast attacker', 'choice scarf').
+item('electivire','fast attacker', 'life orb').
+tera('electivire','fast attacker', 'dark').
+tera('electivire','fast attacker', 'flying').
+tera('electivire','fast attacker', 'ground').
+move('electivire','fast attacker', 'earthquake').
+move('electivire','fast attacker', 'flamethrower').
+move('electivire','fast attacker', 'ice punch').
+move('electivire','fast attacker', 'knock off').
+move('electivire','fast attacker', 'supercell slam').
+move('electivire','fast attacker', 'volt switch').
+pokemon('electrode', 93).
+ability('electrode', 'aftermath').
+ability('electrode', 'soundproof').
+ability('electrode', 'static').
+item('electrode', 'assault vest').
+item('electrode', 'heavy-duty boots').
+item('electrode', 'leftovers').
+item('electrode', 'life orb').
+role('electrode', 'fast support').
+ability('electrode','fast support', 'aftermath').
+ability('electrode','fast support', 'soundproof').
+ability('electrode','fast support', 'static').
+item('electrode','fast support', 'assault vest').
+item('electrode','fast support', 'heavy-duty boots').
+item('electrode','fast support', 'leftovers').
+item('electrode','fast support', 'life orb').
+tera('electrode','fast support', 'dark').
+tera('electrode','fast support', 'electric').
+move('electrode','fast support', 'explosion').
+move('electrode','fast support', 'foul play').
+move('electrode','fast support', 'taunt').
+move('electrode','fast support', 'thunder wave').
+move('electrode','fast support', 'thunderbolt').
+move('electrode','fast support', 'volt switch').
+role('electrode', 'tera blast user').
+ability('electrode','tera blast user', 'aftermath').
+ability('electrode','tera blast user', 'soundproof').
+ability('electrode','tera blast user', 'static').
+item('electrode','tera blast user', 'life orb').
+tera('electrode','tera blast user', 'ice').
+move('electrode','tera blast user', 'taunt').
+move('electrode','tera blast user', 'tera blast').
+move('electrode','tera blast user', 'thunderbolt').
+move('electrode','tera blast user', 'volt switch').
+pokemon('electrode-hisui', 87).
+ability('electrode-hisui', 'aftermath').
+ability('electrode-hisui', 'soundproof').
+ability('electrode-hisui', 'static').
+item('electrode-hisui', 'leftovers').
+item('electrode-hisui', 'life orb').
+role('electrode-hisui', 'fast support').
+ability('electrode-hisui','fast support', 'soundproof').
+item('electrode-hisui','fast support', 'leftovers').
+tera('electrode-hisui','fast support', 'poison').
+move('electrode-hisui','fast support', 'giga drain').
+move('electrode-hisui','fast support', 'leech seed').
+move('electrode-hisui','fast support', 'substitute').
+move('electrode-hisui','fast support', 'thunderbolt').
+role('electrode-hisui', 'fast attacker').
+ability('electrode-hisui','fast attacker', 'aftermath').
+ability('electrode-hisui','fast attacker', 'soundproof').
+ability('electrode-hisui','fast attacker', 'static').
+item('electrode-hisui','fast attacker', 'life orb').
+tera('electrode-hisui','fast attacker', 'electric').
+tera('electrode-hisui','fast attacker', 'grass').
+move('electrode-hisui','fast attacker', 'giga drain').
+move('electrode-hisui','fast attacker', 'leaf storm').
+move('electrode-hisui','fast attacker', 'taunt').
+move('electrode-hisui','fast attacker', 'thunder wave').
+move('electrode-hisui','fast attacker', 'thunderbolt').
+move('electrode-hisui','fast attacker', 'volt switch').
+pokemon('emboar', 84).
+ability('emboar', 'reckless').
+item('emboar', 'assault vest').
+item('emboar', 'choice band').
+item('emboar', 'choice scarf').
+item('emboar', 'leftovers').
+role('emboar', 'av pivot').
+ability('emboar','av pivot', 'reckless').
+item('emboar','av pivot', 'assault vest').
+tera('emboar','av pivot', 'dark').
+tera('emboar','av pivot', 'electric').
+tera('emboar','av pivot', 'fire').
+tera('emboar','av pivot', 'water').
+move('emboar','av pivot', 'close combat').
+move('emboar','av pivot', 'flare blitz').
+move('emboar','av pivot', 'knock off').
+move('emboar','av pivot', 'scald').
+move('emboar','av pivot', 'sucker punch').
+move('emboar','av pivot', 'wild charge').
+role('emboar', 'fast attacker').
+ability('emboar','fast attacker', 'reckless').
+item('emboar','fast attacker', 'choice band').
+item('emboar','fast attacker', 'choice scarf').
+tera('emboar','fast attacker', 'fire').
+move('emboar','fast attacker', 'close combat').
+move('emboar','fast attacker', 'flare blitz').
+move('emboar','fast attacker', 'head smash').
+move('emboar','fast attacker', 'knock off').
+move('emboar','fast attacker', 'wild charge').
+role('emboar', 'bulky setup').
+ability('emboar','bulky setup', 'reckless').
+item('emboar','bulky setup', 'leftovers').
+tera('emboar','bulky setup', 'fighting').
+tera('emboar','bulky setup', 'grass').
+move('emboar','bulky setup', 'bulk up').
+move('emboar','bulky setup', 'drain punch').
+move('emboar','bulky setup', 'flare blitz').
+move('emboar','bulky setup', 'trailblaze').
+pokemon('empoleon', 84).
+ability('empoleon', 'competitive').
+item('empoleon', 'leftovers').
+role('empoleon', 'bulky support').
+ability('empoleon','bulky support', 'competitive').
+item('empoleon','bulky support', 'leftovers').
+tera('empoleon','bulky support', 'flying').
+tera('empoleon','bulky support', 'grass').
+move('empoleon','bulky support', 'flip turn').
+move('empoleon','bulky support', 'ice beam').
+move('empoleon','bulky support', 'knock off').
+move('empoleon','bulky support', 'roost').
+move('empoleon','bulky support', 'stealth rock').
+move('empoleon','bulky support', 'surf').
+move('empoleon','bulky support', 'yawn').
+pokemon('enamorus', 79).
+ability('enamorus', 'contrary').
+ability('enamorus', 'cute charm').
+item('enamorus', 'heavy-duty boots').
+item('enamorus', 'leftovers').
+role('enamorus', 'setup sweeper').
+ability('enamorus','setup sweeper', 'contrary').
+item('enamorus','setup sweeper', 'heavy-duty boots').
+item('enamorus','setup sweeper', 'leftovers').
+tera('enamorus','setup sweeper', 'fighting').
+move('enamorus','setup sweeper', 'play rough').
+move('enamorus','setup sweeper', 'substitute').
+move('enamorus','setup sweeper', 'superpower').
+move('enamorus','setup sweeper', 'taunt').
+move('enamorus','setup sweeper', 'zen headbutt').
+role('enamorus', 'fast bulky setup').
+ability('enamorus','fast bulky setup', 'cute charm').
+item('enamorus','fast bulky setup', 'heavy-duty boots').
+item('enamorus','fast bulky setup', 'leftovers').
+tera('enamorus','fast bulky setup', 'ground').
+move('enamorus','fast bulky setup', 'calm mind').
+move('enamorus','fast bulky setup', 'earth power').
+move('enamorus','fast bulky setup', 'moonblast').
+move('enamorus','fast bulky setup', 'mystical fire').
+move('enamorus','fast bulky setup', 'substitute').
+pokemon('enamorus-therian', 83).
+ability('enamorus-therian', 'overcoat').
+item('enamorus-therian', 'assault vest').
+item('enamorus-therian', 'choice specs').
+item('enamorus-therian', 'weakness policy').
+role('enamorus-therian', 'bulky setup').
+ability('enamorus-therian','bulky setup', 'overcoat').
+item('enamorus-therian','bulky setup', 'weakness policy').
+tera('enamorus-therian','bulky setup', 'ground').
+move('enamorus-therian','bulky setup', 'agility').
+move('enamorus-therian','bulky setup', 'earth power').
+move('enamorus-therian','bulky setup', 'moonblast').
+move('enamorus-therian','bulky setup', 'mystical fire').
+move('enamorus-therian','bulky setup', 'superpower').
+role('enamorus-therian', 'bulky attacker').
+ability('enamorus-therian','bulky attacker', 'overcoat').
+item('enamorus-therian','bulky attacker', 'assault vest').
+item('enamorus-therian','bulky attacker', 'choice specs').
+tera('enamorus-therian','bulky attacker', 'fairy').
+tera('enamorus-therian','bulky attacker', 'ground').
+move('enamorus-therian','bulky attacker', 'earth power').
+move('enamorus-therian','bulky attacker', 'moonblast').
+move('enamorus-therian','bulky attacker', 'mystical fire').
+move('enamorus-therian','bulky attacker', 'psychic').
+move('enamorus-therian','bulky attacker', 'superpower').
+pokemon('entei', 78).
+ability('entei', 'inner focus').
+item('entei', 'choice band').
+role('entei', 'fast attacker').
+ability('entei','fast attacker', 'inner focus').
+item('entei','fast attacker', 'choice band').
+tera('entei','fast attacker', 'fire').
+tera('entei','fast attacker', 'normal').
+move('entei','fast attacker', 'extreme speed').
+move('entei','fast attacker', 'flare blitz').
+move('entei','fast attacker', 'sacred fire').
+move('entei','fast attacker', 'stone edge').
+role('entei', 'wallbreaker').
+ability('entei','wallbreaker', 'inner focus').
+item('entei','wallbreaker', 'choice band').
+tera('entei','wallbreaker', 'fire').
+tera('entei','wallbreaker', 'normal').
+move('entei','wallbreaker', 'extreme speed').
+move('entei','wallbreaker', 'flare blitz').
+move('entei','wallbreaker', 'sacred fire').
+move('entei','wallbreaker', 'stomping tantrum').
+pokemon('espathra', 80).
+ability('espathra', 'speed boost').
+item('espathra', 'choice specs').
+item('espathra', 'leftovers').
+role('espathra', 'fast bulky setup').
+ability('espathra','fast bulky setup', 'speed boost').
+item('espathra','fast bulky setup', 'leftovers').
+tera('espathra','fast bulky setup', 'fairy').
+move('espathra','fast bulky setup', 'calm mind').
+move('espathra','fast bulky setup', 'dazzling gleam').
+move('espathra','fast bulky setup', 'protect').
+move('espathra','fast bulky setup', 'roost').
+move('espathra','fast bulky setup', 'stored power').
+move('espathra','fast bulky setup', 'substitute').
+role('espathra', 'wallbreaker').
+ability('espathra','wallbreaker', 'speed boost').
+item('espathra','wallbreaker', 'choice specs').
+tera('espathra','wallbreaker', 'fairy').
+tera('espathra','wallbreaker', 'psychic').
+move('espathra','wallbreaker', 'dazzling gleam').
+move('espathra','wallbreaker', 'lumina crash').
+move('espathra','wallbreaker', 'shadow ball').
+move('espathra','wallbreaker', 'u-turn').
+pokemon('espeon', 84).
+ability('espeon', 'magic bounce').
+item('espeon', 'choice specs').
+item('espeon', 'life orb').
+role('espeon', 'fast attacker').
+ability('espeon','fast attacker', 'magic bounce').
+item('espeon','fast attacker', 'choice specs').
+item('espeon','fast attacker', 'life orb').
+tera('espeon','fast attacker', 'fairy').
+tera('espeon','fast attacker', 'psychic').
+move('espeon','fast attacker', 'alluring voice').
+move('espeon','fast attacker', 'calm mind').
+move('espeon','fast attacker', 'morning sun').
+move('espeon','fast attacker', 'psychic').
+move('espeon','fast attacker', 'psyshock').
+move('espeon','fast attacker', 'shadow ball').
+move('espeon','fast attacker', 'trick').
+pokemon('eternatus', 69).
+ability('eternatus', 'pressure').
+item('eternatus', 'leftovers').
+item('eternatus', 'power herb').
+item('eternatus', 'rocky helmet').
+role('eternatus', 'bulky attacker').
+ability('eternatus','bulky attacker', 'pressure').
+item('eternatus','bulky attacker', 'leftovers').
+item('eternatus','bulky attacker', 'rocky helmet').
+tera('eternatus','bulky attacker', 'dragon').
+tera('eternatus','bulky attacker', 'fire').
+move('eternatus','bulky attacker', 'dynamax cannon').
+move('eternatus','bulky attacker', 'fire blast').
+move('eternatus','bulky attacker', 'recover').
+move('eternatus','bulky attacker', 'sludge bomb').
+role('eternatus', 'setup sweeper').
+ability('eternatus','setup sweeper', 'pressure').
+item('eternatus','setup sweeper', 'power herb').
+tera('eternatus','setup sweeper', 'dragon').
+tera('eternatus','setup sweeper', 'fire').
+tera('eternatus','setup sweeper', 'poison').
+move('eternatus','setup sweeper', 'dynamax cannon').
+move('eternatus','setup sweeper', 'fire blast').
+move('eternatus','setup sweeper', 'meteor beam').
+move('eternatus','setup sweeper', 'sludge bomb').
+role('eternatus', 'bulky support').
+ability('eternatus','bulky support', 'pressure').
+item('eternatus','bulky support', 'leftovers').
+item('eternatus','bulky support', 'rocky helmet').
+tera('eternatus','bulky support', 'dragon').
+tera('eternatus','bulky support', 'water').
+move('eternatus','bulky support', 'dynamax cannon').
+move('eternatus','bulky support', 'flamethrower').
+move('eternatus','bulky support', 'recover').
+move('eternatus','bulky support', 'toxic').
+move('eternatus','bulky support', 'toxic spikes').
+pokemon('excadrill', 79).
+ability('excadrill', 'mold breaker').
+ability('excadrill', 'sand rush').
+item('excadrill', 'assault vest').
+item('excadrill', 'leftovers').
+role('excadrill', 'av pivot').
+ability('excadrill','av pivot', 'mold breaker').
+ability('excadrill','av pivot', 'sand rush').
+item('excadrill','av pivot', 'assault vest').
+tera('excadrill','av pivot', 'grass').
+tera('excadrill','av pivot', 'water').
+move('excadrill','av pivot', 'earthquake').
+move('excadrill','av pivot', 'iron head').
+move('excadrill','av pivot', 'rapid spin').
+move('excadrill','av pivot', 'rock slide').
+role('excadrill', 'bulky setup').
+ability('excadrill','bulky setup', 'mold breaker').
+ability('excadrill','bulky setup', 'sand rush').
+item('excadrill','bulky setup', 'leftovers').
+tera('excadrill','bulky setup', 'grass').
+tera('excadrill','bulky setup', 'ground').
+tera('excadrill','bulky setup', 'water').
+move('excadrill','bulky setup', 'earthquake').
+move('excadrill','bulky setup', 'iron head').
+move('excadrill','bulky setup', 'rapid spin').
+move('excadrill','bulky setup', 'swords dance').
+pokemon('exeggutor', 89).
+ability('exeggutor', 'harvest').
+item('exeggutor', 'sitrus berry').
+role('exeggutor', 'bulky setup').
+ability('exeggutor','bulky setup', 'harvest').
+item('exeggutor','bulky setup', 'sitrus berry').
+tera('exeggutor','bulky setup', 'steel').
+move('exeggutor','bulky setup', 'calm mind').
+move('exeggutor','bulky setup', 'giga drain').
+move('exeggutor','bulky setup', 'psychic').
+move('exeggutor','bulky setup', 'psyshock').
+move('exeggutor','bulky setup', 'sleep powder').
+move('exeggutor','bulky setup', 'substitute').
+role('exeggutor', 'bulky support').
+ability('exeggutor','bulky support', 'harvest').
+item('exeggutor','bulky support', 'sitrus berry').
+tera('exeggutor','bulky support', 'steel').
+move('exeggutor','bulky support', 'leech seed').
+move('exeggutor','bulky support', 'psychic').
+move('exeggutor','bulky support', 'psychic noise').
+move('exeggutor','bulky support', 'sleep powder').
+move('exeggutor','bulky support', 'sludge bomb').
+move('exeggutor','bulky support', 'substitute').
+role('exeggutor', 'bulky attacker').
+ability('exeggutor','bulky attacker', 'harvest').
+item('exeggutor','bulky attacker', 'sitrus berry').
+tera('exeggutor','bulky attacker', 'steel').
+move('exeggutor','bulky attacker', 'leech seed').
+move('exeggutor','bulky attacker', 'protect').
+move('exeggutor','bulky attacker', 'psychic noise').
+move('exeggutor','bulky attacker', 'substitute').
+pokemon('exeggutor-alola', 89).
+ability('exeggutor-alola', 'frisk').
+ability('exeggutor-alola', 'harvest').
+item('exeggutor-alola', 'choice specs').
+item('exeggutor-alola', 'sitrus berry').
+role('exeggutor-alola', 'bulky setup').
+ability('exeggutor-alola','bulky setup', 'harvest').
+item('exeggutor-alola','bulky setup', 'sitrus berry').
+tera('exeggutor-alola','bulky setup', 'fire').
+tera('exeggutor-alola','bulky setup', 'steel').
+move('exeggutor-alola','bulky setup', 'calm mind').
+move('exeggutor-alola','bulky setup', 'dragon pulse').
+move('exeggutor-alola','bulky setup', 'flamethrower').
+move('exeggutor-alola','bulky setup', 'giga drain').
+role('exeggutor-alola', 'wallbreaker').
+ability('exeggutor-alola','wallbreaker', 'frisk').
+item('exeggutor-alola','wallbreaker', 'choice specs').
+tera('exeggutor-alola','wallbreaker', 'fire').
+move('exeggutor-alola','wallbreaker', 'draco meteor').
+move('exeggutor-alola','wallbreaker', 'flamethrower').
+move('exeggutor-alola','wallbreaker', 'giga drain').
+move('exeggutor-alola','wallbreaker', 'leaf storm').
+role('exeggutor-alola', 'fast attacker').
+ability('exeggutor-alola','fast attacker', 'harvest').
+item('exeggutor-alola','fast attacker', 'sitrus berry').
+tera('exeggutor-alola','fast attacker', 'fire').
+move('exeggutor-alola','fast attacker', 'draco meteor').
+move('exeggutor-alola','fast attacker', 'dragon tail').
+move('exeggutor-alola','fast attacker', 'flamethrower').
+move('exeggutor-alola','fast attacker', 'knock off').
+move('exeggutor-alola','fast attacker', 'moonlight').
+move('exeggutor-alola','fast attacker', 'sleep powder').
+move('exeggutor-alola','fast attacker', 'stun spore').
+move('exeggutor-alola','fast attacker', 'wood hammer').
+pokemon('falinks', 84).
+ability('falinks', 'defiant').
+item('falinks', 'life orb').
+role('falinks', 'setup sweeper').
+ability('falinks','setup sweeper', 'defiant').
+item('falinks','setup sweeper', 'life orb').
+tera('falinks','setup sweeper', 'dark').
+tera('falinks','setup sweeper', 'steel').
+move('falinks','setup sweeper', 'close combat').
+move('falinks','setup sweeper', 'iron head').
+move('falinks','setup sweeper', 'knock off').
+move('falinks','setup sweeper', 'no retreat').
+pokemon('farigiraf', 89).
+ability('farigiraf', 'sap sipper').
+item('farigiraf', 'leftovers').
+role('farigiraf', 'bulky support').
+ability('farigiraf','bulky support', 'sap sipper').
+item('farigiraf','bulky support', 'leftovers').
+tera('farigiraf','bulky support', 'fairy').
+tera('farigiraf','bulky support', 'ground').
+tera('farigiraf','bulky support', 'water').
+move('farigiraf','bulky support', 'body slam').
+move('farigiraf','bulky support', 'protect').
+move('farigiraf','bulky support', 'psychic noise').
+move('farigiraf','bulky support', 'wish').
+pokemon('feraligatr', 79).
+ability('feraligatr', 'sheer force').
+item('feraligatr', 'life orb').
+role('feraligatr', 'setup sweeper').
+ability('feraligatr','setup sweeper', 'sheer force').
+item('feraligatr','setup sweeper', 'life orb').
+tera('feraligatr','setup sweeper', 'grass').
+tera('feraligatr','setup sweeper', 'water').
+move('feraligatr','setup sweeper', 'dragon dance').
+move('feraligatr','setup sweeper', 'ice punch').
+move('feraligatr','setup sweeper', 'liquidation').
+move('feraligatr','setup sweeper', 'trailblaze').
+role('feraligatr', 'fast bulky setup').
+ability('feraligatr','fast bulky setup', 'sheer force').
+item('feraligatr','fast bulky setup', 'life orb').
+tera('feraligatr','fast bulky setup', 'dark').
+tera('feraligatr','fast bulky setup', 'dragon').
+tera('feraligatr','fast bulky setup', 'steel').
+tera('feraligatr','fast bulky setup', 'water').
+move('feraligatr','fast bulky setup', 'crunch').
+move('feraligatr','fast bulky setup', 'dragon dance').
+move('feraligatr','fast bulky setup', 'ice punch').
+move('feraligatr','fast bulky setup', 'liquidation').
+pokemon('fezandipiti', 82).
+ability('fezandipiti', 'toxic chain').
+item('fezandipiti', 'leftovers').
+role('fezandipiti', 'bulky attacker').
+ability('fezandipiti','bulky attacker', 'toxic chain').
+item('fezandipiti','bulky attacker', 'leftovers').
+tera('fezandipiti','bulky attacker', 'dark').
+tera('fezandipiti','bulky attacker', 'steel').
+tera('fezandipiti','bulky attacker', 'water').
+move('fezandipiti','bulky attacker', 'beat up').
+move('fezandipiti','bulky attacker', 'gunk shot').
+move('fezandipiti','bulky attacker', 'moonblast').
+move('fezandipiti','bulky attacker', 'roost').
+move('fezandipiti','bulky attacker', 'u-turn').
+role('fezandipiti', 'tera blast user').
+ability('fezandipiti','tera blast user', 'toxic chain').
+item('fezandipiti','tera blast user', 'leftovers').
+tera('fezandipiti','tera blast user', 'ground').
+move('fezandipiti','tera blast user', 'gunk shot').
+move('fezandipiti','tera blast user', 'play rough').
+move('fezandipiti','tera blast user', 'swords dance').
+move('fezandipiti','tera blast user', 'tera blast').
+pokemon('flamigo', 82).
+ability('flamigo', 'scrappy').
+item('flamigo', 'choice band').
+item('flamigo', 'choice scarf').
+item('flamigo', 'life orb').
+role('flamigo', 'setup sweeper').
+ability('flamigo','setup sweeper', 'scrappy').
+item('flamigo','setup sweeper', 'life orb').
+tera('flamigo','setup sweeper', 'fighting').
+tera('flamigo','setup sweeper', 'steel').
+move('flamigo','setup sweeper', 'brave bird').
+move('flamigo','setup sweeper', 'close combat').
+move('flamigo','setup sweeper', 'roost').
+move('flamigo','setup sweeper', 'swords dance').
+move('flamigo','setup sweeper', 'throat chop').
+role('flamigo', 'fast attacker').
+ability('flamigo','fast attacker', 'scrappy').
+item('flamigo','fast attacker', 'choice band').
+item('flamigo','fast attacker', 'choice scarf').
+tera('flamigo','fast attacker', 'fighting').
+move('flamigo','fast attacker', 'brave bird').
+move('flamigo','fast attacker', 'close combat').
+move('flamigo','fast attacker', 'throat chop').
+move('flamigo','fast attacker', 'u-turn').
+pokemon('flapple', 88).
+ability('flapple', 'hustle').
+item('flapple', 'choice band').
+item('flapple', 'lum berry').
+item('flapple', 'wide lens').
+role('flapple', 'fast attacker').
+ability('flapple','fast attacker', 'hustle').
+item('flapple','fast attacker', 'choice band').
+item('flapple','fast attacker', 'lum berry').
+item('flapple','fast attacker', 'wide lens').
+tera('flapple','fast attacker', 'dragon').
+tera('flapple','fast attacker', 'steel').
+move('flapple','fast attacker', 'dragon dance').
+move('flapple','fast attacker', 'grav apple').
+move('flapple','fast attacker', 'outrage').
+move('flapple','fast attacker', 'sucker punch').
+move('flapple','fast attacker', 'u-turn').
+role('flapple', 'tera blast user').
+ability('flapple','tera blast user', 'hustle').
+item('flapple','tera blast user', 'lum berry').
+item('flapple','tera blast user', 'wide lens').
+tera('flapple','tera blast user', 'fire').
+move('flapple','tera blast user', 'dragon dance').
+move('flapple','tera blast user', 'grav apple').
+move('flapple','tera blast user', 'outrage').
+move('flapple','tera blast user', 'tera blast').
+pokemon('flareon', 90).
+ability('flareon', 'guts').
+item('flareon', 'toxic orb').
+role('flareon', 'setup sweeper').
+ability('flareon','setup sweeper', 'guts').
+item('flareon','setup sweeper', 'toxic orb').
+tera('flareon','setup sweeper', 'normal').
+move('flareon','setup sweeper', 'facade').
+move('flareon','setup sweeper', 'flare blitz').
+move('flareon','setup sweeper', 'quick attack').
+move('flareon','setup sweeper', 'trailblaze').
+move('flareon','setup sweeper', 'will-o-wisp').
+pokemon('floatzel', 86).
+ability('floatzel', 'water veil').
+item('floatzel', 'choice band').
+item('floatzel', 'leftovers').
+role('floatzel', 'bulky setup').
+ability('floatzel','bulky setup', 'water veil').
+item('floatzel','bulky setup', 'leftovers').
+tera('floatzel','bulky setup', 'steel').
+tera('floatzel','bulky setup', 'water').
+move('floatzel','bulky setup', 'bulk up').
+move('floatzel','bulky setup', 'ice spinner').
+move('floatzel','bulky setup', 'taunt').
+move('floatzel','bulky setup', 'wave crash').
+role('floatzel', 'wallbreaker').
+ability('floatzel','wallbreaker', 'water veil').
+item('floatzel','wallbreaker', 'choice band').
+tera('floatzel','wallbreaker', 'water').
+move('floatzel','wallbreaker', 'crunch').
+move('floatzel','wallbreaker', 'flip turn').
+move('floatzel','wallbreaker', 'ice spinner').
+move('floatzel','wallbreaker', 'wave crash').
+pokemon('florges', 85).
+ability('florges', 'flower veil').
+item('florges', 'leftovers').
+role('florges', 'bulky setup').
+ability('florges','bulky setup', 'flower veil').
+item('florges','bulky setup', 'leftovers').
+tera('florges','bulky setup', 'steel').
+move('florges','bulky setup', 'calm mind').
+move('florges','bulky setup', 'moonblast').
+move('florges','bulky setup', 'protect').
+move('florges','bulky setup', 'wish').
+role('florges', 'tera blast user').
+ability('florges','tera blast user', 'flower veil').
+item('florges','tera blast user', 'leftovers').
+tera('florges','tera blast user', 'ground').
+move('florges','tera blast user', 'calm mind').
+move('florges','tera blast user', 'moonblast').
+move('florges','tera blast user', 'synthesis').
+move('florges','tera blast user', 'tera blast').
+pokemon('flutter mane', 74).
+ability('flutter mane', 'protosynthesis').
+item('flutter mane', 'choice specs').
+item('flutter mane', 'life orb').
+role('flutter mane', 'wallbreaker').
+ability('flutter mane','wallbreaker', 'protosynthesis').
+item('flutter mane','wallbreaker', 'choice specs').
+tera('flutter mane','wallbreaker', 'fairy').
+move('flutter mane','wallbreaker', 'moonblast').
+move('flutter mane','wallbreaker', 'mystical fire').
+move('flutter mane','wallbreaker', 'psyshock').
+move('flutter mane','wallbreaker', 'shadow ball').
+move('flutter mane','wallbreaker', 'thunderbolt').
+role('flutter mane', 'setup sweeper').
+ability('flutter mane','setup sweeper', 'protosynthesis').
+item('flutter mane','setup sweeper', 'life orb').
+tera('flutter mane','setup sweeper', 'electric').
+tera('flutter mane','setup sweeper', 'fairy').
+tera('flutter mane','setup sweeper', 'fire').
+tera('flutter mane','setup sweeper', 'ghost').
+move('flutter mane','setup sweeper', 'calm mind').
+move('flutter mane','setup sweeper', 'moonblast').
+move('flutter mane','setup sweeper', 'mystical fire').
+move('flutter mane','setup sweeper', 'psyshock').
+move('flutter mane','setup sweeper', 'shadow ball').
+move('flutter mane','setup sweeper', 'thunderbolt').
+pokemon('flygon', 82).
+ability('flygon', 'levitate').
+item('flygon', 'choice band').
+item('flygon', 'choice scarf').
+item('flygon', 'lum berry').
+role('flygon', 'fast attacker').
+ability('flygon','fast attacker', 'levitate').
+item('flygon','fast attacker', 'choice band').
+item('flygon','fast attacker', 'choice scarf').
+item('flygon','fast attacker', 'lum berry').
+tera('flygon','fast attacker', 'ground').
+tera('flygon','fast attacker', 'rock').
+tera('flygon','fast attacker', 'steel').
+move('flygon','fast attacker', 'dragon dance').
+move('flygon','fast attacker', 'earthquake').
+move('flygon','fast attacker', 'outrage').
+move('flygon','fast attacker', 'stone edge').
+move('flygon','fast attacker', 'u-turn').
+pokemon('forretress', 84).
+ability('forretress', 'sturdy').
+item('forretress', 'leftovers').
+role('forretress', 'bulky support').
+ability('forretress','bulky support', 'sturdy').
+item('forretress','bulky support', 'leftovers').
+tera('forretress','bulky support', 'water').
+move('forretress','bulky support', 'iron head').
+move('forretress','bulky support', 'rapid spin').
+move('forretress','bulky support', 'spikes').
+move('forretress','bulky support', 'stealth rock').
+move('forretress','bulky support', 'thunder wave').
+move('forretress','bulky support', 'toxic spikes').
+move('forretress','bulky support', 'volt switch').
+role('forretress', 'bulky attacker').
+ability('forretress','bulky attacker', 'sturdy').
+item('forretress','bulky attacker', 'leftovers').
+tera('forretress','bulky attacker', 'fighting').
+tera('forretress','bulky attacker', 'water').
+move('forretress','bulky attacker', 'body press').
+move('forretress','bulky attacker', 'iron head').
+move('forretress','bulky attacker', 'rapid spin').
+move('forretress','bulky attacker', 'spikes').
+move('forretress','bulky attacker', 'stealth rock').
+pokemon('froslass', 87).
+ability('froslass', 'cursed body').
+item('froslass', 'wide lens').
+role('froslass', 'fast support').
+ability('froslass','fast support', 'cursed body').
+item('froslass','fast support', 'wide lens').
+tera('froslass','fast support', 'ghost').
+tera('froslass','fast support', 'ice').
+move('froslass','fast support', 'destiny bond').
+move('froslass','fast support', 'poltergeist').
+move('froslass','fast support', 'spikes').
+move('froslass','fast support', 'taunt').
+move('froslass','fast support', 'triple axel').
+move('froslass','fast support', 'will-o-wisp').
+pokemon('frosmoth', 82).
+ability('frosmoth', 'ice scales').
+item('frosmoth', 'heavy-duty boots').
+role('frosmoth', 'setup sweeper').
+ability('frosmoth','setup sweeper', 'ice scales').
+item('frosmoth','setup sweeper', 'heavy-duty boots').
+tera('frosmoth','setup sweeper', 'water').
+move('frosmoth','setup sweeper', 'bug buzz').
+move('frosmoth','setup sweeper', 'giga drain').
+move('frosmoth','setup sweeper', 'hurricane').
+move('frosmoth','setup sweeper', 'ice beam').
+move('frosmoth','setup sweeper', 'quiver dance').
+role('frosmoth', 'tera blast user').
+ability('frosmoth','tera blast user', 'ice scales').
+item('frosmoth','tera blast user', 'heavy-duty boots').
+tera('frosmoth','tera blast user', 'ground').
+move('frosmoth','tera blast user', 'bug buzz').
+move('frosmoth','tera blast user', 'giga drain').
+move('frosmoth','tera blast user', 'ice beam').
+move('frosmoth','tera blast user', 'quiver dance').
+move('frosmoth','tera blast user', 'tera blast').
+pokemon('furret', 94).
+ability('furret', 'frisk').
+item('furret', 'choice band').
+item('furret', 'life orb').
+role('furret', 'setup sweeper').
+ability('furret','setup sweeper', 'frisk').
+item('furret','setup sweeper', 'life orb').
+tera('furret','setup sweeper', 'ghost').
+tera('furret','setup sweeper', 'normal').
+move('furret','setup sweeper', 'brick break').
+move('furret','setup sweeper', 'double-edge').
+move('furret','setup sweeper', 'knock off').
+move('furret','setup sweeper', 'tidy up').
+role('furret', 'wallbreaker').
+ability('furret','wallbreaker', 'frisk').
+item('furret','wallbreaker', 'choice band').
+tera('furret','wallbreaker', 'ghost').
+tera('furret','wallbreaker', 'normal').
+move('furret','wallbreaker', 'double-edge').
+move('furret','wallbreaker', 'knock off').
+move('furret','wallbreaker', 'trick').
+move('furret','wallbreaker', 'u-turn').
+pokemon('gallade', 80).
+ability('gallade', 'sharpness').
+item('gallade', 'choice band').
+item('gallade', 'choice scarf').
+item('gallade', 'life orb').
+role('gallade', 'fast attacker').
+ability('gallade','fast attacker', 'sharpness').
+item('gallade','fast attacker', 'choice band').
+item('gallade','fast attacker', 'choice scarf').
+tera('gallade','fast attacker', 'dark').
+tera('gallade','fast attacker', 'fighting').
+tera('gallade','fast attacker', 'grass').
+move('gallade','fast attacker', 'leaf blade').
+move('gallade','fast attacker', 'night slash').
+move('gallade','fast attacker', 'psycho cut').
+move('gallade','fast attacker', 'sacred sword').
+role('gallade', 'setup sweeper').
+ability('gallade','setup sweeper', 'sharpness').
+item('gallade','setup sweeper', 'life orb').
+tera('gallade','setup sweeper', 'dark').
+tera('gallade','setup sweeper', 'fighting').
+move('gallade','setup sweeper', 'agility').
+move('gallade','setup sweeper', 'night slash').
+move('gallade','setup sweeper', 'psycho cut').
+move('gallade','setup sweeper', 'sacred sword').
+pokemon('galvantula', 82).
+ability('galvantula', 'compound eyes').
+item('galvantula', 'focus sash').
+item('galvantula', 'heavy-duty boots').
+role('galvantula', 'fast support').
+ability('galvantula','fast support', 'compound eyes').
+item('galvantula','fast support', 'focus sash').
+item('galvantula','fast support', 'heavy-duty boots').
+tera('galvantula','fast support', 'electric').
+move('galvantula','fast support', 'bug buzz').
+move('galvantula','fast support', 'energy ball').
+move('galvantula','fast support', 'sticky web').
+move('galvantula','fast support', 'thunder').
+move('galvantula','fast support', 'volt switch').
+pokemon('garchomp', 74).
+ability('garchomp', 'rough skin').
+item('garchomp', 'loaded dice').
+item('garchomp', 'rocky helmet').
+role('garchomp', 'fast support').
+ability('garchomp','fast support', 'rough skin').
+item('garchomp','fast support', 'rocky helmet').
+tera('garchomp','fast support', 'ground').
+tera('garchomp','fast support', 'steel').
+move('garchomp','fast support', 'dragon tail').
+move('garchomp','fast support', 'earthquake').
+move('garchomp','fast support', 'outrage').
+move('garchomp','fast support', 'spikes').
+move('garchomp','fast support', 'stealth rock').
+role('garchomp', 'setup sweeper').
+ability('garchomp','setup sweeper', 'rough skin').
+item('garchomp','setup sweeper', 'loaded dice').
+tera('garchomp','setup sweeper', 'fire').
+tera('garchomp','setup sweeper', 'ground').
+tera('garchomp','setup sweeper', 'steel').
+move('garchomp','setup sweeper', 'earthquake').
+move('garchomp','setup sweeper', 'fire fang').
+move('garchomp','setup sweeper', 'iron head').
+move('garchomp','setup sweeper', 'scale shot').
+move('garchomp','setup sweeper', 'stone edge').
+move('garchomp','setup sweeper', 'swords dance').
+pokemon('gardevoir', 83).
+ability('gardevoir', 'trace').
+item('gardevoir', 'choice scarf').
+item('gardevoir', 'choice specs').
+item('gardevoir', 'life orb').
+role('gardevoir', 'fast attacker').
+ability('gardevoir','fast attacker', 'trace').
+item('gardevoir','fast attacker', 'choice scarf').
+item('gardevoir','fast attacker', 'choice specs').
+item('gardevoir','fast attacker', 'life orb').
+tera('gardevoir','fast attacker', 'fairy').
+tera('gardevoir','fast attacker', 'fighting').
+tera('gardevoir','fast attacker', 'fire').
+move('gardevoir','fast attacker', 'calm mind').
+move('gardevoir','fast attacker', 'focus blast').
+move('gardevoir','fast attacker', 'healing wish').
+move('gardevoir','fast attacker', 'moonblast').
+move('gardevoir','fast attacker', 'mystical fire').
+move('gardevoir','fast attacker', 'psychic').
+move('gardevoir','fast attacker', 'psyshock').
+move('gardevoir','fast attacker', 'trick').
+pokemon('garganacl', 80).
+ability('garganacl', 'purifying salt').
+item('garganacl', 'leftovers').
+role('garganacl', 'bulky support').
+ability('garganacl','bulky support', 'purifying salt').
+item('garganacl','bulky support', 'leftovers').
+tera('garganacl','bulky support', 'dragon').
+tera('garganacl','bulky support', 'ghost').
+move('garganacl','bulky support', 'body press').
+move('garganacl','bulky support', 'protect').
+move('garganacl','bulky support', 'recover').
+move('garganacl','bulky support', 'salt cure').
+move('garganacl','bulky support', 'stealth rock').
+role('garganacl', 'bulky setup').
+ability('garganacl','bulky setup', 'purifying salt').
+item('garganacl','bulky setup', 'leftovers').
+tera('garganacl','bulky setup', 'dragon').
+tera('garganacl','bulky setup', 'ghost').
+move('garganacl','bulky setup', 'body press').
+move('garganacl','bulky setup', 'iron defense').
+move('garganacl','bulky setup', 'recover').
+move('garganacl','bulky setup', 'salt cure').
+role('garganacl', 'bulky attacker').
+ability('garganacl','bulky attacker', 'purifying salt').
+item('garganacl','bulky attacker', 'leftovers').
+tera('garganacl','bulky attacker', 'dragon').
+tera('garganacl','bulky attacker', 'ghost').
+move('garganacl','bulky attacker', 'earthquake').
+move('garganacl','bulky attacker', 'protect').
+move('garganacl','bulky attacker', 'recover').
+move('garganacl','bulky attacker', 'salt cure').
+move('garganacl','bulky attacker', 'stealth rock').
+pokemon('gastrodon', 86).
+ability('gastrodon', 'storm drain').
+item('gastrodon', 'leftovers').
+role('gastrodon', 'bulky attacker').
+ability('gastrodon','bulky attacker', 'storm drain').
+item('gastrodon','bulky attacker', 'leftovers').
+tera('gastrodon','bulky attacker', 'poison').
+tera('gastrodon','bulky attacker', 'steel').
+move('gastrodon','bulky attacker', 'clear smog').
+move('gastrodon','bulky attacker', 'earthquake').
+move('gastrodon','bulky attacker', 'ice beam').
+move('gastrodon','bulky attacker', 'recover').
+move('gastrodon','bulky attacker', 'spikes').
+move('gastrodon','bulky attacker', 'stealth rock').
+move('gastrodon','bulky attacker', 'surf').
+role('gastrodon', 'bulky support').
+ability('gastrodon','bulky support', 'storm drain').
+item('gastrodon','bulky support', 'leftovers').
+tera('gastrodon','bulky support', 'poison').
+move('gastrodon','bulky support', 'earthquake').
+move('gastrodon','bulky support', 'recover').
+move('gastrodon','bulky support', 'sludge bomb').
+move('gastrodon','bulky support', 'stealth rock').
+move('gastrodon','bulky support', 'surf').
+pokemon('gengar', 81).
+ability('gengar', 'cursed body').
+item('gengar', 'choice specs').
+item('gengar', 'life orb').
+role('gengar', 'wallbreaker').
+ability('gengar','wallbreaker', 'cursed body').
+item('gengar','wallbreaker', 'choice specs').
+item('gengar','wallbreaker', 'life orb').
+tera('gengar','wallbreaker', 'dark').
+tera('gengar','wallbreaker', 'fighting').
+tera('gengar','wallbreaker', 'ghost').
+move('gengar','wallbreaker', 'focus blast').
+move('gengar','wallbreaker', 'nasty plot').
+move('gengar','wallbreaker', 'shadow ball').
+move('gengar','wallbreaker', 'sludge wave').
+move('gengar','wallbreaker', 'trick').
+role('gengar', 'fast attacker').
+ability('gengar','fast attacker', 'cursed body').
+item('gengar','fast attacker', 'life orb').
+tera('gengar','fast attacker', 'dark').
+tera('gengar','fast attacker', 'fighting').
+tera('gengar','fast attacker', 'ghost').
+move('gengar','fast attacker', 'encore').
+move('gengar','fast attacker', 'focus blast').
+move('gengar','fast attacker', 'shadow ball').
+move('gengar','fast attacker', 'sludge wave').
+move('gengar','fast attacker', 'toxic spikes').
+move('gengar','fast attacker', 'will-o-wisp').
+pokemon('gholdengo', 77).
+ability('gholdengo', 'good as gold').
+item('gholdengo', 'choice scarf').
+item('gholdengo', 'leftovers').
+role('gholdengo', 'bulky support').
+ability('gholdengo','bulky support', 'good as gold').
+item('gholdengo','bulky support', 'leftovers').
+tera('gholdengo','bulky support', 'dark').
+tera('gholdengo','bulky support', 'steel').
+tera('gholdengo','bulky support', 'water').
+move('gholdengo','bulky support', 'make it rain').
+move('gholdengo','bulky support', 'nasty plot').
+move('gholdengo','bulky support', 'recover').
+move('gholdengo','bulky support', 'shadow ball').
+move('gholdengo','bulky support', 'thunder wave').
+role('gholdengo', 'bulky attacker').
+ability('gholdengo','bulky attacker', 'good as gold').
+item('gholdengo','bulky attacker', 'choice scarf').
+item('gholdengo','bulky attacker', 'leftovers').
+tera('gholdengo','bulky attacker', 'fighting').
+tera('gholdengo','bulky attacker', 'ghost').
+tera('gholdengo','bulky attacker', 'steel').
+move('gholdengo','bulky attacker', 'focus blast').
+move('gholdengo','bulky attacker', 'make it rain').
+move('gholdengo','bulky attacker', 'nasty plot').
+move('gholdengo','bulky attacker', 'shadow ball').
+move('gholdengo','bulky attacker', 'trick').
+pokemon('girafarig', 89).
+ability('girafarig', 'sap sipper').
+item('girafarig', 'eviolite').
+role('girafarig', 'bulky setup').
+ability('girafarig','bulky setup', 'sap sipper').
+item('girafarig','bulky setup', 'eviolite').
+tera('girafarig','bulky setup', 'electric').
+tera('girafarig','bulky setup', 'fairy').
+tera('girafarig','bulky setup', 'psychic').
+move('girafarig','bulky setup', 'dazzling gleam').
+move('girafarig','bulky setup', 'nasty plot').
+move('girafarig','bulky setup', 'psychic').
+move('girafarig','bulky setup', 'psyshock').
+move('girafarig','bulky setup', 'shadow ball').
+move('girafarig','bulky setup', 'thunderbolt').
+role('girafarig', 'fast bulky setup').
+ability('girafarig','fast bulky setup', 'sap sipper').
+item('girafarig','fast bulky setup', 'eviolite').
+tera('girafarig','fast bulky setup', 'electric').
+tera('girafarig','fast bulky setup', 'normal').
+move('girafarig','fast bulky setup', 'hyper voice').
+move('girafarig','fast bulky setup', 'nasty plot').
+move('girafarig','fast bulky setup', 'psyshock').
+move('girafarig','fast bulky setup', 'thunderbolt').
+pokemon('giratina', 75).
+ability('giratina', 'pressure').
+item('giratina', 'leftovers').
+role('giratina', 'bulky setup').
+ability('giratina','bulky setup', 'pressure').
+item('giratina','bulky setup', 'leftovers').
+tera('giratina','bulky setup', 'fairy').
+move('giratina','bulky setup', 'calm mind').
+move('giratina','bulky setup', 'dragon pulse').
+move('giratina','bulky setup', 'rest').
+move('giratina','bulky setup', 'sleep talk').
+role('giratina', 'bulky attacker').
+ability('giratina','bulky attacker', 'pressure').
+item('giratina','bulky attacker', 'leftovers').
+tera('giratina','bulky attacker', 'fairy').
+move('giratina','bulky attacker', 'dragon tail').
+move('giratina','bulky attacker', 'rest').
+move('giratina','bulky attacker', 'shadow ball').
+move('giratina','bulky attacker', 'sleep talk').
+move('giratina','bulky attacker', 'will-o-wisp').
+role('giratina', 'bulky support').
+ability('giratina','bulky support', 'pressure').
+item('giratina','bulky support', 'leftovers').
+tera('giratina','bulky support', 'fairy').
+move('giratina','bulky support', 'defog').
+move('giratina','bulky support', 'dragon tail').
+move('giratina','bulky support', 'rest').
+move('giratina','bulky support', 'shadow ball').
+move('giratina','bulky support', 'will-o-wisp').
+pokemon('giratina-origin', 72).
+ability('giratina-origin', 'levitate').
+item('giratina-origin', 'griseous core').
+role('giratina-origin', 'fast attacker').
+ability('giratina-origin','fast attacker', 'levitate').
+item('giratina-origin','fast attacker', 'griseous core').
+tera('giratina-origin','fast attacker', 'dragon').
+tera('giratina-origin','fast attacker', 'fairy').
+tera('giratina-origin','fast attacker', 'ghost').
+tera('giratina-origin','fast attacker', 'steel').
+move('giratina-origin','fast attacker', 'defog').
+move('giratina-origin','fast attacker', 'draco meteor').
+move('giratina-origin','fast attacker', 'dragon tail').
+move('giratina-origin','fast attacker', 'poltergeist').
+move('giratina-origin','fast attacker', 'shadow sneak').
+move('giratina-origin','fast attacker', 'will-o-wisp').
+pokemon('glaceon', 94).
+ability('glaceon', 'ice body').
+item('glaceon', 'heavy-duty boots').
+role('glaceon', 'bulky attacker').
+ability('glaceon','bulky attacker', 'ice body').
+item('glaceon','bulky attacker', 'heavy-duty boots').
+tera('glaceon','bulky attacker', 'ground').
+move('glaceon','bulky attacker', 'freeze-dry').
+move('glaceon','bulky attacker', 'mud shot').
+move('glaceon','bulky attacker', 'protect').
+move('glaceon','bulky attacker', 'wish').
+role('glaceon', 'bulky setup').
+ability('glaceon','bulky setup', 'ice body').
+item('glaceon','bulky setup', 'heavy-duty boots').
+tera('glaceon','bulky setup', 'water').
+move('glaceon','bulky setup', 'calm mind').
+move('glaceon','bulky setup', 'freeze-dry').
+move('glaceon','bulky setup', 'protect').
+move('glaceon','bulky setup', 'wish').
+pokemon('glalie', 96).
+ability('glalie', 'inner focus').
+item('glalie', 'heavy-duty boots').
+role('glalie', 'fast support').
+ability('glalie','fast support', 'inner focus').
+item('glalie','fast support', 'heavy-duty boots').
+tera('glalie','fast support', 'ghost').
+tera('glalie','fast support', 'ground').
+tera('glalie','fast support', 'water').
+move('glalie','fast support', 'earthquake').
+move('glalie','fast support', 'freeze-dry').
+move('glalie','fast support', 'spikes').
+move('glalie','fast support', 'taunt').
+pokemon('glastrier', 86).
+ability('glastrier', 'chilling neigh').
+item('glastrier', 'choice band').
+item('glastrier', 'heavy-duty boots').
+role('glastrier', 'bulky attacker').
+ability('glastrier','bulky attacker', 'chilling neigh').
+item('glastrier','bulky attacker', 'choice band').
+item('glastrier','bulky attacker', 'heavy-duty boots').
+tera('glastrier','bulky attacker', 'fighting').
+tera('glastrier','bulky attacker', 'ground').
+tera('glastrier','bulky attacker', 'steel').
+move('glastrier','bulky attacker', 'close combat').
+move('glastrier','bulky attacker', 'heavy slam').
+move('glastrier','bulky attacker', 'high horsepower').
+move('glastrier','bulky attacker', 'icicle crash').
+move('glastrier','bulky attacker', 'swords dance').
+pokemon('glimmora', 75).
+ability('glimmora', 'toxic debris').
+item('glimmora', 'air balloon').
+item('glimmora', 'assault vest').
+item('glimmora', 'focus sash').
+item('glimmora', 'heavy-duty boots').
+item('glimmora', 'power herb').
+role('glimmora', 'setup sweeper').
+ability('glimmora','setup sweeper', 'toxic debris').
+item('glimmora','setup sweeper', 'power herb').
+tera('glimmora','setup sweeper', 'grass').
+move('glimmora','setup sweeper', 'earth power').
+move('glimmora','setup sweeper', 'energy ball').
+move('glimmora','setup sweeper', 'meteor beam').
+move('glimmora','setup sweeper', 'sludge wave').
+role('glimmora', 'fast support').
+ability('glimmora','fast support', 'toxic debris').
+item('glimmora','fast support', 'air balloon').
+item('glimmora','fast support', 'assault vest').
+item('glimmora','fast support', 'focus sash').
+item('glimmora','fast support', 'heavy-duty boots').
+tera('glimmora','fast support', 'ground').
+move('glimmora','fast support', 'earth power').
+move('glimmora','fast support', 'mortal spin').
+move('glimmora','fast support', 'power gem').
+move('glimmora','fast support', 'sludge wave').
+move('glimmora','fast support', 'spikes').
+move('glimmora','fast support', 'stealth rock').
+pokemon('gliscor', 76).
+ability('gliscor', 'poison heal').
+item('gliscor', 'toxic orb').
+role('gliscor', 'fast support').
+ability('gliscor','fast support', 'poison heal').
+item('gliscor','fast support', 'toxic orb').
+tera('gliscor','fast support', 'water').
+move('gliscor','fast support', 'earthquake').
+move('gliscor','fast support', 'protect').
+move('gliscor','fast support', 'substitute').
+move('gliscor','fast support', 'toxic').
+role('gliscor', 'bulky support').
+ability('gliscor','bulky support', 'poison heal').
+item('gliscor','bulky support', 'toxic orb').
+tera('gliscor','bulky support', 'water').
+move('gliscor','bulky support', 'earthquake').
+move('gliscor','bulky support', 'knock off').
+move('gliscor','bulky support', 'protect').
+move('gliscor','bulky support', 'toxic').
+move('gliscor','bulky support', 'toxic spikes').
+pokemon('gogoat', 88).
+ability('gogoat', 'sap sipper').
+item('gogoat', 'leftovers').
+role('gogoat', 'bulky setup').
+ability('gogoat','bulky setup', 'sap sipper').
+item('gogoat','bulky setup', 'leftovers').
+tera('gogoat','bulky setup', 'ground').
+tera('gogoat','bulky setup', 'water').
+move('gogoat','bulky setup', 'bulk up').
+move('gogoat','bulky setup', 'earthquake').
+move('gogoat','bulky setup', 'horn leech').
+move('gogoat','bulky setup', 'milk drink').
+move('gogoat','bulky setup', 'rock slide').
+pokemon('golduck', 90).
+ability('golduck', 'cloud nine').
+ability('golduck', 'swift swim').
+item('golduck', 'choice specs').
+item('golduck', 'leftovers').
+item('golduck', 'life orb').
+role('golduck', 'bulky setup').
+ability('golduck','bulky setup', 'cloud nine').
+ability('golduck','bulky setup', 'swift swim').
+item('golduck','bulky setup', 'leftovers').
+tera('golduck','bulky setup', 'water').
+move('golduck','bulky setup', 'encore').
+move('golduck','bulky setup', 'grass knot').
+move('golduck','bulky setup', 'hydro pump').
+move('golduck','bulky setup', 'ice beam').
+move('golduck','bulky setup', 'nasty plot').
+role('golduck', 'fast attacker').
+ability('golduck','fast attacker', 'cloud nine').
+ability('golduck','fast attacker', 'swift swim').
+item('golduck','fast attacker', 'choice specs').
+item('golduck','fast attacker', 'life orb').
+tera('golduck','fast attacker', 'grass').
+tera('golduck','fast attacker', 'water').
+move('golduck','fast attacker', 'flip turn').
+move('golduck','fast attacker', 'grass knot').
+move('golduck','fast attacker', 'hydro pump').
+move('golduck','fast attacker', 'ice beam').
+move('golduck','fast attacker', 'nasty plot').
+pokemon('golem', 87).
+ability('golem', 'sturdy').
+item('golem', 'custap berry').
+item('golem', 'weakness policy').
+role('golem', 'bulky attacker').
+ability('golem','bulky attacker', 'sturdy').
+item('golem','bulky attacker', 'custap berry').
+item('golem','bulky attacker', 'weakness policy').
+tera('golem','bulky attacker', 'grass').
+tera('golem','bulky attacker', 'ground').
+tera('golem','bulky attacker', 'steel').
+move('golem','bulky attacker', 'earthquake').
+move('golem','bulky attacker', 'explosion').
+move('golem','bulky attacker', 'rock polish').
+move('golem','bulky attacker', 'stealth rock').
+move('golem','bulky attacker', 'stone edge').
+pokemon('golem-alola', 93).
+ability('golem-alola', 'galvanize').
+item('golem-alola', 'choice band').
+item('golem-alola', 'life orb').
+role('golem-alola', 'setup sweeper').
+ability('golem-alola','setup sweeper', 'galvanize').
+item('golem-alola','setup sweeper', 'life orb').
+tera('golem-alola','setup sweeper', 'flying').
+tera('golem-alola','setup sweeper', 'grass').
+move('golem-alola','setup sweeper', 'double-edge').
+move('golem-alola','setup sweeper', 'earthquake').
+move('golem-alola','setup sweeper', 'rock polish').
+move('golem-alola','setup sweeper', 'stone edge').
+role('golem-alola', 'wallbreaker').
+ability('golem-alola','wallbreaker', 'galvanize').
+item('golem-alola','wallbreaker', 'choice band').
+tera('golem-alola','wallbreaker', 'electric').
+tera('golem-alola','wallbreaker', 'grass').
+tera('golem-alola','wallbreaker', 'ground').
+move('golem-alola','wallbreaker', 'double-edge').
+move('golem-alola','wallbreaker', 'earthquake').
+move('golem-alola','wallbreaker', 'explosion').
+move('golem-alola','wallbreaker', 'stone edge').
+pokemon('golurk', 87).
+ability('golurk', 'no guard').
+item('golurk', 'choice band').
+item('golurk', 'life orb').
+role('golurk', 'wallbreaker').
+ability('golurk','wallbreaker', 'no guard').
+item('golurk','wallbreaker', 'choice band').
+item('golurk','wallbreaker', 'life orb').
+tera('golurk','wallbreaker', 'fighting').
+tera('golurk','wallbreaker', 'ghost').
+tera('golurk','wallbreaker', 'ground').
+move('golurk','wallbreaker', 'dynamic punch').
+move('golurk','wallbreaker', 'earthquake').
+move('golurk','wallbreaker', 'poltergeist').
+move('golurk','wallbreaker', 'stealth rock').
+move('golurk','wallbreaker', 'stone edge').
+pokemon('goodra', 85).
+ability('goodra', 'sap sipper').
+item('goodra', 'assault vest').
+role('goodra', 'av pivot').
+ability('goodra','av pivot', 'sap sipper').
+item('goodra','av pivot', 'assault vest').
+tera('goodra','av pivot', 'fire').
+tera('goodra','av pivot', 'grass').
+tera('goodra','av pivot', 'ground').
+tera('goodra','av pivot', 'poison').
+tera('goodra','av pivot', 'steel').
+tera('goodra','av pivot', 'water').
+move('goodra','av pivot', 'draco meteor').
+move('goodra','av pivot', 'dragon tail').
+move('goodra','av pivot', 'earthquake').
+move('goodra','av pivot', 'fire blast').
+move('goodra','av pivot', 'knock off').
+move('goodra','av pivot', 'power whip').
+move('goodra','av pivot', 'scald').
+move('goodra','av pivot', 'sludge bomb').
+pokemon('goodra-hisui', 82).
+ability('goodra-hisui', 'sap sipper').
+item('goodra-hisui', 'assault vest').
+role('goodra-hisui', 'av pivot').
+ability('goodra-hisui','av pivot', 'sap sipper').
+item('goodra-hisui','av pivot', 'assault vest').
+tera('goodra-hisui','av pivot', 'dragon').
+tera('goodra-hisui','av pivot', 'flying').
+tera('goodra-hisui','av pivot', 'ground').
+tera('goodra-hisui','av pivot', 'water').
+move('goodra-hisui','av pivot', 'draco meteor').
+move('goodra-hisui','av pivot', 'dragon tail').
+move('goodra-hisui','av pivot', 'earthquake').
+move('goodra-hisui','av pivot', 'fire blast').
+move('goodra-hisui','av pivot', 'heavy slam').
+move('goodra-hisui','av pivot', 'hydro pump').
+move('goodra-hisui','av pivot', 'knock off').
+move('goodra-hisui','av pivot', 'thunderbolt').
+pokemon('gothitelle', 90).
+ability('gothitelle', 'shadow tag').
+item('gothitelle', 'choice scarf').
+item('gothitelle', 'leftovers').
+role('gothitelle', 'bulky setup').
+ability('gothitelle','bulky setup', 'shadow tag').
+item('gothitelle','bulky setup', 'leftovers').
+tera('gothitelle','bulky setup', 'dark').
+tera('gothitelle','bulky setup', 'electric').
+tera('gothitelle','bulky setup', 'fairy').
+tera('gothitelle','bulky setup', 'fighting').
+tera('gothitelle','bulky setup', 'flying').
+tera('gothitelle','bulky setup', 'ghost').
+tera('gothitelle','bulky setup', 'ground').
+tera('gothitelle','bulky setup', 'steel').
+move('gothitelle','bulky setup', 'calm mind').
+move('gothitelle','bulky setup', 'dark pulse').
+move('gothitelle','bulky setup', 'focus blast').
+move('gothitelle','bulky setup', 'psychic noise').
+move('gothitelle','bulky setup', 'thunderbolt').
+role('gothitelle', 'fast attacker').
+ability('gothitelle','fast attacker', 'shadow tag').
+item('gothitelle','fast attacker', 'choice scarf').
+tera('gothitelle','fast attacker', 'dark').
+tera('gothitelle','fast attacker', 'fairy').
+tera('gothitelle','fast attacker', 'fighting').
+tera('gothitelle','fast attacker', 'flying').
+tera('gothitelle','fast attacker', 'ghost').
+tera('gothitelle','fast attacker', 'ground').
+tera('gothitelle','fast attacker', 'psychic').
+tera('gothitelle','fast attacker', 'steel').
+move('gothitelle','fast attacker', 'dark pulse').
+move('gothitelle','fast attacker', 'focus blast').
+move('gothitelle','fast attacker', 'psychic').
+move('gothitelle','fast attacker', 'trick').
+pokemon('gouging fire', 74).
+ability('gouging fire', 'protosynthesis').
+item('gouging fire', 'heavy-duty boots').
+role('gouging fire', 'setup sweeper').
+ability('gouging fire','setup sweeper', 'protosynthesis').
+item('gouging fire','setup sweeper', 'heavy-duty boots').
+tera('gouging fire','setup sweeper', 'ground').
+move('gouging fire','setup sweeper', 'dragon dance').
+move('gouging fire','setup sweeper', 'earthquake').
+move('gouging fire','setup sweeper', 'heat crash').
+move('gouging fire','setup sweeper', 'outrage').
+role('gouging fire', 'bulky setup').
+ability('gouging fire','bulky setup', 'protosynthesis').
+item('gouging fire','bulky setup', 'heavy-duty boots').
+tera('gouging fire','bulky setup', 'fairy').
+move('gouging fire','bulky setup', 'dragon dance').
+move('gouging fire','bulky setup', 'heat crash').
+move('gouging fire','bulky setup', 'morning sun').
+move('gouging fire','bulky setup', 'outrage').
+pokemon('grafaiai', 86).
+ability('grafaiai', 'poison touch').
+ability('grafaiai', 'prankster').
+item('grafaiai', 'assault vest').
+item('grafaiai', 'heavy-duty boots').
+item('grafaiai', 'life orb').
+role('grafaiai', 'fast support').
+ability('grafaiai','fast support', 'prankster').
+item('grafaiai','fast support', 'heavy-duty boots').
+tera('grafaiai','fast support', 'dark').
+move('grafaiai','fast support', 'encore').
+move('grafaiai','fast support', 'gunk shot').
+move('grafaiai','fast support', 'knock off').
+move('grafaiai','fast support', 'parting shot').
+role('grafaiai', 'setup sweeper').
+ability('grafaiai','setup sweeper', 'poison touch').
+item('grafaiai','setup sweeper', 'life orb').
+tera('grafaiai','setup sweeper', 'dark').
+move('grafaiai','setup sweeper', 'gunk shot').
+move('grafaiai','setup sweeper', 'knock off').
+move('grafaiai','setup sweeper', 'low kick').
+move('grafaiai','setup sweeper', 'swords dance').
+role('grafaiai', 'av pivot').
+ability('grafaiai','av pivot', 'poison touch').
+item('grafaiai','av pivot', 'assault vest').
+tera('grafaiai','av pivot', 'dark').
+move('grafaiai','av pivot', 'gunk shot').
+move('grafaiai','av pivot', 'knock off').
+move('grafaiai','av pivot', 'super fang').
+move('grafaiai','av pivot', 'u-turn').
+pokemon('granbull', 88).
+ability('granbull', 'intimidate').
+item('granbull', 'leftovers').
+role('granbull', 'bulky attacker').
+ability('granbull','bulky attacker', 'intimidate').
+item('granbull','bulky attacker', 'leftovers').
+tera('granbull','bulky attacker', 'ground').
+move('granbull','bulky attacker', 'earthquake').
+move('granbull','bulky attacker', 'encore').
+move('granbull','bulky attacker', 'play rough').
+move('granbull','bulky attacker', 'thunder wave').
+role('granbull', 'bulky support').
+ability('granbull','bulky support', 'intimidate').
+item('granbull','bulky support', 'leftovers').
+tera('granbull','bulky support', 'ground').
+move('granbull','bulky support', 'earthquake').
+move('granbull','bulky support', 'play rough').
+move('granbull','bulky support', 'roar').
+move('granbull','bulky support', 'thunder wave').
+pokemon('great tusk', 77).
+ability('great tusk', 'protosynthesis').
+item('great tusk', 'assault vest').
+item('great tusk', 'booster energy').
+item('great tusk', 'choice band').
+item('great tusk', 'choice scarf').
+item('great tusk', 'leftovers').
+role('great tusk', 'bulky setup').
+ability('great tusk','bulky setup', 'protosynthesis').
+item('great tusk','bulky setup', 'leftovers').
+tera('great tusk','bulky setup', 'ground').
+tera('great tusk','bulky setup', 'steel').
+move('great tusk','bulky setup', 'bulk up').
+move('great tusk','bulky setup', 'close combat').
+move('great tusk','bulky setup', 'earthquake').
+move('great tusk','bulky setup', 'rapid spin').
+move('great tusk','bulky setup', 'stone edge').
+role('great tusk', 'bulky support').
+ability('great tusk','bulky support', 'protosynthesis').
+item('great tusk','bulky support', 'assault vest').
+item('great tusk','bulky support', 'choice band').
+item('great tusk','bulky support', 'choice scarf').
+item('great tusk','bulky support', 'leftovers').
+tera('great tusk','bulky support', 'ground').
+tera('great tusk','bulky support', 'steel').
+move('great tusk','bulky support', 'close combat').
+move('great tusk','bulky support', 'headlong rush').
+move('great tusk','bulky support', 'ice spinner').
+move('great tusk','bulky support', 'knock off').
+move('great tusk','bulky support', 'rapid spin').
+move('great tusk','bulky support', 'stealth rock').
+move('great tusk','bulky support', 'stone edge').
+role('great tusk', 'fast bulky setup').
+ability('great tusk','fast bulky setup', 'protosynthesis').
+item('great tusk','fast bulky setup', 'booster energy').
+tera('great tusk','fast bulky setup', 'ground').
+tera('great tusk','fast bulky setup', 'steel').
+move('great tusk','fast bulky setup', 'bulk up').
+move('great tusk','fast bulky setup', 'close combat').
+move('great tusk','fast bulky setup', 'earthquake').
+move('great tusk','fast bulky setup', 'rapid spin').
+move('great tusk','fast bulky setup', 'stone edge').
+pokemon('greedent', 86).
+ability('greedent', 'cheek pouch').
+item('greedent', 'sitrus berry').
+role('greedent', 'bulky setup').
+ability('greedent','bulky setup', 'cheek pouch').
+item('greedent','bulky setup', 'sitrus berry').
+tera('greedent','bulky setup', 'ghost').
+tera('greedent','bulky setup', 'ground').
+move('greedent','bulky setup', 'body slam').
+move('greedent','bulky setup', 'double-edge').
+move('greedent','bulky setup', 'earthquake').
+move('greedent','bulky setup', 'knock off').
+move('greedent','bulky setup', 'swords dance').
+pokemon('greninja', 80).
+ability('greninja', 'protean').
+item('greninja', 'choice specs').
+item('greninja', 'life orb').
+role('greninja', 'wallbreaker').
+ability('greninja','wallbreaker', 'protean').
+item('greninja','wallbreaker', 'life orb').
+tera('greninja','wallbreaker', 'poison').
+move('greninja','wallbreaker', 'grass knot').
+move('greninja','wallbreaker', 'gunk shot').
+move('greninja','wallbreaker', 'hydro pump').
+move('greninja','wallbreaker', 'ice beam').
+move('greninja','wallbreaker', 'spikes').
+move('greninja','wallbreaker', 'u-turn').
+role('greninja', 'fast attacker').
+ability('greninja','fast attacker', 'protean').
+item('greninja','fast attacker', 'choice specs').
+item('greninja','fast attacker', 'life orb').
+tera('greninja','fast attacker', 'dark').
+tera('greninja','fast attacker', 'poison').
+tera('greninja','fast attacker', 'water').
+move('greninja','fast attacker', 'dark pulse').
+move('greninja','fast attacker', 'grass knot').
+move('greninja','fast attacker', 'gunk shot').
+move('greninja','fast attacker', 'hydro pump').
+move('greninja','fast attacker', 'ice beam').
+move('greninja','fast attacker', 'toxic spikes').
+move('greninja','fast attacker', 'u-turn').
+pokemon('greninja-bond', 80).
+ability('greninja-bond', 'battle bond').
+item('greninja-bond', 'life orb').
+role('greninja-bond', 'fast attacker').
+ability('greninja-bond','fast attacker', 'battle bond').
+item('greninja-bond','fast attacker', 'life orb').
+tera('greninja-bond','fast attacker', 'poison').
+tera('greninja-bond','fast attacker', 'water').
+move('greninja-bond','fast attacker', 'dark pulse').
+move('greninja-bond','fast attacker', 'gunk shot').
+move('greninja-bond','fast attacker', 'hydro pump').
+move('greninja-bond','fast attacker', 'ice beam').
+pokemon('grimmsnarl', 83).
+ability('grimmsnarl', 'prankster').
+item('grimmsnarl', 'leftovers').
+item('grimmsnarl', 'light clay').
+role('grimmsnarl', 'bulky attacker').
+ability('grimmsnarl','bulky attacker', 'prankster').
+item('grimmsnarl','bulky attacker', 'leftovers').
+tera('grimmsnarl','bulky attacker', 'poison').
+tera('grimmsnarl','bulky attacker', 'steel').
+move('grimmsnarl','bulky attacker', 'parting shot').
+move('grimmsnarl','bulky attacker', 'spirit break').
+move('grimmsnarl','bulky attacker', 'sucker punch').
+move('grimmsnarl','bulky attacker', 'taunt').
+move('grimmsnarl','bulky attacker', 'thunder wave').
+role('grimmsnarl', 'bulky support').
+ability('grimmsnarl','bulky support', 'prankster').
+item('grimmsnarl','bulky support', 'light clay').
+tera('grimmsnarl','bulky support', 'poison').
+tera('grimmsnarl','bulky support', 'steel').
+move('grimmsnarl','bulky support', 'light screen').
+move('grimmsnarl','bulky support', 'parting shot').
+move('grimmsnarl','bulky support', 'reflect').
+move('grimmsnarl','bulky support', 'spirit break').
+move('grimmsnarl','bulky support', 'thunder wave').
+pokemon('groudon', 72).
+ability('groudon', 'drought').
+item('groudon', 'leftovers').
+role('groudon', 'bulky setup').
+ability('groudon','bulky setup', 'drought').
+item('groudon','bulky setup', 'leftovers').
+tera('groudon','bulky setup', 'fire').
+move('groudon','bulky setup', 'heat crash').
+move('groudon','bulky setup', 'precipice blades').
+move('groudon','bulky setup', 'stone edge').
+move('groudon','bulky setup', 'swords dance').
+move('groudon','bulky setup', 'thunder wave').
+role('groudon', 'bulky attacker').
+ability('groudon','bulky attacker', 'drought').
+item('groudon','bulky attacker', 'leftovers').
+tera('groudon','bulky attacker', 'fire').
+move('groudon','bulky attacker', 'heat crash').
+move('groudon','bulky attacker', 'precipice blades').
+move('groudon','bulky attacker', 'roar').
+move('groudon','bulky attacker', 'spikes').
+move('groudon','bulky attacker', 'stealth rock').
+move('groudon','bulky attacker', 'stone edge').
+move('groudon','bulky attacker', 'thunder wave').
+move('groudon','bulky attacker', 'will-o-wisp').
+pokemon('grumpig', 92).
+ability('grumpig', 'thick fat').
+item('grumpig', 'choice scarf').
+item('grumpig', 'choice specs').
+item('grumpig', 'leftovers').
+role('grumpig', 'bulky setup').
+ability('grumpig','bulky setup', 'thick fat').
+item('grumpig','bulky setup', 'leftovers').
+tera('grumpig','bulky setup', 'fairy').
+tera('grumpig','bulky setup', 'fighting').
+tera('grumpig','bulky setup', 'ground').
+move('grumpig','bulky setup', 'dazzling gleam').
+move('grumpig','bulky setup', 'earth power').
+move('grumpig','bulky setup', 'focus blast').
+move('grumpig','bulky setup', 'nasty plot').
+move('grumpig','bulky setup', 'psychic').
+move('grumpig','bulky setup', 'psyshock').
+move('grumpig','bulky setup', 'shadow ball').
+role('grumpig', 'bulky attacker').
+ability('grumpig','bulky attacker', 'thick fat').
+item('grumpig','bulky attacker', 'choice scarf').
+item('grumpig','bulky attacker', 'choice specs').
+tera('grumpig','bulky attacker', 'fighting').
+tera('grumpig','bulky attacker', 'ghost').
+tera('grumpig','bulky attacker', 'ground').
+tera('grumpig','bulky attacker', 'psychic').
+move('grumpig','bulky attacker', 'earth power').
+move('grumpig','bulky attacker', 'focus blast').
+move('grumpig','bulky attacker', 'psychic').
+move('grumpig','bulky attacker', 'psyshock').
+move('grumpig','bulky attacker', 'shadow ball').
+move('grumpig','bulky attacker', 'trick').
+pokemon('gumshoos', 95).
+ability('gumshoos', 'adaptability').
+ability('gumshoos', 'stakeout').
+item('gumshoos', 'choice band').
+role('gumshoos', 'wallbreaker').
+ability('gumshoos','wallbreaker', 'stakeout').
+item('gumshoos','wallbreaker', 'choice band').
+tera('gumshoos','wallbreaker', 'normal').
+move('gumshoos','wallbreaker', 'double-edge').
+move('gumshoos','wallbreaker', 'earthquake').
+move('gumshoos','wallbreaker', 'knock off').
+move('gumshoos','wallbreaker', 'u-turn').
+role('gumshoos', 'fast attacker').
+ability('gumshoos','fast attacker', 'adaptability').
+ability('gumshoos','fast attacker', 'stakeout').
+item('gumshoos','fast attacker', 'choice band').
+tera('gumshoos','fast attacker', 'ground').
+move('gumshoos','fast attacker', 'double-edge').
+move('gumshoos','fast attacker', 'earthquake').
+move('gumshoos','fast attacker', 'knock off').
+move('gumshoos','fast attacker', 'u-turn').
+pokemon('gurdurr', 85).
+ability('gurdurr', 'guts').
+item('gurdurr', 'eviolite').
+role('gurdurr', 'bulky attacker').
+ability('gurdurr','bulky attacker', 'guts').
+item('gurdurr','bulky attacker', 'eviolite').
+tera('gurdurr','bulky attacker', 'steel').
+move('gurdurr','bulky attacker', 'bulk up').
+move('gurdurr','bulky attacker', 'defog').
+move('gurdurr','bulky attacker', 'drain punch').
+move('gurdurr','bulky attacker', 'knock off').
+move('gurdurr','bulky attacker', 'mach punch').
+pokemon('gyarados', 79).
+ability('gyarados', 'intimidate').
+ability('gyarados', 'moxie').
+item('gyarados', 'heavy-duty boots').
+role('gyarados', 'setup sweeper').
+ability('gyarados','setup sweeper', 'intimidate').
+ability('gyarados','setup sweeper', 'moxie').
+item('gyarados','setup sweeper', 'heavy-duty boots').
+tera('gyarados','setup sweeper', 'ground').
+move('gyarados','setup sweeper', 'dragon dance').
+move('gyarados','setup sweeper', 'earthquake').
+move('gyarados','setup sweeper', 'stone edge').
+move('gyarados','setup sweeper', 'temper flare').
+move('gyarados','setup sweeper', 'waterfall').
+role('gyarados', 'tera blast user').
+ability('gyarados','tera blast user', 'intimidate').
+ability('gyarados','tera blast user', 'moxie').
+item('gyarados','tera blast user', 'heavy-duty boots').
+tera('gyarados','tera blast user', 'flying').
+move('gyarados','tera blast user', 'dragon dance').
+move('gyarados','tera blast user', 'earthquake').
+move('gyarados','tera blast user', 'tera blast').
+move('gyarados','tera blast user', 'waterfall').
+pokemon('hariyama', 87).
+ability('hariyama', 'guts').
+ability('hariyama', 'thick fat').
+item('hariyama', 'assault vest').
+item('hariyama', 'flame orb').
+role('hariyama', 'av pivot').
+ability('hariyama','av pivot', 'thick fat').
+item('hariyama','av pivot', 'assault vest').
+tera('hariyama','av pivot', 'steel').
+move('hariyama','av pivot', 'bullet punch').
+move('hariyama','av pivot', 'close combat').
+move('hariyama','av pivot', 'headlong rush').
+move('hariyama','av pivot', 'heavy slam').
+move('hariyama','av pivot', 'knock off').
+move('hariyama','av pivot', 'stone edge').
+role('hariyama', 'wallbreaker').
+ability('hariyama','wallbreaker', 'guts').
+item('hariyama','wallbreaker', 'flame orb').
+tera('hariyama','wallbreaker', 'normal').
+move('hariyama','wallbreaker', 'bullet punch').
+move('hariyama','wallbreaker', 'close combat').
+move('hariyama','wallbreaker', 'facade').
+move('hariyama','wallbreaker', 'fake out').
+move('hariyama','wallbreaker', 'headlong rush').
+move('hariyama','wallbreaker', 'knock off').
+pokemon('hatterene', 85).
+ability('hatterene', 'magic bounce').
+item('hatterene', 'assault vest').
+item('hatterene', 'leftovers').
+role('hatterene', 'av pivot').
+ability('hatterene','av pivot', 'magic bounce').
+item('hatterene','av pivot', 'assault vest').
+tera('hatterene','av pivot', 'fairy').
+tera('hatterene','av pivot', 'steel').
+move('hatterene','av pivot', 'draining kiss').
+move('hatterene','av pivot', 'mystical fire').
+move('hatterene','av pivot', 'nuzzle').
+move('hatterene','av pivot', 'psychic').
+move('hatterene','av pivot', 'psychic noise').
+role('hatterene', 'bulky setup').
+ability('hatterene','bulky setup', 'magic bounce').
+item('hatterene','bulky setup', 'leftovers').
+tera('hatterene','bulky setup', 'fairy').
+tera('hatterene','bulky setup', 'steel').
+move('hatterene','bulky setup', 'calm mind').
+move('hatterene','bulky setup', 'draining kiss').
+move('hatterene','bulky setup', 'mystical fire').
+move('hatterene','bulky setup', 'psychic').
+move('hatterene','bulky setup', 'psyshock').
+pokemon('hawlucha', 80).
+ability('hawlucha', 'unburden').
+item('hawlucha', 'white herb').
+role('hawlucha', 'setup sweeper').
+ability('hawlucha','setup sweeper', 'unburden').
+item('hawlucha','setup sweeper', 'white herb').
+tera('hawlucha','setup sweeper', 'fighting').
+tera('hawlucha','setup sweeper', 'flying').
+move('hawlucha','setup sweeper', 'acrobatics').
+move('hawlucha','setup sweeper', 'brave bird').
+move('hawlucha','setup sweeper', 'close combat').
+move('hawlucha','setup sweeper', 'encore').
+move('hawlucha','setup sweeper', 'stone edge').
+move('hawlucha','setup sweeper', 'swords dance').
+move('hawlucha','setup sweeper', 'throat chop').
+pokemon('haxorus', 78).
+ability('haxorus', 'mold breaker').
+item('haxorus', 'loaded dice').
+item('haxorus', 'lum berry').
+role('haxorus', 'setup sweeper').
+ability('haxorus','setup sweeper', 'mold breaker').
+item('haxorus','setup sweeper', 'lum berry').
+tera('haxorus','setup sweeper', 'steel').
+move('haxorus','setup sweeper', 'close combat').
+move('haxorus','setup sweeper', 'dragon dance').
+move('haxorus','setup sweeper', 'earthquake').
+move('haxorus','setup sweeper', 'iron head').
+move('haxorus','setup sweeper', 'outrage').
+role('haxorus', 'fast bulky setup').
+ability('haxorus','fast bulky setup', 'mold breaker').
+item('haxorus','fast bulky setup', 'loaded dice').
+tera('haxorus','fast bulky setup', 'steel').
+move('haxorus','fast bulky setup', 'close combat').
+move('haxorus','fast bulky setup', 'earthquake').
+move('haxorus','fast bulky setup', 'iron head').
+move('haxorus','fast bulky setup', 'scale shot').
+move('haxorus','fast bulky setup', 'swords dance').
+pokemon('heatran', 79).
+ability('heatran', 'flash fire').
+item('heatran', 'air balloon').
+item('heatran', 'assault vest').
+role('heatran', 'bulky support').
+ability('heatran','bulky support', 'flash fire').
+item('heatran','bulky support', 'air balloon').
+item('heatran','bulky support', 'assault vest').
+tera('heatran','bulky support', 'flying').
+tera('heatran','bulky support', 'grass').
+move('heatran','bulky support', 'earth power').
+move('heatran','bulky support', 'heavy slam').
+move('heatran','bulky support', 'lava plume').
+move('heatran','bulky support', 'magma storm').
+move('heatran','bulky support', 'stealth rock').
+pokemon('heracross', 80).
+ability('heracross', 'guts').
+ability('heracross', 'moxie').
+item('heracross', 'choice band').
+item('heracross', 'choice scarf').
+item('heracross', 'flame orb').
+role('heracross', 'fast attacker').
+ability('heracross','fast attacker', 'moxie').
+item('heracross','fast attacker', 'choice band').
+item('heracross','fast attacker', 'choice scarf').
+tera('heracross','fast attacker', 'bug').
+tera('heracross','fast attacker', 'fighting').
+tera('heracross','fast attacker', 'rock').
+move('heracross','fast attacker', 'close combat').
+move('heracross','fast attacker', 'earthquake').
+move('heracross','fast attacker', 'knock off').
+move('heracross','fast attacker', 'megahorn').
+move('heracross','fast attacker', 'stone edge').
+role('heracross', 'setup sweeper').
+ability('heracross','setup sweeper', 'guts').
+item('heracross','setup sweeper', 'flame orb').
+tera('heracross','setup sweeper', 'normal').
+move('heracross','setup sweeper', 'close combat').
+move('heracross','setup sweeper', 'facade').
+move('heracross','setup sweeper', 'knock off').
+move('heracross','setup sweeper', 'trailblaze').
+pokemon('hippowdon', 82).
+ability('hippowdon', 'sand stream').
+item('hippowdon', 'leftovers').
+item('hippowdon', 'rocky helmet').
+role('hippowdon', 'bulky support').
+ability('hippowdon','bulky support', 'sand stream').
+item('hippowdon','bulky support', 'leftovers').
+item('hippowdon','bulky support', 'rocky helmet').
+tera('hippowdon','bulky support', 'dragon').
+tera('hippowdon','bulky support', 'rock').
+tera('hippowdon','bulky support', 'steel').
+move('hippowdon','bulky support', 'earthquake').
+move('hippowdon','bulky support', 'slack off').
+move('hippowdon','bulky support', 'stealth rock').
+move('hippowdon','bulky support', 'stone edge').
+move('hippowdon','bulky support', 'whirlwind').
+role('hippowdon', 'bulky setup').
+ability('hippowdon','bulky setup', 'sand stream').
+item('hippowdon','bulky setup', 'leftovers').
+tera('hippowdon','bulky setup', 'rock').
+tera('hippowdon','bulky setup', 'steel').
+move('hippowdon','bulky setup', 'curse').
+move('hippowdon','bulky setup', 'earthquake').
+move('hippowdon','bulky setup', 'slack off').
+move('hippowdon','bulky setup', 'stone edge').
+pokemon('hitmonchan', 87).
+ability('hitmonchan', 'iron fist').
+item('hitmonchan', 'assault vest').
+item('hitmonchan', 'leftovers').
+item('hitmonchan', 'life orb').
+role('hitmonchan', 'setup sweeper').
+ability('hitmonchan','setup sweeper', 'iron fist').
+item('hitmonchan','setup sweeper', 'leftovers').
+item('hitmonchan','setup sweeper', 'life orb').
+tera('hitmonchan','setup sweeper', 'dark').
+tera('hitmonchan','setup sweeper', 'fighting').
+move('hitmonchan','setup sweeper', 'drain punch').
+move('hitmonchan','setup sweeper', 'ice punch').
+move('hitmonchan','setup sweeper', 'knock off').
+move('hitmonchan','setup sweeper', 'mach punch').
+move('hitmonchan','setup sweeper', 'rapid spin').
+move('hitmonchan','setup sweeper', 'swords dance').
+role('hitmonchan', 'bulky setup').
+ability('hitmonchan','bulky setup', 'iron fist').
+item('hitmonchan','bulky setup', 'leftovers').
+tera('hitmonchan','bulky setup', 'dark').
+tera('hitmonchan','bulky setup', 'poison').
+tera('hitmonchan','bulky setup', 'steel').
+move('hitmonchan','bulky setup', 'bulk up').
+move('hitmonchan','bulky setup', 'drain punch').
+move('hitmonchan','bulky setup', 'knock off').
+move('hitmonchan','bulky setup', 'poison jab').
+move('hitmonchan','bulky setup', 'rapid spin').
+role('hitmonchan', 'bulky support').
+ability('hitmonchan','bulky support', 'iron fist').
+item('hitmonchan','bulky support', 'assault vest').
+item('hitmonchan','bulky support', 'leftovers').
+tera('hitmonchan','bulky support', 'steel').
+move('hitmonchan','bulky support', 'drain punch').
+move('hitmonchan','bulky support', 'encore').
+move('hitmonchan','bulky support', 'knock off').
+move('hitmonchan','bulky support', 'poison jab').
+move('hitmonchan','bulky support', 'rapid spin').
+move('hitmonchan','bulky support', 'taunt').
+pokemon('hitmonlee', 85).
+ability('hitmonlee', 'reckless').
+ability('hitmonlee', 'unburden').
+item('hitmonlee', 'choice band').
+item('hitmonlee', 'choice scarf').
+item('hitmonlee', 'white herb').
+role('hitmonlee', 'setup sweeper').
+ability('hitmonlee','setup sweeper', 'unburden').
+item('hitmonlee','setup sweeper', 'white herb').
+tera('hitmonlee','setup sweeper', 'dark').
+tera('hitmonlee','setup sweeper', 'fighting').
+tera('hitmonlee','setup sweeper', 'poison').
+move('hitmonlee','setup sweeper', 'close combat').
+move('hitmonlee','setup sweeper', 'knock off').
+move('hitmonlee','setup sweeper', 'poison jab').
+move('hitmonlee','setup sweeper', 'stone edge').
+move('hitmonlee','setup sweeper', 'swords dance').
+role('hitmonlee', 'fast attacker').
+ability('hitmonlee','fast attacker', 'reckless').
+item('hitmonlee','fast attacker', 'choice band').
+item('hitmonlee','fast attacker', 'choice scarf').
+tera('hitmonlee','fast attacker', 'fighting').
+move('hitmonlee','fast attacker', 'high jump kick').
+move('hitmonlee','fast attacker', 'knock off').
+move('hitmonlee','fast attacker', 'mach punch').
+move('hitmonlee','fast attacker', 'poison jab').
+move('hitmonlee','fast attacker', 'stone edge').
+pokemon('hitmontop', 88).
+ability('hitmontop', 'intimidate').
+ability('hitmontop', 'technician').
+item('hitmontop', 'assault vest').
+item('hitmontop', 'choice band').
+item('hitmontop', 'leftovers').
+role('hitmontop', 'bulky support').
+ability('hitmontop','bulky support', 'intimidate').
+item('hitmontop','bulky support', 'assault vest').
+item('hitmontop','bulky support', 'choice band').
+tera('hitmontop','bulky support', 'steel').
+move('hitmontop','bulky support', 'close combat').
+move('hitmontop','bulky support', 'earthquake').
+move('hitmontop','bulky support', 'rapid spin').
+move('hitmontop','bulky support', 'stone edge').
+move('hitmontop','bulky support', 'sucker punch').
+role('hitmontop', 'bulky setup').
+ability('hitmontop','bulky setup', 'technician').
+item('hitmontop','bulky setup', 'leftovers').
+tera('hitmontop','bulky setup', 'ice').
+move('hitmontop','bulky setup', 'bulk up').
+move('hitmontop','bulky setup', 'close combat').
+move('hitmontop','bulky setup', 'rapid spin').
+move('hitmontop','bulky setup', 'triple axel').
+pokemon('ho-oh', 71).
+ability('ho-oh', 'regenerator').
+item('ho-oh', 'heavy-duty boots').
+role('ho-oh', 'bulky attacker').
+ability('ho-oh','bulky attacker', 'regenerator').
+item('ho-oh','bulky attacker', 'heavy-duty boots').
+tera('ho-oh','bulky attacker', 'ground').
+tera('ho-oh','bulky attacker', 'steel').
+move('ho-oh','bulky attacker', 'brave bird').
+move('ho-oh','bulky attacker', 'earthquake').
+move('ho-oh','bulky attacker', 'recover').
+move('ho-oh','bulky attacker', 'sacred fire').
+pokemon('honchkrow', 86).
+ability('honchkrow', 'moxie').
+item('honchkrow', 'heavy-duty boots').
+role('honchkrow', 'fast attacker').
+ability('honchkrow','fast attacker', 'moxie').
+item('honchkrow','fast attacker', 'heavy-duty boots').
+tera('honchkrow','fast attacker', 'dark').
+tera('honchkrow','fast attacker', 'flying').
+move('honchkrow','fast attacker', 'brave bird').
+move('honchkrow','fast attacker', 'heat wave').
+move('honchkrow','fast attacker', 'sucker punch').
+move('honchkrow','fast attacker', 'u-turn').
+role('honchkrow', 'wallbreaker').
+ability('honchkrow','wallbreaker', 'moxie').
+item('honchkrow','wallbreaker', 'heavy-duty boots').
+tera('honchkrow','wallbreaker', 'dark').
+tera('honchkrow','wallbreaker', 'flying').
+move('honchkrow','wallbreaker', 'brave bird').
+move('honchkrow','wallbreaker', 'heat wave').
+move('honchkrow','wallbreaker', 'lash out').
+move('honchkrow','wallbreaker', 'sucker punch').
+move('honchkrow','wallbreaker', 'thunder wave').
+pokemon('hoopa', 85).
+ability('hoopa', 'magician').
+item('hoopa', 'choice scarf').
+item('hoopa', 'life orb').
+role('hoopa', 'fast attacker').
+ability('hoopa','fast attacker', 'magician').
+item('hoopa','fast attacker', 'choice scarf').
+item('hoopa','fast attacker', 'life orb').
+tera('hoopa','fast attacker', 'fighting').
+tera('hoopa','fast attacker', 'ghost').
+tera('hoopa','fast attacker', 'psychic').
+move('hoopa','fast attacker', 'focus blast').
+move('hoopa','fast attacker', 'nasty plot').
+move('hoopa','fast attacker', 'psychic').
+move('hoopa','fast attacker', 'psyshock').
+move('hoopa','fast attacker', 'shadow ball').
+move('hoopa','fast attacker', 'trick').
+pokemon('hoopa-unbound', 80).
+ability('hoopa-unbound', 'magician').
+item('hoopa-unbound', 'assault vest').
+item('hoopa-unbound', 'choice band').
+item('hoopa-unbound', 'choice scarf').
+role('hoopa-unbound', 'wallbreaker').
+ability('hoopa-unbound','wallbreaker', 'magician').
+item('hoopa-unbound','wallbreaker', 'choice band').
+tera('hoopa-unbound','wallbreaker', 'dark').
+tera('hoopa-unbound','wallbreaker', 'fighting').
+tera('hoopa-unbound','wallbreaker', 'poison').
+move('hoopa-unbound','wallbreaker', 'drain punch').
+move('hoopa-unbound','wallbreaker', 'gunk shot').
+move('hoopa-unbound','wallbreaker', 'hyperspace fury').
+move('hoopa-unbound','wallbreaker', 'trick').
+move('hoopa-unbound','wallbreaker', 'zen headbutt').
+role('hoopa-unbound', 'bulky attacker').
+ability('hoopa-unbound','bulky attacker', 'magician').
+item('hoopa-unbound','bulky attacker', 'assault vest').
+item('hoopa-unbound','bulky attacker', 'choice scarf').
+tera('hoopa-unbound','bulky attacker', 'fighting').
+tera('hoopa-unbound','bulky attacker', 'poison').
+move('hoopa-unbound','bulky attacker', 'focus blast').
+move('hoopa-unbound','bulky attacker', 'gunk shot').
+move('hoopa-unbound','bulky attacker', 'hyperspace fury').
+move('hoopa-unbound','bulky attacker', 'psychic').
+move('hoopa-unbound','bulky attacker', 'trick').
+pokemon('houndoom', 87).
+ability('houndoom', 'flash fire').
+item('houndoom', 'heavy-duty boots').
+role('houndoom', 'fast attacker').
+ability('houndoom','fast attacker', 'flash fire').
+item('houndoom','fast attacker', 'heavy-duty boots').
+tera('houndoom','fast attacker', 'dark').
+tera('houndoom','fast attacker', 'fire').
+tera('houndoom','fast attacker', 'poison').
+move('houndoom','fast attacker', 'dark pulse').
+move('houndoom','fast attacker', 'fire blast').
+move('houndoom','fast attacker', 'nasty plot').
+move('houndoom','fast attacker', 'sludge bomb').
+move('houndoom','fast attacker', 'sucker punch').
+pokemon('houndstone', 86).
+ability('houndstone', 'fluffy').
+item('houndstone', 'assault vest').
+item('houndstone', 'choice band').
+item('houndstone', 'leftovers').
+role('houndstone', 'bulky attacker').
+ability('houndstone','bulky attacker', 'fluffy').
+item('houndstone','bulky attacker', 'choice band').
+item('houndstone','bulky attacker', 'leftovers').
+tera('houndstone','bulky attacker', 'fighting').
+move('houndstone','bulky attacker', 'body press').
+move('houndstone','bulky attacker', 'play rough').
+move('houndstone','bulky attacker', 'poltergeist').
+move('houndstone','bulky attacker', 'roar').
+move('houndstone','bulky attacker', 'shadow sneak').
+move('houndstone','bulky attacker', 'trick').
+move('houndstone','bulky attacker', 'will-o-wisp').
+role('houndstone', 'av pivot').
+ability('houndstone','av pivot', 'fluffy').
+item('houndstone','av pivot', 'assault vest').
+tera('houndstone','av pivot', 'fairy').
+tera('houndstone','av pivot', 'fighting').
+move('houndstone','av pivot', 'body press').
+move('houndstone','av pivot', 'play rough').
+move('houndstone','av pivot', 'poltergeist').
+move('houndstone','av pivot', 'shadow sneak').
+role('houndstone', 'bulky support').
+ability('houndstone','bulky support', 'fluffy').
+item('houndstone','bulky support', 'leftovers').
+tera('houndstone','bulky support', 'fighting').
+move('houndstone','bulky support', 'body press').
+move('houndstone','bulky support', 'poltergeist').
+move('houndstone','bulky support', 'rest').
+move('houndstone','bulky support', 'sleep talk').
+pokemon('hydrapple', 83).
+ability('hydrapple', 'regenerator').
+item('hydrapple', 'assault vest').
+item('hydrapple', 'choice specs').
+item('hydrapple', 'leftovers').
+item('hydrapple', 'life orb').
+role('hydrapple', 'fast bulky setup').
+ability('hydrapple','fast bulky setup', 'regenerator').
+item('hydrapple','fast bulky setup', 'leftovers').
+item('hydrapple','fast bulky setup', 'life orb').
+tera('hydrapple','fast bulky setup', 'steel').
+move('hydrapple','fast bulky setup', 'earth power').
+move('hydrapple','fast bulky setup', 'fickle beam').
+move('hydrapple','fast bulky setup', 'giga drain').
+move('hydrapple','fast bulky setup', 'nasty plot').
+move('hydrapple','fast bulky setup', 'recover').
+role('hydrapple', 'av pivot').
+ability('hydrapple','av pivot', 'regenerator').
+item('hydrapple','av pivot', 'assault vest').
+tera('hydrapple','av pivot', 'steel').
+move('hydrapple','av pivot', 'dragon tail').
+move('hydrapple','av pivot', 'earth power').
+move('hydrapple','av pivot', 'fickle beam').
+move('hydrapple','av pivot', 'giga drain').
+move('hydrapple','av pivot', 'leaf storm').
+role('hydrapple', 'wallbreaker').
+ability('hydrapple','wallbreaker', 'regenerator').
+item('hydrapple','wallbreaker', 'choice specs').
+tera('hydrapple','wallbreaker', 'dragon').
+tera('hydrapple','wallbreaker', 'steel').
+move('hydrapple','wallbreaker', 'draco meteor').
+move('hydrapple','wallbreaker', 'earth power').
+move('hydrapple','wallbreaker', 'fickle beam').
+move('hydrapple','wallbreaker', 'leaf storm').
+pokemon('hydreigon', 79).
+ability('hydreigon', 'levitate').
+item('hydreigon', 'choice scarf').
+item('hydreigon', 'choice specs').
+item('hydreigon', 'life orb').
+role('hydreigon', 'fast attacker').
+ability('hydreigon','fast attacker', 'levitate').
+item('hydreigon','fast attacker', 'choice scarf').
+item('hydreigon','fast attacker', 'choice specs').
+item('hydreigon','fast attacker', 'life orb').
+tera('hydreigon','fast attacker', 'dark').
+tera('hydreigon','fast attacker', 'dragon').
+tera('hydreigon','fast attacker', 'fire').
+tera('hydreigon','fast attacker', 'steel').
+move('hydreigon','fast attacker', 'dark pulse').
+move('hydreigon','fast attacker', 'draco meteor').
+move('hydreigon','fast attacker', 'fire blast').
+move('hydreigon','fast attacker', 'flash cannon').
+move('hydreigon','fast attacker', 'nasty plot').
+move('hydreigon','fast attacker', 'u-turn').
+pokemon('hypno', 95).
+ability('hypno', 'insomnia').
+item('hypno', 'leftovers').
+role('hypno', 'bulky support').
+ability('hypno','bulky support', 'insomnia').
+item('hypno','bulky support', 'leftovers').
+tera('hypno','bulky support', 'dark').
+tera('hypno','bulky support', 'fairy').
+tera('hypno','bulky support', 'steel').
+move('hypno','bulky support', 'encore').
+move('hypno','bulky support', 'knock off').
+move('hypno','bulky support', 'psychic noise').
+move('hypno','bulky support', 'thunder wave').
+move('hypno','bulky support', 'toxic').
+role('hypno', 'bulky attacker').
+ability('hypno','bulky attacker', 'insomnia').
+item('hypno','bulky attacker', 'leftovers').
+tera('hypno','bulky attacker', 'dark').
+tera('hypno','bulky attacker', 'fighting').
+tera('hypno','bulky attacker', 'steel').
+move('hypno','bulky attacker', 'focus blast').
+move('hypno','bulky attacker', 'protect').
+move('hypno','bulky attacker', 'psychic noise').
+move('hypno','bulky attacker', 'toxic').
+pokemon('illumise', 91).
+ability('illumise', 'prankster').
+item('illumise', 'heavy-duty boots').
+role('illumise', 'bulky support').
+ability('illumise','bulky support', 'prankster').
+item('illumise','bulky support', 'heavy-duty boots').
+tera('illumise','bulky support', 'steel').
+tera('illumise','bulky support', 'water').
+move('illumise','bulky support', 'bug buzz').
+move('illumise','bulky support', 'encore').
+move('illumise','bulky support', 'roost').
+move('illumise','bulky support', 'thunder wave').
+pokemon('incineroar', 82).
+ability('incineroar', 'intimidate').
+item('incineroar', 'assault vest').
+item('incineroar', 'choice band').
+item('incineroar', 'choice scarf').
+item('incineroar', 'heavy-duty boots').
+role('incineroar', 'setup sweeper').
+ability('incineroar','setup sweeper', 'intimidate').
+item('incineroar','setup sweeper', 'heavy-duty boots').
+tera('incineroar','setup sweeper', 'grass').
+move('incineroar','setup sweeper', 'flare blitz').
+move('incineroar','setup sweeper', 'knock off').
+move('incineroar','setup sweeper', 'swords dance').
+move('incineroar','setup sweeper', 'trailblaze').
+role('incineroar', 'av pivot').
+ability('incineroar','av pivot', 'intimidate').
+item('incineroar','av pivot', 'assault vest').
+tera('incineroar','av pivot', 'fighting').
+tera('incineroar','av pivot', 'water').
+move('incineroar','av pivot', 'close combat').
+move('incineroar','av pivot', 'fake out').
+move('incineroar','av pivot', 'knock off').
+move('incineroar','av pivot', 'overheat').
+move('incineroar','av pivot', 'u-turn').
+role('incineroar', 'fast attacker').
+ability('incineroar','fast attacker', 'intimidate').
+item('incineroar','fast attacker', 'choice band').
+item('incineroar','fast attacker', 'choice scarf').
+item('incineroar','fast attacker', 'heavy-duty boots').
+tera('incineroar','fast attacker', 'fighting').
+tera('incineroar','fast attacker', 'water').
+move('incineroar','fast attacker', 'close combat').
+move('incineroar','fast attacker', 'earthquake').
+move('incineroar','fast attacker', 'flare blitz').
+move('incineroar','fast attacker', 'knock off').
+move('incineroar','fast attacker', 'parting shot').
+move('incineroar','fast attacker', 'will-o-wisp').
+pokemon('indeedee', 84).
+ability('indeedee', 'psychic surge').
+item('indeedee', 'choice scarf').
+item('indeedee', 'choice specs').
+item('indeedee', 'life orb').
+role('indeedee', 'fast attacker').
+ability('indeedee','fast attacker', 'psychic surge').
+item('indeedee','fast attacker', 'choice scarf').
+item('indeedee','fast attacker', 'choice specs').
+item('indeedee','fast attacker', 'life orb').
+tera('indeedee','fast attacker', 'psychic').
+move('indeedee','fast attacker', 'calm mind').
+move('indeedee','fast attacker', 'dazzling gleam').
+move('indeedee','fast attacker', 'expanding force').
+move('indeedee','fast attacker', 'healing wish').
+move('indeedee','fast attacker', 'hyper voice').
+move('indeedee','fast attacker', 'shadow ball').
+pokemon('indeedee-f', 90).
+ability('indeedee-f', 'psychic surge').
+item('indeedee-f', 'choice scarf').
+item('indeedee-f', 'choice specs').
+item('indeedee-f', 'life orb').
+role('indeedee-f', 'fast attacker').
+ability('indeedee-f','fast attacker', 'psychic surge').
+item('indeedee-f','fast attacker', 'choice scarf').
+item('indeedee-f','fast attacker', 'choice specs').
+item('indeedee-f','fast attacker', 'life orb').
+tera('indeedee-f','fast attacker', 'fairy').
+tera('indeedee-f','fast attacker', 'psychic').
+move('indeedee-f','fast attacker', 'calm mind').
+move('indeedee-f','fast attacker', 'dazzling gleam').
+move('indeedee-f','fast attacker', 'healing wish').
+move('indeedee-f','fast attacker', 'hyper voice').
+move('indeedee-f','fast attacker', 'psychic').
+move('indeedee-f','fast attacker', 'psyshock').
+move('indeedee-f','fast attacker', 'shadow ball').
+pokemon('infernape', 82).
+ability('infernape', 'blaze').
+ability('infernape', 'iron fist').
+item('infernape', 'choice band').
+item('infernape', 'choice scarf').
+item('infernape', 'life orb').
+role('infernape', 'fast support').
+ability('infernape','fast support', 'blaze').
+ability('infernape','fast support', 'iron fist').
+item('infernape','fast support', 'choice band').
+item('infernape','fast support', 'choice scarf').
+item('infernape','fast support', 'life orb').
+tera('infernape','fast support', 'dark').
+tera('infernape','fast support', 'fighting').
+tera('infernape','fast support', 'fire').
+move('infernape','fast support', 'close combat').
+move('infernape','fast support', 'flare blitz').
+move('infernape','fast support', 'gunk shot').
+move('infernape','fast support', 'knock off').
+move('infernape','fast support', 'mach punch').
+move('infernape','fast support', 'stone edge').
+move('infernape','fast support', 'swords dance').
+move('infernape','fast support', 'u-turn').
+role('infernape', 'fast attacker').
+ability('infernape','fast attacker', 'blaze').
+ability('infernape','fast attacker', 'iron fist').
+item('infernape','fast attacker', 'life orb').
+tera('infernape','fast attacker', 'dark').
+tera('infernape','fast attacker', 'fighting').
+tera('infernape','fast attacker', 'fire').
+move('infernape','fast attacker', 'close combat').
+move('infernape','fast attacker', 'grass knot').
+move('infernape','fast attacker', 'gunk shot').
+move('infernape','fast attacker', 'knock off').
+move('infernape','fast attacker', 'mach punch').
+move('infernape','fast attacker', 'overheat').
+move('infernape','fast attacker', 'stone edge').
+pokemon('inteleon', 81).
+ability('inteleon', 'torrent').
+item('inteleon', 'choice specs').
+role('inteleon', 'wallbreaker').
+ability('inteleon','wallbreaker', 'torrent').
+item('inteleon','wallbreaker', 'choice specs').
+tera('inteleon','wallbreaker', 'water').
+move('inteleon','wallbreaker', 'hydro pump').
+move('inteleon','wallbreaker', 'ice beam').
+move('inteleon','wallbreaker', 'scald').
+move('inteleon','wallbreaker', 'u-turn').
+pokemon('iron boulder', 77).
+ability('iron boulder', 'quark drive').
+item('iron boulder', 'booster energy').
+item('iron boulder', 'life orb').
+role('iron boulder', 'setup sweeper').
+ability('iron boulder','setup sweeper', 'quark drive').
+item('iron boulder','setup sweeper', 'life orb').
+tera('iron boulder','setup sweeper', 'fighting').
+move('iron boulder','setup sweeper', 'close combat').
+move('iron boulder','setup sweeper', 'mighty cleave').
+move('iron boulder','setup sweeper', 'swords dance').
+move('iron boulder','setup sweeper', 'zen headbutt').
+role('iron boulder', 'fast bulky setup').
+ability('iron boulder','fast bulky setup', 'quark drive').
+item('iron boulder','fast bulky setup', 'booster energy').
+tera('iron boulder','fast bulky setup', 'fighting').
+move('iron boulder','fast bulky setup', 'close combat').
+move('iron boulder','fast bulky setup', 'mighty cleave').
+move('iron boulder','fast bulky setup', 'swords dance').
+move('iron boulder','fast bulky setup', 'zen headbutt').
+pokemon('iron bundle', 78).
+ability('iron bundle', 'quark drive').
+item('iron bundle', 'choice specs').
+item('iron bundle', 'heavy-duty boots').
+role('iron bundle', 'fast attacker').
+ability('iron bundle','fast attacker', 'quark drive').
+item('iron bundle','fast attacker', 'choice specs').
+item('iron bundle','fast attacker', 'heavy-duty boots').
+tera('iron bundle','fast attacker', 'ice').
+tera('iron bundle','fast attacker', 'water').
+move('iron bundle','fast attacker', 'encore').
+move('iron bundle','fast attacker', 'flip turn').
+move('iron bundle','fast attacker', 'freeze-dry').
+move('iron bundle','fast attacker', 'hydro pump').
+move('iron bundle','fast attacker', 'ice beam').
+pokemon('iron crown', 78).
+ability('iron crown', 'quark drive').
+item('iron crown', 'choice specs').
+item('iron crown', 'leftovers').
+role('iron crown', 'wallbreaker').
+ability('iron crown','wallbreaker', 'quark drive').
+item('iron crown','wallbreaker', 'choice specs').
+tera('iron crown','wallbreaker', 'fighting').
+tera('iron crown','wallbreaker', 'steel').
+move('iron crown','wallbreaker', 'focus blast').
+move('iron crown','wallbreaker', 'psyshock').
+move('iron crown','wallbreaker', 'tachyon cutter').
+move('iron crown','wallbreaker', 'volt switch').
+role('iron crown', 'bulky setup').
+ability('iron crown','bulky setup', 'quark drive').
+item('iron crown','bulky setup', 'leftovers').
+tera('iron crown','bulky setup', 'fighting').
+tera('iron crown','bulky setup', 'steel').
+move('iron crown','bulky setup', 'calm mind').
+move('iron crown','bulky setup', 'focus blast').
+move('iron crown','bulky setup', 'psyshock').
+move('iron crown','bulky setup', 'tachyon cutter').
+pokemon('iron hands', 79).
+ability('iron hands', 'quark drive').
+item('iron hands', 'assault vest').
+item('iron hands', 'leftovers').
+role('iron hands', 'av pivot').
+ability('iron hands','av pivot', 'quark drive').
+item('iron hands','av pivot', 'assault vest').
+tera('iron hands','av pivot', 'electric').
+tera('iron hands','av pivot', 'fighting').
+move('iron hands','av pivot', 'close combat').
+move('iron hands','av pivot', 'drain punch').
+move('iron hands','av pivot', 'fake out').
+move('iron hands','av pivot', 'heavy slam').
+move('iron hands','av pivot', 'ice punch').
+move('iron hands','av pivot', 'thunder punch').
+move('iron hands','av pivot', 'volt switch').
+move('iron hands','av pivot', 'wild charge').
+role('iron hands', 'bulky attacker').
+ability('iron hands','bulky attacker', 'quark drive').
+item('iron hands','bulky attacker', 'leftovers').
+tera('iron hands','bulky attacker', 'fighting').
+tera('iron hands','bulky attacker', 'flying').
+tera('iron hands','bulky attacker', 'steel').
+move('iron hands','bulky attacker', 'drain punch').
+move('iron hands','bulky attacker', 'ice punch').
+move('iron hands','bulky attacker', 'swords dance').
+move('iron hands','bulky attacker', 'thunder punch').
+move('iron hands','bulky attacker', 'wild charge').
+pokemon('iron jugulis', 77).
+ability('iron jugulis', 'quark drive').
+item('iron jugulis', 'choice specs').
+item('iron jugulis', 'power herb').
+role('iron jugulis', 'wallbreaker').
+ability('iron jugulis','wallbreaker', 'quark drive').
+item('iron jugulis','wallbreaker', 'choice specs').
+tera('iron jugulis','wallbreaker', 'dark').
+tera('iron jugulis','wallbreaker', 'flying').
+tera('iron jugulis','wallbreaker', 'ground').
+move('iron jugulis','wallbreaker', 'dark pulse').
+move('iron jugulis','wallbreaker', 'earth power').
+move('iron jugulis','wallbreaker', 'fire blast').
+move('iron jugulis','wallbreaker', 'hurricane').
+move('iron jugulis','wallbreaker', 'hydro pump').
+move('iron jugulis','wallbreaker', 'u-turn').
+role('iron jugulis', 'setup sweeper').
+ability('iron jugulis','setup sweeper', 'quark drive').
+item('iron jugulis','setup sweeper', 'power herb').
+tera('iron jugulis','setup sweeper', 'dark').
+tera('iron jugulis','setup sweeper', 'ground').
+move('iron jugulis','setup sweeper', 'dark pulse').
+move('iron jugulis','setup sweeper', 'earth power').
+move('iron jugulis','setup sweeper', 'hurricane').
+move('iron jugulis','setup sweeper', 'meteor beam').
+pokemon('iron leaves', 80).
+ability('iron leaves', 'quark drive').
+item('iron leaves', 'choice band').
+item('iron leaves', 'life orb').
+role('iron leaves', 'wallbreaker').
+ability('iron leaves','wallbreaker', 'quark drive').
+item('iron leaves','wallbreaker', 'choice band').
+item('iron leaves','wallbreaker', 'life orb').
+tera('iron leaves','wallbreaker', 'fighting').
+move('iron leaves','wallbreaker', 'close combat').
+move('iron leaves','wallbreaker', 'leaf blade').
+move('iron leaves','wallbreaker', 'megahorn').
+move('iron leaves','wallbreaker', 'psyblade').
+move('iron leaves','wallbreaker', 'swords dance').
+pokemon('iron moth', 78).
+ability('iron moth', 'quark drive').
+item('iron moth', 'choice specs').
+item('iron moth', 'heavy-duty boots').
+role('iron moth', 'fast attacker').
+ability('iron moth','fast attacker', 'quark drive').
+item('iron moth','fast attacker', 'choice specs').
+item('iron moth','fast attacker', 'heavy-duty boots').
+tera('iron moth','fast attacker', 'fire').
+tera('iron moth','fast attacker', 'grass').
+move('iron moth','fast attacker', 'energy ball').
+move('iron moth','fast attacker', 'fiery dance').
+move('iron moth','fast attacker', 'fire blast').
+move('iron moth','fast attacker', 'morning sun').
+move('iron moth','fast attacker', 'sludge wave').
+move('iron moth','fast attacker', 'toxic spikes').
+move('iron moth','fast attacker', 'u-turn').
+pokemon('iron thorns', 82).
+ability('iron thorns', 'quark drive').
+item('iron thorns', 'booster energy').
+role('iron thorns', 'fast bulky setup').
+ability('iron thorns','fast bulky setup', 'quark drive').
+item('iron thorns','fast bulky setup', 'booster energy').
+tera('iron thorns','fast bulky setup', 'flying').
+tera('iron thorns','fast bulky setup', 'grass').
+tera('iron thorns','fast bulky setup', 'ground').
+tera('iron thorns','fast bulky setup', 'rock').
+move('iron thorns','fast bulky setup', 'dragon dance').
+move('iron thorns','fast bulky setup', 'earthquake').
+move('iron thorns','fast bulky setup', 'ice punch').
+move('iron thorns','fast bulky setup', 'stone edge').
+move('iron thorns','fast bulky setup', 'wild charge').
+pokemon('iron treads', 77).
+ability('iron treads', 'quark drive').
+item('iron treads', 'assault vest').
+item('iron treads', 'leftovers').
+role('iron treads', 'bulky support').
+ability('iron treads','bulky support', 'quark drive').
+item('iron treads','bulky support', 'assault vest').
+item('iron treads','bulky support', 'leftovers').
+tera('iron treads','bulky support', 'dragon').
+tera('iron treads','bulky support', 'ghost').
+tera('iron treads','bulky support', 'water').
+move('iron treads','bulky support', 'earthquake').
+move('iron treads','bulky support', 'iron head').
+move('iron treads','bulky support', 'knock off').
+move('iron treads','bulky support', 'rapid spin').
+move('iron treads','bulky support', 'stealth rock').
+move('iron treads','bulky support', 'volt switch').
+pokemon('iron valiant', 78).
+ability('iron valiant', 'quark drive').
+item('iron valiant', 'life orb').
+role('iron valiant', 'setup sweeper').
+ability('iron valiant','setup sweeper', 'quark drive').
+item('iron valiant','setup sweeper', 'life orb').
+tera('iron valiant','setup sweeper', 'dark').
+tera('iron valiant','setup sweeper', 'fighting').
+move('iron valiant','setup sweeper', 'close combat').
+move('iron valiant','setup sweeper', 'knock off').
+move('iron valiant','setup sweeper', 'spirit break').
+move('iron valiant','setup sweeper', 'swords dance').
+role('iron valiant', 'fast attacker').
+ability('iron valiant','fast attacker', 'quark drive').
+item('iron valiant','fast attacker', 'life orb').
+tera('iron valiant','fast attacker', 'fairy').
+tera('iron valiant','fast attacker', 'fighting').
+tera('iron valiant','fast attacker', 'steel').
+move('iron valiant','fast attacker', 'calm mind').
+move('iron valiant','fast attacker', 'close combat').
+move('iron valiant','fast attacker', 'moonblast').
+move('iron valiant','fast attacker', 'psychic').
+role('iron valiant', 'wallbreaker').
+ability('iron valiant','wallbreaker', 'quark drive').
+item('iron valiant','wallbreaker', 'life orb').
+tera('iron valiant','wallbreaker', 'dark').
+tera('iron valiant','wallbreaker', 'fairy').
+tera('iron valiant','wallbreaker', 'fighting').
+tera('iron valiant','wallbreaker', 'steel').
+move('iron valiant','wallbreaker', 'close combat').
+move('iron valiant','wallbreaker', 'encore').
+move('iron valiant','wallbreaker', 'knock off').
+move('iron valiant','wallbreaker', 'moonblast').
+pokemon('jirachi', 80).
+ability('jirachi', 'serene grace').
+item('jirachi', 'assault vest').
+item('jirachi', 'choice scarf').
+item('jirachi', 'leftovers').
+role('jirachi', 'bulky support').
+ability('jirachi','bulky support', 'serene grace').
+item('jirachi','bulky support', 'choice scarf').
+item('jirachi','bulky support', 'leftovers').
+tera('jirachi','bulky support', 'water').
+move('jirachi','bulky support', 'healing wish').
+move('jirachi','bulky support', 'iron head').
+move('jirachi','bulky support', 'protect').
+move('jirachi','bulky support', 'psychic').
+move('jirachi','bulky support', 'u-turn').
+move('jirachi','bulky support', 'wish').
+role('jirachi', 'bulky attacker').
+ability('jirachi','bulky attacker', 'serene grace').
+item('jirachi','bulky attacker', 'assault vest').
+item('jirachi','bulky attacker', 'leftovers').
+tera('jirachi','bulky attacker', 'fighting').
+tera('jirachi','bulky attacker', 'water').
+move('jirachi','bulky attacker', 'body slam').
+move('jirachi','bulky attacker', 'drain punch').
+move('jirachi','bulky attacker', 'iron head').
+move('jirachi','bulky attacker', 'stealth rock').
+move('jirachi','bulky attacker', 'u-turn').
+role('jirachi', 'fast support').
+ability('jirachi','fast support', 'serene grace').
+item('jirachi','fast support', 'leftovers').
+tera('jirachi','fast support', 'water').
+move('jirachi','fast support', 'body slam').
+move('jirachi','fast support', 'iron head').
+move('jirachi','fast support', 'protect').
+move('jirachi','fast support', 'wish').
+pokemon('jolteon', 84).
+ability('jolteon', 'volt absorb').
+item('jolteon', 'choice specs').
+item('jolteon', 'heavy-duty boots').
+item('jolteon', 'leftovers').
+item('jolteon', 'life orb').
+role('jolteon', 'fast attacker').
+ability('jolteon','fast attacker', 'volt absorb').
+item('jolteon','fast attacker', 'choice specs').
+item('jolteon','fast attacker', 'life orb').
+tera('jolteon','fast attacker', 'electric').
+tera('jolteon','fast attacker', 'fairy').
+move('jolteon','fast attacker', 'alluring voice').
+move('jolteon','fast attacker', 'calm mind').
+move('jolteon','fast attacker', 'shadow ball').
+move('jolteon','fast attacker', 'thunderbolt').
+move('jolteon','fast attacker', 'volt switch').
+role('jolteon', 'fast support').
+ability('jolteon','fast support', 'volt absorb').
+item('jolteon','fast support', 'heavy-duty boots').
+tera('jolteon','fast support', 'electric').
+tera('jolteon','fast support', 'fairy').
+tera('jolteon','fast support', 'flying').
+move('jolteon','fast support', 'alluring voice').
+move('jolteon','fast support', 'calm mind').
+move('jolteon','fast support', 'thunderbolt').
+move('jolteon','fast support', 'volt switch').
+role('jolteon', 'tera blast user').
+ability('jolteon','tera blast user', 'volt absorb').
+item('jolteon','tera blast user', 'leftovers').
+tera('jolteon','tera blast user', 'ice').
+move('jolteon','tera blast user', 'calm mind').
+move('jolteon','tera blast user', 'substitute').
+move('jolteon','tera blast user', 'tera blast').
+move('jolteon','tera blast user', 'thunderbolt').
+pokemon('jumpluff', 87).
+ability('jumpluff', 'infiltrator').
+role('jumpluff', 'bulky support').
+ability('jumpluff','bulky support', 'infiltrator').
+tera('jumpluff','bulky support', 'steel').
+move('jumpluff','bulky support', 'acrobatics').
+move('jumpluff','bulky support', 'leech seed').
+move('jumpluff','bulky support', 'strength sap').
+move('jumpluff','bulky support', 'substitute').
+role('jumpluff', 'bulky attacker').
+ability('jumpluff','bulky attacker', 'infiltrator').
+tera('jumpluff','bulky attacker', 'steel').
+move('jumpluff','bulky attacker', 'acrobatics').
+move('jumpluff','bulky attacker', 'encore').
+move('jumpluff','bulky attacker', 'sleep powder').
+move('jumpluff','bulky attacker', 'strength sap').
+move('jumpluff','bulky attacker', 'u-turn').
+pokemon('keldeo-resolute', 79).
+ability('keldeo-resolute', 'justified').
+item('keldeo-resolute', 'choice scarf').
+item('keldeo-resolute', 'choice specs').
+item('keldeo-resolute', 'leftovers').
+item('keldeo-resolute', 'life orb').
+role('keldeo-resolute', 'bulky setup').
+ability('keldeo-resolute','bulky setup', 'justified').
+item('keldeo-resolute','bulky setup', 'leftovers').
+tera('keldeo-resolute','bulky setup', 'steel').
+move('keldeo-resolute','bulky setup', 'calm mind').
+move('keldeo-resolute','bulky setup', 'hydro pump').
+move('keldeo-resolute','bulky setup', 'secret sword').
+move('keldeo-resolute','bulky setup', 'substitute').
+move('keldeo-resolute','bulky setup', 'surf').
+role('keldeo-resolute', 'fast attacker').
+ability('keldeo-resolute','fast attacker', 'justified').
+item('keldeo-resolute','fast attacker', 'choice scarf').
+item('keldeo-resolute','fast attacker', 'choice specs').
+item('keldeo-resolute','fast attacker', 'life orb').
+tera('keldeo-resolute','fast attacker', 'fighting').
+tera('keldeo-resolute','fast attacker', 'water').
+move('keldeo-resolute','fast attacker', 'air slash').
+move('keldeo-resolute','fast attacker', 'calm mind').
+move('keldeo-resolute','fast attacker', 'flip turn').
+move('keldeo-resolute','fast attacker', 'hydro pump').
+move('keldeo-resolute','fast attacker', 'secret sword').
+move('keldeo-resolute','fast attacker', 'vacuum wave').
+pokemon('kilowattrel', 83).
+ability('kilowattrel', 'volt absorb').
+item('kilowattrel', 'heavy-duty boots').
+role('kilowattrel', 'bulky attacker').
+ability('kilowattrel','bulky attacker', 'volt absorb').
+item('kilowattrel','bulky attacker', 'heavy-duty boots').
+tera('kilowattrel','bulky attacker', 'steel').
+tera('kilowattrel','bulky attacker', 'water').
+move('kilowattrel','bulky attacker', 'discharge').
+move('kilowattrel','bulky attacker', 'hurricane').
+move('kilowattrel','bulky attacker', 'roost').
+move('kilowattrel','bulky attacker', 'thunderbolt').
+move('kilowattrel','bulky attacker', 'u-turn').
+pokemon('kingambit', 74).
+ability('kingambit', 'supreme overlord').
+item('kingambit', 'leftovers').
+role('kingambit', 'bulky attacker').
+ability('kingambit','bulky attacker', 'supreme overlord').
+item('kingambit','bulky attacker', 'leftovers').
+tera('kingambit','bulky attacker', 'dark').
+tera('kingambit','bulky attacker', 'flying').
+tera('kingambit','bulky attacker', 'ghost').
+move('kingambit','bulky attacker', 'iron head').
+move('kingambit','bulky attacker', 'kowtow cleave').
+move('kingambit','bulky attacker', 'sucker punch').
+move('kingambit','bulky attacker', 'swords dance').
+pokemon('kingdra', 84).
+ability('kingdra', 'sniper').
+ability('kingdra', 'swift swim').
+item('kingdra', 'life orb').
+item('kingdra', 'lum berry').
+role('kingdra', 'setup sweeper').
+ability('kingdra','setup sweeper', 'sniper').
+ability('kingdra','setup sweeper', 'swift swim').
+item('kingdra','setup sweeper', 'lum berry').
+tera('kingdra','setup sweeper', 'water').
+move('kingdra','setup sweeper', 'dragon dance').
+move('kingdra','setup sweeper', 'outrage').
+move('kingdra','setup sweeper', 'waterfall').
+move('kingdra','setup sweeper', 'wave crash').
+role('kingdra', 'fast bulky setup').
+ability('kingdra','fast bulky setup', 'sniper').
+ability('kingdra','fast bulky setup', 'swift swim').
+item('kingdra','fast bulky setup', 'lum berry').
+tera('kingdra','fast bulky setup', 'steel').
+move('kingdra','fast bulky setup', 'dragon dance').
+move('kingdra','fast bulky setup', 'iron head').
+move('kingdra','fast bulky setup', 'outrage').
+move('kingdra','fast bulky setup', 'wave crash').
+role('kingdra', 'fast attacker').
+ability('kingdra','fast attacker', 'swift swim').
+item('kingdra','fast attacker', 'life orb').
+tera('kingdra','fast attacker', 'water').
+move('kingdra','fast attacker', 'draco meteor').
+move('kingdra','fast attacker', 'hurricane').
+move('kingdra','fast attacker', 'rain dance').
+move('kingdra','fast attacker', 'wave crash').
+pokemon('klawf', 90).
+ability('klawf', 'anger shell').
+ability('klawf', 'regenerator').
+item('klawf', 'choice band').
+item('klawf', 'choice scarf').
+item('klawf', 'expert belt').
+item('klawf', 'life orb').
+item('klawf', 'lum berry').
+item('klawf', 'scope lens').
+item('klawf', 'sitrus berry').
+role('klawf', 'fast attacker').
+ability('klawf','fast attacker', 'regenerator').
+item('klawf','fast attacker', 'choice band').
+item('klawf','fast attacker', 'choice scarf').
+item('klawf','fast attacker', 'life orb').
+tera('klawf','fast attacker', 'dark').
+tera('klawf','fast attacker', 'ground').
+tera('klawf','fast attacker', 'rock').
+tera('klawf','fast attacker', 'water').
+move('klawf','fast attacker', 'crabhammer').
+move('klawf','fast attacker', 'high horsepower').
+move('klawf','fast attacker', 'knock off').
+move('klawf','fast attacker', 'stealth rock').
+move('klawf','fast attacker', 'stone edge').
+role('klawf', 'setup sweeper').
+ability('klawf','setup sweeper', 'anger shell').
+item('klawf','setup sweeper', 'expert belt').
+item('klawf','setup sweeper', 'lum berry').
+item('klawf','setup sweeper', 'scope lens').
+item('klawf','setup sweeper', 'sitrus berry').
+tera('klawf','setup sweeper', 'dark').
+tera('klawf','setup sweeper', 'ground').
+tera('klawf','setup sweeper', 'rock').
+tera('klawf','setup sweeper', 'water').
+move('klawf','setup sweeper', 'crabhammer').
+move('klawf','setup sweeper', 'high horsepower').
+move('klawf','setup sweeper', 'knock off').
+move('klawf','setup sweeper', 'stone edge').
+move('klawf','setup sweeper', 'swords dance').
+pokemon('kleavor', 78).
+ability('kleavor', 'sharpness').
+item('kleavor', 'choice band').
+item('kleavor', 'choice scarf').
+item('kleavor', 'heavy-duty boots').
+role('kleavor', 'bulky attacker').
+ability('kleavor','bulky attacker', 'sharpness').
+item('kleavor','bulky attacker', 'choice band').
+item('kleavor','bulky attacker', 'choice scarf').
+item('kleavor','bulky attacker', 'heavy-duty boots').
+tera('kleavor','bulky attacker', 'bug').
+tera('kleavor','bulky attacker', 'fighting').
+tera('kleavor','bulky attacker', 'rock').
+move('kleavor','bulky attacker', 'close combat').
+move('kleavor','bulky attacker', 'defog').
+move('kleavor','bulky attacker', 'stone axe').
+move('kleavor','bulky attacker', 'swords dance').
+move('kleavor','bulky attacker', 'u-turn').
+move('kleavor','bulky attacker', 'x-scissor').
+pokemon('klefki', 84).
+ability('klefki', 'prankster').
+item('klefki', 'leftovers').
+role('klefki', 'bulky attacker').
+ability('klefki','bulky attacker', 'prankster').
+item('klefki','bulky attacker', 'leftovers').
+tera('klefki','bulky attacker', 'flying').
+tera('klefki','bulky attacker', 'water').
+move('klefki','bulky attacker', 'dazzling gleam').
+move('klefki','bulky attacker', 'foul play').
+move('klefki','bulky attacker', 'spikes').
+move('klefki','bulky attacker', 'thunder wave').
+role('klefki', 'bulky support').
+ability('klefki','bulky support', 'prankster').
+item('klefki','bulky support', 'leftovers').
+tera('klefki','bulky support', 'water').
+move('klefki','bulky support', 'magnet rise').
+move('klefki','bulky support', 'play rough').
+move('klefki','bulky support', 'spikes').
+move('klefki','bulky support', 'thunder wave').
+pokemon('komala', 87).
+ability('komala', 'comatose').
+item('komala', 'assault vest').
+item('komala', 'choice band').
+item('komala', 'choice scarf').
+role('komala', 'bulky support').
+ability('komala','bulky support', 'comatose').
+item('komala','bulky support', 'assault vest').
+item('komala','bulky support', 'choice band').
+item('komala','bulky support', 'choice scarf').
+tera('komala','bulky support', 'ghost').
+move('komala','bulky support', 'body slam').
+move('komala','bulky support', 'earthquake').
+move('komala','bulky support', 'knock off').
+move('komala','bulky support', 'rapid spin').
+move('komala','bulky support', 'u-turn').
+pokemon('kommo-o', 77).
+ability('kommo-o', 'soundproof').
+item('kommo-o', 'loaded dice').
+item('kommo-o', 'throat spray').
+role('kommo-o', 'fast bulky setup').
+ability('kommo-o','fast bulky setup', 'soundproof').
+item('kommo-o','fast bulky setup', 'throat spray').
+tera('kommo-o','fast bulky setup', 'normal').
+tera('kommo-o','fast bulky setup', 'steel').
+move('kommo-o','fast bulky setup', 'boomburst').
+move('kommo-o','fast bulky setup', 'clanging scales').
+move('kommo-o','fast bulky setup', 'clangorous soul').
+move('kommo-o','fast bulky setup', 'drain punch').
+move('kommo-o','fast bulky setup', 'iron head').
+role('kommo-o', 'setup sweeper').
+ability('kommo-o','setup sweeper', 'soundproof').
+item('kommo-o','setup sweeper', 'loaded dice').
+tera('kommo-o','setup sweeper', 'steel').
+move('kommo-o','setup sweeper', 'close combat').
+move('kommo-o','setup sweeper', 'iron head').
+move('kommo-o','setup sweeper', 'scale shot').
+move('kommo-o','setup sweeper', 'swords dance').
+pokemon('koraidon', 64).
+ability('koraidon', 'orichalcum pulse').
+item('koraidon', 'choice band').
+item('koraidon', 'loaded dice').
+role('koraidon', 'fast attacker').
+ability('koraidon','fast attacker', 'orichalcum pulse').
+item('koraidon','fast attacker', 'choice band').
+tera('koraidon','fast attacker', 'fire').
+move('koraidon','fast attacker', 'close combat').
+move('koraidon','fast attacker', 'flare blitz').
+move('koraidon','fast attacker', 'outrage').
+move('koraidon','fast attacker', 'u-turn').
+role('koraidon', 'setup sweeper').
+ability('koraidon','setup sweeper', 'orichalcum pulse').
+item('koraidon','setup sweeper', 'loaded dice').
+tera('koraidon','setup sweeper', 'fire').
+move('koraidon','setup sweeper', 'collision course').
+move('koraidon','setup sweeper', 'flare blitz').
+move('koraidon','setup sweeper', 'scale shot').
+move('koraidon','setup sweeper', 'swords dance').
+pokemon('kricketune', 99).
+ability('kricketune', 'technician').
+item('kricketune', 'focus sash').
+item('kricketune', 'heavy-duty boots').
+role('kricketune', 'fast support').
+ability('kricketune','fast support', 'technician').
+item('kricketune','fast support', 'focus sash').
+item('kricketune','fast support', 'heavy-duty boots').
+tera('kricketune','fast support', 'ghost').
+move('kricketune','fast support', 'knock off').
+move('kricketune','fast support', 'pounce').
+move('kricketune','fast support', 'sticky web').
+move('kricketune','fast support', 'taunt').
+pokemon('krookodile', 79).
+ability('krookodile', 'intimidate').
+item('krookodile', 'choice band').
+item('krookodile', 'choice scarf').
+item('krookodile', 'leftovers').
+item('krookodile', 'life orb').
+role('krookodile', 'bulky setup').
+ability('krookodile','bulky setup', 'intimidate').
+item('krookodile','bulky setup', 'leftovers').
+tera('krookodile','bulky setup', 'poison').
+move('krookodile','bulky setup', 'bulk up').
+move('krookodile','bulky setup', 'earthquake').
+move('krookodile','bulky setup', 'gunk shot').
+move('krookodile','bulky setup', 'knock off').
+role('krookodile', 'fast attacker').
+ability('krookodile','fast attacker', 'intimidate').
+item('krookodile','fast attacker', 'choice band').
+item('krookodile','fast attacker', 'choice scarf').
+item('krookodile','fast attacker', 'life orb').
+tera('krookodile','fast attacker', 'ground').
+tera('krookodile','fast attacker', 'poison').
+move('krookodile','fast attacker', 'earthquake').
+move('krookodile','fast attacker', 'gunk shot').
+move('krookodile','fast attacker', 'knock off').
+move('krookodile','fast attacker', 'stealth rock').
+move('krookodile','fast attacker', 'stone edge').
+pokemon('kyogre', 71).
+ability('kyogre', 'drizzle').
+item('kyogre', 'choice scarf').
+item('kyogre', 'leftovers').
+role('kyogre', 'bulky setup').
+ability('kyogre','bulky setup', 'drizzle').
+item('kyogre','bulky setup', 'leftovers').
+tera('kyogre','bulky setup', 'dragon').
+tera('kyogre','bulky setup', 'electric').
+tera('kyogre','bulky setup', 'steel').
+move('kyogre','bulky setup', 'calm mind').
+move('kyogre','bulky setup', 'ice beam').
+move('kyogre','bulky setup', 'origin pulse').
+move('kyogre','bulky setup', 'thunder').
+role('kyogre', 'fast attacker').
+ability('kyogre','fast attacker', 'drizzle').
+item('kyogre','fast attacker', 'choice scarf').
+tera('kyogre','fast attacker', 'water').
+move('kyogre','fast attacker', 'ice beam').
+move('kyogre','fast attacker', 'origin pulse').
+move('kyogre','fast attacker', 'thunder').
+move('kyogre','fast attacker', 'water spout').
+pokemon('kyurem', 77).
+ability('kyurem', 'pressure').
+item('kyurem', 'choice specs').
+item('kyurem', 'heavy-duty boots').
+item('kyurem', 'loaded dice').
+role('kyurem', 'wallbreaker').
+ability('kyurem','wallbreaker', 'pressure').
+item('kyurem','wallbreaker', 'choice specs').
+item('kyurem','wallbreaker', 'heavy-duty boots').
+tera('kyurem','wallbreaker', 'ground').
+move('kyurem','wallbreaker', 'draco meteor').
+move('kyurem','wallbreaker', 'earth power').
+move('kyurem','wallbreaker', 'freeze-dry').
+move('kyurem','wallbreaker', 'ice beam').
+move('kyurem','wallbreaker', 'outrage').
+role('kyurem', 'tera blast user').
+ability('kyurem','tera blast user', 'pressure').
+item('kyurem','tera blast user', 'loaded dice').
+tera('kyurem','tera blast user', 'ground').
+move('kyurem','tera blast user', 'dragon dance').
+move('kyurem','tera blast user', 'icicle spear').
+move('kyurem','tera blast user', 'scale shot').
+move('kyurem','tera blast user', 'tera blast').
+pokemon('kyurem-black', 71).
+ability('kyurem-black', 'teravolt').
+item('kyurem-black', 'loaded dice').
+role('kyurem-black', 'setup sweeper').
+ability('kyurem-black','setup sweeper', 'teravolt').
+item('kyurem-black','setup sweeper', 'loaded dice').
+tera('kyurem-black','setup sweeper', 'electric').
+move('kyurem-black','setup sweeper', 'dragon dance').
+move('kyurem-black','setup sweeper', 'fusion bolt').
+move('kyurem-black','setup sweeper', 'icicle spear').
+move('kyurem-black','setup sweeper', 'scale shot').
+role('kyurem-black', 'tera blast user').
+ability('kyurem-black','tera blast user', 'teravolt').
+item('kyurem-black','tera blast user', 'loaded dice').
+tera('kyurem-black','tera blast user', 'ground').
+move('kyurem-black','tera blast user', 'dragon dance').
+move('kyurem-black','tera blast user', 'icicle spear').
+move('kyurem-black','tera blast user', 'scale shot').
+move('kyurem-black','tera blast user', 'tera blast').
+pokemon('kyurem-white', 73).
+ability('kyurem-white', 'turboblaze').
+item('kyurem-white', 'choice scarf').
+item('kyurem-white', 'choice specs').
+role('kyurem-white', 'bulky attacker').
+ability('kyurem-white','bulky attacker', 'turboblaze').
+item('kyurem-white','bulky attacker', 'choice scarf').
+item('kyurem-white','bulky attacker', 'choice specs').
+tera('kyurem-white','bulky attacker', 'dragon').
+tera('kyurem-white','bulky attacker', 'fire').
+tera('kyurem-white','bulky attacker', 'ice').
+move('kyurem-white','bulky attacker', 'draco meteor').
+move('kyurem-white','bulky attacker', 'freeze-dry').
+move('kyurem-white','bulky attacker', 'fusion flare').
+move('kyurem-white','bulky attacker', 'ice beam').
+role('kyurem-white', 'fast attacker').
+ability('kyurem-white','fast attacker', 'turboblaze').
+item('kyurem-white','fast attacker', 'choice scarf').
+item('kyurem-white','fast attacker', 'choice specs').
+tera('kyurem-white','fast attacker', 'dragon').
+tera('kyurem-white','fast attacker', 'ice').
+move('kyurem-white','fast attacker', 'draco meteor').
+move('kyurem-white','fast attacker', 'earth power').
+move('kyurem-white','fast attacker', 'freeze-dry').
+move('kyurem-white','fast attacker', 'ice beam').
+pokemon('landorus', 75).
+ability('landorus', 'sheer force').
+item('landorus', 'life orb').
+role('landorus', 'fast attacker').
+ability('landorus','fast attacker', 'sheer force').
+item('landorus','fast attacker', 'life orb').
+tera('landorus','fast attacker', 'ground').
+tera('landorus','fast attacker', 'poison').
+move('landorus','fast attacker', 'earth power').
+move('landorus','fast attacker', 'focus blast').
+move('landorus','fast attacker', 'nasty plot').
+move('landorus','fast attacker', 'psychic').
+move('landorus','fast attacker', 'rock slide').
+move('landorus','fast attacker', 'sludge wave').
+move('landorus','fast attacker', 'stealth rock').
+pokemon('landorus-therian', 76).
+ability('landorus-therian', 'intimidate').
+item('landorus-therian', 'leftovers').
+role('landorus-therian', 'bulky support').
+ability('landorus-therian','bulky support', 'intimidate').
+item('landorus-therian','bulky support', 'leftovers').
+tera('landorus-therian','bulky support', 'ground').
+tera('landorus-therian','bulky support', 'water').
+move('landorus-therian','bulky support', 'earthquake').
+move('landorus-therian','bulky support', 'stealth rock').
+move('landorus-therian','bulky support', 'stone edge').
+move('landorus-therian','bulky support', 'taunt').
+move('landorus-therian','bulky support', 'u-turn').
+pokemon('lanturn', 89).
+ability('lanturn', 'volt absorb').
+item('lanturn', 'heavy-duty boots').
+item('lanturn', 'leftovers').
+role('lanturn', 'bulky attacker').
+ability('lanturn','bulky attacker', 'volt absorb').
+item('lanturn','bulky attacker', 'leftovers').
+tera('lanturn','bulky attacker', 'flying').
+move('lanturn','bulky attacker', 'ice beam').
+move('lanturn','bulky attacker', 'scald').
+move('lanturn','bulky attacker', 'thunder wave').
+move('lanturn','bulky attacker', 'thunderbolt').
+role('lanturn', 'fast support').
+ability('lanturn','fast support', 'volt absorb').
+item('lanturn','fast support', 'heavy-duty boots').
+tera('lanturn','fast support', 'flying').
+move('lanturn','fast support', 'scald').
+move('lanturn','fast support', 'thunder wave').
+move('lanturn','fast support', 'thunderbolt').
+move('lanturn','fast support', 'volt switch').
+pokemon('lapras', 87).
+ability('lapras', 'water absorb').
+item('lapras', 'choice specs').
+item('lapras', 'heavy-duty boots').
+item('lapras', 'loaded dice').
+role('lapras', 'setup sweeper').
+ability('lapras','setup sweeper', 'water absorb').
+item('lapras','setup sweeper', 'loaded dice').
+tera('lapras','setup sweeper', 'ground').
+move('lapras','setup sweeper', 'dragon dance').
+move('lapras','setup sweeper', 'earthquake').
+move('lapras','setup sweeper', 'icicle spear').
+move('lapras','setup sweeper', 'waterfall').
+role('lapras', 'wallbreaker').
+ability('lapras','wallbreaker', 'water absorb').
+item('lapras','wallbreaker', 'choice specs').
+tera('lapras','wallbreaker', 'ice').
+tera('lapras','wallbreaker', 'water').
+move('lapras','wallbreaker', 'freeze-dry').
+move('lapras','wallbreaker', 'hydro pump').
+move('lapras','wallbreaker', 'ice beam').
+move('lapras','wallbreaker', 'sparkling aria').
+role('lapras', 'bulky attacker').
+ability('lapras','bulky attacker', 'water absorb').
+item('lapras','bulky attacker', 'heavy-duty boots').
+tera('lapras','bulky attacker', 'dragon').
+tera('lapras','bulky attacker', 'ghost').
+tera('lapras','bulky attacker', 'ground').
+tera('lapras','bulky attacker', 'poison').
+tera('lapras','bulky attacker', 'steel').
+move('lapras','bulky attacker', 'freeze-dry').
+move('lapras','bulky attacker', 'rest').
+move('lapras','bulky attacker', 'sleep talk').
+move('lapras','bulky attacker', 'sparkling aria').
+pokemon('latias', 79).
+ability('latias', 'levitate').
+item('latias', 'soul dew').
+role('latias', 'fast bulky setup').
+ability('latias','fast bulky setup', 'levitate').
+item('latias','fast bulky setup', 'soul dew').
+tera('latias','fast bulky setup', 'steel').
+move('latias','fast bulky setup', 'calm mind').
+move('latias','fast bulky setup', 'draco meteor').
+move('latias','fast bulky setup', 'psyshock').
+move('latias','fast bulky setup', 'recover').
+pokemon('latios', 78).
+ability('latios', 'levitate').
+item('latios', 'choice specs').
+item('latios', 'soul dew').
+role('latios', 'bulky attacker').
+ability('latios','bulky attacker', 'levitate').
+item('latios','bulky attacker', 'soul dew').
+tera('latios','bulky attacker', 'dragon').
+tera('latios','bulky attacker', 'fighting').
+tera('latios','bulky attacker', 'steel').
+move('latios','bulky attacker', 'aura sphere').
+move('latios','bulky attacker', 'draco meteor').
+move('latios','bulky attacker', 'luster purge').
+move('latios','bulky attacker', 'recover').
+role('latios', 'fast attacker').
+ability('latios','fast attacker', 'levitate').
+item('latios','fast attacker', 'choice specs').
+tera('latios','fast attacker', 'dragon').
+tera('latios','fast attacker', 'psychic').
+tera('latios','fast attacker', 'steel').
+move('latios','fast attacker', 'aura sphere').
+move('latios','fast attacker', 'draco meteor').
+move('latios','fast attacker', 'flip turn').
+move('latios','fast attacker', 'luster purge').
+role('latios', 'bulky setup').
+ability('latios','bulky setup', 'levitate').
+item('latios','bulky setup', 'soul dew').
+tera('latios','bulky setup', 'steel').
+move('latios','bulky setup', 'calm mind').
+move('latios','bulky setup', 'draco meteor').
+move('latios','bulky setup', 'psyshock').
+move('latios','bulky setup', 'recover').
+pokemon('leafeon', 88).
+ability('leafeon', 'chlorophyll').
+item('leafeon', 'leftovers').
+item('leafeon', 'life orb').
+role('leafeon', 'setup sweeper').
+ability('leafeon','setup sweeper', 'chlorophyll').
+item('leafeon','setup sweeper', 'leftovers').
+item('leafeon','setup sweeper', 'life orb').
+tera('leafeon','setup sweeper', 'dark').
+tera('leafeon','setup sweeper', 'normal').
+move('leafeon','setup sweeper', 'double-edge').
+move('leafeon','setup sweeper', 'knock off').
+move('leafeon','setup sweeper', 'leaf blade').
+move('leafeon','setup sweeper', 'substitute').
+move('leafeon','setup sweeper', 'swords dance').
+move('leafeon','setup sweeper', 'synthesis').
+pokemon('leavanny', 86).
+ability('leavanny', 'chlorophyll').
+ability('leavanny', 'swarm').
+item('leavanny', 'focus sash').
+item('leavanny', 'heavy-duty boots').
+item('leavanny', 'loaded dice').
+role('leavanny', 'fast support').
+ability('leavanny','fast support', 'chlorophyll').
+ability('leavanny','fast support', 'swarm').
+item('leavanny','fast support', 'focus sash').
+item('leavanny','fast support', 'heavy-duty boots').
+tera('leavanny','fast support', 'ghost').
+tera('leavanny','fast support', 'rock').
+move('leavanny','fast support', 'knock off').
+move('leavanny','fast support', 'leaf blade').
+move('leavanny','fast support', 'lunge').
+move('leavanny','fast support', 'sticky web').
+role('leavanny', 'fast attacker').
+ability('leavanny','fast attacker', 'chlorophyll').
+item('leavanny','fast attacker', 'loaded dice').
+tera('leavanny','fast attacker', 'ghost').
+tera('leavanny','fast attacker', 'rock').
+move('leavanny','fast attacker', 'bullet seed').
+move('leavanny','fast attacker', 'knock off').
+move('leavanny','fast attacker', 'sticky web').
+move('leavanny','fast attacker', 'triple axel').
+pokemon('lilligant', 86).
+ability('lilligant', 'chlorophyll').
+ability('lilligant', 'own tempo').
+item('lilligant', 'life orb').
+role('lilligant', 'setup sweeper').
+ability('lilligant','setup sweeper', 'own tempo').
+item('lilligant','setup sweeper', 'life orb').
+tera('lilligant','setup sweeper', 'fairy').
+tera('lilligant','setup sweeper', 'grass').
+move('lilligant','setup sweeper', 'alluring voice').
+move('lilligant','setup sweeper', 'petal dance').
+move('lilligant','setup sweeper', 'quiver dance').
+move('lilligant','setup sweeper', 'sleep powder').
+role('lilligant', 'tera blast user').
+ability('lilligant','tera blast user', 'chlorophyll').
+item('lilligant','tera blast user', 'life orb').
+tera('lilligant','tera blast user', 'fire').
+tera('lilligant','tera blast user', 'rock').
+move('lilligant','tera blast user', 'giga drain').
+move('lilligant','tera blast user', 'quiver dance').
+move('lilligant','tera blast user', 'sleep powder').
+move('lilligant','tera blast user', 'tera blast').
+pokemon('lilligant-hisui', 79).
+ability('lilligant-hisui', 'hustle').
+item('lilligant-hisui', 'life orb').
+item('lilligant-hisui', 'wide lens').
+role('lilligant-hisui', 'setup sweeper').
+ability('lilligant-hisui','setup sweeper', 'hustle').
+item('lilligant-hisui','setup sweeper', 'life orb').
+item('lilligant-hisui','setup sweeper', 'wide lens').
+tera('lilligant-hisui','setup sweeper', 'fighting').
+tera('lilligant-hisui','setup sweeper', 'steel').
+move('lilligant-hisui','setup sweeper', 'close combat').
+move('lilligant-hisui','setup sweeper', 'ice spinner').
+move('lilligant-hisui','setup sweeper', 'leaf blade').
+move('lilligant-hisui','setup sweeper', 'sleep powder').
+move('lilligant-hisui','setup sweeper', 'victory dance').
+pokemon('lokix', 82).
+ability('lokix', 'tinted lens').
+item('lokix', 'life orb').
+item('lokix', 'silver powder').
+role('lokix', 'fast attacker').
+ability('lokix','fast attacker', 'tinted lens').
+item('lokix','fast attacker', 'silver powder').
+tera('lokix','fast attacker', 'bug').
+move('lokix','fast attacker', 'first impression').
+move('lokix','fast attacker', 'knock off').
+move('lokix','fast attacker', 'sucker punch').
+move('lokix','fast attacker', 'u-turn').
+role('lokix', 'wallbreaker').
+ability('lokix','wallbreaker', 'tinted lens').
+item('lokix','wallbreaker', 'life orb').
+tera('lokix','wallbreaker', 'bug').
+move('lokix','wallbreaker', 'first impression').
+move('lokix','wallbreaker', 'knock off').
+move('lokix','wallbreaker', 'leech life').
+move('lokix','wallbreaker', 'sucker punch').
+role('lokix', 'setup sweeper').
+ability('lokix','setup sweeper', 'tinted lens').
+item('lokix','setup sweeper', 'life orb').
+tera('lokix','setup sweeper', 'dark').
+move('lokix','setup sweeper', 'knock off').
+move('lokix','setup sweeper', 'leech life').
+move('lokix','setup sweeper', 'sucker punch').
+move('lokix','setup sweeper', 'swords dance').
+pokemon('lucario', 84).
+ability('lucario', 'inner focus').
+ability('lucario', 'justified').
+item('lucario', 'choice band').
+item('lucario', 'life orb').
+role('lucario', 'fast attacker').
+ability('lucario','fast attacker', 'justified').
+item('lucario','fast attacker', 'choice band').
+item('lucario','fast attacker', 'life orb').
+tera('lucario','fast attacker', 'normal').
+move('lucario','fast attacker', 'close combat').
+move('lucario','fast attacker', 'extreme speed').
+move('lucario','fast attacker', 'meteor mash').
+move('lucario','fast attacker', 'stone edge').
+move('lucario','fast attacker', 'swords dance').
+role('lucario', 'setup sweeper').
+ability('lucario','setup sweeper', 'inner focus').
+item('lucario','setup sweeper', 'life orb').
+tera('lucario','setup sweeper', 'fighting').
+move('lucario','setup sweeper', 'aura sphere').
+move('lucario','setup sweeper', 'flash cannon').
+move('lucario','setup sweeper', 'focus blast').
+move('lucario','setup sweeper', 'nasty plot').
+move('lucario','setup sweeper', 'vacuum wave').
+pokemon('ludicolo', 90).
+ability('ludicolo', 'swift swim').
+item('ludicolo', 'choice specs').
+item('ludicolo', 'life orb').
+role('ludicolo', 'setup sweeper').
+ability('ludicolo','setup sweeper', 'swift swim').
+item('ludicolo','setup sweeper', 'life orb').
+tera('ludicolo','setup sweeper', 'grass').
+tera('ludicolo','setup sweeper', 'steel').
+tera('ludicolo','setup sweeper', 'water').
+move('ludicolo','setup sweeper', 'giga drain').
+move('ludicolo','setup sweeper', 'hydro pump').
+move('ludicolo','setup sweeper', 'ice beam').
+move('ludicolo','setup sweeper', 'rain dance').
+role('ludicolo', 'fast attacker').
+ability('ludicolo','fast attacker', 'swift swim').
+item('ludicolo','fast attacker', 'choice specs').
+tera('ludicolo','fast attacker', 'grass').
+tera('ludicolo','fast attacker', 'water').
+move('ludicolo','fast attacker', 'giga drain').
+move('ludicolo','fast attacker', 'hydro pump').
+move('ludicolo','fast attacker', 'ice beam').
+move('ludicolo','fast attacker', 'leaf storm').
+pokemon('lugia', 73).
+ability('lugia', 'multiscale').
+item('lugia', 'heavy-duty boots').
+role('lugia', 'setup sweeper').
+ability('lugia','setup sweeper', 'multiscale').
+item('lugia','setup sweeper', 'heavy-duty boots').
+tera('lugia','setup sweeper', 'steel').
+move('lugia','setup sweeper', 'aeroblast').
+move('lugia','setup sweeper', 'calm mind').
+move('lugia','setup sweeper', 'psychic noise').
+move('lugia','setup sweeper', 'recover').
+role('lugia', 'bulky setup').
+ability('lugia','bulky setup', 'multiscale').
+item('lugia','bulky setup', 'heavy-duty boots').
+tera('lugia','bulky setup', 'ground').
+tera('lugia','bulky setup', 'steel').
+move('lugia','bulky setup', 'aeroblast').
+move('lugia','bulky setup', 'calm mind').
+move('lugia','bulky setup', 'earth power').
+move('lugia','bulky setup', 'recover').
+pokemon('lumineon', 93).
+ability('lumineon', 'storm drain').
+item('lumineon', 'heavy-duty boots').
+item('lumineon', 'life orb').
+role('lumineon', 'fast support').
+ability('lumineon','fast support', 'storm drain').
+item('lumineon','fast support', 'heavy-duty boots').
+tera('lumineon','fast support', 'dragon').
+tera('lumineon','fast support', 'fire').
+tera('lumineon','fast support', 'ground').
+tera('lumineon','fast support', 'steel').
+move('lumineon','fast support', 'encore').
+move('lumineon','fast support', 'hydro pump').
+move('lumineon','fast support', 'ice beam').
+move('lumineon','fast support', 'u-turn').
+role('lumineon', 'fast attacker').
+ability('lumineon','fast attacker', 'storm drain').
+item('lumineon','fast attacker', 'life orb').
+tera('lumineon','fast attacker', 'fairy').
+tera('lumineon','fast attacker', 'water').
+move('lumineon','fast attacker', 'alluring voice').
+move('lumineon','fast attacker', 'encore').
+move('lumineon','fast attacker', 'hydro pump').
+move('lumineon','fast attacker', 'ice beam').
+pokemon('lunala', 70).
+ability('lunala', 'shadow shield').
+item('lunala', 'leftovers').
+role('lunala', 'fast bulky setup').
+ability('lunala','fast bulky setup', 'shadow shield').
+item('lunala','fast bulky setup', 'leftovers').
+tera('lunala','fast bulky setup', 'dark').
+tera('lunala','fast bulky setup', 'fairy').
+move('lunala','fast bulky setup', 'calm mind').
+move('lunala','fast bulky setup', 'moongeist beam').
+move('lunala','fast bulky setup', 'moonlight').
+move('lunala','fast bulky setup', 'psyshock').
+role('lunala', 'bulky setup').
+ability('lunala','bulky setup', 'shadow shield').
+item('lunala','bulky setup', 'leftovers').
+tera('lunala','bulky setup', 'fairy').
+tera('lunala','bulky setup', 'fighting').
+move('lunala','bulky setup', 'calm mind').
+move('lunala','bulky setup', 'focus blast').
+move('lunala','bulky setup', 'moonblast').
+move('lunala','bulky setup', 'moongeist beam').
+move('lunala','bulky setup', 'moonlight').
+pokemon('lurantis', 87).
+ability('lurantis', 'contrary').
+item('lurantis', 'assault vest').
+item('lurantis', 'leftovers').
+role('lurantis', 'av pivot').
+ability('lurantis','av pivot', 'contrary').
+item('lurantis','av pivot', 'assault vest').
+tera('lurantis','av pivot', 'fighting').
+tera('lurantis','av pivot', 'steel').
+tera('lurantis','av pivot', 'water').
+move('lurantis','av pivot', 'knock off').
+move('lurantis','av pivot', 'leaf storm').
+move('lurantis','av pivot', 'leech life').
+move('lurantis','av pivot', 'superpower').
+role('lurantis', 'bulky attacker').
+ability('lurantis','bulky attacker', 'contrary').
+item('lurantis','bulky attacker', 'leftovers').
+tera('lurantis','bulky attacker', 'fighting').
+move('lurantis','bulky attacker', 'defog').
+move('lurantis','bulky attacker', 'knock off').
+move('lurantis','bulky attacker', 'leaf storm').
+move('lurantis','bulky attacker', 'superpower').
+move('lurantis','bulky attacker', 'synthesis').
+pokemon('luvdisc', 100).
+ability('luvdisc', 'swift swim').
+item('luvdisc', 'heavy-duty boots').
+role('luvdisc', 'fast support').
+ability('luvdisc','fast support', 'swift swim').
+item('luvdisc','fast support', 'heavy-duty boots').
+tera('luvdisc','fast support', 'ghost').
+tera('luvdisc','fast support', 'ground').
+move('luvdisc','fast support', 'endeavor').
+move('luvdisc','fast support', 'flip turn').
+move('luvdisc','fast support', 'substitute').
+move('luvdisc','fast support', 'surf').
+move('luvdisc','fast support', 'whirlpool').
+pokemon('luxray', 88).
+ability('luxray', 'guts').
+ability('luxray', 'intimidate').
+item('luxray', 'assault vest').
+item('luxray', 'flame orb').
+role('luxray', 'setup sweeper').
+ability('luxray','setup sweeper', 'guts').
+item('luxray','setup sweeper', 'flame orb').
+tera('luxray','setup sweeper', 'normal').
+move('luxray','setup sweeper', 'facade').
+move('luxray','setup sweeper', 'play rough').
+move('luxray','setup sweeper', 'supercell slam').
+move('luxray','setup sweeper', 'throat chop').
+move('luxray','setup sweeper', 'trailblaze').
+role('luxray', 'av pivot').
+ability('luxray','av pivot', 'intimidate').
+item('luxray','av pivot', 'assault vest').
+tera('luxray','av pivot', 'electric').
+tera('luxray','av pivot', 'fairy').
+move('luxray','av pivot', 'ice fang').
+move('luxray','av pivot', 'play rough').
+move('luxray','av pivot', 'throat chop').
+move('luxray','av pivot', 'volt switch').
+move('luxray','av pivot', 'wild charge').
+pokemon('lycanroc', 86).
+ability('lycanroc', 'sand rush').
+item('lycanroc', 'choice band').
+item('lycanroc', 'life orb').
+role('lycanroc', 'fast attacker').
+ability('lycanroc','fast attacker', 'sand rush').
+item('lycanroc','fast attacker', 'choice band').
+item('lycanroc','fast attacker', 'life orb').
+tera('lycanroc','fast attacker', 'fighting').
+move('lycanroc','fast attacker', 'accelerock').
+move('lycanroc','fast attacker', 'close combat').
+move('lycanroc','fast attacker', 'crunch').
+move('lycanroc','fast attacker', 'psychic fangs').
+move('lycanroc','fast attacker', 'stealth rock').
+move('lycanroc','fast attacker', 'stone edge').
+move('lycanroc','fast attacker', 'swords dance').
+move('lycanroc','fast attacker', 'taunt').
+pokemon('lycanroc-dusk', 81).
+ability('lycanroc-dusk', 'tough claws').
+item('lycanroc-dusk', 'choice band').
+item('lycanroc-dusk', 'life orb').
+role('lycanroc-dusk', 'setup sweeper').
+ability('lycanroc-dusk','setup sweeper', 'tough claws').
+item('lycanroc-dusk','setup sweeper', 'life orb').
+tera('lycanroc-dusk','setup sweeper', 'fighting').
+move('lycanroc-dusk','setup sweeper', 'accelerock').
+move('lycanroc-dusk','setup sweeper', 'close combat').
+move('lycanroc-dusk','setup sweeper', 'psychic fangs').
+move('lycanroc-dusk','setup sweeper', 'stone edge').
+move('lycanroc-dusk','setup sweeper', 'swords dance').
+role('lycanroc-dusk', 'wallbreaker').
+ability('lycanroc-dusk','wallbreaker', 'tough claws').
+item('lycanroc-dusk','wallbreaker', 'choice band').
+tera('lycanroc-dusk','wallbreaker', 'fighting').
+move('lycanroc-dusk','wallbreaker', 'accelerock').
+move('lycanroc-dusk','wallbreaker', 'close combat').
+move('lycanroc-dusk','wallbreaker', 'psychic fangs').
+move('lycanroc-dusk','wallbreaker', 'stone edge').
+move('lycanroc-dusk','wallbreaker', 'throat chop').
+pokemon('lycanroc-midnight', 89).
+ability('lycanroc-midnight', 'no guard').
+item('lycanroc-midnight', 'choice band').
+item('lycanroc-midnight', 'choice scarf').
+item('lycanroc-midnight', 'life orb').
+role('lycanroc-midnight', 'fast attacker').
+ability('lycanroc-midnight','fast attacker', 'no guard').
+item('lycanroc-midnight','fast attacker', 'choice band').
+item('lycanroc-midnight','fast attacker', 'choice scarf').
+item('lycanroc-midnight','fast attacker', 'life orb').
+tera('lycanroc-midnight','fast attacker', 'fighting').
+move('lycanroc-midnight','fast attacker', 'close combat').
+move('lycanroc-midnight','fast attacker', 'knock off').
+move('lycanroc-midnight','fast attacker', 'play rough').
+move('lycanroc-midnight','fast attacker', 'stealth rock').
+move('lycanroc-midnight','fast attacker', 'stone edge').
+move('lycanroc-midnight','fast attacker', 'sucker punch').
+move('lycanroc-midnight','fast attacker', 'swords dance').
+pokemon('mabosstiff', 86).
+ability('mabosstiff', 'stakeout').
+item('mabosstiff', 'choice band').
+item('mabosstiff', 'choice scarf').
+role('mabosstiff', 'bulky attacker').
+ability('mabosstiff','bulky attacker', 'stakeout').
+item('mabosstiff','bulky attacker', 'choice band').
+item('mabosstiff','bulky attacker', 'choice scarf').
+tera('mabosstiff','bulky attacker', 'dark').
+tera('mabosstiff','bulky attacker', 'fairy').
+move('mabosstiff','bulky attacker', 'crunch').
+move('mabosstiff','bulky attacker', 'play rough').
+move('mabosstiff','bulky attacker', 'psychic fangs').
+move('mabosstiff','bulky attacker', 'wild charge').
+pokemon('magcargo', 95).
+ability('magcargo', 'flame body').
+ability('magcargo', 'weak armor').
+item('magcargo', 'heavy-duty boots').
+role('magcargo', 'setup sweeper').
+ability('magcargo','setup sweeper', 'weak armor').
+item('magcargo','setup sweeper', 'heavy-duty boots').
+tera('magcargo','setup sweeper', 'dragon').
+tera('magcargo','setup sweeper', 'grass').
+move('magcargo','setup sweeper', 'earth power').
+move('magcargo','setup sweeper', 'fire blast').
+move('magcargo','setup sweeper', 'power gem').
+move('magcargo','setup sweeper', 'shell smash').
+role('magcargo', 'bulky support').
+ability('magcargo','bulky support', 'flame body').
+item('magcargo','bulky support', 'heavy-duty boots').
+tera('magcargo','bulky support', 'dragon').
+tera('magcargo','bulky support', 'grass').
+move('magcargo','bulky support', 'lava plume').
+move('magcargo','bulky support', 'power gem').
+move('magcargo','bulky support', 'recover').
+move('magcargo','bulky support', 'stealth rock').
+move('magcargo','bulky support', 'yawn').
+pokemon('magearna', 77).
+ability('magearna', 'soul-heart').
+item('magearna', 'choice scarf').
+item('magearna', 'choice specs').
+item('magearna', 'leftovers').
+item('magearna', 'weakness policy').
+role('magearna', 'bulky attacker').
+ability('magearna','bulky attacker', 'soul-heart').
+item('magearna','bulky attacker', 'choice scarf').
+item('magearna','bulky attacker', 'choice specs').
+item('magearna','bulky attacker', 'leftovers').
+tera('magearna','bulky attacker', 'fairy').
+tera('magearna','bulky attacker', 'fighting').
+tera('magearna','bulky attacker', 'water').
+move('magearna','bulky attacker', 'aura sphere').
+move('magearna','bulky attacker', 'flash cannon').
+move('magearna','bulky attacker', 'fleur cannon').
+move('magearna','bulky attacker', 'pain split').
+move('magearna','bulky attacker', 'spikes').
+move('magearna','bulky attacker', 'thunder wave').
+move('magearna','bulky attacker', 'volt switch').
+role('magearna', 'bulky setup').
+ability('magearna','bulky setup', 'soul-heart').
+item('magearna','bulky setup', 'leftovers').
+tera('magearna','bulky setup', 'fairy').
+tera('magearna','bulky setup', 'flying').
+tera('magearna','bulky setup', 'water').
+move('magearna','bulky setup', 'calm mind').
+move('magearna','bulky setup', 'flash cannon').
+move('magearna','bulky setup', 'fleur cannon').
+move('magearna','bulky setup', 'shift gear').
+role('magearna', 'tera blast user').
+ability('magearna','tera blast user', 'soul-heart').
+item('magearna','tera blast user', 'weakness policy').
+tera('magearna','tera blast user', 'ground').
+move('magearna','tera blast user', 'fleur cannon').
+move('magearna','tera blast user', 'iron head').
+move('magearna','tera blast user', 'shift gear').
+move('magearna','tera blast user', 'tera blast').
+pokemon('magmortar', 88).
+ability('magmortar', 'flame body').
+item('magmortar', 'choice specs').
+item('magmortar', 'heavy-duty boots').
+role('magmortar', 'wallbreaker').
+ability('magmortar','wallbreaker', 'flame body').
+item('magmortar','wallbreaker', 'choice specs').
+item('magmortar','wallbreaker', 'heavy-duty boots').
+tera('magmortar','wallbreaker', 'electric').
+tera('magmortar','wallbreaker', 'fighting').
+tera('magmortar','wallbreaker', 'water').
+move('magmortar','wallbreaker', 'fire blast').
+move('magmortar','wallbreaker', 'focus blast').
+move('magmortar','wallbreaker', 'knock off').
+move('magmortar','wallbreaker', 'scorching sands').
+move('magmortar','wallbreaker', 'taunt').
+move('magmortar','wallbreaker', 'thunderbolt').
+role('magmortar', 'fast attacker').
+ability('magmortar','fast attacker', 'flame body').
+item('magmortar','fast attacker', 'heavy-duty boots').
+tera('magmortar','fast attacker', 'electric').
+tera('magmortar','fast attacker', 'fighting').
+tera('magmortar','fast attacker', 'water').
+move('magmortar','fast attacker', 'earthquake').
+move('magmortar','fast attacker', 'fire blast').
+move('magmortar','fast attacker', 'focus blast').
+move('magmortar','fast attacker', 'knock off').
+move('magmortar','fast attacker', 'thunderbolt').
+move('magmortar','fast attacker', 'will-o-wisp').
+pokemon('magnezone', 84).
+ability('magnezone', 'analytic').
+ability('magnezone', 'magnet pull').
+item('magnezone', 'assault vest').
+item('magnezone', 'choice scarf').
+item('magnezone', 'leftovers').
+role('magnezone', 'bulky setup').
+ability('magnezone','bulky setup', 'analytic').
+ability('magnezone','bulky setup', 'magnet pull').
+item('magnezone','bulky setup', 'leftovers').
+tera('magnezone','bulky setup', 'fighting').
+move('magnezone','bulky setup', 'body press').
+move('magnezone','bulky setup', 'discharge').
+move('magnezone','bulky setup', 'flash cannon').
+move('magnezone','bulky setup', 'iron defense').
+move('magnezone','bulky setup', 'thunderbolt').
+role('magnezone', 'fast attacker').
+ability('magnezone','fast attacker', 'analytic').
+ability('magnezone','fast attacker', 'magnet pull').
+item('magnezone','fast attacker', 'choice scarf').
+tera('magnezone','fast attacker', 'electric').
+tera('magnezone','fast attacker', 'fighting').
+tera('magnezone','fast attacker', 'flying').
+move('magnezone','fast attacker', 'body press').
+move('magnezone','fast attacker', 'flash cannon').
+move('magnezone','fast attacker', 'thunderbolt').
+move('magnezone','fast attacker', 'volt switch').
+role('magnezone', 'av pivot').
+ability('magnezone','av pivot', 'analytic').
+ability('magnezone','av pivot', 'magnet pull').
+item('magnezone','av pivot', 'assault vest').
+tera('magnezone','av pivot', 'flying').
+move('magnezone','av pivot', 'body press').
+move('magnezone','av pivot', 'discharge').
+move('magnezone','av pivot', 'flash cannon').
+move('magnezone','av pivot', 'mirror coat').
+move('magnezone','av pivot', 'thunderbolt').
+move('magnezone','av pivot', 'volt switch').
+pokemon('malamar', 82).
+ability('malamar', 'contrary').
+item('malamar', 'chesto berry').
+item('malamar', 'leftovers').
+role('malamar', 'bulky setup').
+ability('malamar','bulky setup', 'contrary').
+item('malamar','bulky setup', 'leftovers').
+tera('malamar','bulky setup', 'fighting').
+tera('malamar','bulky setup', 'poison').
+tera('malamar','bulky setup', 'steel').
+move('malamar','bulky setup', 'knock off').
+move('malamar','bulky setup', 'rest').
+move('malamar','bulky setup', 'sleep talk').
+move('malamar','bulky setup', 'superpower').
+role('malamar', 'fast bulky setup').
+ability('malamar','fast bulky setup', 'contrary').
+item('malamar','fast bulky setup', 'chesto berry').
+tera('malamar','fast bulky setup', 'fighting').
+tera('malamar','fast bulky setup', 'poison').
+tera('malamar','fast bulky setup', 'steel').
+move('malamar','fast bulky setup', 'knock off').
+move('malamar','fast bulky setup', 'psycho cut').
+move('malamar','fast bulky setup', 'rest').
+move('malamar','fast bulky setup', 'superpower').
+pokemon('mamoswine', 81).
+ability('mamoswine', 'thick fat').
+item('mamoswine', 'choice band').
+item('mamoswine', 'life orb').
+role('mamoswine', 'wallbreaker').
+ability('mamoswine','wallbreaker', 'thick fat').
+item('mamoswine','wallbreaker', 'choice band').
+item('mamoswine','wallbreaker', 'life orb').
+tera('mamoswine','wallbreaker', 'ground').
+tera('mamoswine','wallbreaker', 'ice').
+move('mamoswine','wallbreaker', 'earthquake').
+move('mamoswine','wallbreaker', 'ice shard').
+move('mamoswine','wallbreaker', 'icicle crash').
+move('mamoswine','wallbreaker', 'knock off').
+move('mamoswine','wallbreaker', 'stealth rock').
+pokemon('manaphy', 78).
+ability('manaphy', 'hydration').
+item('manaphy', 'leftovers').
+role('manaphy', 'bulky setup').
+ability('manaphy','bulky setup', 'hydration').
+item('manaphy','bulky setup', 'leftovers').
+tera('manaphy','bulky setup', 'grass').
+tera('manaphy','bulky setup', 'water').
+move('manaphy','bulky setup', 'energy ball').
+move('manaphy','bulky setup', 'hydro pump').
+move('manaphy','bulky setup', 'ice beam').
+move('manaphy','bulky setup', 'surf').
+move('manaphy','bulky setup', 'tail glow').
+pokemon('mandibuzz', 85).
+ability('mandibuzz', 'overcoat').
+item('mandibuzz', 'heavy-duty boots').
+role('mandibuzz', 'bulky support').
+ability('mandibuzz','bulky support', 'overcoat').
+item('mandibuzz','bulky support', 'heavy-duty boots').
+tera('mandibuzz','bulky support', 'steel').
+move('mandibuzz','bulky support', 'defog').
+move('mandibuzz','bulky support', 'foul play').
+move('mandibuzz','bulky support', 'roost').
+move('mandibuzz','bulky support', 'toxic').
+move('mandibuzz','bulky support', 'u-turn').
+role('mandibuzz', 'bulky attacker').
+ability('mandibuzz','bulky attacker', 'overcoat').
+item('mandibuzz','bulky attacker', 'heavy-duty boots').
+tera('mandibuzz','bulky attacker', 'steel').
+move('mandibuzz','bulky attacker', 'brave bird').
+move('mandibuzz','bulky attacker', 'defog').
+move('mandibuzz','bulky attacker', 'foul play').
+move('mandibuzz','bulky attacker', 'knock off').
+move('mandibuzz','bulky attacker', 'roost').
+move('mandibuzz','bulky attacker', 'toxic').
+pokemon('masquerain', 87).
+ability('masquerain', 'intimidate').
+item('masquerain', 'heavy-duty boots').
+role('masquerain', 'fast support').
+ability('masquerain','fast support', 'intimidate').
+item('masquerain','fast support', 'heavy-duty boots').
+tera('masquerain','fast support', 'ground').
+tera('masquerain','fast support', 'steel').
+tera('masquerain','fast support', 'water').
+move('masquerain','fast support', 'bug buzz').
+move('masquerain','fast support', 'hurricane').
+move('masquerain','fast support', 'hydro pump').
+move('masquerain','fast support', 'sticky web').
+move('masquerain','fast support', 'stun spore').
+move('masquerain','fast support', 'u-turn').
+role('masquerain', 'setup sweeper').
+ability('masquerain','setup sweeper', 'intimidate').
+item('masquerain','setup sweeper', 'heavy-duty boots').
+tera('masquerain','setup sweeper', 'water').
+move('masquerain','setup sweeper', 'bug buzz').
+move('masquerain','setup sweeper', 'hurricane').
+move('masquerain','setup sweeper', 'hydro pump').
+move('masquerain','setup sweeper', 'quiver dance').
+pokemon('maushold', 76).
+ability('maushold', 'technician').
+item('maushold', 'wide lens').
+role('maushold', 'setup sweeper').
+ability('maushold','setup sweeper', 'technician').
+item('maushold','setup sweeper', 'wide lens').
+tera('maushold','setup sweeper', 'ghost').
+tera('maushold','setup sweeper', 'normal').
+move('maushold','setup sweeper', 'bite').
+move('maushold','setup sweeper', 'encore').
+move('maushold','setup sweeper', 'population bomb').
+move('maushold','setup sweeper', 'tidy up').
+pokemon('medicham', 86).
+ability('medicham', 'pure power').
+item('medicham', 'choice band').
+item('medicham', 'choice scarf').
+role('medicham', 'fast attacker').
+ability('medicham','fast attacker', 'pure power').
+item('medicham','fast attacker', 'choice band').
+item('medicham','fast attacker', 'choice scarf').
+tera('medicham','fast attacker', 'fighting').
+move('medicham','fast attacker', 'bullet punch').
+move('medicham','fast attacker', 'close combat').
+move('medicham','fast attacker', 'ice punch').
+move('medicham','fast attacker', 'poison jab').
+move('medicham','fast attacker', 'trick').
+move('medicham','fast attacker', 'zen headbutt').
+pokemon('meganium', 90).
+ability('meganium', 'overgrow').
+item('meganium', 'leftovers').
+role('meganium', 'bulky setup').
+ability('meganium','bulky setup', 'overgrow').
+item('meganium','bulky setup', 'leftovers').
+tera('meganium','bulky setup', 'ground').
+tera('meganium','bulky setup', 'steel').
+tera('meganium','bulky setup', 'water').
+move('meganium','bulky setup', 'earthquake').
+move('meganium','bulky setup', 'knock off').
+move('meganium','bulky setup', 'petal blizzard').
+move('meganium','bulky setup', 'swords dance').
+role('meganium', 'bulky attacker').
+ability('meganium','bulky attacker', 'overgrow').
+item('meganium','bulky attacker', 'leftovers').
+tera('meganium','bulky attacker', 'poison').
+tera('meganium','bulky attacker', 'steel').
+tera('meganium','bulky attacker', 'water').
+move('meganium','bulky attacker', 'dragon tail').
+move('meganium','bulky attacker', 'encore').
+move('meganium','bulky attacker', 'energy ball').
+move('meganium','bulky attacker', 'knock off').
+move('meganium','bulky attacker', 'leech seed').
+move('meganium','bulky attacker', 'synthesis').
+pokemon('meloetta', 82).
+ability('meloetta', 'serene grace').
+item('meloetta', 'choice specs').
+item('meloetta', 'leftovers').
+item('meloetta', 'life orb').
+role('meloetta', 'wallbreaker').
+ability('meloetta','wallbreaker', 'serene grace').
+item('meloetta','wallbreaker', 'life orb').
+tera('meloetta','wallbreaker', 'dark').
+tera('meloetta','wallbreaker', 'fighting').
+move('meloetta','wallbreaker', 'close combat').
+move('meloetta','wallbreaker', 'knock off').
+move('meloetta','wallbreaker', 'relic song').
+move('meloetta','wallbreaker', 'triple axel').
+role('meloetta', 'bulky attacker').
+ability('meloetta','bulky attacker', 'serene grace').
+item('meloetta','bulky attacker', 'choice specs').
+item('meloetta','bulky attacker', 'leftovers').
+tera('meloetta','bulky attacker', 'fighting').
+tera('meloetta','bulky attacker', 'normal').
+tera('meloetta','bulky attacker', 'psychic').
+move('meloetta','bulky attacker', 'calm mind').
+move('meloetta','bulky attacker', 'focus blast').
+move('meloetta','bulky attacker', 'hyper voice').
+move('meloetta','bulky attacker', 'psyshock').
+move('meloetta','bulky attacker', 'u-turn').
+pokemon('meowscarada', 78).
+ability('meowscarada', 'protean').
+item('meowscarada', 'choice band').
+item('meowscarada', 'focus sash').
+item('meowscarada', 'heavy-duty boots').
+item('meowscarada', 'life orb').
+role('meowscarada', 'fast support').
+ability('meowscarada','fast support', 'protean').
+item('meowscarada','fast support', 'choice band').
+item('meowscarada','fast support', 'focus sash').
+item('meowscarada','fast support', 'heavy-duty boots').
+item('meowscarada','fast support', 'life orb').
+tera('meowscarada','fast support', 'dark').
+tera('meowscarada','fast support', 'grass').
+move('meowscarada','fast support', 'flower trick').
+move('meowscarada','fast support', 'knock off').
+move('meowscarada','fast support', 'toxic spikes').
+move('meowscarada','fast support', 'triple axel').
+move('meowscarada','fast support', 'u-turn').
+pokemon('meowstic', 89).
+ability('meowstic', 'prankster').
+item('meowstic', 'leftovers').
+item('meowstic', 'light clay').
+role('meowstic', 'bulky support').
+ability('meowstic','bulky support', 'prankster').
+item('meowstic','bulky support', 'leftovers').
+item('meowstic','bulky support', 'light clay').
+tera('meowstic','bulky support', 'fairy').
+move('meowstic','bulky support', 'alluring voice').
+move('meowstic','bulky support', 'light screen').
+move('meowstic','bulky support', 'psychic noise').
+move('meowstic','bulky support', 'reflect').
+move('meowstic','bulky support', 'thunder wave').
+move('meowstic','bulky support', 'yawn').
+pokemon('meowstic-f', 89).
+ability('meowstic-f', 'competitive').
+item('meowstic-f', 'life orb').
+role('meowstic-f', 'setup sweeper').
+ability('meowstic-f','setup sweeper', 'competitive').
+item('meowstic-f','setup sweeper', 'life orb').
+tera('meowstic-f','setup sweeper', 'dark').
+tera('meowstic-f','setup sweeper', 'electric').
+tera('meowstic-f','setup sweeper', 'fairy').
+move('meowstic-f','setup sweeper', 'alluring voice').
+move('meowstic-f','setup sweeper', 'dark pulse').
+move('meowstic-f','setup sweeper', 'nasty plot').
+move('meowstic-f','setup sweeper', 'psychic').
+move('meowstic-f','setup sweeper', 'psyshock').
+move('meowstic-f','setup sweeper', 'thunderbolt').
+pokemon('mesprit', 85).
+ability('mesprit', 'levitate').
+item('mesprit', 'assault vest').
+item('mesprit', 'choice scarf').
+item('mesprit', 'choice specs').
+item('mesprit', 'leftovers').
+item('mesprit', 'life orb').
+role('mesprit', 'bulky support').
+ability('mesprit','bulky support', 'levitate').
+item('mesprit','bulky support', 'leftovers').
+tera('mesprit','bulky support', 'dark').
+tera('mesprit','bulky support', 'electric').
+tera('mesprit','bulky support', 'steel').
+move('mesprit','bulky support', 'encore').
+move('mesprit','bulky support', 'knock off').
+move('mesprit','bulky support', 'psychic noise').
+move('mesprit','bulky support', 'stealth rock').
+move('mesprit','bulky support', 'thunder wave').
+move('mesprit','bulky support', 'u-turn').
+role('mesprit', 'fast attacker').
+ability('mesprit','fast attacker', 'levitate').
+item('mesprit','fast attacker', 'choice scarf').
+item('mesprit','fast attacker', 'choice specs').
+item('mesprit','fast attacker', 'life orb').
+tera('mesprit','fast attacker', 'electric').
+tera('mesprit','fast attacker', 'fairy').
+move('mesprit','fast attacker', 'dazzling gleam').
+move('mesprit','fast attacker', 'ice beam').
+move('mesprit','fast attacker', 'nasty plot').
+move('mesprit','fast attacker', 'psychic').
+move('mesprit','fast attacker', 'shadow ball').
+move('mesprit','fast attacker', 'thunderbolt').
+move('mesprit','fast attacker', 'trick').
+move('mesprit','fast attacker', 'u-turn').
+role('mesprit', 'bulky attacker').
+ability('mesprit','bulky attacker', 'levitate').
+item('mesprit','bulky attacker', 'assault vest').
+item('mesprit','bulky attacker', 'leftovers').
+tera('mesprit','bulky attacker', 'dark').
+tera('mesprit','bulky attacker', 'fighting').
+move('mesprit','bulky attacker', 'drain punch').
+move('mesprit','bulky attacker', 'ice beam').
+move('mesprit','bulky attacker', 'knock off').
+move('mesprit','bulky attacker', 'psychic noise').
+move('mesprit','bulky attacker', 'stealth rock').
+move('mesprit','bulky attacker', 'thunder wave').
+move('mesprit','bulky attacker', 'thunderbolt').
+move('mesprit','bulky attacker', 'u-turn').
+pokemon('metagross', 79).
+ability('metagross', 'clear body').
+item('metagross', 'choice band').
+item('metagross', 'choice scarf').
+item('metagross', 'leftovers').
+item('metagross', 'weakness policy').
+role('metagross', 'bulky setup').
+ability('metagross','bulky setup', 'clear body').
+item('metagross','bulky setup', 'weakness policy').
+tera('metagross','bulky setup', 'ground').
+move('metagross','bulky setup', 'agility').
+move('metagross','bulky setup', 'earthquake').
+move('metagross','bulky setup', 'heavy slam').
+move('metagross','bulky setup', 'knock off').
+move('metagross','bulky setup', 'psychic fangs').
+role('metagross', 'bulky support').
+ability('metagross','bulky support', 'clear body').
+item('metagross','bulky support', 'choice band').
+item('metagross','bulky support', 'choice scarf').
+item('metagross','bulky support', 'leftovers').
+tera('metagross','bulky support', 'water').
+move('metagross','bulky support', 'bullet punch').
+move('metagross','bulky support', 'earthquake').
+move('metagross','bulky support', 'heavy slam').
+move('metagross','bulky support', 'knock off').
+move('metagross','bulky support', 'psychic fangs').
+move('metagross','bulky support', 'stealth rock').
+pokemon('mew', 82).
+ability('mew', 'synchronize').
+item('mew', 'leftovers').
+item('mew', 'life orb').
+role('mew', 'fast bulky setup').
+ability('mew','fast bulky setup', 'synchronize').
+item('mew','fast bulky setup', 'life orb').
+tera('mew','fast bulky setup', 'dark').
+tera('mew','fast bulky setup', 'fighting').
+tera('mew','fast bulky setup', 'fire').
+tera('mew','fast bulky setup', 'ground').
+tera('mew','fast bulky setup', 'psychic').
+tera('mew','fast bulky setup', 'water').
+move('mew','fast bulky setup', 'aura sphere').
+move('mew','fast bulky setup', 'bug buzz').
+move('mew','fast bulky setup', 'dark pulse').
+move('mew','fast bulky setup', 'earth power').
+move('mew','fast bulky setup', 'fire blast').
+move('mew','fast bulky setup', 'hydro pump').
+move('mew','fast bulky setup', 'nasty plot').
+move('mew','fast bulky setup', 'psychic').
+move('mew','fast bulky setup', 'psyshock').
+role('mew', 'setup sweeper').
+ability('mew','setup sweeper', 'synchronize').
+item('mew','setup sweeper', 'life orb').
+tera('mew','setup sweeper', 'fighting').
+move('mew','setup sweeper', 'close combat').
+move('mew','setup sweeper', 'knock off').
+move('mew','setup sweeper', 'leech life').
+move('mew','setup sweeper', 'psychic fangs').
+move('mew','setup sweeper', 'swords dance').
+role('mew', 'bulky support').
+ability('mew','bulky support', 'synchronize').
+item('mew','bulky support', 'leftovers').
+tera('mew','bulky support', 'dark').
+tera('mew','bulky support', 'fairy').
+tera('mew','bulky support', 'steel').
+move('mew','bulky support', 'encore').
+move('mew','bulky support', 'knock off').
+move('mew','bulky support', 'psychic').
+move('mew','bulky support', 'psychic noise').
+move('mew','bulky support', 'stealth rock').
+move('mew','bulky support', 'toxic spikes').
+move('mew','bulky support', 'u-turn').
+move('mew','bulky support', 'will-o-wisp').
+pokemon('mewtwo', 72).
+ability('mewtwo', 'pressure').
+ability('mewtwo', 'unnerve').
+item('mewtwo', 'life orb').
+role('mewtwo', 'setup sweeper').
+ability('mewtwo','setup sweeper', 'pressure').
+ability('mewtwo','setup sweeper', 'unnerve').
+item('mewtwo','setup sweeper', 'life orb').
+tera('mewtwo','setup sweeper', 'dark').
+tera('mewtwo','setup sweeper', 'fighting').
+tera('mewtwo','setup sweeper', 'fire').
+tera('mewtwo','setup sweeper', 'psychic').
+move('mewtwo','setup sweeper', 'aura sphere').
+move('mewtwo','setup sweeper', 'dark pulse').
+move('mewtwo','setup sweeper', 'fire blast').
+move('mewtwo','setup sweeper', 'nasty plot').
+move('mewtwo','setup sweeper', 'psystrike').
+move('mewtwo','setup sweeper', 'recover').
+pokemon('mienshao', 83).
+ability('mienshao', 'reckless').
+ability('mienshao', 'regenerator').
+item('mienshao', 'assault vest').
+item('mienshao', 'choice band').
+item('mienshao', 'life orb').
+role('mienshao', 'wallbreaker').
+ability('mienshao','wallbreaker', 'reckless').
+item('mienshao','wallbreaker', 'choice band').
+tera('mienshao','wallbreaker', 'fighting').
+move('mienshao','wallbreaker', 'high jump kick').
+move('mienshao','wallbreaker', 'knock off').
+move('mienshao','wallbreaker', 'poison jab').
+move('mienshao','wallbreaker', 'stone edge').
+move('mienshao','wallbreaker', 'u-turn').
+role('mienshao', 'av pivot').
+ability('mienshao','av pivot', 'regenerator').
+item('mienshao','av pivot', 'assault vest').
+tera('mienshao','av pivot', 'dark').
+tera('mienshao','av pivot', 'steel').
+move('mienshao','av pivot', 'close combat').
+move('mienshao','av pivot', 'fake out').
+move('mienshao','av pivot', 'knock off').
+move('mienshao','av pivot', 'u-turn').
+role('mienshao', 'setup sweeper').
+ability('mienshao','setup sweeper', 'regenerator').
+item('mienshao','setup sweeper', 'life orb').
+tera('mienshao','setup sweeper', 'dark').
+tera('mienshao','setup sweeper', 'fighting').
+tera('mienshao','setup sweeper', 'poison').
+move('mienshao','setup sweeper', 'close combat').
+move('mienshao','setup sweeper', 'knock off').
+move('mienshao','setup sweeper', 'poison jab').
+move('mienshao','setup sweeper', 'swords dance').
+move('mienshao','setup sweeper', 'triple axel').
+pokemon('mightyena', 96).
+ability('mightyena', 'intimidate').
+item('mightyena', 'assault vest').
+item('mightyena', 'choice band').
+item('mightyena', 'leftovers').
+role('mightyena', 'av pivot').
+ability('mightyena','av pivot', 'intimidate').
+item('mightyena','av pivot', 'assault vest').
+tera('mightyena','av pivot', 'fairy').
+tera('mightyena','av pivot', 'poison').
+move('mightyena','av pivot', 'crunch').
+move('mightyena','av pivot', 'play rough').
+move('mightyena','av pivot', 'poison fang').
+move('mightyena','av pivot', 'sucker punch').
+move('mightyena','av pivot', 'super fang').
+move('mightyena','av pivot', 'throat chop').
+role('mightyena', 'bulky attacker').
+ability('mightyena','bulky attacker', 'intimidate').
+item('mightyena','bulky attacker', 'choice band').
+item('mightyena','bulky attacker', 'leftovers').
+tera('mightyena','bulky attacker', 'fairy').
+tera('mightyena','bulky attacker', 'poison').
+move('mightyena','bulky attacker', 'crunch').
+move('mightyena','bulky attacker', 'play rough').
+move('mightyena','bulky attacker', 'poison fang').
+move('mightyena','bulky attacker', 'sucker punch').
+move('mightyena','bulky attacker', 'taunt').
+move('mightyena','bulky attacker', 'throat chop').
+pokemon('milotic', 83).
+ability('milotic', 'competitive').
+item('milotic', 'leftovers').
+role('milotic', 'bulky attacker').
+ability('milotic','bulky attacker', 'competitive').
+item('milotic','bulky attacker', 'leftovers').
+tera('milotic','bulky attacker', 'dragon').
+tera('milotic','bulky attacker', 'steel').
+move('milotic','bulky attacker', 'dragon tail').
+move('milotic','bulky attacker', 'haze').
+move('milotic','bulky attacker', 'ice beam').
+move('milotic','bulky attacker', 'recover').
+move('milotic','bulky attacker', 'scald').
+pokemon('mimikyu', 79).
+ability('mimikyu', 'disguise').
+item('mimikyu', 'life orb').
+role('mimikyu', 'fast bulky setup').
+ability('mimikyu','fast bulky setup', 'disguise').
+item('mimikyu','fast bulky setup', 'life orb').
+tera('mimikyu','fast bulky setup', 'fairy').
+tera('mimikyu','fast bulky setup', 'ghost').
+move('mimikyu','fast bulky setup', 'play rough').
+move('mimikyu','fast bulky setup', 'shadow claw').
+move('mimikyu','fast bulky setup', 'shadow sneak').
+move('mimikyu','fast bulky setup', 'swords dance').
+role('mimikyu', 'setup sweeper').
+ability('mimikyu','setup sweeper', 'disguise').
+item('mimikyu','setup sweeper', 'life orb').
+tera('mimikyu','setup sweeper', 'fairy').
+tera('mimikyu','setup sweeper', 'fighting').
+move('mimikyu','setup sweeper', 'drain punch').
+move('mimikyu','setup sweeper', 'play rough').
+move('mimikyu','setup sweeper', 'shadow sneak').
+move('mimikyu','setup sweeper', 'swords dance').
+pokemon('minior', 79).
+ability('minior', 'shields down').
+item('minior', 'white herb').
+role('minior', 'setup sweeper').
+ability('minior','setup sweeper', 'shields down').
+item('minior','setup sweeper', 'white herb').
+tera('minior','setup sweeper', 'flying').
+tera('minior','setup sweeper', 'ground').
+tera('minior','setup sweeper', 'steel').
+tera('minior','setup sweeper', 'water').
+move('minior','setup sweeper', 'acrobatics').
+move('minior','setup sweeper', 'earthquake').
+move('minior','setup sweeper', 'power gem').
+move('minior','setup sweeper', 'shell smash').
+pokemon('minun', 95).
+ability('minun', 'volt absorb').
+item('minun', 'life orb').
+role('minun', 'setup sweeper').
+ability('minun','setup sweeper', 'volt absorb').
+item('minun','setup sweeper', 'life orb').
+tera('minun','setup sweeper', 'electric').
+tera('minun','setup sweeper', 'fairy').
+tera('minun','setup sweeper', 'grass').
+move('minun','setup sweeper', 'alluring voice').
+move('minun','setup sweeper', 'encore').
+move('minun','setup sweeper', 'grass knot').
+move('minun','setup sweeper', 'nasty plot').
+move('minun','setup sweeper', 'thunderbolt').
+pokemon('miraidon', 65).
+ability('miraidon', 'hadron engine').
+item('miraidon', 'choice specs').
+item('miraidon', 'life orb').
+role('miraidon', 'fast attacker').
+ability('miraidon','fast attacker', 'hadron engine').
+item('miraidon','fast attacker', 'choice specs').
+tera('miraidon','fast attacker', 'electric').
+move('miraidon','fast attacker', 'draco meteor').
+move('miraidon','fast attacker', 'electro drift').
+move('miraidon','fast attacker', 'overheat').
+move('miraidon','fast attacker', 'volt switch').
+role('miraidon', 'setup sweeper').
+ability('miraidon','setup sweeper', 'hadron engine').
+item('miraidon','setup sweeper', 'life orb').
+tera('miraidon','setup sweeper', 'electric').
+move('miraidon','setup sweeper', 'calm mind').
+move('miraidon','setup sweeper', 'draco meteor').
+move('miraidon','setup sweeper', 'dragon pulse').
+move('miraidon','setup sweeper', 'electro drift').
+pokemon('misdreavus', 90).
+ability('misdreavus', 'levitate').
+item('misdreavus', 'eviolite').
+role('misdreavus', 'bulky setup').
+ability('misdreavus','bulky setup', 'levitate').
+item('misdreavus','bulky setup', 'eviolite').
+tera('misdreavus','bulky setup', 'fairy').
+move('misdreavus','bulky setup', 'calm mind').
+move('misdreavus','bulky setup', 'draining kiss').
+move('misdreavus','bulky setup', 'shadow ball').
+move('misdreavus','bulky setup', 'will-o-wisp').
+pokemon('mismagius', 86).
+ability('mismagius', 'levitate').
+item('mismagius', 'choice specs').
+item('mismagius', 'leftovers').
+item('mismagius', 'life orb').
+role('mismagius', 'setup sweeper').
+ability('mismagius','setup sweeper', 'levitate').
+item('mismagius','setup sweeper', 'leftovers').
+item('mismagius','setup sweeper', 'life orb').
+tera('mismagius','setup sweeper', 'electric').
+tera('mismagius','setup sweeper', 'fairy').
+move('mismagius','setup sweeper', 'dazzling gleam').
+move('mismagius','setup sweeper', 'mystical fire').
+move('mismagius','setup sweeper', 'nasty plot').
+move('mismagius','setup sweeper', 'shadow ball').
+move('mismagius','setup sweeper', 'substitute').
+move('mismagius','setup sweeper', 'thunderbolt').
+role('mismagius', 'wallbreaker').
+ability('mismagius','wallbreaker', 'levitate').
+item('mismagius','wallbreaker', 'choice specs').
+tera('mismagius','wallbreaker', 'electric').
+tera('mismagius','wallbreaker', 'fairy').
+tera('mismagius','wallbreaker', 'fire').
+tera('mismagius','wallbreaker', 'ghost').
+move('mismagius','wallbreaker', 'dazzling gleam').
+move('mismagius','wallbreaker', 'energy ball').
+move('mismagius','wallbreaker', 'mystical fire').
+move('mismagius','wallbreaker', 'shadow ball').
+move('mismagius','wallbreaker', 'thunderbolt').
+move('mismagius','wallbreaker', 'trick').
+role('mismagius', 'tera blast user').
+ability('mismagius','tera blast user', 'levitate').
+item('mismagius','tera blast user', 'leftovers').
+tera('mismagius','tera blast user', 'fighting').
+move('mismagius','tera blast user', 'nasty plot').
+move('mismagius','tera blast user', 'shadow ball').
+move('mismagius','tera blast user', 'substitute').
+move('mismagius','tera blast user', 'tera blast').
+pokemon('moltres', 81).
+ability('moltres', 'flame body').
+item('moltres', 'heavy-duty boots').
+role('moltres', 'bulky attacker').
+ability('moltres','bulky attacker', 'flame body').
+item('moltres','bulky attacker', 'heavy-duty boots').
+tera('moltres','bulky attacker', 'dragon').
+tera('moltres','bulky attacker', 'ground').
+tera('moltres','bulky attacker', 'steel').
+move('moltres','bulky attacker', 'brave bird').
+move('moltres','bulky attacker', 'fire blast').
+move('moltres','bulky attacker', 'roost').
+move('moltres','bulky attacker', 'scorching sands').
+move('moltres','bulky attacker', 'u-turn').
+move('moltres','bulky attacker', 'will-o-wisp').
+pokemon('moltres-galar', 79).
+ability('moltres-galar', 'berserk').
+item('moltres-galar', 'chesto berry').
+item('moltres-galar', 'weakness policy').
+role('moltres-galar', 'bulky setup').
+ability('moltres-galar','bulky setup', 'berserk').
+item('moltres-galar','bulky setup', 'chesto berry').
+item('moltres-galar','bulky setup', 'weakness policy').
+tera('moltres-galar','bulky setup', 'dark').
+tera('moltres-galar','bulky setup', 'steel').
+move('moltres-galar','bulky setup', 'agility').
+move('moltres-galar','bulky setup', 'fiery wrath').
+move('moltres-galar','bulky setup', 'hurricane').
+move('moltres-galar','bulky setup', 'nasty plot').
+move('moltres-galar','bulky setup', 'rest').
+pokemon('morpeko', 88).
+ability('morpeko', 'hunger switch').
+item('morpeko', 'heavy-duty boots').
+item('morpeko', 'leftovers').
+role('morpeko', 'bulky attacker').
+ability('morpeko','bulky attacker', 'hunger switch').
+item('morpeko','bulky attacker', 'leftovers').
+tera('morpeko','bulky attacker', 'electric').
+move('morpeko','bulky attacker', 'aura wheel').
+move('morpeko','bulky attacker', 'knock off').
+move('morpeko','bulky attacker', 'protect').
+move('morpeko','bulky attacker', 'rapid spin').
+role('morpeko', 'fast support').
+ability('morpeko','fast support', 'hunger switch').
+item('morpeko','fast support', 'heavy-duty boots').
+tera('morpeko','fast support', 'electric').
+move('morpeko','fast support', 'aura wheel').
+move('morpeko','fast support', 'parting shot').
+move('morpeko','fast support', 'protect').
+move('morpeko','fast support', 'rapid spin').
+pokemon('mudsdale', 83).
+ability('mudsdale', 'stamina').
+item('mudsdale', 'leftovers').
+role('mudsdale', 'bulky attacker').
+ability('mudsdale','bulky attacker', 'stamina').
+item('mudsdale','bulky attacker', 'leftovers').
+tera('mudsdale','bulky attacker', 'steel').
+move('mudsdale','bulky attacker', 'earthquake').
+move('mudsdale','bulky attacker', 'heavy slam').
+move('mudsdale','bulky attacker', 'roar').
+move('mudsdale','bulky attacker', 'stealth rock').
+move('mudsdale','bulky attacker', 'stone edge').
+pokemon('muk', 86).
+ability('muk', 'poison touch').
+item('muk', 'assault vest').
+item('muk', 'choice band').
+item('muk', 'leftovers').
+role('muk', 'bulky attacker').
+ability('muk','bulky attacker', 'poison touch').
+item('muk','bulky attacker', 'choice band').
+item('muk','bulky attacker', 'leftovers').
+tera('muk','bulky attacker', 'dark').
+move('muk','bulky attacker', 'drain punch').
+move('muk','bulky attacker', 'gunk shot').
+move('muk','bulky attacker', 'haze').
+move('muk','bulky attacker', 'ice punch').
+move('muk','bulky attacker', 'knock off').
+move('muk','bulky attacker', 'poison jab').
+move('muk','bulky attacker', 'shadow sneak').
+move('muk','bulky attacker', 'toxic spikes').
+role('muk', 'av pivot').
+ability('muk','av pivot', 'poison touch').
+item('muk','av pivot', 'assault vest').
+tera('muk','av pivot', 'dark').
+move('muk','av pivot', 'drain punch').
+move('muk','av pivot', 'gunk shot').
+move('muk','av pivot', 'ice punch').
+move('muk','av pivot', 'knock off').
+move('muk','av pivot', 'poison jab').
+move('muk','av pivot', 'shadow sneak').
+pokemon('muk-alola', 82).
+ability('muk-alola', 'poison touch').
+item('muk-alola', 'assault vest').
+role('muk-alola', 'av pivot').
+ability('muk-alola','av pivot', 'poison touch').
+item('muk-alola','av pivot', 'assault vest').
+tera('muk-alola','av pivot', 'fighting').
+move('muk-alola','av pivot', 'drain punch').
+move('muk-alola','av pivot', 'gunk shot').
+move('muk-alola','av pivot', 'ice punch').
+move('muk-alola','av pivot', 'knock off').
+move('muk-alola','av pivot', 'poison jab').
+move('muk-alola','av pivot', 'shadow sneak').
+pokemon('munkidori', 79).
+ability('munkidori', 'toxic chain').
+item('munkidori', 'assault vest').
+item('munkidori', 'choice specs').
+item('munkidori', 'life orb').
+role('munkidori', 'fast attacker').
+ability('munkidori','fast attacker', 'toxic chain').
+item('munkidori','fast attacker', 'choice specs').
+item('munkidori','fast attacker', 'life orb').
+tera('munkidori','fast attacker', 'fighting').
+tera('munkidori','fast attacker', 'poison').
+move('munkidori','fast attacker', 'focus blast').
+move('munkidori','fast attacker', 'nasty plot').
+move('munkidori','fast attacker', 'psyshock').
+move('munkidori','fast attacker', 'sludge wave').
+move('munkidori','fast attacker', 'u-turn').
+role('munkidori', 'av pivot').
+ability('munkidori','av pivot', 'toxic chain').
+item('munkidori','av pivot', 'assault vest').
+tera('munkidori','av pivot', 'dark').
+move('munkidori','av pivot', 'fake out').
+move('munkidori','av pivot', 'focus blast').
+move('munkidori','av pivot', 'psychic noise').
+move('munkidori','av pivot', 'sludge wave').
+move('munkidori','av pivot', 'u-turn').
+pokemon('necrozma', 80).
+ability('necrozma', 'prism armor').
+item('necrozma', 'leftovers').
+item('necrozma', 'life orb').
+item('necrozma', 'weakness policy').
+role('necrozma', 'bulky setup').
+ability('necrozma','bulky setup', 'prism armor').
+item('necrozma','bulky setup', 'leftovers').
+item('necrozma','bulky setup', 'weakness policy').
+tera('necrozma','bulky setup', 'dark').
+tera('necrozma','bulky setup', 'fairy').
+tera('necrozma','bulky setup', 'ground').
+tera('necrozma','bulky setup', 'steel').
+move('necrozma','bulky setup', 'calm mind').
+move('necrozma','bulky setup', 'dragon dance').
+move('necrozma','bulky setup', 'earth power').
+move('necrozma','bulky setup', 'earthquake').
+move('necrozma','bulky setup', 'heat wave').
+move('necrozma','bulky setup', 'knock off').
+move('necrozma','bulky setup', 'moonlight').
+move('necrozma','bulky setup', 'photon geyser').
+role('necrozma', 'setup sweeper').
+ability('necrozma','setup sweeper', 'prism armor').
+item('necrozma','setup sweeper', 'life orb').
+tera('necrozma','setup sweeper', 'dark').
+tera('necrozma','setup sweeper', 'ground').
+tera('necrozma','setup sweeper', 'steel').
+move('necrozma','setup sweeper', 'dragon dance').
+move('necrozma','setup sweeper', 'earthquake').
+move('necrozma','setup sweeper', 'knock off').
+move('necrozma','setup sweeper', 'photon geyser').
+move('necrozma','setup sweeper', 'swords dance').
+pokemon('necrozma-dawn-wings', 76).
+ability('necrozma-dawn-wings', 'prism armor').
+item('necrozma-dawn-wings', 'leftovers').
+item('necrozma-dawn-wings', 'life orb').
+role('necrozma-dawn-wings', 'setup sweeper').
+ability('necrozma-dawn-wings','setup sweeper', 'prism armor').
+item('necrozma-dawn-wings','setup sweeper', 'life orb').
+tera('necrozma-dawn-wings','setup sweeper', 'fighting').
+move('necrozma-dawn-wings','setup sweeper', 'brick break').
+move('necrozma-dawn-wings','setup sweeper', 'dragon dance').
+move('necrozma-dawn-wings','setup sweeper', 'moongeist beam').
+move('necrozma-dawn-wings','setup sweeper', 'photon geyser').
+role('necrozma-dawn-wings', 'bulky setup').
+ability('necrozma-dawn-wings','bulky setup', 'prism armor').
+item('necrozma-dawn-wings','bulky setup', 'leftovers').
+tera('necrozma-dawn-wings','bulky setup', 'dark').
+tera('necrozma-dawn-wings','bulky setup', 'fairy').
+move('necrozma-dawn-wings','bulky setup', 'calm mind').
+move('necrozma-dawn-wings','bulky setup', 'moongeist beam').
+move('necrozma-dawn-wings','bulky setup', 'moonlight').
+move('necrozma-dawn-wings','bulky setup', 'photon geyser').
+pokemon('necrozma-dusk-mane', 69).
+ability('necrozma-dusk-mane', 'prism armor').
+item('necrozma-dusk-mane', 'weakness policy').
+role('necrozma-dusk-mane', 'bulky setup').
+ability('necrozma-dusk-mane','bulky setup', 'prism armor').
+item('necrozma-dusk-mane','bulky setup', 'weakness policy').
+tera('necrozma-dusk-mane','bulky setup', 'ground').
+tera('necrozma-dusk-mane','bulky setup', 'steel').
+tera('necrozma-dusk-mane','bulky setup', 'water').
+move('necrozma-dusk-mane','bulky setup', 'dragon dance').
+move('necrozma-dusk-mane','bulky setup', 'earthquake').
+move('necrozma-dusk-mane','bulky setup', 'morning sun').
+move('necrozma-dusk-mane','bulky setup', 'photon geyser').
+move('necrozma-dusk-mane','bulky setup', 'sunsteel strike').
+pokemon('ninetales', 85).
+ability('ninetales', 'drought').
+item('ninetales', 'heavy-duty boots').
+role('ninetales', 'setup sweeper').
+ability('ninetales','setup sweeper', 'drought').
+item('ninetales','setup sweeper', 'heavy-duty boots').
+tera('ninetales','setup sweeper', 'fire').
+tera('ninetales','setup sweeper', 'grass').
+move('ninetales','setup sweeper', 'fire blast').
+move('ninetales','setup sweeper', 'nasty plot').
+move('ninetales','setup sweeper', 'scorching sands').
+move('ninetales','setup sweeper', 'solar beam').
+pokemon('ninetales-alola', 78).
+ability('ninetales-alola', 'snow warning').
+item('ninetales-alola', 'light clay').
+role('ninetales-alola', 'fast support').
+ability('ninetales-alola','fast support', 'snow warning').
+item('ninetales-alola','fast support', 'light clay').
+tera('ninetales-alola','fast support', 'steel').
+tera('ninetales-alola','fast support', 'water').
+move('ninetales-alola','fast support', 'aurora veil').
+move('ninetales-alola','fast support', 'blizzard').
+move('ninetales-alola','fast support', 'encore').
+move('ninetales-alola','fast support', 'moonblast').
+move('ninetales-alola','fast support', 'nasty plot').
+role('ninetales-alola', 'fast attacker').
+ability('ninetales-alola','fast attacker', 'snow warning').
+item('ninetales-alola','fast attacker', 'light clay').
+tera('ninetales-alola','fast attacker', 'steel').
+tera('ninetales-alola','fast attacker', 'water').
+move('ninetales-alola','fast attacker', 'aurora veil').
+move('ninetales-alola','fast attacker', 'blizzard').
+move('ninetales-alola','fast attacker', 'freeze-dry').
+move('ninetales-alola','fast attacker', 'moonblast').
+pokemon('noctowl', 95).
+ability('noctowl', 'tinted lens').
+item('noctowl', 'heavy-duty boots').
+role('noctowl', 'bulky attacker').
+ability('noctowl','bulky attacker', 'tinted lens').
+item('noctowl','bulky attacker', 'heavy-duty boots').
+tera('noctowl','bulky attacker', 'ground').
+tera('noctowl','bulky attacker', 'normal').
+tera('noctowl','bulky attacker', 'steel').
+move('noctowl','bulky attacker', 'calm mind').
+move('noctowl','bulky attacker', 'defog').
+move('noctowl','bulky attacker', 'hurricane').
+move('noctowl','bulky attacker', 'hyper voice').
+move('noctowl','bulky attacker', 'nasty plot').
+move('noctowl','bulky attacker', 'roost').
+pokemon('noivern', 82).
+ability('noivern', 'infiltrator').
+item('noivern', 'choice specs').
+item('noivern', 'heavy-duty boots').
+role('noivern', 'fast support').
+ability('noivern','fast support', 'infiltrator').
+item('noivern','fast support', 'heavy-duty boots').
+tera('noivern','fast support', 'fire').
+move('noivern','fast support', 'defog').
+move('noivern','fast support', 'draco meteor').
+move('noivern','fast support', 'flamethrower').
+move('noivern','fast support', 'hurricane').
+move('noivern','fast support', 'roost').
+role('noivern', 'fast attacker').
+ability('noivern','fast attacker', 'infiltrator').
+item('noivern','fast attacker', 'choice specs').
+tera('noivern','fast attacker', 'normal').
+move('noivern','fast attacker', 'boomburst').
+move('noivern','fast attacker', 'draco meteor').
+move('noivern','fast attacker', 'flamethrower').
+move('noivern','fast attacker', 'hurricane').
+move('noivern','fast attacker', 'u-turn').
+pokemon('ogerpon', 80).
+ability('ogerpon', 'defiant').
+item('ogerpon', 'choice band').
+item('ogerpon', 'heavy-duty boots').
+item('ogerpon', 'leftovers').
+item('ogerpon', 'life orb').
+role('ogerpon', 'setup sweeper').
+ability('ogerpon','setup sweeper', 'defiant').
+item('ogerpon','setup sweeper', 'life orb').
+tera('ogerpon','setup sweeper', 'grass').
+move('ogerpon','setup sweeper', 'ivy cudgel').
+move('ogerpon','setup sweeper', 'knock off').
+move('ogerpon','setup sweeper', 'superpower').
+move('ogerpon','setup sweeper', 'swords dance').
+role('ogerpon', 'fast support').
+ability('ogerpon','fast support', 'defiant').
+item('ogerpon','fast support', 'choice band').
+item('ogerpon','fast support', 'heavy-duty boots').
+item('ogerpon','fast support', 'leftovers').
+item('ogerpon','fast support', 'life orb').
+tera('ogerpon','fast support', 'grass').
+move('ogerpon','fast support', 'encore').
+move('ogerpon','fast support', 'ivy cudgel').
+move('ogerpon','fast support', 'knock off').
+move('ogerpon','fast support', 'spikes').
+move('ogerpon','fast support', 'superpower').
+move('ogerpon','fast support', 'synthesis').
+move('ogerpon','fast support', 'u-turn').
+pokemon('ogerpon-cornerstone', 76).
+ability('ogerpon-cornerstone', 'sturdy').
+item('ogerpon-cornerstone', 'cornerstone mask').
+role('ogerpon-cornerstone', 'setup sweeper').
+ability('ogerpon-cornerstone','setup sweeper', 'sturdy').
+item('ogerpon-cornerstone','setup sweeper', 'cornerstone mask').
+tera('ogerpon-cornerstone','setup sweeper', 'rock').
+move('ogerpon-cornerstone','setup sweeper', 'horn leech').
+move('ogerpon-cornerstone','setup sweeper', 'ivy cudgel').
+move('ogerpon-cornerstone','setup sweeper', 'power whip').
+move('ogerpon-cornerstone','setup sweeper', 'superpower').
+move('ogerpon-cornerstone','setup sweeper', 'swords dance').
+role('ogerpon-cornerstone', 'bulky attacker').
+ability('ogerpon-cornerstone','bulky attacker', 'sturdy').
+item('ogerpon-cornerstone','bulky attacker', 'cornerstone mask').
+tera('ogerpon-cornerstone','bulky attacker', 'rock').
+move('ogerpon-cornerstone','bulky attacker', 'encore').
+move('ogerpon-cornerstone','bulky attacker', 'ivy cudgel').
+move('ogerpon-cornerstone','bulky attacker', 'power whip').
+move('ogerpon-cornerstone','bulky attacker', 'spikes').
+move('ogerpon-cornerstone','bulky attacker', 'superpower').
+move('ogerpon-cornerstone','bulky attacker', 'synthesis').
+pokemon('ogerpon-hearthflame', 74).
+ability('ogerpon-hearthflame', 'mold breaker').
+item('ogerpon-hearthflame', 'hearthflame mask').
+role('ogerpon-hearthflame', 'setup sweeper').
+ability('ogerpon-hearthflame','setup sweeper', 'mold breaker').
+item('ogerpon-hearthflame','setup sweeper', 'hearthflame mask').
+tera('ogerpon-hearthflame','setup sweeper', 'fire').
+move('ogerpon-hearthflame','setup sweeper', 'horn leech').
+move('ogerpon-hearthflame','setup sweeper', 'ivy cudgel').
+move('ogerpon-hearthflame','setup sweeper', 'knock off').
+move('ogerpon-hearthflame','setup sweeper', 'power whip').
+move('ogerpon-hearthflame','setup sweeper', 'stomping tantrum').
+move('ogerpon-hearthflame','setup sweeper', 'swords dance').
+move('ogerpon-hearthflame','setup sweeper', 'trailblaze').
+pokemon('ogerpon-wellspring', 76).
+ability('ogerpon-wellspring', 'water absorb').
+item('ogerpon-wellspring', 'wellspring mask').
+role('ogerpon-wellspring', 'setup sweeper').
+ability('ogerpon-wellspring','setup sweeper', 'water absorb').
+item('ogerpon-wellspring','setup sweeper', 'wellspring mask').
+tera('ogerpon-wellspring','setup sweeper', 'water').
+move('ogerpon-wellspring','setup sweeper', 'horn leech').
+move('ogerpon-wellspring','setup sweeper', 'ivy cudgel').
+move('ogerpon-wellspring','setup sweeper', 'knock off').
+move('ogerpon-wellspring','setup sweeper', 'play rough').
+move('ogerpon-wellspring','setup sweeper', 'power whip').
+move('ogerpon-wellspring','setup sweeper', 'swords dance').
+role('ogerpon-wellspring', 'bulky attacker').
+ability('ogerpon-wellspring','bulky attacker', 'water absorb').
+item('ogerpon-wellspring','bulky attacker', 'wellspring mask').
+tera('ogerpon-wellspring','bulky attacker', 'water').
+move('ogerpon-wellspring','bulky attacker', 'encore').
+move('ogerpon-wellspring','bulky attacker', 'ivy cudgel').
+move('ogerpon-wellspring','bulky attacker', 'spikes').
+move('ogerpon-wellspring','bulky attacker', 'synthesis').
+move('ogerpon-wellspring','bulky attacker', 'u-turn').
+move('ogerpon-wellspring','bulky attacker', 'wood hammer').
+pokemon('oinkologne', 92).
+ability('oinkologne', 'thick fat').
+item('oinkologne', 'leftovers').
+role('oinkologne', 'bulky setup').
+ability('oinkologne','bulky setup', 'thick fat').
+item('oinkologne','bulky setup', 'leftovers').
+tera('oinkologne','bulky setup', 'ground').
+move('oinkologne','bulky setup', 'body slam').
+move('oinkologne','bulky setup', 'curse').
+move('oinkologne','bulky setup', 'double-edge').
+move('oinkologne','bulky setup', 'high horsepower').
+move('oinkologne','bulky setup', 'lash out').
+pokemon('oinkologne-f', 91).
+ability('oinkologne-f', 'aroma veil').
+ability('oinkologne-f', 'thick fat').
+item('oinkologne-f', 'leftovers').
+role('oinkologne-f', 'bulky support').
+ability('oinkologne-f','bulky support', 'aroma veil').
+ability('oinkologne-f','bulky support', 'thick fat').
+item('oinkologne-f','bulky support', 'leftovers').
+tera('oinkologne-f','bulky support', 'fairy').
+tera('oinkologne-f','bulky support', 'poison').
+move('oinkologne-f','bulky support', 'body slam').
+move('oinkologne-f','bulky support', 'curse').
+move('oinkologne-f','bulky support', 'rest').
+move('oinkologne-f','bulky support', 'sleep talk').
+role('oinkologne-f', 'bulky setup').
+ability('oinkologne-f','bulky setup', 'thick fat').
+item('oinkologne-f','bulky setup', 'leftovers').
+tera('oinkologne-f','bulky setup', 'ground').
+move('oinkologne-f','bulky setup', 'body slam').
+move('oinkologne-f','bulky setup', 'curse').
+move('oinkologne-f','bulky setup', 'double-edge').
+move('oinkologne-f','bulky setup', 'high horsepower').
+move('oinkologne-f','bulky setup', 'lash out').
+pokemon('okidogi', 77).
+ability('okidogi', 'toxic chain').
+item('okidogi', 'assault vest').
+item('okidogi', 'leftovers').
+role('okidogi', 'bulky setup').
+ability('okidogi','bulky setup', 'toxic chain').
+item('okidogi','bulky setup', 'leftovers').
+tera('okidogi','bulky setup', 'dark').
+move('okidogi','bulky setup', 'bulk up').
+move('okidogi','bulky setup', 'drain punch').
+move('okidogi','bulky setup', 'gunk shot').
+move('okidogi','bulky setup', 'knock off').
+role('okidogi', 'av pivot').
+ability('okidogi','av pivot', 'toxic chain').
+item('okidogi','av pivot', 'assault vest').
+tera('okidogi','av pivot', 'dark').
+move('okidogi','av pivot', 'drain punch').
+move('okidogi','av pivot', 'gunk shot').
+move('okidogi','av pivot', 'high horsepower').
+move('okidogi','av pivot', 'knock off').
+move('okidogi','av pivot', 'psychic fangs').
+pokemon('oranguru', 92).
+ability('oranguru', 'inner focus').
+item('oranguru', 'choice specs').
+item('oranguru', 'leftovers').
+item('oranguru', 'life orb').
+role('oranguru', 'bulky attacker').
+ability('oranguru','bulky attacker', 'inner focus').
+item('oranguru','bulky attacker', 'leftovers').
+tera('oranguru','bulky attacker', 'electric').
+tera('oranguru','bulky attacker', 'fighting').
+tera('oranguru','bulky attacker', 'psychic').
+move('oranguru','bulky attacker', 'focus blast').
+move('oranguru','bulky attacker', 'nasty plot').
+move('oranguru','bulky attacker', 'psychic').
+move('oranguru','bulky attacker', 'psyshock').
+move('oranguru','bulky attacker', 'thunderbolt').
+role('oranguru', 'wallbreaker').
+ability('oranguru','wallbreaker', 'inner focus').
+item('oranguru','wallbreaker', 'choice specs').
+item('oranguru','wallbreaker', 'life orb').
+tera('oranguru','wallbreaker', 'electric').
+tera('oranguru','wallbreaker', 'fighting').
+tera('oranguru','wallbreaker', 'normal').
+tera('oranguru','wallbreaker', 'psychic').
+move('oranguru','wallbreaker', 'focus blast').
+move('oranguru','wallbreaker', 'hyper voice').
+move('oranguru','wallbreaker', 'nasty plot').
+move('oranguru','wallbreaker', 'psyshock').
+move('oranguru','wallbreaker', 'thunderbolt').
+move('oranguru','wallbreaker', 'trick').
+pokemon('oricorio', 84).
+ability('oricorio', 'dancer').
+item('oricorio', 'heavy-duty boots').
+role('oricorio', 'setup sweeper').
+ability('oricorio','setup sweeper', 'dancer').
+item('oricorio','setup sweeper', 'heavy-duty boots').
+tera('oricorio','setup sweeper', 'ground').
+move('oricorio','setup sweeper', 'hurricane').
+move('oricorio','setup sweeper', 'quiver dance').
+move('oricorio','setup sweeper', 'revelation dance').
+move('oricorio','setup sweeper', 'roost').
+pokemon('oricorio-pa'u', 87).
+ability('oricorio-pa'u', 'dancer').
+item('oricorio-pa'u', 'heavy-duty boots').
+role('oricorio-pa'u', 'setup sweeper').
+ability('oricorio-pa'u','setup sweeper', 'dancer').
+item('oricorio-pa'u','setup sweeper', 'heavy-duty boots').
+tera('oricorio-pa'u','setup sweeper', 'fighting').
+tera('oricorio-pa'u','setup sweeper', 'ground').
+move('oricorio-pa'u','setup sweeper', 'hurricane').
+move('oricorio-pa'u','setup sweeper', 'quiver dance').
+move('oricorio-pa'u','setup sweeper', 'revelation dance').
+move('oricorio-pa'u','setup sweeper', 'roost').
+pokemon('oricorio-pom-pom', 82).
+ability('oricorio-pom-pom', 'dancer').
+item('oricorio-pom-pom', 'heavy-duty boots').
+role('oricorio-pom-pom', 'setup sweeper').
+ability('oricorio-pom-pom','setup sweeper', 'dancer').
+item('oricorio-pom-pom','setup sweeper', 'heavy-duty boots').
+tera('oricorio-pom-pom','setup sweeper', 'ground').
+move('oricorio-pom-pom','setup sweeper', 'hurricane').
+move('oricorio-pom-pom','setup sweeper', 'quiver dance').
+move('oricorio-pom-pom','setup sweeper', 'revelation dance').
+move('oricorio-pom-pom','setup sweeper', 'roost').
+pokemon('oricorio-sensu', 85).
+ability('oricorio-sensu', 'dancer').
+item('oricorio-sensu', 'heavy-duty boots').
+role('oricorio-sensu', 'setup sweeper').
+ability('oricorio-sensu','setup sweeper', 'dancer').
+item('oricorio-sensu','setup sweeper', 'heavy-duty boots').
+tera('oricorio-sensu','setup sweeper', 'fighting').
+move('oricorio-sensu','setup sweeper', 'hurricane').
+move('oricorio-sensu','setup sweeper', 'quiver dance').
+move('oricorio-sensu','setup sweeper', 'revelation dance').
+move('oricorio-sensu','setup sweeper', 'roost').
+pokemon('orthworm', 88).
+ability('orthworm', 'earth eater').
+item('orthworm', 'chesto berry').
+item('orthworm', 'leftovers').
+role('orthworm', 'bulky setup').
+ability('orthworm','bulky setup', 'earth eater').
+item('orthworm','bulky setup', 'chesto berry').
+tera('orthworm','bulky setup', 'electric').
+tera('orthworm','bulky setup', 'fighting').
+move('orthworm','bulky setup', 'body press').
+move('orthworm','bulky setup', 'coil').
+move('orthworm','bulky setup', 'iron tail').
+move('orthworm','bulky setup', 'rest').
+role('orthworm', 'bulky attacker').
+ability('orthworm','bulky attacker', 'earth eater').
+item('orthworm','bulky attacker', 'leftovers').
+tera('orthworm','bulky attacker', 'electric').
+tera('orthworm','bulky attacker', 'fighting').
+tera('orthworm','bulky attacker', 'ghost').
+tera('orthworm','bulky attacker', 'poison').
+move('orthworm','bulky attacker', 'body press').
+move('orthworm','bulky attacker', 'heavy slam').
+move('orthworm','bulky attacker', 'shed tail').
+move('orthworm','bulky attacker', 'spikes').
+move('orthworm','bulky attacker', 'stealth rock').
+pokemon('overqwil', 82).
+ability('overqwil', 'intimidate').
+item('overqwil', 'choice band').
+item('overqwil', 'life orb').
+item('overqwil', 'loaded dice').
+role('overqwil', 'fast attacker').
+ability('overqwil','fast attacker', 'intimidate').
+item('overqwil','fast attacker', 'choice band').
+item('overqwil','fast attacker', 'life orb').
+tera('overqwil','fast attacker', 'water').
+move('overqwil','fast attacker', 'aqua jet').
+move('overqwil','fast attacker', 'crunch').
+move('overqwil','fast attacker', 'gunk shot').
+move('overqwil','fast attacker', 'liquidation').
+move('overqwil','fast attacker', 'swords dance').
+role('overqwil', 'setup sweeper').
+ability('overqwil','setup sweeper', 'intimidate').
+item('overqwil','setup sweeper', 'loaded dice').
+tera('overqwil','setup sweeper', 'dragon').
+move('overqwil','setup sweeper', 'crunch').
+move('overqwil','setup sweeper', 'gunk shot').
+move('overqwil','setup sweeper', 'scale shot').
+move('overqwil','setup sweeper', 'swords dance').
+pokemon('pachirisu', 96).
+ability('pachirisu', 'volt absorb').
+item('pachirisu', 'assault vest').
+item('pachirisu', 'heavy-duty boots').
+role('pachirisu', 'av pivot').
+ability('pachirisu','av pivot', 'volt absorb').
+item('pachirisu','av pivot', 'assault vest').
+tera('pachirisu','av pivot', 'flying').
+move('pachirisu','av pivot', 'nuzzle').
+move('pachirisu','av pivot', 'super fang').
+move('pachirisu','av pivot', 'thunderbolt').
+move('pachirisu','av pivot', 'u-turn').
+role('pachirisu', 'fast support').
+ability('pachirisu','fast support', 'volt absorb').
+item('pachirisu','fast support', 'heavy-duty boots').
+tera('pachirisu','fast support', 'flying').
+move('pachirisu','fast support', 'discharge').
+move('pachirisu','fast support', 'encore').
+move('pachirisu','fast support', 'super fang').
+move('pachirisu','fast support', 'u-turn').
+pokemon('palafin', 77).
+ability('palafin', 'zero to hero').
+item('palafin', 'choice band').
+item('palafin', 'leftovers').
+role('palafin', 'bulky setup').
+ability('palafin','bulky setup', 'zero to hero').
+item('palafin','bulky setup', 'leftovers').
+tera('palafin','bulky setup', 'dragon').
+tera('palafin','bulky setup', 'steel').
+move('palafin','bulky setup', 'bulk up').
+move('palafin','bulky setup', 'drain punch').
+move('palafin','bulky setup', 'ice punch').
+move('palafin','bulky setup', 'jet punch').
+move('palafin','bulky setup', 'wave crash').
+role('palafin', 'wallbreaker').
+ability('palafin','wallbreaker', 'zero to hero').
+item('palafin','wallbreaker', 'choice band').
+tera('palafin','wallbreaker', 'fighting').
+tera('palafin','wallbreaker', 'water').
+move('palafin','wallbreaker', 'close combat').
+move('palafin','wallbreaker', 'flip turn').
+move('palafin','wallbreaker', 'jet punch').
+move('palafin','wallbreaker', 'wave crash').
+pokemon('palkia', 75).
+ability('palkia', 'pressure').
+item('palkia', 'choice scarf').
+item('palkia', 'choice specs').
+item('palkia', 'lustrous orb').
+role('palkia', 'bulky attacker').
+ability('palkia','bulky attacker', 'pressure').
+item('palkia','bulky attacker', 'lustrous orb').
+tera('palkia','bulky attacker', 'dragon').
+tera('palkia','bulky attacker', 'fire').
+tera('palkia','bulky attacker', 'water').
+move('palkia','bulky attacker', 'draco meteor').
+move('palkia','bulky attacker', 'fire blast').
+move('palkia','bulky attacker', 'hydro pump').
+move('palkia','bulky attacker', 'spacial rend').
+move('palkia','bulky attacker', 'thunder wave').
+role('palkia', 'fast attacker').
+ability('palkia','fast attacker', 'pressure').
+item('palkia','fast attacker', 'choice scarf').
+item('palkia','fast attacker', 'choice specs').
+tera('palkia','fast attacker', 'dragon').
+tera('palkia','fast attacker', 'fire').
+tera('palkia','fast attacker', 'water').
+move('palkia','fast attacker', 'draco meteor').
+move('palkia','fast attacker', 'fire blast').
+move('palkia','fast attacker', 'hydro pump').
+move('palkia','fast attacker', 'spacial rend').
+pokemon('palkia-origin', 72).
+ability('palkia-origin', 'pressure').
+item('palkia-origin', 'lustrous globe').
+role('palkia-origin', 'bulky attacker').
+ability('palkia-origin','bulky attacker', 'pressure').
+item('palkia-origin','bulky attacker', 'lustrous globe').
+tera('palkia-origin','bulky attacker', 'dragon').
+tera('palkia-origin','bulky attacker', 'fire').
+tera('palkia-origin','bulky attacker', 'water').
+move('palkia-origin','bulky attacker', 'draco meteor').
+move('palkia-origin','bulky attacker', 'fire blast').
+move('palkia-origin','bulky attacker', 'hydro pump').
+move('palkia-origin','bulky attacker', 'spacial rend').
+move('palkia-origin','bulky attacker', 'thunder wave').
+pokemon('palossand', 89).
+ability('palossand', 'water compaction').
+item('palossand', 'leftovers').
+role('palossand', 'bulky support').
+ability('palossand','bulky support', 'water compaction').
+item('palossand','bulky support', 'leftovers').
+tera('palossand','bulky support', 'poison').
+tera('palossand','bulky support', 'water').
+move('palossand','bulky support', 'earth power').
+move('palossand','bulky support', 'shadow ball').
+move('palossand','bulky support', 'shore up').
+move('palossand','bulky support', 'sludge bomb').
+move('palossand','bulky support', 'stealth rock').
+pokemon('passimian', 83).
+ability('passimian', 'defiant').
+item('passimian', 'choice band').
+item('passimian', 'choice scarf').
+item('passimian', 'leftovers').
+role('passimian', 'bulky setup').
+ability('passimian','bulky setup', 'defiant').
+item('passimian','bulky setup', 'leftovers').
+tera('passimian','bulky setup', 'dark').
+tera('passimian','bulky setup', 'poison').
+tera('passimian','bulky setup', 'steel').
+move('passimian','bulky setup', 'bulk up').
+move('passimian','bulky setup', 'drain punch').
+move('passimian','bulky setup', 'gunk shot').
+move('passimian','bulky setup', 'knock off').
+role('passimian', 'fast attacker').
+ability('passimian','fast attacker', 'defiant').
+item('passimian','fast attacker', 'choice band').
+item('passimian','fast attacker', 'choice scarf').
+tera('passimian','fast attacker', 'dark').
+tera('passimian','fast attacker', 'fighting').
+tera('passimian','fast attacker', 'poison').
+move('passimian','fast attacker', 'close combat').
+move('passimian','fast attacker', 'earthquake').
+move('passimian','fast attacker', 'gunk shot').
+move('passimian','fast attacker', 'knock off').
+move('passimian','fast attacker', 'rock slide').
+move('passimian','fast attacker', 'u-turn').
+pokemon('pawmot', 80).
+ability('pawmot', 'iron fist').
+ability('pawmot', 'volt absorb').
+item('pawmot', 'leppa berry').
+item('pawmot', 'life orb').
+role('pawmot', 'fast attacker').
+ability('pawmot','fast attacker', 'volt absorb').
+item('pawmot','fast attacker', 'leppa berry').
+item('pawmot','fast attacker', 'life orb').
+tera('pawmot','fast attacker', 'electric').
+move('pawmot','fast attacker', 'close combat').
+move('pawmot','fast attacker', 'double shock').
+move('pawmot','fast attacker', 'knock off').
+move('pawmot','fast attacker', 'nuzzle').
+move('pawmot','fast attacker', 'revival blessing').
+role('pawmot', 'wallbreaker').
+ability('pawmot','wallbreaker', 'iron fist').
+item('pawmot','wallbreaker', 'life orb').
+tera('pawmot','wallbreaker', 'electric').
+move('pawmot','wallbreaker', 'close combat').
+move('pawmot','wallbreaker', 'double shock').
+move('pawmot','wallbreaker', 'ice punch').
+move('pawmot','wallbreaker', 'revival blessing').
+pokemon('pecharunt', 77).
+ability('pecharunt', 'poison puppeteer').
+item('pecharunt', 'leftovers').
+item('pecharunt', 'rocky helmet').
+role('pecharunt', 'bulky attacker').
+ability('pecharunt','bulky attacker', 'poison puppeteer').
+item('pecharunt','bulky attacker', 'leftovers').
+item('pecharunt','bulky attacker', 'rocky helmet').
+tera('pecharunt','bulky attacker', 'dark').
+move('pecharunt','bulky attacker', 'malignant chain').
+move('pecharunt','bulky attacker', 'nasty plot').
+move('pecharunt','bulky attacker', 'parting shot').
+move('pecharunt','bulky attacker', 'recover').
+move('pecharunt','bulky attacker', 'shadow ball').
+pokemon('pelipper', 86).
+ability('pelipper', 'drizzle').
+item('pelipper', 'choice specs').
+item('pelipper', 'heavy-duty boots').
+role('pelipper', 'bulky attacker').
+ability('pelipper','bulky attacker', 'drizzle').
+item('pelipper','bulky attacker', 'heavy-duty boots').
+tera('pelipper','bulky attacker', 'ground').
+tera('pelipper','bulky attacker', 'water').
+move('pelipper','bulky attacker', 'hurricane').
+move('pelipper','bulky attacker', 'hydro pump').
+move('pelipper','bulky attacker', 'knock off').
+move('pelipper','bulky attacker', 'roost').
+move('pelipper','bulky attacker', 'surf').
+move('pelipper','bulky attacker', 'u-turn').
+role('pelipper', 'wallbreaker').
+ability('pelipper','wallbreaker', 'drizzle').
+item('pelipper','wallbreaker', 'choice specs').
+tera('pelipper','wallbreaker', 'flying').
+tera('pelipper','wallbreaker', 'water').
+move('pelipper','wallbreaker', 'hurricane').
+move('pelipper','wallbreaker', 'hydro pump').
+move('pelipper','wallbreaker', 'u-turn').
+move('pelipper','wallbreaker', 'weather ball').
+pokemon('perrserker', 89).
+ability('perrserker', 'tough claws').
+item('perrserker', 'choice band').
+item('perrserker', 'life orb').
+role('perrserker', 'fast attacker').
+ability('perrserker','fast attacker', 'tough claws').
+item('perrserker','fast attacker', 'choice band').
+item('perrserker','fast attacker', 'life orb').
+tera('perrserker','fast attacker', 'fighting').
+move('perrserker','fast attacker', 'close combat').
+move('perrserker','fast attacker', 'iron head').
+move('perrserker','fast attacker', 'knock off').
+move('perrserker','fast attacker', 'stealth rock').
+move('perrserker','fast attacker', 'u-turn').
+pokemon('persian', 92).
+ability('persian', 'limber').
+ability('persian', 'technician').
+item('persian', 'choice band').
+item('persian', 'silk scarf').
+role('persian', 'fast attacker').
+ability('persian','fast attacker', 'technician').
+item('persian','fast attacker', 'silk scarf').
+tera('persian','fast attacker', 'normal').
+move('persian','fast attacker', 'double-edge').
+move('persian','fast attacker', 'fake out').
+move('persian','fast attacker', 'knock off').
+move('persian','fast attacker', 'u-turn').
+role('persian', 'wallbreaker').
+ability('persian','wallbreaker', 'limber').
+item('persian','wallbreaker', 'choice band').
+tera('persian','wallbreaker', 'ghost').
+tera('persian','wallbreaker', 'normal').
+move('persian','wallbreaker', 'double-edge').
+move('persian','wallbreaker', 'knock off').
+move('persian','wallbreaker', 'switcheroo').
+move('persian','wallbreaker', 'u-turn').
+pokemon('persian-alola', 86).
+ability('persian-alola', 'fur coat').
+item('persian-alola', 'heavy-duty boots').
+item('persian-alola', 'leftovers').
+item('persian-alola', 'life orb').
+role('persian-alola', 'tera blast user').
+ability('persian-alola','tera blast user', 'fur coat').
+item('persian-alola','tera blast user', 'life orb').
+tera('persian-alola','tera blast user', 'fairy').
+tera('persian-alola','tera blast user', 'poison').
+move('persian-alola','tera blast user', 'dark pulse').
+move('persian-alola','tera blast user', 'nasty plot').
+move('persian-alola','tera blast user', 'tera blast').
+move('persian-alola','tera blast user', 'thunderbolt').
+role('persian-alola', 'fast bulky setup').
+ability('persian-alola','fast bulky setup', 'fur coat').
+item('persian-alola','fast bulky setup', 'leftovers').
+item('persian-alola','fast bulky setup', 'life orb').
+tera('persian-alola','fast bulky setup', 'electric').
+move('persian-alola','fast bulky setup', 'burning jealousy').
+move('persian-alola','fast bulky setup', 'dark pulse').
+move('persian-alola','fast bulky setup', 'hypnosis').
+move('persian-alola','fast bulky setup', 'nasty plot').
+move('persian-alola','fast bulky setup', 'thunderbolt').
+role('persian-alola', 'fast support').
+ability('persian-alola','fast support', 'fur coat').
+item('persian-alola','fast support', 'heavy-duty boots').
+tera('persian-alola','fast support', 'fairy').
+tera('persian-alola','fast support', 'ghost').
+tera('persian-alola','fast support', 'poison').
+move('persian-alola','fast support', 'foul play').
+move('persian-alola','fast support', 'knock off').
+move('persian-alola','fast support', 'parting shot').
+move('persian-alola','fast support', 'taunt').
+move('persian-alola','fast support', 'thunder wave').
+pokemon('phione', 91).
+ability('phione', 'hydration').
+item('phione', 'leftovers').
+role('phione', 'bulky attacker').
+ability('phione','bulky attacker', 'hydration').
+item('phione','bulky attacker', 'leftovers').
+tera('phione','bulky attacker', 'grass').
+tera('phione','bulky attacker', 'steel').
+move('phione','bulky attacker', 'grass knot').
+move('phione','bulky attacker', 'ice beam').
+move('phione','bulky attacker', 'scald').
+move('phione','bulky attacker', 'take heart').
+role('phione', 'bulky setup').
+ability('phione','bulky setup', 'hydration').
+item('phione','bulky setup', 'leftovers').
+tera('phione','bulky setup', 'dragon').
+tera('phione','bulky setup', 'steel').
+move('phione','bulky setup', 'rest').
+move('phione','bulky setup', 'scald').
+move('phione','bulky setup', 'sleep talk').
+move('phione','bulky setup', 'take heart').
+pokemon('pikachu', 93).
+ability('pikachu', 'lightning rod').
+item('pikachu', 'light ball').
+role('pikachu', 'fast attacker').
+ability('pikachu','fast attacker', 'lightning rod').
+item('pikachu','fast attacker', 'light ball').
+tera('pikachu','fast attacker', 'water').
+move('pikachu','fast attacker', 'fake out').
+move('pikachu','fast attacker', 'knock off').
+move('pikachu','fast attacker', 'play rough').
+move('pikachu','fast attacker', 'surf').
+move('pikachu','fast attacker', 'volt switch').
+move('pikachu','fast attacker', 'volt tackle').
+pokemon('piloswine', 85).
+ability('piloswine', 'thick fat').
+item('piloswine', 'eviolite').
+role('piloswine', 'bulky support').
+ability('piloswine','bulky support', 'thick fat').
+item('piloswine','bulky support', 'eviolite').
+tera('piloswine','bulky support', 'dragon').
+tera('piloswine','bulky support', 'poison').
+move('piloswine','bulky support', 'earthquake').
+move('piloswine','bulky support', 'ice shard').
+move('piloswine','bulky support', 'icicle crash').
+move('piloswine','bulky support', 'roar').
+move('piloswine','bulky support', 'stealth rock').
+pokemon('pincurchin', 100).
+ability('pincurchin', 'electric surge').
+item('pincurchin', 'leftovers').
+role('pincurchin', 'bulky attacker').
+ability('pincurchin','bulky attacker', 'electric surge').
+item('pincurchin','bulky attacker', 'leftovers').
+tera('pincurchin','bulky attacker', 'water').
+move('pincurchin','bulky attacker', 'discharge').
+move('pincurchin','bulky attacker', 'recover').
+move('pincurchin','bulky attacker', 'scald').
+move('pincurchin','bulky attacker', 'spikes').
+move('pincurchin','bulky attacker', 'thunderbolt').
+move('pincurchin','bulky attacker', 'toxic spikes').
+role('pincurchin', 'bulky setup').
+ability('pincurchin','bulky setup', 'electric surge').
+item('pincurchin','bulky setup', 'leftovers').
+tera('pincurchin','bulky setup', 'grass').
+tera('pincurchin','bulky setup', 'water').
+move('pincurchin','bulky setup', 'curse').
+move('pincurchin','bulky setup', 'liquidation').
+move('pincurchin','bulky setup', 'recover').
+move('pincurchin','bulky setup', 'zing zap').
+pokemon('plusle', 95).
+ability('plusle', 'lightning rod').
+item('plusle', 'life orb').
+role('plusle', 'setup sweeper').
+ability('plusle','setup sweeper', 'lightning rod').
+item('plusle','setup sweeper', 'life orb').
+tera('plusle','setup sweeper', 'electric').
+tera('plusle','setup sweeper', 'fairy').
+tera('plusle','setup sweeper', 'grass').
+move('plusle','setup sweeper', 'alluring voice').
+move('plusle','setup sweeper', 'encore').
+move('plusle','setup sweeper', 'grass knot').
+move('plusle','setup sweeper', 'nasty plot').
+move('plusle','setup sweeper', 'thunderbolt').
+pokemon('politoed', 88).
+ability('politoed', 'drizzle').
+item('politoed', 'chesto berry').
+item('politoed', 'choice specs').
+item('politoed', 'leftovers').
+role('politoed', 'fast attacker').
+ability('politoed','fast attacker', 'drizzle').
+item('politoed','fast attacker', 'choice specs').
+tera('politoed','fast attacker', 'water').
+move('politoed','fast attacker', 'focus blast').
+move('politoed','fast attacker', 'hydro pump').
+move('politoed','fast attacker', 'ice beam').
+move('politoed','fast attacker', 'weather ball').
+role('politoed', 'bulky attacker').
+ability('politoed','bulky attacker', 'drizzle').
+item('politoed','bulky attacker', 'chesto berry').
+item('politoed','bulky attacker', 'leftovers').
+tera('politoed','bulky attacker', 'steel').
+tera('politoed','bulky attacker', 'water').
+move('politoed','bulky attacker', 'encore').
+move('politoed','bulky attacker', 'haze').
+move('politoed','bulky attacker', 'hydro pump').
+move('politoed','bulky attacker', 'hypnosis').
+move('politoed','bulky attacker', 'ice beam').
+move('politoed','bulky attacker', 'rest').
+move('politoed','bulky attacker', 'surf').
+pokemon('poliwrath', 88).
+ability('poliwrath', 'swift swim').
+ability('poliwrath', 'water absorb').
+item('poliwrath', 'assault vest').
+item('poliwrath', 'leftovers').
+item('poliwrath', 'life orb').
+role('poliwrath', 'av pivot').
+ability('poliwrath','av pivot', 'water absorb').
+item('poliwrath','av pivot', 'assault vest').
+tera('poliwrath','av pivot', 'dark').
+tera('poliwrath','av pivot', 'fighting').
+tera('poliwrath','av pivot', 'steel').
+move('poliwrath','av pivot', 'circle throw').
+move('poliwrath','av pivot', 'close combat').
+move('poliwrath','av pivot', 'knock off').
+move('poliwrath','av pivot', 'liquidation').
+role('poliwrath', 'bulky setup').
+ability('poliwrath','bulky setup', 'water absorb').
+item('poliwrath','bulky setup', 'leftovers').
+tera('poliwrath','bulky setup', 'fighting').
+tera('poliwrath','bulky setup', 'steel').
+tera('poliwrath','bulky setup', 'water').
+move('poliwrath','bulky setup', 'bulk up').
+move('poliwrath','bulky setup', 'drain punch').
+move('poliwrath','bulky setup', 'ice punch').
+move('poliwrath','bulky setup', 'knock off').
+move('poliwrath','bulky setup', 'liquidation').
+move('poliwrath','bulky setup', 'poison jab').
+role('poliwrath', 'setup sweeper').
+ability('poliwrath','setup sweeper', 'swift swim').
+item('poliwrath','setup sweeper', 'life orb').
+tera('poliwrath','setup sweeper', 'dark').
+tera('poliwrath','setup sweeper', 'fighting').
+tera('poliwrath','setup sweeper', 'water').
+move('poliwrath','setup sweeper', 'close combat').
+move('poliwrath','setup sweeper', 'knock off').
+move('poliwrath','setup sweeper', 'liquidation').
+move('poliwrath','setup sweeper', 'rain dance').
+pokemon('polteageist', 78).
+ability('polteageist', 'cursed body').
+item('polteageist', 'white herb').
+role('polteageist', 'setup sweeper').
+ability('polteageist','setup sweeper', 'cursed body').
+item('polteageist','setup sweeper', 'white herb').
+tera('polteageist','setup sweeper', 'dark').
+tera('polteageist','setup sweeper', 'psychic').
+move('polteageist','setup sweeper', 'shadow ball').
+move('polteageist','setup sweeper', 'shell smash').
+move('polteageist','setup sweeper', 'stored power').
+move('polteageist','setup sweeper', 'strength sap').
+role('polteageist', 'tera blast user').
+ability('polteageist','tera blast user', 'cursed body').
+item('polteageist','tera blast user', 'white herb').
+tera('polteageist','tera blast user', 'fighting').
+move('polteageist','tera blast user', 'shadow ball').
+move('polteageist','tera blast user', 'shell smash').
+move('polteageist','tera blast user', 'stored power').
+move('polteageist','tera blast user', 'strength sap').
+move('polteageist','tera blast user', 'tera blast').
+pokemon('porygon-z', 83).
+ability('porygon-z', 'adaptability').
+ability('porygon-z', 'download').
+item('porygon-z', 'choice scarf').
+item('porygon-z', 'choice specs').
+item('porygon-z', 'life orb').
+role('porygon-z', 'fast attacker').
+ability('porygon-z','fast attacker', 'adaptability').
+ability('porygon-z','fast attacker', 'download').
+item('porygon-z','fast attacker', 'choice scarf').
+item('porygon-z','fast attacker', 'choice specs').
+item('porygon-z','fast attacker', 'life orb').
+tera('porygon-z','fast attacker', 'electric').
+tera('porygon-z','fast attacker', 'ghost').
+move('porygon-z','fast attacker', 'ice beam').
+move('porygon-z','fast attacker', 'nasty plot').
+move('porygon-z','fast attacker', 'shadow ball').
+move('porygon-z','fast attacker', 'thunderbolt').
+move('porygon-z','fast attacker', 'tri attack').
+move('porygon-z','fast attacker', 'trick').
+role('porygon-z', 'tera blast user').
+ability('porygon-z','tera blast user', 'adaptability').
+item('porygon-z','tera blast user', 'life orb').
+tera('porygon-z','tera blast user', 'fighting').
+move('porygon-z','tera blast user', 'agility').
+move('porygon-z','tera blast user', 'nasty plot').
+move('porygon-z','tera blast user', 'shadow ball').
+move('porygon-z','tera blast user', 'tera blast').
+pokemon('porygon2', 81).
+ability('porygon2', 'download').
+item('porygon2', 'eviolite').
+role('porygon2', 'bulky support').
+ability('porygon2','bulky support', 'download').
+item('porygon2','bulky support', 'eviolite').
+tera('porygon2','bulky support', 'electric').
+tera('porygon2','bulky support', 'ghost').
+tera('porygon2','bulky support', 'poison').
+move('porygon2','bulky support', 'discharge').
+move('porygon2','bulky support', 'ice beam').
+move('porygon2','bulky support', 'recover').
+move('porygon2','bulky support', 'tri attack').
+role('porygon2', 'tera blast user').
+ability('porygon2','tera blast user', 'download').
+item('porygon2','tera blast user', 'eviolite').
+tera('porygon2','tera blast user', 'fairy').
+tera('porygon2','tera blast user', 'fighting').
+move('porygon2','tera blast user', 'recover').
+move('porygon2','tera blast user', 'shadow ball').
+move('porygon2','tera blast user', 'tera blast').
+move('porygon2','tera blast user', 'thunder wave').
+pokemon('primarina', 83).
+ability('primarina', 'liquid voice').
+ability('primarina', 'torrent').
+item('primarina', 'choice specs').
+item('primarina', 'leftovers').
+role('primarina', 'bulky attacker').
+ability('primarina','bulky attacker', 'torrent').
+item('primarina','bulky attacker', 'leftovers').
+tera('primarina','bulky attacker', 'fairy').
+tera('primarina','bulky attacker', 'poison').
+tera('primarina','bulky attacker', 'steel').
+move('primarina','bulky attacker', 'calm mind').
+move('primarina','bulky attacker', 'draining kiss').
+move('primarina','bulky attacker', 'psychic').
+move('primarina','bulky attacker', 'sparkling aria').
+role('primarina', 'bulky setup').
+ability('primarina','bulky setup', 'liquid voice').
+item('primarina','bulky setup', 'leftovers').
+tera('primarina','bulky setup', 'fairy').
+tera('primarina','bulky setup', 'poison').
+tera('primarina','bulky setup', 'steel').
+move('primarina','bulky setup', 'calm mind').
+move('primarina','bulky setup', 'draining kiss').
+move('primarina','bulky setup', 'moonblast').
+move('primarina','bulky setup', 'psychic noise').
+role('primarina', 'wallbreaker').
+ability('primarina','wallbreaker', 'torrent').
+item('primarina','wallbreaker', 'choice specs').
+tera('primarina','wallbreaker', 'water').
+move('primarina','wallbreaker', 'flip turn').
+move('primarina','wallbreaker', 'hydro pump').
+move('primarina','wallbreaker', 'moonblast').
+move('primarina','wallbreaker', 'psychic').
+pokemon('probopass', 91).
+ability('probopass', 'magnet pull').
+item('probopass', 'chesto berry').
+item('probopass', 'leftovers').
+role('probopass', 'bulky setup').
+ability('probopass','bulky setup', 'magnet pull').
+item('probopass','bulky setup', 'chesto berry').
+item('probopass','bulky setup', 'leftovers').
+tera('probopass','bulky setup', 'fighting').
+move('probopass','bulky setup', 'body press').
+move('probopass','bulky setup', 'flash cannon').
+move('probopass','bulky setup', 'iron defense').
+move('probopass','bulky setup', 'power gem').
+move('probopass','bulky setup', 'rest').
+move('probopass','bulky setup', 'thunder wave').
+pokemon('pyroar', 88).
+ability('pyroar', 'unnerve').
+item('pyroar', 'heavy-duty boots').
+role('pyroar', 'fast attacker').
+ability('pyroar','fast attacker', 'unnerve').
+item('pyroar','fast attacker', 'heavy-duty boots').
+tera('pyroar','fast attacker', 'fire').
+move('pyroar','fast attacker', 'dark pulse').
+move('pyroar','fast attacker', 'fire blast').
+move('pyroar','fast attacker', 'hyper voice').
+move('pyroar','fast attacker', 'taunt').
+move('pyroar','fast attacker', 'will-o-wisp').
+move('pyroar','fast attacker', 'work up').
+pokemon('quagsire', 84).
+ability('quagsire', 'unaware').
+item('quagsire', 'leftovers').
+role('quagsire', 'bulky support').
+ability('quagsire','bulky support', 'unaware').
+item('quagsire','bulky support', 'leftovers').
+tera('quagsire','bulky support', 'fairy').
+tera('quagsire','bulky support', 'poison').
+tera('quagsire','bulky support', 'steel').
+move('quagsire','bulky support', 'earthquake').
+move('quagsire','bulky support', 'ice beam').
+move('quagsire','bulky support', 'recover').
+move('quagsire','bulky support', 'spikes').
+move('quagsire','bulky support', 'toxic').
+pokemon('quaquaval', 79).
+ability('quaquaval', 'moxie').
+item('quaquaval', 'choice band').
+item('quaquaval', 'leftovers').
+item('quaquaval', 'life orb').
+role('quaquaval', 'bulky attacker').
+ability('quaquaval','bulky attacker', 'moxie').
+item('quaquaval','bulky attacker', 'leftovers').
+tera('quaquaval','bulky attacker', 'steel').
+move('quaquaval','bulky attacker', 'aqua step').
+move('quaquaval','bulky attacker', 'close combat').
+move('quaquaval','bulky attacker', 'rapid spin').
+move('quaquaval','bulky attacker', 'roost').
+move('quaquaval','bulky attacker', 'swords dance').
+role('quaquaval', 'wallbreaker').
+ability('quaquaval','wallbreaker', 'moxie').
+item('quaquaval','wallbreaker', 'choice band').
+tera('quaquaval','wallbreaker', 'fighting').
+tera('quaquaval','wallbreaker', 'water').
+move('quaquaval','wallbreaker', 'aqua step').
+move('quaquaval','wallbreaker', 'close combat').
+move('quaquaval','wallbreaker', 'knock off').
+move('quaquaval','wallbreaker', 'triple axel').
+move('quaquaval','wallbreaker', 'u-turn').
+role('quaquaval', 'setup sweeper').
+ability('quaquaval','setup sweeper', 'moxie').
+item('quaquaval','setup sweeper', 'life orb').
+tera('quaquaval','setup sweeper', 'fighting').
+tera('quaquaval','setup sweeper', 'steel').
+tera('quaquaval','setup sweeper', 'water').
+move('quaquaval','setup sweeper', 'aqua step').
+move('quaquaval','setup sweeper', 'close combat').
+move('quaquaval','setup sweeper', 'encore').
+move('quaquaval','setup sweeper', 'knock off').
+move('quaquaval','setup sweeper', 'swords dance').
+move('quaquaval','setup sweeper', 'triple axel').
+pokemon('qwilfish', 86).
+ability('qwilfish', 'intimidate').
+item('qwilfish', 'heavy-duty boots').
+item('qwilfish', 'leftovers').
+role('qwilfish', 'fast support').
+ability('qwilfish','fast support', 'intimidate').
+item('qwilfish','fast support', 'heavy-duty boots').
+tera('qwilfish','fast support', 'dark').
+tera('qwilfish','fast support', 'grass').
+move('qwilfish','fast support', 'flip turn').
+move('qwilfish','fast support', 'gunk shot').
+move('qwilfish','fast support', 'pain split').
+move('qwilfish','fast support', 'thunder wave').
+move('qwilfish','fast support', 'toxic').
+move('qwilfish','fast support', 'toxic spikes').
+role('qwilfish', 'bulky support').
+ability('qwilfish','bulky support', 'intimidate').
+item('qwilfish','bulky support', 'leftovers').
+tera('qwilfish','bulky support', 'dark').
+tera('qwilfish','bulky support', 'grass').
+move('qwilfish','bulky support', 'destiny bond').
+move('qwilfish','bulky support', 'gunk shot').
+move('qwilfish','bulky support', 'spikes').
+move('qwilfish','bulky support', 'taunt').
+move('qwilfish','bulky support', 'thunder wave').
+move('qwilfish','bulky support', 'toxic spikes').
+move('qwilfish','bulky support', 'waterfall').
+pokemon('qwilfish-hisui', 83).
+ability('qwilfish-hisui', 'intimidate').
+item('qwilfish-hisui', 'eviolite').
+role('qwilfish-hisui', 'bulky support').
+ability('qwilfish-hisui','bulky support', 'intimidate').
+item('qwilfish-hisui','bulky support', 'eviolite').
+tera('qwilfish-hisui','bulky support', 'flying').
+tera('qwilfish-hisui','bulky support', 'poison').
+move('qwilfish-hisui','bulky support', 'crunch').
+move('qwilfish-hisui','bulky support', 'gunk shot').
+move('qwilfish-hisui','bulky support', 'spikes').
+move('qwilfish-hisui','bulky support', 'taunt').
+move('qwilfish-hisui','bulky support', 'toxic spikes').
+pokemon('rabsca', 91).
+ability('rabsca', 'synchronize').
+item('rabsca', 'heavy-duty boots').
+role('rabsca', 'wallbreaker').
+ability('rabsca','wallbreaker', 'synchronize').
+item('rabsca','wallbreaker', 'heavy-duty boots').
+tera('rabsca','wallbreaker', 'steel').
+move('rabsca','wallbreaker', 'bug buzz').
+move('rabsca','wallbreaker', 'earth power').
+move('rabsca','wallbreaker', 'psychic').
+move('rabsca','wallbreaker', 'recover').
+move('rabsca','wallbreaker', 'revival blessing').
+move('rabsca','wallbreaker', 'trick room').
+pokemon('raging bolt', 78).
+ability('raging bolt', 'protosynthesis').
+item('raging bolt', 'assault vest').
+item('raging bolt', 'booster energy').
+item('raging bolt', 'leftovers').
+role('raging bolt', 'bulky setup').
+ability('raging bolt','bulky setup', 'protosynthesis').
+item('raging bolt','bulky setup', 'leftovers').
+tera('raging bolt','bulky setup', 'electric').
+tera('raging bolt','bulky setup', 'fairy').
+move('raging bolt','bulky setup', 'calm mind').
+move('raging bolt','bulky setup', 'draco meteor').
+move('raging bolt','bulky setup', 'thunderbolt').
+move('raging bolt','bulky setup', 'thunderclap').
+role('raging bolt', 'av pivot').
+ability('raging bolt','av pivot', 'protosynthesis').
+item('raging bolt','av pivot', 'assault vest').
+tera('raging bolt','av pivot', 'electric').
+move('raging bolt','av pivot', 'discharge').
+move('raging bolt','av pivot', 'draco meteor').
+move('raging bolt','av pivot', 'thunderbolt').
+move('raging bolt','av pivot', 'thunderclap').
+move('raging bolt','av pivot', 'volt switch').
+role('raging bolt', 'fast bulky setup').
+ability('raging bolt','fast bulky setup', 'protosynthesis').
+item('raging bolt','fast bulky setup', 'booster energy').
+tera('raging bolt','fast bulky setup', 'electric').
+tera('raging bolt','fast bulky setup', 'fairy').
+move('raging bolt','fast bulky setup', 'calm mind').
+move('raging bolt','fast bulky setup', 'dragon pulse').
+move('raging bolt','fast bulky setup', 'thunderbolt').
+move('raging bolt','fast bulky setup', 'thunderclap').
+pokemon('raichu', 88).
+ability('raichu', 'lightning rod').
+item('raichu', 'assault vest').
+item('raichu', 'choice specs').
+item('raichu', 'focus sash').
+item('raichu', 'heavy-duty boots').
+item('raichu', 'leftovers').
+item('raichu', 'life orb').
+role('raichu', 'fast support').
+ability('raichu','fast support', 'lightning rod').
+item('raichu','fast support', 'assault vest').
+item('raichu','fast support', 'choice specs').
+item('raichu','fast support', 'focus sash').
+item('raichu','fast support', 'heavy-duty boots').
+item('raichu','fast support', 'leftovers').
+item('raichu','fast support', 'life orb').
+tera('raichu','fast support', 'grass').
+tera('raichu','fast support', 'water').
+move('raichu','fast support', 'alluring voice').
+move('raichu','fast support', 'encore').
+move('raichu','fast support', 'focus blast').
+move('raichu','fast support', 'grass knot').
+move('raichu','fast support', 'knock off').
+move('raichu','fast support', 'nasty plot').
+move('raichu','fast support', 'nuzzle').
+move('raichu','fast support', 'surf').
+move('raichu','fast support', 'thunderbolt').
+move('raichu','fast support', 'volt switch').
+role('raichu', 'tera blast user').
+ability('raichu','tera blast user', 'lightning rod').
+item('raichu','tera blast user', 'life orb').
+tera('raichu','tera blast user', 'ice').
+move('raichu','tera blast user', 'encore').
+move('raichu','tera blast user', 'focus blast').
+move('raichu','tera blast user', 'nasty plot').
+move('raichu','tera blast user', 'surf').
+move('raichu','tera blast user', 'tera blast').
+move('raichu','tera blast user', 'thunderbolt').
+pokemon('raichu-alola', 87).
+ability('raichu-alola', 'surge surfer').
+item('raichu-alola', 'choice specs').
+item('raichu-alola', 'life orb').
+role('raichu-alola', 'fast attacker').
+ability('raichu-alola','fast attacker', 'surge surfer').
+item('raichu-alola','fast attacker', 'choice specs').
+tera('raichu-alola','fast attacker', 'fairy').
+tera('raichu-alola','fast attacker', 'fighting').
+tera('raichu-alola','fast attacker', 'grass').
+tera('raichu-alola','fast attacker', 'water').
+move('raichu-alola','fast attacker', 'alluring voice').
+move('raichu-alola','fast attacker', 'focus blast').
+move('raichu-alola','fast attacker', 'grass knot').
+move('raichu-alola','fast attacker', 'psychic').
+move('raichu-alola','fast attacker', 'psyshock').
+move('raichu-alola','fast attacker', 'surf').
+move('raichu-alola','fast attacker', 'thunderbolt').
+move('raichu-alola','fast attacker', 'volt switch').
+role('raichu-alola', 'setup sweeper').
+ability('raichu-alola','setup sweeper', 'surge surfer').
+item('raichu-alola','setup sweeper', 'life orb').
+tera('raichu-alola','setup sweeper', 'fairy').
+tera('raichu-alola','setup sweeper', 'fighting').
+tera('raichu-alola','setup sweeper', 'grass').
+tera('raichu-alola','setup sweeper', 'water').
+move('raichu-alola','setup sweeper', 'alluring voice').
+move('raichu-alola','setup sweeper', 'focus blast').
+move('raichu-alola','setup sweeper', 'grass knot').
+move('raichu-alola','setup sweeper', 'nasty plot').
+move('raichu-alola','setup sweeper', 'psyshock').
+move('raichu-alola','setup sweeper', 'surf').
+move('raichu-alola','setup sweeper', 'thunderbolt').
+pokemon('raikou', 82).
+ability('raikou', 'pressure').
+item('raikou', 'choice specs').
+item('raikou', 'heavy-duty boots').
+item('raikou', 'leftovers').
+role('raikou', 'fast support').
+ability('raikou','fast support', 'pressure').
+item('raikou','fast support', 'heavy-duty boots').
+tera('raikou','fast support', 'electric').
+tera('raikou','fast support', 'flying').
+tera('raikou','fast support', 'water').
+move('raikou','fast support', 'calm mind').
+move('raikou','fast support', 'scald').
+move('raikou','fast support', 'thunderbolt').
+move('raikou','fast support', 'volt switch').
+role('raikou', 'bulky attacker').
+ability('raikou','bulky attacker', 'pressure').
+item('raikou','bulky attacker', 'choice specs').
+item('raikou','bulky attacker', 'leftovers').
+tera('raikou','bulky attacker', 'electric').
+tera('raikou','bulky attacker', 'water').
+move('raikou','bulky attacker', 'calm mind').
+move('raikou','bulky attacker', 'scald').
+move('raikou','bulky attacker', 'shadow ball').
+move('raikou','bulky attacker', 'thunderbolt').
+move('raikou','bulky attacker', 'volt switch').
+role('raikou', 'bulky setup').
+ability('raikou','bulky setup', 'pressure').
+item('raikou','bulky setup', 'leftovers').
+tera('raikou','bulky setup', 'grass').
+tera('raikou','bulky setup', 'water').
+move('raikou','bulky setup', 'calm mind').
+move('raikou','bulky setup', 'scald').
+move('raikou','bulky setup', 'substitute').
+move('raikou','bulky setup', 'thunderbolt').
+pokemon('rampardos', 90).
+ability('rampardos', 'sheer force').
+item('rampardos', 'choice scarf').
+item('rampardos', 'life orb').
+role('rampardos', 'wallbreaker').
+ability('rampardos','wallbreaker', 'sheer force').
+item('rampardos','wallbreaker', 'life orb').
+tera('rampardos','wallbreaker', 'fire').
+tera('rampardos','wallbreaker', 'psychic').
+tera('rampardos','wallbreaker', 'rock').
+move('rampardos','wallbreaker', 'earthquake').
+move('rampardos','wallbreaker', 'fire punch').
+move('rampardos','wallbreaker', 'rock slide').
+move('rampardos','wallbreaker', 'zen headbutt').
+role('rampardos', 'fast attacker').
+ability('rampardos','fast attacker', 'sheer force').
+item('rampardos','fast attacker', 'choice scarf').
+tera('rampardos','fast attacker', 'fire').
+tera('rampardos','fast attacker', 'ground').
+tera('rampardos','fast attacker', 'rock').
+move('rampardos','fast attacker', 'earthquake').
+move('rampardos','fast attacker', 'fire punch').
+move('rampardos','fast attacker', 'head smash').
+move('rampardos','fast attacker', 'rock slide').
+pokemon('rayquaza', 72).
+ability('rayquaza', 'air lock').
+item('rayquaza', 'choice band').
+item('rayquaza', 'heavy-duty boots').
+item('rayquaza', 'loaded dice').
+role('rayquaza', 'setup sweeper').
+ability('rayquaza','setup sweeper', 'air lock').
+item('rayquaza','setup sweeper', 'heavy-duty boots').
+tera('rayquaza','setup sweeper', 'flying').
+tera('rayquaza','setup sweeper', 'steel').
+move('rayquaza','setup sweeper', 'dragon ascent').
+move('rayquaza','setup sweeper', 'dragon dance').
+move('rayquaza','setup sweeper', 'earthquake').
+move('rayquaza','setup sweeper', 'outrage').
+role('rayquaza', 'fast attacker').
+ability('rayquaza','fast attacker', 'air lock').
+item('rayquaza','fast attacker', 'choice band').
+item('rayquaza','fast attacker', 'heavy-duty boots').
+tera('rayquaza','fast attacker', 'normal').
+move('rayquaza','fast attacker', 'dragon ascent').
+move('rayquaza','fast attacker', 'earthquake').
+move('rayquaza','fast attacker', 'extreme speed').
+move('rayquaza','fast attacker', 'swords dance').
+move('rayquaza','fast attacker', 'u-turn').
+role('rayquaza', 'fast bulky setup').
+ability('rayquaza','fast bulky setup', 'air lock').
+item('rayquaza','fast bulky setup', 'loaded dice').
+tera('rayquaza','fast bulky setup', 'dragon').
+tera('rayquaza','fast bulky setup', 'flying').
+tera('rayquaza','fast bulky setup', 'steel').
+move('rayquaza','fast bulky setup', 'dragon ascent').
+move('rayquaza','fast bulky setup', 'earthquake').
+move('rayquaza','fast bulky setup', 'scale shot').
+move('rayquaza','fast bulky setup', 'swords dance').
+pokemon('regice', 88).
+ability('regice', 'clear body').
+item('regice', 'heavy-duty boots').
+role('regice', 'bulky attacker').
+ability('regice','bulky attacker', 'clear body').
+item('regice','bulky attacker', 'heavy-duty boots').
+tera('regice','bulky attacker', 'electric').
+move('regice','bulky attacker', 'body press').
+move('regice','bulky attacker', 'ice beam').
+move('regice','bulky attacker', 'rest').
+move('regice','bulky attacker', 'sleep talk').
+move('regice','bulky attacker', 'thunder wave').
+move('regice','bulky attacker', 'thunderbolt').
+pokemon('regidrago', 77).
+ability('regidrago', 'dragon's maw').
+item('regidrago', 'choice scarf').
+item('regidrago', 'life orb').
+item('regidrago', 'lum berry').
+role('regidrago', 'setup sweeper').
+ability('regidrago','setup sweeper', 'dragon's maw').
+item('regidrago','setup sweeper', 'lum berry').
+tera('regidrago','setup sweeper', 'dragon').
+move('regidrago','setup sweeper', 'draco meteor').
+move('regidrago','setup sweeper', 'dragon dance').
+move('regidrago','setup sweeper', 'earthquake').
+move('regidrago','setup sweeper', 'outrage').
+role('regidrago', 'fast attacker').
+ability('regidrago','fast attacker', 'dragon's maw').
+item('regidrago','fast attacker', 'choice scarf').
+tera('regidrago','fast attacker', 'dragon').
+move('regidrago','fast attacker', 'draco meteor').
+move('regidrago','fast attacker', 'dragon energy').
+move('regidrago','fast attacker', 'earthquake').
+move('regidrago','fast attacker', 'outrage').
+role('regidrago', 'tera blast user').
+ability('regidrago','tera blast user', 'dragon's maw').
+item('regidrago','tera blast user', 'life orb').
+tera('regidrago','tera blast user', 'steel').
+move('regidrago','tera blast user', 'dragon claw').
+move('regidrago','tera blast user', 'dragon dance').
+move('regidrago','tera blast user', 'earthquake').
+move('regidrago','tera blast user', 'tera blast').
+pokemon('regieleki', 79).
+ability('regieleki', 'transistor').
+item('regieleki', 'magnet').
+role('regieleki', 'fast support').
+ability('regieleki','fast support', 'transistor').
+item('regieleki','fast support', 'magnet').
+tera('regieleki','fast support', 'electric').
+move('regieleki','fast support', 'explosion').
+move('regieleki','fast support', 'rapid spin').
+move('regieleki','fast support', 'thunderbolt').
+move('regieleki','fast support', 'volt switch').
+role('regieleki', 'tera blast user').
+ability('regieleki','tera blast user', 'transistor').
+item('regieleki','tera blast user', 'magnet').
+tera('regieleki','tera blast user', 'ice').
+move('regieleki','tera blast user', 'rapid spin').
+move('regieleki','tera blast user', 'tera blast').
+move('regieleki','tera blast user', 'thunderbolt').
+move('regieleki','tera blast user', 'volt switch').
+pokemon('regigigas', 84).
+ability('regigigas', 'slow start').
+item('regigigas', 'leftovers').
+role('regigigas', 'bulky attacker').
+ability('regigigas','bulky attacker', 'slow start').
+item('regigigas','bulky attacker', 'leftovers').
+tera('regigigas','bulky attacker', 'ghost').
+tera('regigigas','bulky attacker', 'poison').
+move('regigigas','bulky attacker', 'body slam').
+move('regigigas','bulky attacker', 'knock off').
+move('regigigas','bulky attacker', 'protect').
+move('regigigas','bulky attacker', 'substitute').
+role('regigigas', 'bulky support').
+ability('regigigas','bulky support', 'slow start').
+item('regigigas','bulky support', 'leftovers').
+tera('regigigas','bulky support', 'ghost').
+move('regigigas','bulky support', 'body slam').
+move('regigigas','bulky support', 'knock off').
+move('regigigas','bulky support', 'rest').
+move('regigigas','bulky support', 'sleep talk').
+pokemon('regirock', 83).
+ability('regirock', 'clear body').
+item('regirock', 'chesto berry').
+item('regirock', 'leftovers').
+role('regirock', 'bulky setup').
+ability('regirock','bulky setup', 'clear body').
+item('regirock','bulky setup', 'chesto berry').
+tera('regirock','bulky setup', 'fighting').
+move('regirock','bulky setup', 'body press').
+move('regirock','bulky setup', 'curse').
+move('regirock','bulky setup', 'iron defense').
+move('regirock','bulky setup', 'rest').
+move('regirock','bulky setup', 'stone edge').
+role('regirock', 'bulky attacker').
+ability('regirock','bulky attacker', 'clear body').
+item('regirock','bulky attacker', 'leftovers').
+tera('regirock','bulky attacker', 'fighting').
+move('regirock','bulky attacker', 'body press').
+move('regirock','bulky attacker', 'iron defense').
+move('regirock','bulky attacker', 'stealth rock').
+move('regirock','bulky attacker', 'stone edge').
+move('regirock','bulky attacker', 'thunder wave').
+pokemon('registeel', 81).
+ability('registeel', 'clear body').
+item('registeel', 'chesto berry').
+item('registeel', 'leftovers').
+role('registeel', 'bulky setup').
+ability('registeel','bulky setup', 'clear body').
+item('registeel','bulky setup', 'chesto berry').
+tera('registeel','bulky setup', 'fighting').
+move('registeel','bulky setup', 'body press').
+move('registeel','bulky setup', 'iron defense').
+move('registeel','bulky setup', 'iron head').
+move('registeel','bulky setup', 'rest').
+role('registeel', 'bulky support').
+ability('registeel','bulky support', 'clear body').
+item('registeel','bulky support', 'leftovers').
+tera('registeel','bulky support', 'fighting').
+move('registeel','bulky support', 'body press').
+move('registeel','bulky support', 'iron defense').
+move('registeel','bulky support', 'iron head').
+move('registeel','bulky support', 'stealth rock').
+move('registeel','bulky support', 'thunder wave').
+pokemon('reshiram', 76).
+ability('reshiram', 'turboblaze').
+item('reshiram', 'heavy-duty boots').
+role('reshiram', 'fast attacker').
+ability('reshiram','fast attacker', 'turboblaze').
+item('reshiram','fast attacker', 'heavy-duty boots').
+tera('reshiram','fast attacker', 'fire').
+tera('reshiram','fast attacker', 'ground').
+move('reshiram','fast attacker', 'blue flare').
+move('reshiram','fast attacker', 'draco meteor').
+move('reshiram','fast attacker', 'dragon tail').
+move('reshiram','fast attacker', 'earth power').
+move('reshiram','fast attacker', 'will-o-wisp').
+role('reshiram', 'setup sweeper').
+ability('reshiram','setup sweeper', 'turboblaze').
+item('reshiram','setup sweeper', 'heavy-duty boots').
+tera('reshiram','setup sweeper', 'dragon').
+tera('reshiram','setup sweeper', 'fire').
+move('reshiram','setup sweeper', 'dragon dance').
+move('reshiram','setup sweeper', 'flare blitz').
+move('reshiram','setup sweeper', 'outrage').
+move('reshiram','setup sweeper', 'stone edge').
+pokemon('reuniclus', 88).
+ability('reuniclus', 'magic guard').
+item('reuniclus', 'life orb').
+role('reuniclus', 'bulky setup').
+ability('reuniclus','bulky setup', 'magic guard').
+item('reuniclus','bulky setup', 'life orb').
+tera('reuniclus','bulky setup', 'fighting').
+tera('reuniclus','bulky setup', 'steel').
+move('reuniclus','bulky setup', 'calm mind').
+move('reuniclus','bulky setup', 'focus blast').
+move('reuniclus','bulky setup', 'psychic').
+move('reuniclus','bulky setup', 'psyshock').
+move('reuniclus','bulky setup', 'recover').
+pokemon('revavroom', 79).
+ability('revavroom', 'filter').
+item('revavroom', 'life orb').
+role('revavroom', 'fast attacker').
+ability('revavroom','fast attacker', 'filter').
+item('revavroom','fast attacker', 'life orb').
+tera('revavroom','fast attacker', 'ground').
+move('revavroom','fast attacker', 'gunk shot').
+move('revavroom','fast attacker', 'high horsepower').
+move('revavroom','fast attacker', 'iron head').
+move('revavroom','fast attacker', 'shift gear').
+pokemon('rhydon', 85).
+ability('rhydon', 'lightning rod').
+item('rhydon', 'eviolite').
+role('rhydon', 'bulky attacker').
+ability('rhydon','bulky attacker', 'lightning rod').
+item('rhydon','bulky attacker', 'eviolite').
+tera('rhydon','bulky attacker', 'dragon').
+tera('rhydon','bulky attacker', 'fairy').
+tera('rhydon','bulky attacker', 'flying').
+tera('rhydon','bulky attacker', 'grass').
+tera('rhydon','bulky attacker', 'water').
+move('rhydon','bulky attacker', 'earthquake').
+move('rhydon','bulky attacker', 'megahorn').
+move('rhydon','bulky attacker', 'stealth rock').
+move('rhydon','bulky attacker', 'stone edge').
+move('rhydon','bulky attacker', 'swords dance').
+pokemon('rhyperior', 82).
+ability('rhyperior', 'solid rock').
+item('rhyperior', 'assault vest').
+item('rhyperior', 'choice band').
+item('rhyperior', 'weakness policy').
+role('rhyperior', 'bulky setup').
+ability('rhyperior','bulky setup', 'solid rock').
+item('rhyperior','bulky setup', 'weakness policy').
+tera('rhyperior','bulky setup', 'bug').
+tera('rhyperior','bulky setup', 'ground').
+tera('rhyperior','bulky setup', 'rock').
+move('rhyperior','bulky setup', 'earthquake').
+move('rhyperior','bulky setup', 'ice punch').
+move('rhyperior','bulky setup', 'megahorn').
+move('rhyperior','bulky setup', 'rock polish').
+move('rhyperior','bulky setup', 'stone edge').
+role('rhyperior', 'bulky attacker').
+ability('rhyperior','bulky attacker', 'solid rock').
+item('rhyperior','bulky attacker', 'assault vest').
+item('rhyperior','bulky attacker', 'choice band').
+tera('rhyperior','bulky attacker', 'bug').
+tera('rhyperior','bulky attacker', 'dragon').
+tera('rhyperior','bulky attacker', 'grass').
+tera('rhyperior','bulky attacker', 'steel').
+move('rhyperior','bulky attacker', 'dragon tail').
+move('rhyperior','bulky attacker', 'earthquake').
+move('rhyperior','bulky attacker', 'ice punch').
+move('rhyperior','bulky attacker', 'megahorn').
+move('rhyperior','bulky attacker', 'stone edge').
+pokemon('ribombee', 83).
+ability('ribombee', 'shield dust').
+item('ribombee', 'focus sash').
+item('ribombee', 'heavy-duty boots').
+role('ribombee', 'fast support').
+ability('ribombee','fast support', 'shield dust').
+item('ribombee','fast support', 'focus sash').
+item('ribombee','fast support', 'heavy-duty boots').
+tera('ribombee','fast support', 'ghost').
+move('ribombee','fast support', 'bug buzz').
+move('ribombee','fast support', 'moonblast').
+move('ribombee','fast support', 'sticky web').
+move('ribombee','fast support', 'stun spore').
+move('ribombee','fast support', 'u-turn').
+role('ribombee', 'tera blast user').
+ability('ribombee','tera blast user', 'shield dust').
+item('ribombee','tera blast user', 'heavy-duty boots').
+tera('ribombee','tera blast user', 'ground').
+move('ribombee','tera blast user', 'bug buzz').
+move('ribombee','tera blast user', 'moonblast').
+move('ribombee','tera blast user', 'quiver dance').
+move('ribombee','tera blast user', 'tera blast').
+pokemon('rillaboom', 79).
+ability('rillaboom', 'grassy surge').
+item('rillaboom', 'choice band').
+item('rillaboom', 'life orb').
+role('rillaboom', 'wallbreaker').
+ability('rillaboom','wallbreaker', 'grassy surge').
+item('rillaboom','wallbreaker', 'choice band').
+item('rillaboom','wallbreaker', 'life orb').
+tera('rillaboom','wallbreaker', 'grass').
+move('rillaboom','wallbreaker', 'grassy glide').
+move('rillaboom','wallbreaker', 'knock off').
+move('rillaboom','wallbreaker', 'swords dance').
+move('rillaboom','wallbreaker', 'u-turn').
+move('rillaboom','wallbreaker', 'wood hammer').
+role('rillaboom', 'fast attacker').
+ability('rillaboom','fast attacker', 'grassy surge').
+item('rillaboom','fast attacker', 'choice band').
+item('rillaboom','fast attacker', 'life orb').
+tera('rillaboom','fast attacker', 'grass').
+move('rillaboom','fast attacker', 'grassy glide').
+move('rillaboom','fast attacker', 'high horsepower').
+move('rillaboom','fast attacker', 'swords dance').
+move('rillaboom','fast attacker', 'u-turn').
+move('rillaboom','fast attacker', 'wood hammer').
+pokemon('roaring moon', 72).
+ability('roaring moon', 'protosynthesis').
+item('roaring moon', 'booster energy').
+item('roaring moon', 'choice band').
+item('roaring moon', 'lum berry').
+role('roaring moon', 'bulky attacker').
+ability('roaring moon','bulky attacker', 'protosynthesis').
+item('roaring moon','bulky attacker', 'choice band').
+tera('roaring moon','bulky attacker', 'dark').
+tera('roaring moon','bulky attacker', 'dragon').
+tera('roaring moon','bulky attacker', 'steel').
+move('roaring moon','bulky attacker', 'iron head').
+move('roaring moon','bulky attacker', 'knock off').
+move('roaring moon','bulky attacker', 'outrage').
+move('roaring moon','bulky attacker', 'u-turn').
+role('roaring moon', 'setup sweeper').
+ability('roaring moon','setup sweeper', 'protosynthesis').
+item('roaring moon','setup sweeper', 'lum berry').
+tera('roaring moon','setup sweeper', 'dark').
+tera('roaring moon','setup sweeper', 'dragon').
+tera('roaring moon','setup sweeper', 'fairy').
+tera('roaring moon','setup sweeper', 'ground').
+tera('roaring moon','setup sweeper', 'poison').
+tera('roaring moon','setup sweeper', 'steel').
+move('roaring moon','setup sweeper', 'dragon dance').
+move('roaring moon','setup sweeper', 'earthquake').
+move('roaring moon','setup sweeper', 'iron head').
+move('roaring moon','setup sweeper', 'knock off').
+move('roaring moon','setup sweeper', 'outrage').
+move('roaring moon','setup sweeper', 'roost').
+role('roaring moon', 'fast bulky setup').
+ability('roaring moon','fast bulky setup', 'protosynthesis').
+item('roaring moon','fast bulky setup', 'booster energy').
+tera('roaring moon','fast bulky setup', 'flying').
+tera('roaring moon','fast bulky setup', 'steel').
+move('roaring moon','fast bulky setup', 'acrobatics').
+move('roaring moon','fast bulky setup', 'dragon dance').
+move('roaring moon','fast bulky setup', 'iron head').
+move('roaring moon','fast bulky setup', 'knock off').
+move('roaring moon','fast bulky setup', 'outrage').
+pokemon('rotom', 88).
+ability('rotom', 'levitate').
+item('rotom', 'choice scarf').
+item('rotom', 'life orb').
+role('rotom', 'fast attacker').
+ability('rotom','fast attacker', 'levitate').
+item('rotom','fast attacker', 'choice scarf').
+item('rotom','fast attacker', 'life orb').
+tera('rotom','fast attacker', 'electric').
+tera('rotom','fast attacker', 'ghost').
+move('rotom','fast attacker', 'nasty plot').
+move('rotom','fast attacker', 'shadow ball').
+move('rotom','fast attacker', 'thunderbolt').
+move('rotom','fast attacker', 'trick').
+move('rotom','fast attacker', 'volt switch').
+move('rotom','fast attacker', 'will-o-wisp').
+pokemon('rotom-fan', 86).
+ability('rotom-fan', 'levitate').
+item('rotom-fan', 'heavy-duty boots').
+role('rotom-fan', 'bulky attacker').
+ability('rotom-fan','bulky attacker', 'levitate').
+item('rotom-fan','bulky attacker', 'heavy-duty boots').
+tera('rotom-fan','bulky attacker', 'electric').
+tera('rotom-fan','bulky attacker', 'steel').
+move('rotom-fan','bulky attacker', 'air slash').
+move('rotom-fan','bulky attacker', 'nasty plot').
+move('rotom-fan','bulky attacker', 'thunder wave').
+move('rotom-fan','bulky attacker', 'thunderbolt').
+move('rotom-fan','bulky attacker', 'volt switch').
+move('rotom-fan','bulky attacker', 'will-o-wisp').
+pokemon('rotom-frost', 87).
+ability('rotom-frost', 'levitate').
+item('rotom-frost', 'heavy-duty boots').
+role('rotom-frost', 'fast attacker').
+ability('rotom-frost','fast attacker', 'levitate').
+item('rotom-frost','fast attacker', 'heavy-duty boots').
+tera('rotom-frost','fast attacker', 'electric').
+move('rotom-frost','fast attacker', 'blizzard').
+move('rotom-frost','fast attacker', 'nasty plot').
+move('rotom-frost','fast attacker', 'thunderbolt').
+move('rotom-frost','fast attacker', 'volt switch').
+move('rotom-frost','fast attacker', 'will-o-wisp').
+pokemon('rotom-heat', 83).
+ability('rotom-heat', 'levitate').
+item('rotom-heat', 'heavy-duty boots').
+role('rotom-heat', 'bulky attacker').
+ability('rotom-heat','bulky attacker', 'levitate').
+item('rotom-heat','bulky attacker', 'heavy-duty boots').
+tera('rotom-heat','bulky attacker', 'electric').
+tera('rotom-heat','bulky attacker', 'fire').
+tera('rotom-heat','bulky attacker', 'steel').
+move('rotom-heat','bulky attacker', 'nasty plot').
+move('rotom-heat','bulky attacker', 'overheat').
+move('rotom-heat','bulky attacker', 'pain split').
+move('rotom-heat','bulky attacker', 'thunderbolt').
+move('rotom-heat','bulky attacker', 'volt switch').
+move('rotom-heat','bulky attacker', 'will-o-wisp').
+role('rotom-heat', 'bulky support').
+ability('rotom-heat','bulky support', 'levitate').
+item('rotom-heat','bulky support', 'heavy-duty boots').
+tera('rotom-heat','bulky support', 'electric').
+tera('rotom-heat','bulky support', 'steel').
+move('rotom-heat','bulky support', 'discharge').
+move('rotom-heat','bulky support', 'overheat').
+move('rotom-heat','bulky support', 'pain split').
+move('rotom-heat','bulky support', 'volt switch').
+move('rotom-heat','bulky support', 'will-o-wisp').
+pokemon('rotom-mow', 87).
+ability('rotom-mow', 'levitate').
+item('rotom-mow', 'choice scarf').
+item('rotom-mow', 'leftovers').
+role('rotom-mow', 'bulky attacker').
+ability('rotom-mow','bulky attacker', 'levitate').
+item('rotom-mow','bulky attacker', 'choice scarf').
+item('rotom-mow','bulky attacker', 'leftovers').
+tera('rotom-mow','bulky attacker', 'electric').
+tera('rotom-mow','bulky attacker', 'grass').
+move('rotom-mow','bulky attacker', 'leaf storm').
+move('rotom-mow','bulky attacker', 'nasty plot').
+move('rotom-mow','bulky attacker', 'thunderbolt').
+move('rotom-mow','bulky attacker', 'trick').
+move('rotom-mow','bulky attacker', 'volt switch').
+move('rotom-mow','bulky attacker', 'will-o-wisp').
+pokemon('rotom-wash', 82).
+ability('rotom-wash', 'levitate').
+item('rotom-wash', 'choice scarf').
+item('rotom-wash', 'leftovers').
+role('rotom-wash', 'bulky support').
+ability('rotom-wash','bulky support', 'levitate').
+item('rotom-wash','bulky support', 'leftovers').
+tera('rotom-wash','bulky support', 'electric').
+tera('rotom-wash','bulky support', 'steel').
+move('rotom-wash','bulky support', 'discharge').
+move('rotom-wash','bulky support', 'hydro pump').
+move('rotom-wash','bulky support', 'pain split').
+move('rotom-wash','bulky support', 'volt switch').
+move('rotom-wash','bulky support', 'will-o-wisp').
+role('rotom-wash', 'bulky attacker').
+ability('rotom-wash','bulky attacker', 'levitate').
+item('rotom-wash','bulky attacker', 'choice scarf').
+item('rotom-wash','bulky attacker', 'leftovers').
+tera('rotom-wash','bulky attacker', 'electric').
+tera('rotom-wash','bulky attacker', 'steel').
+move('rotom-wash','bulky attacker', 'hydro pump').
+move('rotom-wash','bulky attacker', 'nasty plot').
+move('rotom-wash','bulky attacker', 'pain split').
+move('rotom-wash','bulky attacker', 'thunderbolt').
+move('rotom-wash','bulky attacker', 'trick').
+move('rotom-wash','bulky attacker', 'volt switch').
+move('rotom-wash','bulky attacker', 'will-o-wisp').
+pokemon('sableye', 87).
+ability('sableye', 'prankster').
+item('sableye', 'leftovers').
+role('sableye', 'bulky support').
+ability('sableye','bulky support', 'prankster').
+item('sableye','bulky support', 'leftovers').
+tera('sableye','bulky support', 'poison').
+tera('sableye','bulky support', 'steel').
+move('sableye','bulky support', 'encore').
+move('sableye','bulky support', 'knock off').
+move('sableye','bulky support', 'recover').
+move('sableye','bulky support', 'thunder wave').
+move('sableye','bulky support', 'will-o-wisp').
+pokemon('salamence', 77).
+ability('salamence', 'intimidate').
+ability('salamence', 'moxie').
+item('salamence', 'heavy-duty boots').
+role('salamence', 'setup sweeper').
+ability('salamence','setup sweeper', 'intimidate').
+ability('salamence','setup sweeper', 'moxie').
+item('salamence','setup sweeper', 'heavy-duty boots').
+tera('salamence','setup sweeper', 'dragon').
+tera('salamence','setup sweeper', 'ground').
+tera('salamence','setup sweeper', 'steel').
+move('salamence','setup sweeper', 'dragon dance').
+move('salamence','setup sweeper', 'dual wingbeat').
+move('salamence','setup sweeper', 'earthquake').
+move('salamence','setup sweeper', 'outrage').
+move('salamence','setup sweeper', 'roost').
+pokemon('salazzle', 83).
+ability('salazzle', 'corrosion').
+item('salazzle', 'heavy-duty boots').
+item('salazzle', 'leftovers').
+role('salazzle', 'fast support').
+ability('salazzle','fast support', 'corrosion').
+item('salazzle','fast support', 'leftovers').
+tera('salazzle','fast support', 'flying').
+tera('salazzle','fast support', 'grass').
+move('salazzle','fast support', 'flamethrower').
+move('salazzle','fast support', 'protect').
+move('salazzle','fast support', 'substitute').
+move('salazzle','fast support', 'toxic').
+role('salazzle', 'tera blast user').
+ability('salazzle','tera blast user', 'corrosion').
+item('salazzle','tera blast user', 'heavy-duty boots').
+tera('salazzle','tera blast user', 'grass').
+move('salazzle','tera blast user', 'fire blast').
+move('salazzle','tera blast user', 'nasty plot').
+move('salazzle','tera blast user', 'sludge wave').
+move('salazzle','tera blast user', 'tera blast').
+pokemon('samurott', 88).
+ability('samurott', 'torrent').
+item('samurott', 'assault vest').
+item('samurott', 'life orb').
+role('samurott', 'av pivot').
+ability('samurott','av pivot', 'torrent').
+item('samurott','av pivot', 'assault vest').
+tera('samurott','av pivot', 'dark').
+tera('samurott','av pivot', 'grass').
+tera('samurott','av pivot', 'water').
+move('samurott','av pivot', 'aqua jet').
+move('samurott','av pivot', 'flip turn').
+move('samurott','av pivot', 'grass knot').
+move('samurott','av pivot', 'hydro pump').
+move('samurott','av pivot', 'ice beam').
+move('samurott','av pivot', 'knock off').
+move('samurott','av pivot', 'megahorn').
+move('samurott','av pivot', 'sacred sword').
+role('samurott', 'setup sweeper').
+ability('samurott','setup sweeper', 'torrent').
+item('samurott','setup sweeper', 'life orb').
+tera('samurott','setup sweeper', 'dark').
+tera('samurott','setup sweeper', 'water').
+move('samurott','setup sweeper', 'aqua jet').
+move('samurott','setup sweeper', 'knock off').
+move('samurott','setup sweeper', 'liquidation').
+move('samurott','setup sweeper', 'megahorn').
+move('samurott','setup sweeper', 'sacred sword').
+move('samurott','setup sweeper', 'swords dance').
+pokemon('samurott-hisui', 77).
+ability('samurott-hisui', 'sharpness').
+item('samurott-hisui', 'choice band').
+item('samurott-hisui', 'choice scarf').
+item('samurott-hisui', 'life orb').
+role('samurott-hisui', 'fast attacker').
+ability('samurott-hisui','fast attacker', 'sharpness').
+item('samurott-hisui','fast attacker', 'choice band').
+item('samurott-hisui','fast attacker', 'choice scarf').
+item('samurott-hisui','fast attacker', 'life orb').
+tera('samurott-hisui','fast attacker', 'dark').
+tera('samurott-hisui','fast attacker', 'poison').
+tera('samurott-hisui','fast attacker', 'water').
+move('samurott-hisui','fast attacker', 'ceaseless edge').
+move('samurott-hisui','fast attacker', 'flip turn').
+move('samurott-hisui','fast attacker', 'razor shell').
+move('samurott-hisui','fast attacker', 'sacred sword').
+move('samurott-hisui','fast attacker', 'sucker punch').
+move('samurott-hisui','fast attacker', 'swords dance').
+pokemon('sandaconda', 84).
+ability('sandaconda', 'shed skin').
+item('sandaconda', 'leftovers').
+item('sandaconda', 'loaded dice').
+role('sandaconda', 'fast bulky setup').
+ability('sandaconda','fast bulky setup', 'shed skin').
+item('sandaconda','fast bulky setup', 'loaded dice').
+tera('sandaconda','fast bulky setup', 'dragon').
+move('sandaconda','fast bulky setup', 'coil').
+move('sandaconda','fast bulky setup', 'earthquake').
+move('sandaconda','fast bulky setup', 'rock blast').
+move('sandaconda','fast bulky setup', 'scale shot').
+role('sandaconda', 'bulky attacker').
+ability('sandaconda','bulky attacker', 'shed skin').
+item('sandaconda','bulky attacker', 'leftovers').
+tera('sandaconda','bulky attacker', 'dragon').
+tera('sandaconda','bulky attacker', 'water').
+move('sandaconda','bulky attacker', 'earthquake').
+move('sandaconda','bulky attacker', 'glare').
+move('sandaconda','bulky attacker', 'rest').
+move('sandaconda','bulky attacker', 'stealth rock').
+move('sandaconda','bulky attacker', 'stone edge').
+role('sandaconda', 'bulky setup').
+ability('sandaconda','bulky setup', 'shed skin').
+item('sandaconda','bulky setup', 'leftovers').
+tera('sandaconda','bulky setup', 'dragon').
+tera('sandaconda','bulky setup', 'steel').
+move('sandaconda','bulky setup', 'coil').
+move('sandaconda','bulky setup', 'earthquake').
+move('sandaconda','bulky setup', 'glare').
+move('sandaconda','bulky setup', 'rest').
+move('sandaconda','bulky setup', 'stone edge').
+pokemon('sandslash', 89).
+ability('sandslash', 'sand rush').
+item('sandslash', 'assault vest').
+item('sandslash', 'leftovers').
+role('sandslash', 'bulky support').
+ability('sandslash','bulky support', 'sand rush').
+item('sandslash','bulky support', 'assault vest').
+item('sandslash','bulky support', 'leftovers').
+tera('sandslash','bulky support', 'dragon').
+tera('sandslash','bulky support', 'steel').
+tera('sandslash','bulky support', 'water').
+move('sandslash','bulky support', 'earthquake').
+move('sandslash','bulky support', 'knock off').
+move('sandslash','bulky support', 'rapid spin').
+move('sandslash','bulky support', 'spikes').
+move('sandslash','bulky support', 'stone edge').
+move('sandslash','bulky support', 'swords dance').
+pokemon('sandslash-alola', 88).
+ability('sandslash-alola', 'slush rush').
+item('sandslash-alola', 'assault vest').
+item('sandslash-alola', 'choice band').
+item('sandslash-alola', 'choice scarf').
+item('sandslash-alola', 'leftovers').
+item('sandslash-alola', 'life orb').
+role('sandslash-alola', 'setup sweeper').
+ability('sandslash-alola','setup sweeper', 'slush rush').
+item('sandslash-alola','setup sweeper', 'leftovers').
+item('sandslash-alola','setup sweeper', 'life orb').
+tera('sandslash-alola','setup sweeper', 'ground').
+move('sandslash-alola','setup sweeper', 'earthquake').
+move('sandslash-alola','setup sweeper', 'ice shard').
+move('sandslash-alola','setup sweeper', 'knock off').
+move('sandslash-alola','setup sweeper', 'rapid spin').
+move('sandslash-alola','setup sweeper', 'swords dance').
+move('sandslash-alola','setup sweeper', 'triple axel').
+role('sandslash-alola', 'bulky support').
+ability('sandslash-alola','bulky support', 'slush rush').
+item('sandslash-alola','bulky support', 'assault vest').
+item('sandslash-alola','bulky support', 'choice band').
+item('sandslash-alola','bulky support', 'choice scarf').
+item('sandslash-alola','bulky support', 'leftovers').
+tera('sandslash-alola','bulky support', 'flying').
+tera('sandslash-alola','bulky support', 'water').
+move('sandslash-alola','bulky support', 'earthquake').
+move('sandslash-alola','bulky support', 'iron head').
+move('sandslash-alola','bulky support', 'knock off').
+move('sandslash-alola','bulky support', 'rapid spin').
+move('sandslash-alola','bulky support', 'spikes').
+move('sandslash-alola','bulky support', 'triple axel').
+pokemon('sandy shocks', 80).
+ability('sandy shocks', 'protosynthesis').
+item('sandy shocks', 'heavy-duty boots').
+item('sandy shocks', 'leftovers').
+role('sandy shocks', 'fast support').
+ability('sandy shocks','fast support', 'protosynthesis').
+item('sandy shocks','fast support', 'heavy-duty boots').
+item('sandy shocks','fast support', 'leftovers').
+tera('sandy shocks','fast support', 'electric').
+tera('sandy shocks','fast support', 'grass').
+tera('sandy shocks','fast support', 'ground').
+move('sandy shocks','fast support', 'earth power').
+move('sandy shocks','fast support', 'spikes').
+move('sandy shocks','fast support', 'stealth rock').
+move('sandy shocks','fast support', 'thunder wave').
+move('sandy shocks','fast support', 'thunderbolt').
+move('sandy shocks','fast support', 'volt switch').
+pokemon('sawsbuck', 88).
+ability('sawsbuck', 'sap sipper').
+ability('sawsbuck', 'serene grace').
+item('sawsbuck', 'life orb').
+role('sawsbuck', 'setup sweeper').
+ability('sawsbuck','setup sweeper', 'sap sipper').
+item('sawsbuck','setup sweeper', 'life orb').
+tera('sawsbuck','setup sweeper', 'ground').
+tera('sawsbuck','setup sweeper', 'normal').
+move('sawsbuck','setup sweeper', 'double-edge').
+move('sawsbuck','setup sweeper', 'high horsepower').
+move('sawsbuck','setup sweeper', 'horn leech').
+move('sawsbuck','setup sweeper', 'swords dance').
+role('sawsbuck', 'fast attacker').
+ability('sawsbuck','fast attacker', 'serene grace').
+item('sawsbuck','fast attacker', 'life orb').
+tera('sawsbuck','fast attacker', 'normal').
+move('sawsbuck','fast attacker', 'headbutt').
+move('sawsbuck','fast attacker', 'high horsepower').
+move('sawsbuck','fast attacker', 'horn leech').
+move('sawsbuck','fast attacker', 'swords dance').
+pokemon('sceptile', 87).
+ability('sceptile', 'overgrow').
+item('sceptile', 'leftovers').
+item('sceptile', 'life orb').
+role('sceptile', 'fast attacker').
+ability('sceptile','fast attacker', 'overgrow').
+item('sceptile','fast attacker', 'life orb').
+tera('sceptile','fast attacker', 'grass').
+tera('sceptile','fast attacker', 'ground').
+tera('sceptile','fast attacker', 'steel').
+move('sceptile','fast attacker', 'earthquake').
+move('sceptile','fast attacker', 'focus blast').
+move('sceptile','fast attacker', 'giga drain').
+move('sceptile','fast attacker', 'leaf storm').
+move('sceptile','fast attacker', 'rock slide').
+move('sceptile','fast attacker', 'shed tail').
+role('sceptile', 'setup sweeper').
+ability('sceptile','setup sweeper', 'overgrow').
+item('sceptile','setup sweeper', 'life orb').
+tera('sceptile','setup sweeper', 'rock').
+move('sceptile','setup sweeper', 'earthquake').
+move('sceptile','setup sweeper', 'leaf blade').
+move('sceptile','setup sweeper', 'rock slide').
+move('sceptile','setup sweeper', 'swords dance').
+role('sceptile', 'fast support').
+ability('sceptile','fast support', 'overgrow').
+item('sceptile','fast support', 'leftovers').
+tera('sceptile','fast support', 'steel').
+move('sceptile','fast support', 'focus blast').
+move('sceptile','fast support', 'giga drain').
+move('sceptile','fast support', 'leech seed').
+move('sceptile','fast support', 'substitute').
+pokemon('scizor', 79).
+ability('scizor', 'technician').
+item('scizor', 'choice band').
+item('scizor', 'leftovers').
+item('scizor', 'life orb').
+role('scizor', 'setup sweeper').
+ability('scizor','setup sweeper', 'technician').
+item('scizor','setup sweeper', 'life orb').
+tera('scizor','setup sweeper', 'steel').
+move('scizor','setup sweeper', 'bug bite').
+move('scizor','setup sweeper', 'bullet punch').
+move('scizor','setup sweeper', 'close combat').
+move('scizor','setup sweeper', 'knock off').
+move('scizor','setup sweeper', 'swords dance').
+role('scizor', 'bulky support').
+ability('scizor','bulky support', 'technician').
+item('scizor','bulky support', 'choice band').
+item('scizor','bulky support', 'leftovers').
+tera('scizor','bulky support', 'dragon').
+tera('scizor','bulky support', 'steel').
+move('scizor','bulky support', 'bullet punch').
+move('scizor','bulky support', 'close combat').
+move('scizor','bulky support', 'defog').
+move('scizor','bulky support', 'knock off').
+move('scizor','bulky support', 'u-turn').
+role('scizor', 'wallbreaker').
+ability('scizor','wallbreaker', 'technician').
+item('scizor','wallbreaker', 'choice band').
+tera('scizor','wallbreaker', 'steel').
+move('scizor','wallbreaker', 'bullet punch').
+move('scizor','wallbreaker', 'close combat').
+move('scizor','wallbreaker', 'knock off').
+move('scizor','wallbreaker', 'u-turn').
+pokemon('scovillain', 91).
+ability('scovillain', 'chlorophyll').
+item('scovillain', 'choice scarf').
+item('scovillain', 'choice specs').
+item('scovillain', 'heavy-duty boots').
+item('scovillain', 'leftovers').
+role('scovillain', 'bulky attacker').
+ability('scovillain','bulky attacker', 'chlorophyll').
+item('scovillain','bulky attacker', 'leftovers').
+tera('scovillain','bulky attacker', 'steel').
+move('scovillain','bulky attacker', 'flamethrower').
+move('scovillain','bulky attacker', 'leech seed').
+move('scovillain','bulky attacker', 'protect').
+move('scovillain','bulky attacker', 'substitute').
+role('scovillain', 'wallbreaker').
+ability('scovillain','wallbreaker', 'chlorophyll').
+item('scovillain','wallbreaker', 'heavy-duty boots').
+tera('scovillain','wallbreaker', 'fire').
+tera('scovillain','wallbreaker', 'ground').
+move('scovillain','wallbreaker', 'energy ball').
+move('scovillain','wallbreaker', 'fire blast').
+move('scovillain','wallbreaker', 'stomping tantrum').
+move('scovillain','wallbreaker', 'sunny day').
+role('scovillain', 'fast attacker').
+ability('scovillain','fast attacker', 'chlorophyll').
+item('scovillain','fast attacker', 'choice scarf').
+item('scovillain','fast attacker', 'choice specs').
+tera('scovillain','fast attacker', 'fire').
+tera('scovillain','fast attacker', 'grass').
+move('scovillain','fast attacker', 'energy ball').
+move('scovillain','fast attacker', 'flamethrower').
+move('scovillain','fast attacker', 'leaf storm').
+move('scovillain','fast attacker', 'overheat').
+pokemon('scrafty', 83).
+ability('scrafty', 'intimidate').
+ability('scrafty', 'shed skin').
+item('scrafty', 'leftovers').
+role('scrafty', 'bulky attacker').
+ability('scrafty','bulky attacker', 'intimidate').
+item('scrafty','bulky attacker', 'leftovers').
+tera('scrafty','bulky attacker', 'poison').
+move('scrafty','bulky attacker', 'dragon dance').
+move('scrafty','bulky attacker', 'drain punch').
+move('scrafty','bulky attacker', 'knock off').
+move('scrafty','bulky attacker', 'poison jab').
+role('scrafty', 'bulky setup').
+ability('scrafty','bulky setup', 'shed skin').
+item('scrafty','bulky setup', 'leftovers').
+tera('scrafty','bulky setup', 'poison').
+move('scrafty','bulky setup', 'bulk up').
+move('scrafty','bulky setup', 'drain punch').
+move('scrafty','bulky setup', 'knock off').
+move('scrafty','bulky setup', 'rest').
+pokemon('scream tail', 84).
+ability('scream tail', 'protosynthesis').
+item('scream tail', 'leftovers').
+role('scream tail', 'bulky attacker').
+ability('scream tail','bulky attacker', 'protosynthesis').
+item('scream tail','bulky attacker', 'leftovers').
+tera('scream tail','bulky attacker', 'poison').
+tera('scream tail','bulky attacker', 'steel').
+move('scream tail','bulky attacker', 'dazzling gleam').
+move('scream tail','bulky attacker', 'encore').
+move('scream tail','bulky attacker', 'protect').
+move('scream tail','bulky attacker', 'thunder wave').
+move('scream tail','bulky attacker', 'wish').
+role('scream tail', 'bulky support').
+ability('scream tail','bulky support', 'protosynthesis').
+item('scream tail','bulky support', 'leftovers').
+tera('scream tail','bulky support', 'poison').
+tera('scream tail','bulky support', 'steel').
+move('scream tail','bulky support', 'encore').
+move('scream tail','bulky support', 'play rough').
+move('scream tail','bulky support', 'protect').
+move('scream tail','bulky support', 'thunder wave').
+move('scream tail','bulky support', 'wish').
+pokemon('scyther', 82).
+ability('scyther', 'technician').
+item('scyther', 'eviolite').
+item('scyther', 'heavy-duty boots').
+role('scyther', 'fast support').
+ability('scyther','fast support', 'technician').
+item('scyther','fast support', 'heavy-duty boots').
+tera('scyther','fast support', 'fighting').
+move('scyther','fast support', 'close combat').
+move('scyther','fast support', 'defog').
+move('scyther','fast support', 'dual wingbeat').
+move('scyther','fast support', 'u-turn').
+role('scyther', 'setup sweeper').
+ability('scyther','setup sweeper', 'technician').
+item('scyther','setup sweeper', 'eviolite').
+item('scyther','setup sweeper', 'heavy-duty boots').
+tera('scyther','setup sweeper', 'fighting').
+move('scyther','setup sweeper', 'bug bite').
+move('scyther','setup sweeper', 'close combat').
+move('scyther','setup sweeper', 'dual wingbeat').
+move('scyther','setup sweeper', 'swords dance').
+pokemon('serperior', 79).
+ability('serperior', 'contrary').
+item('serperior', 'leftovers').
+item('serperior', 'life orb').
+role('serperior', 'fast attacker').
+ability('serperior','fast attacker', 'contrary').
+item('serperior','fast attacker', 'leftovers').
+item('serperior','fast attacker', 'life orb').
+tera('serperior','fast attacker', 'dragon').
+tera('serperior','fast attacker', 'grass').
+tera('serperior','fast attacker', 'water').
+move('serperior','fast attacker', 'dragon pulse').
+move('serperior','fast attacker', 'glare').
+move('serperior','fast attacker', 'leaf storm').
+move('serperior','fast attacker', 'leech seed').
+move('serperior','fast attacker', 'substitute').
+move('serperior','fast attacker', 'synthesis').
+role('serperior', 'tera blast user').
+ability('serperior','tera blast user', 'contrary').
+item('serperior','tera blast user', 'leftovers').
+item('serperior','tera blast user', 'life orb').
+tera('serperior','tera blast user', 'fire').
+tera('serperior','tera blast user', 'rock').
+move('serperior','tera blast user', 'glare').
+move('serperior','tera blast user', 'leaf storm').
+move('serperior','tera blast user', 'leech seed').
+move('serperior','tera blast user', 'substitute').
+move('serperior','tera blast user', 'synthesis').
+move('serperior','tera blast user', 'tera blast').
+pokemon('seviper', 93).
+ability('seviper', 'infiltrator').
+ability('seviper', 'shed skin').
+item('seviper', 'choice scarf').
+item('seviper', 'leftovers').
+item('seviper', 'life orb').
+role('seviper', 'fast attacker').
+ability('seviper','fast attacker', 'infiltrator').
+item('seviper','fast attacker', 'choice scarf').
+item('seviper','fast attacker', 'life orb').
+tera('seviper','fast attacker', 'dark').
+tera('seviper','fast attacker', 'fire').
+tera('seviper','fast attacker', 'grass').
+tera('seviper','fast attacker', 'ground').
+tera('seviper','fast attacker', 'poison').
+move('seviper','fast attacker', 'earthquake').
+move('seviper','fast attacker', 'flamethrower').
+move('seviper','fast attacker', 'giga drain').
+move('seviper','fast attacker', 'glare').
+move('seviper','fast attacker', 'gunk shot').
+move('seviper','fast attacker', 'knock off').
+move('seviper','fast attacker', 'switcheroo').
+role('seviper', 'bulky setup').
+ability('seviper','bulky setup', 'infiltrator').
+ability('seviper','bulky setup', 'shed skin').
+item('seviper','bulky setup', 'leftovers').
+tera('seviper','bulky setup', 'grass').
+tera('seviper','bulky setup', 'ground').
+move('seviper','bulky setup', 'earthquake').
+move('seviper','bulky setup', 'gunk shot').
+move('seviper','bulky setup', 'swords dance').
+move('seviper','bulky setup', 'trailblaze').
+pokemon('shaymin', 82).
+ability('shaymin', 'natural cure').
+item('shaymin', 'leftovers').
+role('shaymin', 'bulky support').
+ability('shaymin','bulky support', 'natural cure').
+item('shaymin','bulky support', 'leftovers').
+tera('shaymin','bulky support', 'steel').
+move('shaymin','bulky support', 'air slash').
+move('shaymin','bulky support', 'leech seed').
+move('shaymin','bulky support', 'seed flare').
+move('shaymin','bulky support', 'substitute').
+role('shaymin', 'bulky attacker').
+ability('shaymin','bulky attacker', 'natural cure').
+item('shaymin','bulky attacker', 'leftovers').
+tera('shaymin','bulky attacker', 'ground').
+tera('shaymin','bulky attacker', 'steel').
+move('shaymin','bulky attacker', 'air slash').
+move('shaymin','bulky attacker', 'earth power').
+move('shaymin','bulky attacker', 'seed flare').
+move('shaymin','bulky attacker', 'synthesis').
+pokemon('shaymin-sky', 73).
+ability('shaymin-sky', 'serene grace').
+item('shaymin-sky', 'choice specs').
+item('shaymin-sky', 'heavy-duty boots').
+item('shaymin-sky', 'leftovers').
+role('shaymin-sky', 'fast attacker').
+ability('shaymin-sky','fast attacker', 'serene grace').
+item('shaymin-sky','fast attacker', 'choice specs').
+tera('shaymin-sky','fast attacker', 'flying').
+tera('shaymin-sky','fast attacker', 'grass').
+tera('shaymin-sky','fast attacker', 'ground').
+move('shaymin-sky','fast attacker', 'air slash').
+move('shaymin-sky','fast attacker', 'dazzling gleam').
+move('shaymin-sky','fast attacker', 'earth power').
+move('shaymin-sky','fast attacker', 'seed flare').
+role('shaymin-sky', 'bulky attacker').
+ability('shaymin-sky','bulky attacker', 'serene grace').
+item('shaymin-sky','bulky attacker', 'heavy-duty boots').
+tera('shaymin-sky','bulky attacker', 'steel').
+tera('shaymin-sky','bulky attacker', 'water').
+move('shaymin-sky','bulky attacker', 'air slash').
+move('shaymin-sky','bulky attacker', 'earth power').
+move('shaymin-sky','bulky attacker', 'seed flare').
+move('shaymin-sky','bulky attacker', 'synthesis').
+role('shaymin-sky', 'bulky support').
+ability('shaymin-sky','bulky support', 'serene grace').
+item('shaymin-sky','bulky support', 'leftovers').
+tera('shaymin-sky','bulky support', 'steel').
+move('shaymin-sky','bulky support', 'air slash').
+move('shaymin-sky','bulky support', 'leech seed').
+move('shaymin-sky','bulky support', 'seed flare').
+move('shaymin-sky','bulky support', 'substitute').
+pokemon('shiftry', 89).
+ability('shiftry', 'wind rider').
+item('shiftry', 'heavy-duty boots').
+item('shiftry', 'life orb').
+role('shiftry', 'setup sweeper').
+ability('shiftry','setup sweeper', 'wind rider').
+item('shiftry','setup sweeper', 'life orb').
+tera('shiftry','setup sweeper', 'dark').
+tera('shiftry','setup sweeper', 'fighting').
+move('shiftry','setup sweeper', 'knock off').
+move('shiftry','setup sweeper', 'leaf blade').
+move('shiftry','setup sweeper', 'low kick').
+move('shiftry','setup sweeper', 'tailwind').
+role('shiftry', 'fast support').
+ability('shiftry','fast support', 'wind rider').
+item('shiftry','fast support', 'heavy-duty boots').
+item('shiftry','fast support', 'life orb').
+tera('shiftry','fast support', 'dark').
+tera('shiftry','fast support', 'poison').
+move('shiftry','fast support', 'defog').
+move('shiftry','fast support', 'knock off').
+move('shiftry','fast support', 'leaf storm').
+move('shiftry','fast support', 'sucker punch').
+move('shiftry','fast support', 'will-o-wisp').
+role('shiftry', 'fast bulky setup').
+ability('shiftry','fast bulky setup', 'wind rider').
+item('shiftry','fast bulky setup', 'life orb').
+tera('shiftry','fast bulky setup', 'dark').
+tera('shiftry','fast bulky setup', 'poison').
+move('shiftry','fast bulky setup', 'knock off').
+move('shiftry','fast bulky setup', 'leaf blade').
+move('shiftry','fast bulky setup', 'sucker punch').
+move('shiftry','fast bulky setup', 'swords dance').
+pokemon('sinistcha', 83).
+ability('sinistcha', 'heatproof').
+item('sinistcha', 'leftovers').
+role('sinistcha', 'bulky setup').
+ability('sinistcha','bulky setup', 'heatproof').
+item('sinistcha','bulky setup', 'leftovers').
+tera('sinistcha','bulky setup', 'steel').
+move('sinistcha','bulky setup', 'calm mind').
+move('sinistcha','bulky setup', 'matcha gotcha').
+move('sinistcha','bulky setup', 'shadow ball').
+move('sinistcha','bulky setup', 'strength sap').
+pokemon('skarmory', 80).
+ability('skarmory', 'sturdy').
+item('skarmory', 'leftovers').
+item('skarmory', 'rocky helmet').
+role('skarmory', 'bulky attacker').
+ability('skarmory','bulky attacker', 'sturdy').
+item('skarmory','bulky attacker', 'leftovers').
+item('skarmory','bulky attacker', 'rocky helmet').
+tera('skarmory','bulky attacker', 'dragon').
+tera('skarmory','bulky attacker', 'fighting').
+move('skarmory','bulky attacker', 'body press').
+move('skarmory','bulky attacker', 'brave bird').
+move('skarmory','bulky attacker', 'roost').
+move('skarmory','bulky attacker', 'spikes').
+move('skarmory','bulky attacker', 'stealth rock').
+role('skarmory', 'bulky support').
+ability('skarmory','bulky support', 'sturdy').
+item('skarmory','bulky support', 'leftovers').
+item('skarmory','bulky support', 'rocky helmet').
+tera('skarmory','bulky support', 'dragon').
+move('skarmory','bulky support', 'brave bird').
+move('skarmory','bulky support', 'roost').
+move('skarmory','bulky support', 'spikes').
+move('skarmory','bulky support', 'stealth rock').
+move('skarmory','bulky support', 'whirlwind').
+role('skarmory', 'bulky setup').
+ability('skarmory','bulky setup', 'sturdy').
+item('skarmory','bulky setup', 'leftovers').
+tera('skarmory','bulky setup', 'fighting').
+move('skarmory','bulky setup', 'body press').
+move('skarmory','bulky setup', 'brave bird').
+move('skarmory','bulky setup', 'iron defense').
+move('skarmory','bulky setup', 'roost').
+pokemon('skeledirge', 79).
+ability('skeledirge', 'unaware').
+item('skeledirge', 'heavy-duty boots').
+role('skeledirge', 'bulky attacker').
+ability('skeledirge','bulky attacker', 'unaware').
+item('skeledirge','bulky attacker', 'heavy-duty boots').
+tera('skeledirge','bulky attacker', 'fairy').
+tera('skeledirge','bulky attacker', 'water').
+move('skeledirge','bulky attacker', 'flame charge').
+move('skeledirge','bulky attacker', 'shadow ball').
+move('skeledirge','bulky attacker', 'slack off').
+move('skeledirge','bulky attacker', 'torch song').
+role('skeledirge', 'bulky support').
+ability('skeledirge','bulky support', 'unaware').
+item('skeledirge','bulky support', 'heavy-duty boots').
+tera('skeledirge','bulky support', 'fairy').
+tera('skeledirge','bulky support', 'water').
+move('skeledirge','bulky support', 'hex').
+move('skeledirge','bulky support', 'slack off').
+move('skeledirge','bulky support', 'torch song').
+move('skeledirge','bulky support', 'will-o-wisp').
+pokemon('skuntank', 84).
+ability('skuntank', 'aftermath').
+item('skuntank', 'assault vest').
+item('skuntank', 'focus sash').
+item('skuntank', 'leftovers').
+item('skuntank', 'life orb').
+role('skuntank', 'fast support').
+ability('skuntank','fast support', 'aftermath').
+item('skuntank','fast support', 'assault vest').
+item('skuntank','fast support', 'focus sash').
+item('skuntank','fast support', 'leftovers').
+item('skuntank','fast support', 'life orb').
+tera('skuntank','fast support', 'dark').
+tera('skuntank','fast support', 'poison').
+move('skuntank','fast support', 'fire blast').
+move('skuntank','fast support', 'gunk shot').
+move('skuntank','fast support', 'knock off').
+move('skuntank','fast support', 'sucker punch').
+move('skuntank','fast support', 'taunt').
+move('skuntank','fast support', 'toxic spikes').
+pokemon('slaking', 84).
+ability('slaking', 'truant').
+item('slaking', 'choice band').
+item('slaking', 'choice scarf').
+role('slaking', 'fast attacker').
+ability('slaking','fast attacker', 'truant').
+item('slaking','fast attacker', 'choice band').
+item('slaking','fast attacker', 'choice scarf').
+tera('slaking','fast attacker', 'normal').
+move('slaking','fast attacker', 'double-edge').
+move('slaking','fast attacker', 'earthquake').
+move('slaking','fast attacker', 'giga impact').
+move('slaking','fast attacker', 'knock off').
+role('slaking', 'wallbreaker').
+ability('slaking','wallbreaker', 'truant').
+item('slaking','wallbreaker', 'choice band').
+tera('slaking','wallbreaker', 'ghost').
+tera('slaking','wallbreaker', 'ground').
+move('slaking','wallbreaker', 'double-edge').
+move('slaking','wallbreaker', 'earthquake').
+move('slaking','wallbreaker', 'giga impact').
+move('slaking','wallbreaker', 'knock off').
+pokemon('slither wing', 81).
+ability('slither wing', 'protosynthesis').
+item('slither wing', 'booster energy').
+item('slither wing', 'choice band').
+item('slither wing', 'choice scarf').
+item('slither wing', 'heavy-duty boots').
+item('slither wing', 'life orb').
+role('slither wing', 'fast attacker').
+ability('slither wing','fast attacker', 'protosynthesis').
+item('slither wing','fast attacker', 'choice band').
+item('slither wing','fast attacker', 'choice scarf').
+item('slither wing','fast attacker', 'life orb').
+tera('slither wing','fast attacker', 'bug').
+tera('slither wing','fast attacker', 'electric').
+tera('slither wing','fast attacker', 'fighting').
+tera('slither wing','fast attacker', 'fire').
+move('slither wing','fast attacker', 'close combat').
+move('slither wing','fast attacker', 'earthquake').
+move('slither wing','fast attacker', 'first impression').
+move('slither wing','fast attacker', 'flare blitz').
+move('slither wing','fast attacker', 'u-turn').
+move('slither wing','fast attacker', 'wild charge').
+role('slither wing', 'fast support').
+ability('slither wing','fast support', 'protosynthesis').
+item('slither wing','fast support', 'heavy-duty boots').
+tera('slither wing','fast support', 'fire').
+tera('slither wing','fast support', 'steel').
+move('slither wing','fast support', 'close combat').
+move('slither wing','fast support', 'morning sun').
+move('slither wing','fast support', 'u-turn').
+move('slither wing','fast support', 'will-o-wisp').
+role('slither wing', 'fast bulky setup').
+ability('slither wing','fast bulky setup', 'protosynthesis').
+item('slither wing','fast bulky setup', 'booster energy').
+tera('slither wing','fast bulky setup', 'electric').
+tera('slither wing','fast bulky setup', 'flying').
+move('slither wing','fast bulky setup', 'acrobatics').
+move('slither wing','fast bulky setup', 'bulk up').
+move('slither wing','fast bulky setup', 'close combat').
+move('slither wing','fast bulky setup', 'earthquake').
+move('slither wing','fast bulky setup', 'flame charge').
+move('slither wing','fast bulky setup', 'leech life').
+move('slither wing','fast bulky setup', 'wild charge').
+pokemon('slowbro', 85).
+ability('slowbro', 'regenerator').
+item('slowbro', 'assault vest').
+item('slowbro', 'leftovers').
+item('slowbro', 'rocky helmet').
+role('slowbro', 'av pivot').
+ability('slowbro','av pivot', 'regenerator').
+item('slowbro','av pivot', 'assault vest').
+tera('slowbro','av pivot', 'fairy').
+tera('slowbro','av pivot', 'fighting').
+move('slowbro','av pivot', 'body press').
+move('slowbro','av pivot', 'fire blast').
+move('slowbro','av pivot', 'future sight').
+move('slowbro','av pivot', 'ice beam').
+move('slowbro','av pivot', 'psychic noise').
+move('slowbro','av pivot', 'scald').
+role('slowbro', 'bulky attacker').
+ability('slowbro','bulky attacker', 'regenerator').
+item('slowbro','bulky attacker', 'leftovers').
+item('slowbro','bulky attacker', 'rocky helmet').
+tera('slowbro','bulky attacker', 'fairy').
+tera('slowbro','bulky attacker', 'poison').
+move('slowbro','bulky attacker', 'calm mind').
+move('slowbro','bulky attacker', 'psychic noise').
+move('slowbro','bulky attacker', 'psyshock').
+move('slowbro','bulky attacker', 'scald').
+move('slowbro','bulky attacker', 'slack off').
+move('slowbro','bulky attacker', 'thunder wave').
+role('slowbro', 'bulky setup').
+ability('slowbro','bulky setup', 'regenerator').
+item('slowbro','bulky setup', 'leftovers').
+tera('slowbro','bulky setup', 'fighting').
+move('slowbro','bulky setup', 'body press').
+move('slowbro','bulky setup', 'iron defense').
+move('slowbro','bulky setup', 'scald').
+move('slowbro','bulky setup', 'slack off').
+pokemon('slowbro-galar', 87).
+ability('slowbro-galar', 'regenerator').
+item('slowbro-galar', 'assault vest').
+item('slowbro-galar', 'leftovers').
+item('slowbro-galar', 'life orb').
+item('slowbro-galar', 'rocky helmet').
+role('slowbro-galar', 'av pivot').
+ability('slowbro-galar','av pivot', 'regenerator').
+item('slowbro-galar','av pivot', 'assault vest').
+tera('slowbro-galar','av pivot', 'dark').
+tera('slowbro-galar','av pivot', 'ground').
+tera('slowbro-galar','av pivot', 'poison').
+tera('slowbro-galar','av pivot', 'water').
+move('slowbro-galar','av pivot', 'earthquake').
+move('slowbro-galar','av pivot', 'fire blast').
+move('slowbro-galar','av pivot', 'foul play').
+move('slowbro-galar','av pivot', 'psychic').
+move('slowbro-galar','av pivot', 'shell side arm').
+move('slowbro-galar','av pivot', 'surf').
+role('slowbro-galar', 'bulky attacker').
+ability('slowbro-galar','bulky attacker', 'regenerator').
+item('slowbro-galar','bulky attacker', 'leftovers').
+item('slowbro-galar','bulky attacker', 'rocky helmet').
+tera('slowbro-galar','bulky attacker', 'dark').
+tera('slowbro-galar','bulky attacker', 'ground').
+tera('slowbro-galar','bulky attacker', 'poison').
+move('slowbro-galar','bulky attacker', 'earthquake').
+move('slowbro-galar','bulky attacker', 'fire blast').
+move('slowbro-galar','bulky attacker', 'haze').
+move('slowbro-galar','bulky attacker', 'psychic').
+move('slowbro-galar','bulky attacker', 'shell side arm').
+move('slowbro-galar','bulky attacker', 'slack off').
+move('slowbro-galar','bulky attacker', 'thunder wave').
+role('slowbro-galar', 'wallbreaker').
+ability('slowbro-galar','wallbreaker', 'regenerator').
+item('slowbro-galar','wallbreaker', 'life orb').
+tera('slowbro-galar','wallbreaker', 'poison').
+tera('slowbro-galar','wallbreaker', 'psychic').
+move('slowbro-galar','wallbreaker', 'fire blast').
+move('slowbro-galar','wallbreaker', 'psychic').
+move('slowbro-galar','wallbreaker', 'shell side arm').
+move('slowbro-galar','wallbreaker', 'trick room').
+pokemon('slowking', 88).
+ability('slowking', 'regenerator').
+item('slowking', 'heavy-duty boots').
+item('slowking', 'leftovers').
+role('slowking', 'fast support').
+ability('slowking','fast support', 'regenerator').
+item('slowking','fast support', 'heavy-duty boots').
+tera('slowking','fast support', 'dragon').
+tera('slowking','fast support', 'fairy').
+move('slowking','fast support', 'chilly reception').
+move('slowking','fast support', 'future sight').
+move('slowking','fast support', 'scald').
+move('slowking','fast support', 'slack off').
+role('slowking', 'bulky attacker').
+ability('slowking','bulky attacker', 'regenerator').
+item('slowking','bulky attacker', 'heavy-duty boots').
+item('slowking','bulky attacker', 'leftovers').
+tera('slowking','bulky attacker', 'dragon').
+tera('slowking','bulky attacker', 'fairy').
+move('slowking','bulky attacker', 'chilly reception').
+move('slowking','bulky attacker', 'psychic noise').
+move('slowking','bulky attacker', 'psyshock').
+move('slowking','bulky attacker', 'scald').
+move('slowking','bulky attacker', 'slack off').
+move('slowking','bulky attacker', 'thunder wave').
+pokemon('slowking-galar', 85).
+ability('slowking-galar', 'regenerator').
+item('slowking-galar', 'assault vest').
+item('slowking-galar', 'heavy-duty boots').
+item('slowking-galar', 'leftovers').
+role('slowking-galar', 'bulky attacker').
+ability('slowking-galar','bulky attacker', 'regenerator').
+item('slowking-galar','bulky attacker', 'heavy-duty boots').
+item('slowking-galar','bulky attacker', 'leftovers').
+tera('slowking-galar','bulky attacker', 'dark').
+tera('slowking-galar','bulky attacker', 'fairy').
+move('slowking-galar','bulky attacker', 'chilly reception').
+move('slowking-galar','bulky attacker', 'fire blast').
+move('slowking-galar','bulky attacker', 'psychic noise').
+move('slowking-galar','bulky attacker', 'psyshock').
+move('slowking-galar','bulky attacker', 'slack off').
+move('slowking-galar','bulky attacker', 'sludge bomb').
+move('slowking-galar','bulky attacker', 'thunder wave').
+move('slowking-galar','bulky attacker', 'toxic spikes').
+role('slowking-galar', 'av pivot').
+ability('slowking-galar','av pivot', 'regenerator').
+item('slowking-galar','av pivot', 'assault vest').
+tera('slowking-galar','av pivot', 'dark').
+tera('slowking-galar','av pivot', 'fairy').
+tera('slowking-galar','av pivot', 'water').
+move('slowking-galar','av pivot', 'fire blast').
+move('slowking-galar','av pivot', 'future sight').
+move('slowking-galar','av pivot', 'psychic noise').
+move('slowking-galar','av pivot', 'sludge bomb').
+move('slowking-galar','av pivot', 'surf').
+pokemon('smeargle', 95).
+ability('smeargle', 'own tempo').
+ability('smeargle', 'technician').
+item('smeargle', 'focus sash').
+item('smeargle', 'wide lens').
+role('smeargle', 'setup sweeper').
+ability('smeargle','setup sweeper', 'technician').
+item('smeargle','setup sweeper', 'wide lens').
+tera('smeargle','setup sweeper', 'ghost').
+tera('smeargle','setup sweeper', 'normal').
+move('smeargle','setup sweeper', 'population bomb').
+move('smeargle','setup sweeper', 'power trip').
+move('smeargle','setup sweeper', 'shell smash').
+move('smeargle','setup sweeper', 'spore').
+role('smeargle', 'fast support').
+ability('smeargle','fast support', 'own tempo').
+item('smeargle','fast support', 'focus sash').
+tera('smeargle','fast support', 'ghost').
+move('smeargle','fast support', 'ceaseless edge').
+move('smeargle','fast support', 'spore').
+move('smeargle','fast support', 'stealth rock').
+move('smeargle','fast support', 'sticky web').
+move('smeargle','fast support', 'whirlwind').
+pokemon('sneasler', 74).
+ability('sneasler', 'poison touch').
+ability('sneasler', 'unburden').
+item('sneasler', 'choice band').
+item('sneasler', 'white herb').
+role('sneasler', 'fast attacker').
+ability('sneasler','fast attacker', 'poison touch').
+item('sneasler','fast attacker', 'choice band').
+tera('sneasler','fast attacker', 'dark').
+tera('sneasler','fast attacker', 'fighting').
+move('sneasler','fast attacker', 'close combat').
+move('sneasler','fast attacker', 'dire claw').
+move('sneasler','fast attacker', 'throat chop').
+move('sneasler','fast attacker', 'u-turn').
+role('sneasler', 'setup sweeper').
+ability('sneasler','setup sweeper', 'unburden').
+item('sneasler','setup sweeper', 'white herb').
+tera('sneasler','setup sweeper', 'flying').
+move('sneasler','setup sweeper', 'acrobatics').
+move('sneasler','setup sweeper', 'close combat').
+move('sneasler','setup sweeper', 'dire claw').
+move('sneasler','setup sweeper', 'swords dance').
+pokemon('snorlax', 82).
+ability('snorlax', 'thick fat').
+item('snorlax', 'chesto berry').
+item('snorlax', 'leftovers').
+role('snorlax', 'bulky attacker').
+ability('snorlax','bulky attacker', 'thick fat').
+item('snorlax','bulky attacker', 'leftovers').
+tera('snorlax','bulky attacker', 'fairy').
+tera('snorlax','bulky attacker', 'poison').
+move('snorlax','bulky attacker', 'body slam').
+move('snorlax','bulky attacker', 'curse').
+move('snorlax','bulky attacker', 'rest').
+move('snorlax','bulky attacker', 'sleep talk').
+role('snorlax', 'bulky setup').
+ability('snorlax','bulky setup', 'thick fat').
+item('snorlax','bulky setup', 'chesto berry').
+item('snorlax','bulky setup', 'leftovers').
+tera('snorlax','bulky setup', 'ground').
+tera('snorlax','bulky setup', 'poison').
+move('snorlax','bulky setup', 'body slam').
+move('snorlax','bulky setup', 'crunch').
+move('snorlax','bulky setup', 'curse').
+move('snorlax','bulky setup', 'earthquake').
+move('snorlax','bulky setup', 'rest').
+pokemon('solgaleo', 74).
+ability('solgaleo', 'full metal body').
+item('solgaleo', 'leftovers').
+item('solgaleo', 'rocky helmet').
+item('solgaleo', 'weakness policy').
+role('solgaleo', 'bulky setup').
+ability('solgaleo','bulky setup', 'full metal body').
+item('solgaleo','bulky setup', 'weakness policy').
+tera('solgaleo','bulky setup', 'dark').
+tera('solgaleo','bulky setup', 'fighting').
+tera('solgaleo','bulky setup', 'ground').
+move('solgaleo','bulky setup', 'close combat').
+move('solgaleo','bulky setup', 'earthquake').
+move('solgaleo','bulky setup', 'flame charge').
+move('solgaleo','bulky setup', 'knock off').
+move('solgaleo','bulky setup', 'psychic').
+move('solgaleo','bulky setup', 'sunsteel strike').
+role('solgaleo', 'bulky attacker').
+ability('solgaleo','bulky attacker', 'full metal body').
+item('solgaleo','bulky attacker', 'leftovers').
+item('solgaleo','bulky attacker', 'rocky helmet').
+tera('solgaleo','bulky attacker', 'water').
+move('solgaleo','bulky attacker', 'close combat').
+move('solgaleo','bulky attacker', 'earthquake').
+move('solgaleo','bulky attacker', 'knock off').
+move('solgaleo','bulky attacker', 'morning sun').
+move('solgaleo','bulky attacker', 'psychic fangs').
+move('solgaleo','bulky attacker', 'roar').
+move('solgaleo','bulky attacker', 'sunsteel strike').
+move('solgaleo','bulky attacker', 'teleport').
+pokemon('spectrier', 75).
+ability('spectrier', 'grim neigh').
+item('spectrier', 'leftovers').
+item('spectrier', 'life orb').
+role('spectrier', 'setup sweeper').
+ability('spectrier','setup sweeper', 'grim neigh').
+item('spectrier','setup sweeper', 'leftovers').
+item('spectrier','setup sweeper', 'life orb').
+tera('spectrier','setup sweeper', 'dark').
+tera('spectrier','setup sweeper', 'fairy').
+move('spectrier','setup sweeper', 'dark pulse').
+move('spectrier','setup sweeper', 'draining kiss').
+move('spectrier','setup sweeper', 'nasty plot').
+move('spectrier','setup sweeper', 'shadow ball').
+move('spectrier','setup sweeper', 'substitute').
+move('spectrier','setup sweeper', 'will-o-wisp').
+role('spectrier', 'tera blast user').
+ability('spectrier','tera blast user', 'grim neigh').
+item('spectrier','tera blast user', 'leftovers').
+item('spectrier','tera blast user', 'life orb').
+tera('spectrier','tera blast user', 'fighting').
+move('spectrier','tera blast user', 'nasty plot').
+move('spectrier','tera blast user', 'shadow ball').
+move('spectrier','tera blast user', 'substitute').
+move('spectrier','tera blast user', 'tera blast').
+move('spectrier','tera blast user', 'will-o-wisp').
+pokemon('spidops', 96).
+ability('spidops', 'stakeout').
+item('spidops', 'heavy-duty boots').
+role('spidops', 'bulky support').
+ability('spidops','bulky support', 'stakeout').
+item('spidops','bulky support', 'heavy-duty boots').
+tera('spidops','bulky support', 'ghost').
+move('spidops','bulky support', 'circle throw').
+move('spidops','bulky support', 'knock off').
+move('spidops','bulky support', 'spikes').
+move('spidops','bulky support', 'sticky web').
+move('spidops','bulky support', 'toxic spikes').
+move('spidops','bulky support', 'u-turn').
+pokemon('spiritomb', 89).
+ability('spiritomb', 'infiltrator').
+item('spiritomb', 'choice band').
+item('spiritomb', 'leftovers').
+role('spiritomb', 'bulky support').
+ability('spiritomb','bulky support', 'infiltrator').
+item('spiritomb','bulky support', 'choice band').
+item('spiritomb','bulky support', 'leftovers').
+tera('spiritomb','bulky support', 'ghost').
+tera('spiritomb','bulky support', 'poison').
+tera('spiritomb','bulky support', 'steel').
+move('spiritomb','bulky support', 'foul play').
+move('spiritomb','bulky support', 'pain split').
+move('spiritomb','bulky support', 'poltergeist').
+move('spiritomb','bulky support', 'shadow sneak').
+move('spiritomb','bulky support', 'sucker punch').
+move('spiritomb','bulky support', 'toxic').
+move('spiritomb','bulky support', 'will-o-wisp').
+pokemon('squawkabilly', 85).
+ability('squawkabilly', 'guts').
+item('squawkabilly', 'flame orb').
+role('squawkabilly', 'wallbreaker').
+ability('squawkabilly','wallbreaker', 'guts').
+item('squawkabilly','wallbreaker', 'flame orb').
+tera('squawkabilly','wallbreaker', 'normal').
+move('squawkabilly','wallbreaker', 'brave bird').
+move('squawkabilly','wallbreaker', 'facade').
+move('squawkabilly','wallbreaker', 'protect').
+move('squawkabilly','wallbreaker', 'quick attack').
+move('squawkabilly','wallbreaker', 'u-turn').
+pokemon('squawkabilly-blue', 85).
+ability('squawkabilly-blue', 'guts').
+item('squawkabilly-blue', 'flame orb').
+role('squawkabilly-blue', 'wallbreaker').
+ability('squawkabilly-blue','wallbreaker', 'guts').
+item('squawkabilly-blue','wallbreaker', 'flame orb').
+tera('squawkabilly-blue','wallbreaker', 'normal').
+move('squawkabilly-blue','wallbreaker', 'brave bird').
+move('squawkabilly-blue','wallbreaker', 'facade').
+move('squawkabilly-blue','wallbreaker', 'protect').
+move('squawkabilly-blue','wallbreaker', 'quick attack').
+move('squawkabilly-blue','wallbreaker', 'u-turn').
+pokemon('squawkabilly-white', 89).
+ability('squawkabilly-white', 'hustle').
+item('squawkabilly-white', 'choice band').
+item('squawkabilly-white', 'heavy-duty boots').
+role('squawkabilly-white', 'wallbreaker').
+ability('squawkabilly-white','wallbreaker', 'hustle').
+item('squawkabilly-white','wallbreaker', 'choice band').
+item('squawkabilly-white','wallbreaker', 'heavy-duty boots').
+tera('squawkabilly-white','wallbreaker', 'flying').
+tera('squawkabilly-white','wallbreaker', 'normal').
+move('squawkabilly-white','wallbreaker', 'brave bird').
+move('squawkabilly-white','wallbreaker', 'double-edge').
+move('squawkabilly-white','wallbreaker', 'foul play').
+move('squawkabilly-white','wallbreaker', 'parting shot').
+move('squawkabilly-white','wallbreaker', 'quick attack').
+pokemon('squawkabilly-yellow', 89).
+ability('squawkabilly-yellow', 'hustle').
+item('squawkabilly-yellow', 'choice band').
+item('squawkabilly-yellow', 'heavy-duty boots').
+role('squawkabilly-yellow', 'wallbreaker').
+ability('squawkabilly-yellow','wallbreaker', 'hustle').
+item('squawkabilly-yellow','wallbreaker', 'choice band').
+item('squawkabilly-yellow','wallbreaker', 'heavy-duty boots').
+tera('squawkabilly-yellow','wallbreaker', 'flying').
+tera('squawkabilly-yellow','wallbreaker', 'normal').
+move('squawkabilly-yellow','wallbreaker', 'brave bird').
+move('squawkabilly-yellow','wallbreaker', 'double-edge').
+move('squawkabilly-yellow','wallbreaker', 'foul play').
+move('squawkabilly-yellow','wallbreaker', 'parting shot').
+move('squawkabilly-yellow','wallbreaker', 'quick attack').
+pokemon('stantler', 90).
+ability('stantler', 'intimidate').
+item('stantler', 'eviolite').
+role('stantler', 'bulky attacker').
+ability('stantler','bulky attacker', 'intimidate').
+item('stantler','bulky attacker', 'eviolite').
+tera('stantler','bulky attacker', 'fairy').
+tera('stantler','bulky attacker', 'ghost').
+tera('stantler','bulky attacker', 'ground').
+tera('stantler','bulky attacker', 'poison').
+move('stantler','bulky attacker', 'body slam').
+move('stantler','bulky attacker', 'earthquake').
+move('stantler','bulky attacker', 'throat chop').
+move('stantler','bulky attacker', 'thunder wave').
+role('stantler', 'tera blast user').
+ability('stantler','tera blast user', 'intimidate').
+item('stantler','tera blast user', 'eviolite').
+tera('stantler','tera blast user', 'fairy').
+move('stantler','tera blast user', 'calm mind').
+move('stantler','tera blast user', 'earth power').
+move('stantler','tera blast user', 'shadow ball').
+move('stantler','tera blast user', 'tera blast').
+pokemon('staraptor', 79).
+ability('staraptor', 'reckless').
+item('staraptor', 'choice band').
+item('staraptor', 'choice scarf').
+role('staraptor', 'fast attacker').
+ability('staraptor','fast attacker', 'reckless').
+item('staraptor','fast attacker', 'choice band').
+item('staraptor','fast attacker', 'choice scarf').
+tera('staraptor','fast attacker', 'fighting').
+tera('staraptor','fast attacker', 'flying').
+move('staraptor','fast attacker', 'brave bird').
+move('staraptor','fast attacker', 'close combat').
+move('staraptor','fast attacker', 'double-edge').
+move('staraptor','fast attacker', 'quick attack').
+move('staraptor','fast attacker', 'u-turn').
+pokemon('stonjourner', 91).
+ability('stonjourner', 'power spot').
+item('stonjourner', 'life orb').
+role('stonjourner', 'fast attacker').
+ability('stonjourner','fast attacker', 'power spot').
+item('stonjourner','fast attacker', 'life orb').
+tera('stonjourner','fast attacker', 'fire').
+tera('stonjourner','fast attacker', 'ground').
+move('stonjourner','fast attacker', 'earthquake').
+move('stonjourner','fast attacker', 'heat crash').
+move('stonjourner','fast attacker', 'rock polish').
+move('stonjourner','fast attacker', 'stealth rock').
+move('stonjourner','fast attacker', 'stone edge').
+pokemon('sudowoodo', 94).
+ability('sudowoodo', 'rock head').
+item('sudowoodo', 'choice band').
+item('sudowoodo', 'leftovers').
+role('sudowoodo', 'bulky attacker').
+ability('sudowoodo','bulky attacker', 'rock head').
+item('sudowoodo','bulky attacker', 'choice band').
+item('sudowoodo','bulky attacker', 'leftovers').
+tera('sudowoodo','bulky attacker', 'grass').
+tera('sudowoodo','bulky attacker', 'rock').
+move('sudowoodo','bulky attacker', 'earthquake').
+move('sudowoodo','bulky attacker', 'head smash').
+move('sudowoodo','bulky attacker', 'stealth rock').
+move('sudowoodo','bulky attacker', 'sucker punch').
+move('sudowoodo','bulky attacker', 'wood hammer').
+pokemon('suicune', 82).
+ability('suicune', 'pressure').
+item('suicune', 'leftovers').
+role('suicune', 'fast support').
+ability('suicune','fast support', 'pressure').
+item('suicune','fast support', 'leftovers').
+tera('suicune','fast support', 'steel').
+move('suicune','fast support', 'calm mind').
+move('suicune','fast support', 'protect').
+move('suicune','fast support', 'scald').
+move('suicune','fast support', 'substitute').
+role('suicune', 'bulky setup').
+ability('suicune','bulky setup', 'pressure').
+item('suicune','bulky setup', 'leftovers').
+tera('suicune','bulky setup', 'dragon').
+tera('suicune','bulky setup', 'steel').
+move('suicune','bulky setup', 'calm mind').
+move('suicune','bulky setup', 'ice beam').
+move('suicune','bulky setup', 'scald').
+move('suicune','bulky setup', 'substitute').
+role('suicune', 'bulky attacker').
+ability('suicune','bulky attacker', 'pressure').
+item('suicune','bulky attacker', 'leftovers').
+tera('suicune','bulky attacker', 'dragon').
+tera('suicune','bulky attacker', 'steel').
+move('suicune','bulky attacker', 'calm mind').
+move('suicune','bulky attacker', 'rest').
+move('suicune','bulky attacker', 'scald').
+move('suicune','bulky attacker', 'sleep talk').
+pokemon('sunflora', 100).
+ability('sunflora', 'chlorophyll').
+item('sunflora', 'choice specs').
+item('sunflora', 'life orb').
+role('sunflora', 'setup sweeper').
+ability('sunflora','setup sweeper', 'chlorophyll').
+item('sunflora','setup sweeper', 'life orb').
+tera('sunflora','setup sweeper', 'fire').
+move('sunflora','setup sweeper', 'earth power').
+move('sunflora','setup sweeper', 'solar beam').
+move('sunflora','setup sweeper', 'sunny day').
+move('sunflora','setup sweeper', 'weather ball').
+role('sunflora', 'wallbreaker').
+ability('sunflora','wallbreaker', 'chlorophyll').
+item('sunflora','wallbreaker', 'choice specs').
+tera('sunflora','wallbreaker', 'fairy').
+tera('sunflora','wallbreaker', 'grass').
+tera('sunflora','wallbreaker', 'ground').
+tera('sunflora','wallbreaker', 'poison').
+move('sunflora','wallbreaker', 'dazzling gleam').
+move('sunflora','wallbreaker', 'earth power').
+move('sunflora','wallbreaker', 'leaf storm').
+move('sunflora','wallbreaker', 'sludge bomb').
+pokemon('swalot', 90).
+ability('swalot', 'liquid ooze').
+item('swalot', 'assault vest').
+item('swalot', 'leftovers').
+role('swalot', 'bulky setup').
+ability('swalot','bulky setup', 'liquid ooze').
+item('swalot','bulky setup', 'leftovers').
+tera('swalot','bulky setup', 'dark').
+tera('swalot','bulky setup', 'ground').
+move('swalot','bulky setup', 'earthquake').
+move('swalot','bulky setup', 'gunk shot').
+move('swalot','bulky setup', 'knock off').
+move('swalot','bulky setup', 'swords dance').
+role('swalot', 'bulky support').
+ability('swalot','bulky support', 'liquid ooze').
+item('swalot','bulky support', 'leftovers').
+tera('swalot','bulky support', 'ground').
+move('swalot','bulky support', 'earthquake').
+move('swalot','bulky support', 'protect').
+move('swalot','bulky support', 'sludge bomb').
+move('swalot','bulky support', 'toxic').
+role('swalot', 'bulky attacker').
+ability('swalot','bulky attacker', 'liquid ooze').
+item('swalot','bulky attacker', 'assault vest').
+item('swalot','bulky attacker', 'leftovers').
+tera('swalot','bulky attacker', 'dark').
+move('swalot','bulky attacker', 'clear smog').
+move('swalot','bulky attacker', 'earthquake').
+move('swalot','bulky attacker', 'encore').
+move('swalot','bulky attacker', 'ice beam').
+move('swalot','bulky attacker', 'knock off').
+move('swalot','bulky attacker', 'pain split').
+move('swalot','bulky attacker', 'sludge bomb').
+move('swalot','bulky attacker', 'thunder wave').
+move('swalot','bulky attacker', 'toxic spikes').
+pokemon('swampert', 83).
+ability('swampert', 'damp').
+ability('swampert', 'torrent').
+item('swampert', 'assault vest').
+item('swampert', 'leftovers').
+role('swampert', 'bulky support').
+ability('swampert','bulky support', 'damp').
+ability('swampert','bulky support', 'torrent').
+item('swampert','bulky support', 'assault vest').
+item('swampert','bulky support', 'leftovers').
+tera('swampert','bulky support', 'poison').
+tera('swampert','bulky support', 'steel').
+move('swampert','bulky support', 'earthquake').
+move('swampert','bulky support', 'flip turn').
+move('swampert','bulky support', 'ice beam').
+move('swampert','bulky support', 'knock off').
+move('swampert','bulky support', 'roar').
+move('swampert','bulky support', 'stealth rock').
+move('swampert','bulky support', 'yawn').
+pokemon('swanna', 89).
+ability('swanna', 'hydration').
+item('swanna', 'heavy-duty boots').
+role('swanna', 'bulky support').
+ability('swanna','bulky support', 'hydration').
+item('swanna','bulky support', 'heavy-duty boots').
+tera('swanna','bulky support', 'ground').
+move('swanna','bulky support', 'brave bird').
+move('swanna','bulky support', 'defog').
+move('swanna','bulky support', 'flip turn').
+move('swanna','bulky support', 'hydro pump').
+move('swanna','bulky support', 'knock off').
+move('swanna','bulky support', 'roost').
+pokemon('sylveon', 85).
+ability('sylveon', 'pixilate').
+item('sylveon', 'leftovers').
+role('sylveon', 'bulky setup').
+ability('sylveon','bulky setup', 'pixilate').
+item('sylveon','bulky setup', 'leftovers').
+tera('sylveon','bulky setup', 'steel').
+move('sylveon','bulky setup', 'calm mind').
+move('sylveon','bulky setup', 'hyper voice').
+move('sylveon','bulky setup', 'protect').
+move('sylveon','bulky setup', 'wish').
+pokemon('talonflame', 83).
+ability('talonflame', 'flame body').
+ability('talonflame', 'gale wings').
+item('talonflame', 'heavy-duty boots').
+role('talonflame', 'bulky attacker').
+ability('talonflame','bulky attacker', 'flame body').
+item('talonflame','bulky attacker', 'heavy-duty boots').
+tera('talonflame','bulky attacker', 'dragon').
+tera('talonflame','bulky attacker', 'ground').
+move('talonflame','bulky attacker', 'brave bird').
+move('talonflame','bulky attacker', 'defog').
+move('talonflame','bulky attacker', 'overheat').
+move('talonflame','bulky attacker', 'roost').
+move('talonflame','bulky attacker', 'taunt').
+move('talonflame','bulky attacker', 'u-turn').
+move('talonflame','bulky attacker', 'will-o-wisp').
+role('talonflame', 'tera blast user').
+ability('talonflame','tera blast user', 'flame body').
+ability('talonflame','tera blast user', 'gale wings').
+item('talonflame','tera blast user', 'heavy-duty boots').
+tera('talonflame','tera blast user', 'ground').
+move('talonflame','tera blast user', 'brave bird').
+move('talonflame','tera blast user', 'flare blitz').
+move('talonflame','tera blast user', 'swords dance').
+move('talonflame','tera blast user', 'tera blast').
+pokemon('tatsugiri', 87).
+ability('tatsugiri', 'storm drain').
+item('tatsugiri', 'heavy-duty boots').
+role('tatsugiri', 'fast support').
+ability('tatsugiri','fast support', 'storm drain').
+item('tatsugiri','fast support', 'heavy-duty boots').
+tera('tatsugiri','fast support', 'steel').
+tera('tatsugiri','fast support', 'water').
+move('tatsugiri','fast support', 'draco meteor').
+move('tatsugiri','fast support', 'hydro pump').
+move('tatsugiri','fast support', 'nasty plot').
+move('tatsugiri','fast support', 'rapid spin').
+move('tatsugiri','fast support', 'surf').
+pokemon('tauros', 82).
+ability('tauros', 'sheer force').
+item('tauros', 'life orb').
+role('tauros', 'wallbreaker').
+ability('tauros','wallbreaker', 'sheer force').
+item('tauros','wallbreaker', 'life orb').
+tera('tauros','wallbreaker', 'fighting').
+tera('tauros','wallbreaker', 'normal').
+tera('tauros','wallbreaker', 'psychic').
+move('tauros','wallbreaker', 'body slam').
+move('tauros','wallbreaker', 'close combat').
+move('tauros','wallbreaker', 'throat chop').
+move('tauros','wallbreaker', 'zen headbutt').
+role('tauros', 'fast attacker').
+ability('tauros','fast attacker', 'sheer force').
+item('tauros','fast attacker', 'life orb').
+tera('tauros','fast attacker', 'fighting').
+tera('tauros','fast attacker', 'ground').
+tera('tauros','fast attacker', 'normal').
+move('tauros','fast attacker', 'body slam').
+move('tauros','fast attacker', 'close combat').
+move('tauros','fast attacker', 'earthquake').
+move('tauros','fast attacker', 'throat chop').
+pokemon('tauros-paldea-aqua', 81).
+ability('tauros-paldea-aqua', 'cud chew').
+ability('tauros-paldea-aqua', 'intimidate').
+item('tauros-paldea-aqua', 'choice band').
+item('tauros-paldea-aqua', 'life orb').
+item('tauros-paldea-aqua', 'sitrus berry').
+role('tauros-paldea-aqua', 'wallbreaker').
+ability('tauros-paldea-aqua','wallbreaker', 'intimidate').
+item('tauros-paldea-aqua','wallbreaker', 'choice band').
+tera('tauros-paldea-aqua','wallbreaker', 'water').
+move('tauros-paldea-aqua','wallbreaker', 'aqua jet').
+move('tauros-paldea-aqua','wallbreaker', 'close combat').
+move('tauros-paldea-aqua','wallbreaker', 'stone edge').
+move('tauros-paldea-aqua','wallbreaker', 'wave crash').
+role('tauros-paldea-aqua', 'setup sweeper').
+ability('tauros-paldea-aqua','setup sweeper', 'intimidate').
+item('tauros-paldea-aqua','setup sweeper', 'life orb').
+tera('tauros-paldea-aqua','setup sweeper', 'water').
+move('tauros-paldea-aqua','setup sweeper', 'aqua jet').
+move('tauros-paldea-aqua','setup sweeper', 'bulk up').
+move('tauros-paldea-aqua','setup sweeper', 'close combat').
+move('tauros-paldea-aqua','setup sweeper', 'liquidation').
+role('tauros-paldea-aqua', 'fast bulky setup').
+ability('tauros-paldea-aqua','fast bulky setup', 'cud chew').
+item('tauros-paldea-aqua','fast bulky setup', 'sitrus berry').
+tera('tauros-paldea-aqua','fast bulky setup', 'steel').
+tera('tauros-paldea-aqua','fast bulky setup', 'water').
+move('tauros-paldea-aqua','fast bulky setup', 'bulk up').
+move('tauros-paldea-aqua','fast bulky setup', 'close combat').
+move('tauros-paldea-aqua','fast bulky setup', 'liquidation').
+move('tauros-paldea-aqua','fast bulky setup', 'substitute').
+pokemon('tauros-paldea-blaze', 81).
+ability('tauros-paldea-blaze', 'cud chew').
+ability('tauros-paldea-blaze', 'intimidate').
+item('tauros-paldea-blaze', 'choice band').
+item('tauros-paldea-blaze', 'sitrus berry').
+role('tauros-paldea-blaze', 'wallbreaker').
+ability('tauros-paldea-blaze','wallbreaker', 'intimidate').
+item('tauros-paldea-blaze','wallbreaker', 'choice band').
+tera('tauros-paldea-blaze','wallbreaker', 'fighting').
+move('tauros-paldea-blaze','wallbreaker', 'close combat').
+move('tauros-paldea-blaze','wallbreaker', 'flare blitz').
+move('tauros-paldea-blaze','wallbreaker', 'stone edge').
+move('tauros-paldea-blaze','wallbreaker', 'wild charge').
+role('tauros-paldea-blaze', 'fast bulky setup').
+ability('tauros-paldea-blaze','fast bulky setup', 'cud chew').
+item('tauros-paldea-blaze','fast bulky setup', 'sitrus berry').
+tera('tauros-paldea-blaze','fast bulky setup', 'water').
+move('tauros-paldea-blaze','fast bulky setup', 'bulk up').
+move('tauros-paldea-blaze','fast bulky setup', 'close combat').
+move('tauros-paldea-blaze','fast bulky setup', 'raging bull').
+move('tauros-paldea-blaze','fast bulky setup', 'substitute').
+pokemon('tauros-paldea-combat', 82).
+ability('tauros-paldea-combat', 'intimidate').
+item('tauros-paldea-combat', 'choice band').
+item('tauros-paldea-combat', 'life orb').
+role('tauros-paldea-combat', 'wallbreaker').
+ability('tauros-paldea-combat','wallbreaker', 'intimidate').
+item('tauros-paldea-combat','wallbreaker', 'choice band').
+item('tauros-paldea-combat','wallbreaker', 'life orb').
+tera('tauros-paldea-combat','wallbreaker', 'dark').
+tera('tauros-paldea-combat','wallbreaker', 'fighting').
+tera('tauros-paldea-combat','wallbreaker', 'steel').
+move('tauros-paldea-combat','wallbreaker', 'bulk up').
+move('tauros-paldea-combat','wallbreaker', 'close combat').
+move('tauros-paldea-combat','wallbreaker', 'earthquake').
+move('tauros-paldea-combat','wallbreaker', 'iron head').
+move('tauros-paldea-combat','wallbreaker', 'stone edge').
+move('tauros-paldea-combat','wallbreaker', 'throat chop').
+pokemon('tentacruel', 84).
+ability('tentacruel', 'liquid ooze').
+item('tentacruel', 'assault vest').
+item('tentacruel', 'leftovers').
+role('tentacruel', 'bulky support').
+ability('tentacruel','bulky support', 'liquid ooze').
+item('tentacruel','bulky support', 'assault vest').
+item('tentacruel','bulky support', 'leftovers').
+tera('tentacruel','bulky support', 'flying').
+tera('tentacruel','bulky support', 'grass').
+move('tentacruel','bulky support', 'flip turn').
+move('tentacruel','bulky support', 'haze').
+move('tentacruel','bulky support', 'knock off').
+move('tentacruel','bulky support', 'rapid spin').
+move('tentacruel','bulky support', 'sludge bomb').
+move('tentacruel','bulky support', 'surf').
+move('tentacruel','bulky support', 'toxic').
+move('tentacruel','bulky support', 'toxic spikes').
+pokemon('terapagos', 77).
+ability('terapagos', 'tera shift').
+item('terapagos', 'chesto berry').
+item('terapagos', 'heavy-duty boots').
+role('terapagos', 'fast bulky setup').
+ability('terapagos','fast bulky setup', 'tera shift').
+item('terapagos','fast bulky setup', 'chesto berry').
+item('terapagos','fast bulky setup', 'heavy-duty boots').
+tera('terapagos','fast bulky setup', 'stellar').
+move('terapagos','fast bulky setup', 'calm mind').
+move('terapagos','fast bulky setup', 'earth power').
+move('terapagos','fast bulky setup', 'rapid spin').
+move('terapagos','fast bulky setup', 'rest').
+move('terapagos','fast bulky setup', 'tera starstorm').
+role('terapagos', 'setup sweeper').
+ability('terapagos','setup sweeper', 'tera shift').
+item('terapagos','setup sweeper', 'chesto berry').
+item('terapagos','setup sweeper', 'heavy-duty boots').
+tera('terapagos','setup sweeper', 'stellar').
+move('terapagos','setup sweeper', 'calm mind').
+move('terapagos','setup sweeper', 'dark pulse').
+move('terapagos','setup sweeper', 'rapid spin').
+move('terapagos','setup sweeper', 'rest').
+move('terapagos','setup sweeper', 'tera starstorm').
+pokemon('terrakion', 79).
+ability('terrakion', 'justified').
+item('terrakion', 'choice band').
+item('terrakion', 'life orb').
+role('terrakion', 'wallbreaker').
+ability('terrakion','wallbreaker', 'justified').
+item('terrakion','wallbreaker', 'choice band').
+tera('terrakion','wallbreaker', 'fighting').
+tera('terrakion','wallbreaker', 'ground').
+move('terrakion','wallbreaker', 'close combat').
+move('terrakion','wallbreaker', 'earthquake').
+move('terrakion','wallbreaker', 'quick attack').
+move('terrakion','wallbreaker', 'stone edge').
+role('terrakion', 'setup sweeper').
+ability('terrakion','setup sweeper', 'justified').
+item('terrakion','setup sweeper', 'life orb').
+tera('terrakion','setup sweeper', 'fighting').
+tera('terrakion','setup sweeper', 'ground').
+move('terrakion','setup sweeper', 'close combat').
+move('terrakion','setup sweeper', 'earthquake').
+move('terrakion','setup sweeper', 'stone edge').
+move('terrakion','setup sweeper', 'swords dance').
+pokemon('thundurus', 80).
+ability('thundurus', 'defiant').
+ability('thundurus', 'prankster').
+item('thundurus', 'choice specs').
+item('thundurus', 'heavy-duty boots').
+role('thundurus', 'wallbreaker').
+ability('thundurus','wallbreaker', 'defiant').
+ability('thundurus','wallbreaker', 'prankster').
+tera('thundurus','wallbreaker', 'electric').
+tera('thundurus','wallbreaker', 'flying').
+tera('thundurus','wallbreaker', 'grass').
+tera('thundurus','wallbreaker', 'steel').
+move('thundurus','wallbreaker', 'acrobatics').
+move('thundurus','wallbreaker', 'focus blast').
+move('thundurus','wallbreaker', 'grass knot').
+move('thundurus','wallbreaker', 'knock off').
+move('thundurus','wallbreaker', 'taunt').
+move('thundurus','wallbreaker', 'thunder wave').
+move('thundurus','wallbreaker', 'thunderbolt').
+move('thundurus','wallbreaker', 'u-turn').
+role('thundurus', 'fast attacker').
+ability('thundurus','fast attacker', 'defiant').
+ability('thundurus','fast attacker', 'prankster').
+item('thundurus','fast attacker', 'choice specs').
+item('thundurus','fast attacker', 'heavy-duty boots').
+tera('thundurus','fast attacker', 'electric').
+tera('thundurus','fast attacker', 'grass').
+tera('thundurus','fast attacker', 'steel').
+move('thundurus','fast attacker', 'focus blast').
+move('thundurus','fast attacker', 'grass knot').
+move('thundurus','fast attacker', 'knock off').
+move('thundurus','fast attacker', 'nasty plot').
+move('thundurus','fast attacker', 'sludge wave').
+move('thundurus','fast attacker', 'taunt').
+move('thundurus','fast attacker', 'thunder wave').
+move('thundurus','fast attacker', 'thunderbolt').
+move('thundurus','fast attacker', 'u-turn').
+role('thundurus', 'tera blast user').
+ability('thundurus','tera blast user', 'defiant').
+item('thundurus','tera blast user', 'heavy-duty boots').
+tera('thundurus','tera blast user', 'flying').
+move('thundurus','tera blast user', 'focus blast').
+move('thundurus','tera blast user', 'nasty plot').
+move('thundurus','tera blast user', 'tera blast').
+move('thundurus','tera blast user', 'thunderbolt').
+pokemon('thundurus-therian', 80).
+ability('thundurus-therian', 'volt absorb').
+item('thundurus-therian', 'choice scarf').
+item('thundurus-therian', 'choice specs').
+item('thundurus-therian', 'heavy-duty boots').
+role('thundurus-therian', 'fast attacker').
+ability('thundurus-therian','fast attacker', 'volt absorb').
+item('thundurus-therian','fast attacker', 'choice scarf').
+item('thundurus-therian','fast attacker', 'choice specs').
+item('thundurus-therian','fast attacker', 'heavy-duty boots').
+tera('thundurus-therian','fast attacker', 'electric').
+tera('thundurus-therian','fast attacker', 'poison').
+tera('thundurus-therian','fast attacker', 'psychic').
+move('thundurus-therian','fast attacker', 'focus blast').
+move('thundurus-therian','fast attacker', 'grass knot').
+move('thundurus-therian','fast attacker', 'nasty plot').
+move('thundurus-therian','fast attacker', 'psychic').
+move('thundurus-therian','fast attacker', 'sludge wave').
+move('thundurus-therian','fast attacker', 'thunderbolt').
+move('thundurus-therian','fast attacker', 'volt switch').
+role('thundurus-therian', 'tera blast user').
+ability('thundurus-therian','tera blast user', 'volt absorb').
+item('thundurus-therian','tera blast user', 'heavy-duty boots').
+tera('thundurus-therian','tera blast user', 'flying').
+move('thundurus-therian','tera blast user', 'focus blast').
+move('thundurus-therian','tera blast user', 'nasty plot').
+move('thundurus-therian','tera blast user', 'tera blast').
+move('thundurus-therian','tera blast user', 'thunderbolt').
+pokemon('ting-lu', 78).
+ability('ting-lu', 'vessel of ruin').
+item('ting-lu', 'assault vest').
+item('ting-lu', 'leftovers').
+role('ting-lu', 'bulky attacker').
+ability('ting-lu','bulky attacker', 'vessel of ruin').
+item('ting-lu','bulky attacker', 'assault vest').
+item('ting-lu','bulky attacker', 'leftovers').
+tera('ting-lu','bulky attacker', 'ghost').
+tera('ting-lu','bulky attacker', 'poison').
+tera('ting-lu','bulky attacker', 'steel').
+move('ting-lu','bulky attacker', 'earthquake').
+move('ting-lu','bulky attacker', 'heavy slam').
+move('ting-lu','bulky attacker', 'payback').
+move('ting-lu','bulky attacker', 'ruination').
+move('ting-lu','bulky attacker', 'spikes').
+move('ting-lu','bulky attacker', 'stealth rock').
+role('ting-lu', 'bulky support').
+ability('ting-lu','bulky support', 'vessel of ruin').
+item('ting-lu','bulky support', 'leftovers').
+tera('ting-lu','bulky support', 'ghost').
+tera('ting-lu','bulky support', 'poison').
+move('ting-lu','bulky support', 'earthquake').
+move('ting-lu','bulky support', 'spikes').
+move('ting-lu','bulky support', 'stealth rock').
+move('ting-lu','bulky support', 'throat chop').
+move('ting-lu','bulky support', 'whirlwind').
+pokemon('tinkaton', 82).
+ability('tinkaton', 'mold breaker').
+item('tinkaton', 'leftovers').
+role('tinkaton', 'bulky setup').
+ability('tinkaton','bulky setup', 'mold breaker').
+item('tinkaton','bulky setup', 'leftovers').
+tera('tinkaton','bulky setup', 'steel').
+move('tinkaton','bulky setup', 'gigaton hammer').
+move('tinkaton','bulky setup', 'knock off').
+move('tinkaton','bulky setup', 'play rough').
+move('tinkaton','bulky setup', 'protect').
+move('tinkaton','bulky setup', 'swords dance').
+role('tinkaton', 'bulky attacker').
+ability('tinkaton','bulky attacker', 'mold breaker').
+item('tinkaton','bulky attacker', 'leftovers').
+tera('tinkaton','bulky attacker', 'water').
+move('tinkaton','bulky attacker', 'encore').
+move('tinkaton','bulky attacker', 'gigaton hammer').
+move('tinkaton','bulky attacker', 'knock off').
+move('tinkaton','bulky attacker', 'play rough').
+move('tinkaton','bulky attacker', 'stealth rock').
+move('tinkaton','bulky attacker', 'thunder wave').
+pokemon('toedscruel', 87).
+ability('toedscruel', 'mycelium might').
+item('toedscruel', 'assault vest').
+item('toedscruel', 'leftovers').
+role('toedscruel', 'bulky support').
+ability('toedscruel','bulky support', 'mycelium might').
+item('toedscruel','bulky support', 'assault vest').
+item('toedscruel','bulky support', 'leftovers').
+tera('toedscruel','bulky support', 'water').
+move('toedscruel','bulky support', 'earth power').
+move('toedscruel','bulky support', 'giga drain').
+move('toedscruel','bulky support', 'knock off').
+move('toedscruel','bulky support', 'leaf storm').
+move('toedscruel','bulky support', 'rapid spin').
+move('toedscruel','bulky support', 'spore').
+move('toedscruel','bulky support', 'toxic').
+pokemon('torkoal', 88).
+ability('torkoal', 'drought').
+item('torkoal', 'heavy-duty boots').
+role('torkoal', 'bulky support').
+ability('torkoal','bulky support', 'drought').
+item('torkoal','bulky support', 'heavy-duty boots').
+tera('torkoal','bulky support', 'dragon').
+tera('torkoal','bulky support', 'grass').
+move('torkoal','bulky support', 'lava plume').
+move('torkoal','bulky support', 'rapid spin').
+move('torkoal','bulky support', 'solar beam').
+move('torkoal','bulky support', 'stealth rock').
+move('torkoal','bulky support', 'yawn').
+role('torkoal', 'wallbreaker').
+ability('torkoal','wallbreaker', 'drought').
+item('torkoal','wallbreaker', 'heavy-duty boots').
+tera('torkoal','wallbreaker', 'grass').
+move('torkoal','wallbreaker', 'earthquake').
+move('torkoal','wallbreaker', 'fire blast').
+move('torkoal','wallbreaker', 'lava plume').
+move('torkoal','wallbreaker', 'rapid spin').
+move('torkoal','wallbreaker', 'solar beam').
+move('torkoal','wallbreaker', 'stealth rock').
+move('torkoal','wallbreaker', 'yawn').
+pokemon('tornadus', 82).
+ability('tornadus', 'defiant').
+ability('tornadus', 'prankster').
+item('tornadus', 'choice specs').
+item('tornadus', 'heavy-duty boots').
+role('tornadus', 'fast attacker').
+ability('tornadus','fast attacker', 'defiant').
+ability('tornadus','fast attacker', 'prankster').
+item('tornadus','fast attacker', 'choice specs').
+item('tornadus','fast attacker', 'heavy-duty boots').
+tera('tornadus','fast attacker', 'fighting').
+tera('tornadus','fast attacker', 'fire').
+tera('tornadus','fast attacker', 'flying').
+move('tornadus','fast attacker', 'bleakwind storm').
+move('tornadus','fast attacker', 'focus blast').
+move('tornadus','fast attacker', 'grass knot').
+move('tornadus','fast attacker', 'heat wave').
+move('tornadus','fast attacker', 'nasty plot').
+move('tornadus','fast attacker', 'u-turn').
+pokemon('tornadus-therian', 79).
+ability('tornadus-therian', 'regenerator').
+item('tornadus-therian', 'assault vest').
+item('tornadus-therian', 'choice specs').
+item('tornadus-therian', 'heavy-duty boots').
+role('tornadus-therian', 'av pivot').
+ability('tornadus-therian','av pivot', 'regenerator').
+item('tornadus-therian','av pivot', 'assault vest').
+tera('tornadus-therian','av pivot', 'dark').
+tera('tornadus-therian','av pivot', 'steel').
+move('tornadus-therian','av pivot', 'bleakwind storm').
+move('tornadus-therian','av pivot', 'heat wave').
+move('tornadus-therian','av pivot', 'knock off').
+move('tornadus-therian','av pivot', 'u-turn').
+role('tornadus-therian', 'fast attacker').
+ability('tornadus-therian','fast attacker', 'regenerator').
+item('tornadus-therian','fast attacker', 'choice specs').
+item('tornadus-therian','fast attacker', 'heavy-duty boots').
+tera('tornadus-therian','fast attacker', 'fighting').
+tera('tornadus-therian','fast attacker', 'fire').
+tera('tornadus-therian','fast attacker', 'flying').
+move('tornadus-therian','fast attacker', 'bleakwind storm').
+move('tornadus-therian','fast attacker', 'focus blast').
+move('tornadus-therian','fast attacker', 'grass knot').
+move('tornadus-therian','fast attacker', 'heat wave').
+move('tornadus-therian','fast attacker', 'nasty plot').
+move('tornadus-therian','fast attacker', 'u-turn').
+pokemon('torterra', 78).
+ability('torterra', 'overgrow').
+item('torterra', 'loaded dice').
+role('torterra', 'setup sweeper').
+ability('torterra','setup sweeper', 'overgrow').
+item('torterra','setup sweeper', 'loaded dice').
+tera('torterra','setup sweeper', 'grass').
+tera('torterra','setup sweeper', 'ground').
+tera('torterra','setup sweeper', 'rock').
+tera('torterra','setup sweeper', 'water').
+move('torterra','setup sweeper', 'bullet seed').
+move('torterra','setup sweeper', 'headlong rush').
+move('torterra','setup sweeper', 'rock blast').
+move('torterra','setup sweeper', 'shell smash').
+pokemon('toucannon', 88).
+ability('toucannon', 'keen eye').
+ability('toucannon', 'skill link').
+item('toucannon', 'heavy-duty boots').
+role('toucannon', 'bulky support').
+ability('toucannon','bulky support', 'keen eye').
+ability('toucannon','bulky support', 'skill link').
+item('toucannon','bulky support', 'heavy-duty boots').
+tera('toucannon','bulky support', 'steel').
+move('toucannon','bulky support', 'beak blast').
+move('toucannon','bulky support', 'boomburst').
+move('toucannon','bulky support', 'bullet seed').
+move('toucannon','bulky support', 'knock off').
+move('toucannon','bulky support', 'roost').
+move('toucannon','bulky support', 'u-turn').
+pokemon('toxapex', 82).
+ability('toxapex', 'regenerator').
+item('toxapex', 'leftovers').
+item('toxapex', 'rocky helmet').
+role('toxapex', 'bulky support').
+ability('toxapex','bulky support', 'regenerator').
+item('toxapex','bulky support', 'leftovers').
+item('toxapex','bulky support', 'rocky helmet').
+tera('toxapex','bulky support', 'fairy').
+tera('toxapex','bulky support', 'flying').
+tera('toxapex','bulky support', 'grass').
+tera('toxapex','bulky support', 'steel').
+move('toxapex','bulky support', 'haze').
+move('toxapex','bulky support', 'liquidation').
+move('toxapex','bulky support', 'recover').
+move('toxapex','bulky support', 'toxic').
+move('toxapex','bulky support', 'toxic spikes').
+pokemon('toxicroak', 84).
+ability('toxicroak', 'dry skin').
+item('toxicroak', 'choice band').
+item('toxicroak', 'choice scarf').
+item('toxicroak', 'life orb').
+role('toxicroak', 'fast attacker').
+ability('toxicroak','fast attacker', 'dry skin').
+item('toxicroak','fast attacker', 'choice band').
+item('toxicroak','fast attacker', 'choice scarf').
+item('toxicroak','fast attacker', 'life orb').
+tera('toxicroak','fast attacker', 'dark').
+move('toxicroak','fast attacker', 'close combat').
+move('toxicroak','fast attacker', 'earthquake').
+move('toxicroak','fast attacker', 'gunk shot').
+move('toxicroak','fast attacker', 'knock off').
+move('toxicroak','fast attacker', 'sucker punch').
+move('toxicroak','fast attacker', 'swords dance').
+role('toxicroak', 'setup sweeper').
+ability('toxicroak','setup sweeper', 'dry skin').
+item('toxicroak','setup sweeper', 'life orb').
+tera('toxicroak','setup sweeper', 'dark').
+tera('toxicroak','setup sweeper', 'fighting').
+tera('toxicroak','setup sweeper', 'ground').
+move('toxicroak','setup sweeper', 'close combat').
+move('toxicroak','setup sweeper', 'earthquake').
+move('toxicroak','setup sweeper', 'gunk shot').
+move('toxicroak','setup sweeper', 'sucker punch').
+move('toxicroak','setup sweeper', 'swords dance').
+pokemon('toxtricity', 82).
+ability('toxtricity', 'punk rock').
+item('toxtricity', 'choice scarf').
+item('toxtricity', 'choice specs').
+item('toxtricity', 'throat spray').
+role('toxtricity', 'setup sweeper').
+ability('toxtricity','setup sweeper', 'punk rock').
+item('toxtricity','setup sweeper', 'throat spray').
+tera('toxtricity','setup sweeper', 'normal').
+move('toxtricity','setup sweeper', 'boomburst').
+move('toxtricity','setup sweeper', 'gunk shot').
+move('toxtricity','setup sweeper', 'overdrive').
+move('toxtricity','setup sweeper', 'shift gear').
+role('toxtricity', 'fast attacker').
+ability('toxtricity','fast attacker', 'punk rock').
+item('toxtricity','fast attacker', 'choice scarf').
+item('toxtricity','fast attacker', 'choice specs').
+tera('toxtricity','fast attacker', 'normal').
+move('toxtricity','fast attacker', 'boomburst').
+move('toxtricity','fast attacker', 'overdrive').
+move('toxtricity','fast attacker', 'sludge wave').
+move('toxtricity','fast attacker', 'volt switch').
+pokemon('trevenant', 89).
+ability('trevenant', 'harvest').
+ability('trevenant', 'natural cure').
+item('trevenant', 'choice band').
+item('trevenant', 'life orb').
+item('trevenant', 'sitrus berry').
+role('trevenant', 'wallbreaker').
+ability('trevenant','wallbreaker', 'natural cure').
+item('trevenant','wallbreaker', 'choice band').
+item('trevenant','wallbreaker', 'life orb').
+tera('trevenant','wallbreaker', 'fighting').
+move('trevenant','wallbreaker', 'drain punch').
+move('trevenant','wallbreaker', 'horn leech').
+move('trevenant','wallbreaker', 'poltergeist').
+move('trevenant','wallbreaker', 'rest').
+move('trevenant','wallbreaker', 'will-o-wisp').
+move('trevenant','wallbreaker', 'wood hammer').
+role('trevenant', 'bulky support').
+ability('trevenant','bulky support', 'harvest').
+item('trevenant','bulky support', 'sitrus berry').
+tera('trevenant','bulky support', 'dark').
+tera('trevenant','bulky support', 'fairy').
+tera('trevenant','bulky support', 'fighting').
+tera('trevenant','bulky support', 'steel').
+move('trevenant','bulky support', 'drain punch').
+move('trevenant','bulky support', 'poltergeist').
+move('trevenant','bulky support', 'protect').
+move('trevenant','bulky support', 'toxic').
+pokemon('tropius', 91).
+ability('tropius', 'harvest').
+item('tropius', 'sitrus berry').
+role('tropius', 'setup sweeper').
+ability('tropius','setup sweeper', 'harvest').
+item('tropius','setup sweeper', 'sitrus berry').
+tera('tropius','setup sweeper', 'ground').
+move('tropius','setup sweeper', 'dragon dance').
+move('tropius','setup sweeper', 'dual wingbeat').
+move('tropius','setup sweeper', 'earthquake').
+move('tropius','setup sweeper', 'leaf blade').
+move('tropius','setup sweeper', 'synthesis').
+role('tropius', 'bulky support').
+ability('tropius','bulky support', 'harvest').
+item('tropius','bulky support', 'sitrus berry').
+tera('tropius','bulky support', 'steel').
+move('tropius','bulky support', 'air slash').
+move('tropius','bulky support', 'leech seed').
+move('tropius','bulky support', 'protect').
+move('tropius','bulky support', 'substitute').
+pokemon('tsareena', 87).
+ability('tsareena', 'queenly majesty').
+item('tsareena', 'assault vest').
+item('tsareena', 'choice band').
+item('tsareena', 'choice scarf').
+item('tsareena', 'heavy-duty boots').
+item('tsareena', 'life orb').
+role('tsareena', 'fast support').
+ability('tsareena','fast support', 'queenly majesty').
+item('tsareena','fast support', 'assault vest').
+item('tsareena','fast support', 'choice band').
+item('tsareena','fast support', 'choice scarf').
+item('tsareena','fast support', 'heavy-duty boots').
+item('tsareena','fast support', 'life orb').
+tera('tsareena','fast support', 'fighting').
+tera('tsareena','fast support', 'steel').
+move('tsareena','fast support', 'high jump kick').
+move('tsareena','fast support', 'knock off').
+move('tsareena','fast support', 'power whip').
+move('tsareena','fast support', 'rapid spin').
+move('tsareena','fast support', 'synthesis').
+move('tsareena','fast support', 'triple axel').
+move('tsareena','fast support', 'u-turn').
+pokemon('typhlosion', 84).
+ability('typhlosion', 'blaze').
+ability('typhlosion', 'flash fire').
+item('typhlosion', 'choice scarf').
+item('typhlosion', 'choice specs').
+role('typhlosion', 'fast attacker').
+ability('typhlosion','fast attacker', 'blaze').
+ability('typhlosion','fast attacker', 'flash fire').
+item('typhlosion','fast attacker', 'choice scarf').
+item('typhlosion','fast attacker', 'choice specs').
+tera('typhlosion','fast attacker', 'fire').
+move('typhlosion','fast attacker', 'eruption').
+move('typhlosion','fast attacker', 'fire blast').
+move('typhlosion','fast attacker', 'focus blast').
+move('typhlosion','fast attacker', 'scorching sands').
+pokemon('typhlosion-hisui', 83).
+ability('typhlosion-hisui', 'blaze').
+item('typhlosion-hisui', 'choice scarf').
+item('typhlosion-hisui', 'choice specs').
+item('typhlosion-hisui', 'heavy-duty boots').
+item('typhlosion-hisui', 'leftovers').
+role('typhlosion-hisui', 'fast attacker').
+ability('typhlosion-hisui','fast attacker', 'blaze').
+item('typhlosion-hisui','fast attacker', 'choice scarf').
+item('typhlosion-hisui','fast attacker', 'choice specs').
+tera('typhlosion-hisui','fast attacker', 'fire').
+move('typhlosion-hisui','fast attacker', 'eruption').
+move('typhlosion-hisui','fast attacker', 'fire blast').
+move('typhlosion-hisui','fast attacker', 'focus blast').
+move('typhlosion-hisui','fast attacker', 'shadow ball').
+role('typhlosion-hisui', 'fast bulky setup').
+ability('typhlosion-hisui','fast bulky setup', 'blaze').
+item('typhlosion-hisui','fast bulky setup', 'heavy-duty boots').
+item('typhlosion-hisui','fast bulky setup', 'leftovers').
+tera('typhlosion-hisui','fast bulky setup', 'fighting').
+tera('typhlosion-hisui','fast bulky setup', 'fire').
+tera('typhlosion-hisui','fast bulky setup', 'ghost').
+move('typhlosion-hisui','fast bulky setup', 'calm mind').
+move('typhlosion-hisui','fast bulky setup', 'fire blast').
+move('typhlosion-hisui','fast bulky setup', 'focus blast').
+move('typhlosion-hisui','fast bulky setup', 'shadow ball').
+move('typhlosion-hisui','fast bulky setup', 'substitute').
+move('typhlosion-hisui','fast bulky setup', 'will-o-wisp').
+pokemon('tyranitar', 78).
+ability('tyranitar', 'sand stream').
+item('tyranitar', 'assault vest').
+item('tyranitar', 'leftovers').
+item('tyranitar', 'weakness policy').
+role('tyranitar', 'bulky setup').
+ability('tyranitar','bulky setup', 'sand stream').
+item('tyranitar','bulky setup', 'weakness policy').
+tera('tyranitar','bulky setup', 'ghost').
+tera('tyranitar','bulky setup', 'rock').
+move('tyranitar','bulky setup', 'dragon dance').
+move('tyranitar','bulky setup', 'earthquake').
+move('tyranitar','bulky setup', 'ice punch').
+move('tyranitar','bulky setup', 'knock off').
+move('tyranitar','bulky setup', 'stone edge').
+role('tyranitar', 'bulky support').
+ability('tyranitar','bulky support', 'sand stream').
+item('tyranitar','bulky support', 'assault vest').
+item('tyranitar','bulky support', 'leftovers').
+tera('tyranitar','bulky support', 'ghost').
+tera('tyranitar','bulky support', 'rock').
+move('tyranitar','bulky support', 'dragon tail').
+move('tyranitar','bulky support', 'earthquake').
+move('tyranitar','bulky support', 'ice beam').
+move('tyranitar','bulky support', 'knock off').
+move('tyranitar','bulky support', 'stealth rock').
+move('tyranitar','bulky support', 'stone edge').
+move('tyranitar','bulky support', 'thunder wave').
+pokemon('umbreon', 84).
+ability('umbreon', 'synchronize').
+item('umbreon', 'leftovers').
+role('umbreon', 'bulky support').
+ability('umbreon','bulky support', 'synchronize').
+item('umbreon','bulky support', 'leftovers').
+tera('umbreon','bulky support', 'poison').
+move('umbreon','bulky support', 'foul play').
+move('umbreon','bulky support', 'protect').
+move('umbreon','bulky support', 'toxic').
+move('umbreon','bulky support', 'wish').
+pokemon('ursaluna', 79).
+ability('ursaluna', 'guts').
+item('ursaluna', 'flame orb').
+role('ursaluna', 'bulky attacker').
+ability('ursaluna','bulky attacker', 'guts').
+item('ursaluna','bulky attacker', 'flame orb').
+tera('ursaluna','bulky attacker', 'normal').
+move('ursaluna','bulky attacker', 'crunch').
+move('ursaluna','bulky attacker', 'facade').
+move('ursaluna','bulky attacker', 'headlong rush').
+move('ursaluna','bulky attacker', 'swords dance').
+move('ursaluna','bulky attacker', 'throat chop').
+move('ursaluna','bulky attacker', 'trailblaze').
+pokemon('ursaluna-bloodmoon', 79).
+ability('ursaluna-bloodmoon', 'mind's eye').
+item('ursaluna-bloodmoon', 'leftovers').
+role('ursaluna-bloodmoon', 'bulky setup').
+ability('ursaluna-bloodmoon','bulky setup', 'mind's eye').
+item('ursaluna-bloodmoon','bulky setup', 'leftovers').
+tera('ursaluna-bloodmoon','bulky setup', 'fighting').
+tera('ursaluna-bloodmoon','bulky setup', 'ghost').
+tera('ursaluna-bloodmoon','bulky setup', 'normal').
+tera('ursaluna-bloodmoon','bulky setup', 'poison').
+move('ursaluna-bloodmoon','bulky setup', 'blood moon').
+move('ursaluna-bloodmoon','bulky setup', 'calm mind').
+move('ursaluna-bloodmoon','bulky setup', 'moonlight').
+move('ursaluna-bloodmoon','bulky setup', 'vacuum wave').
+role('ursaluna-bloodmoon', 'bulky attacker').
+ability('ursaluna-bloodmoon','bulky attacker', 'mind's eye').
+item('ursaluna-bloodmoon','bulky attacker', 'leftovers').
+tera('ursaluna-bloodmoon','bulky attacker', 'ghost').
+tera('ursaluna-bloodmoon','bulky attacker', 'normal').
+tera('ursaluna-bloodmoon','bulky attacker', 'poison').
+move('ursaluna-bloodmoon','bulky attacker', 'blood moon').
+move('ursaluna-bloodmoon','bulky attacker', 'calm mind').
+move('ursaluna-bloodmoon','bulky attacker', 'earth power').
+move('ursaluna-bloodmoon','bulky attacker', 'moonlight').
+pokemon('ursaring', 84).
+ability('ursaring', 'guts').
+ability('ursaring', 'quick feet').
+item('ursaring', 'eviolite').
+item('ursaring', 'toxic orb').
+role('ursaring', 'bulky attacker').
+ability('ursaring','bulky attacker', 'guts').
+item('ursaring','bulky attacker', 'eviolite').
+tera('ursaring','bulky attacker', 'ghost').
+tera('ursaring','bulky attacker', 'ground').
+move('ursaring','bulky attacker', 'body slam').
+move('ursaring','bulky attacker', 'earthquake').
+move('ursaring','bulky attacker', 'rest').
+move('ursaring','bulky attacker', 'sleep talk').
+move('ursaring','bulky attacker', 'throat chop').
+role('ursaring', 'setup sweeper').
+ability('ursaring','setup sweeper', 'quick feet').
+item('ursaring','setup sweeper', 'toxic orb').
+tera('ursaring','setup sweeper', 'normal').
+move('ursaring','setup sweeper', 'close combat').
+move('ursaring','setup sweeper', 'crunch').
+move('ursaring','setup sweeper', 'facade').
+move('ursaring','setup sweeper', 'swords dance').
+move('ursaring','setup sweeper', 'throat chop').
+pokemon('urshifu', 74).
+ability('urshifu', 'unseen fist').
+item('urshifu', 'choice band').
+item('urshifu', 'choice scarf').
+item('urshifu', 'life orb').
+role('urshifu', 'fast attacker').
+ability('urshifu','fast attacker', 'unseen fist').
+item('urshifu','fast attacker', 'choice band').
+item('urshifu','fast attacker', 'choice scarf').
+item('urshifu','fast attacker', 'life orb').
+tera('urshifu','fast attacker', 'dark').
+tera('urshifu','fast attacker', 'fighting').
+tera('urshifu','fast attacker', 'poison').
+move('urshifu','fast attacker', 'close combat').
+move('urshifu','fast attacker', 'poison jab').
+move('urshifu','fast attacker', 'sucker punch').
+move('urshifu','fast attacker', 'swords dance').
+move('urshifu','fast attacker', 'u-turn').
+move('urshifu','fast attacker', 'wicked blow').
+pokemon('urshifu-rapid-strike', 75).
+ability('urshifu-rapid-strike', 'unseen fist').
+item('urshifu-rapid-strike', 'choice band').
+item('urshifu-rapid-strike', 'choice scarf').
+item('urshifu-rapid-strike', 'life orb').
+role('urshifu-rapid-strike', 'fast attacker').
+ability('urshifu-rapid-strike','fast attacker', 'unseen fist').
+item('urshifu-rapid-strike','fast attacker', 'choice band').
+item('urshifu-rapid-strike','fast attacker', 'choice scarf').
+item('urshifu-rapid-strike','fast attacker', 'life orb').
+tera('urshifu-rapid-strike','fast attacker', 'water').
+move('urshifu-rapid-strike','fast attacker', 'aqua jet').
+move('urshifu-rapid-strike','fast attacker', 'close combat').
+move('urshifu-rapid-strike','fast attacker', 'ice spinner').
+move('urshifu-rapid-strike','fast attacker', 'surging strikes').
+move('urshifu-rapid-strike','fast attacker', 'swords dance').
+move('urshifu-rapid-strike','fast attacker', 'u-turn').
+pokemon('uxie', 83).
+ability('uxie', 'levitate').
+item('uxie', 'leftovers').
+role('uxie', 'bulky setup').
+ability('uxie','bulky setup', 'levitate').
+item('uxie','bulky setup', 'leftovers').
+tera('uxie','bulky setup', 'fairy').
+move('uxie','bulky setup', 'draining kiss').
+move('uxie','bulky setup', 'encore').
+move('uxie','bulky setup', 'nasty plot').
+move('uxie','bulky setup', 'psychic noise').
+move('uxie','bulky setup', 'psyshock').
+move('uxie','bulky setup', 'substitute').
+role('uxie', 'bulky support').
+ability('uxie','bulky support', 'levitate').
+item('uxie','bulky support', 'leftovers').
+tera('uxie','bulky support', 'dark').
+tera('uxie','bulky support', 'electric').
+tera('uxie','bulky support', 'steel').
+move('uxie','bulky support', 'encore').
+move('uxie','bulky support', 'knock off').
+move('uxie','bulky support', 'psychic noise').
+move('uxie','bulky support', 'stealth rock').
+move('uxie','bulky support', 'thunder wave').
+move('uxie','bulky support', 'u-turn').
+move('uxie','bulky support', 'yawn').
+pokemon('vaporeon', 86).
+ability('vaporeon', 'water absorb').
+item('vaporeon', 'leftovers').
+role('vaporeon', 'bulky support').
+ability('vaporeon','bulky support', 'water absorb').
+item('vaporeon','bulky support', 'leftovers').
+tera('vaporeon','bulky support', 'ghost').
+tera('vaporeon','bulky support', 'ground').
+tera('vaporeon','bulky support', 'poison').
+move('vaporeon','bulky support', 'flip turn').
+move('vaporeon','bulky support', 'ice beam').
+move('vaporeon','bulky support', 'protect').
+move('vaporeon','bulky support', 'scald').
+move('vaporeon','bulky support', 'wish').
+role('vaporeon', 'bulky attacker').
+ability('vaporeon','bulky attacker', 'water absorb').
+item('vaporeon','bulky attacker', 'leftovers').
+tera('vaporeon','bulky attacker', 'ghost').
+tera('vaporeon','bulky attacker', 'ground').
+tera('vaporeon','bulky attacker', 'poison').
+move('vaporeon','bulky attacker', 'haze').
+move('vaporeon','bulky attacker', 'protect').
+move('vaporeon','bulky attacker', 'roar').
+move('vaporeon','bulky attacker', 'scald').
+move('vaporeon','bulky attacker', 'wish').
+role('vaporeon', 'bulky setup').
+ability('vaporeon','bulky setup', 'water absorb').
+item('vaporeon','bulky setup', 'leftovers').
+tera('vaporeon','bulky setup', 'ghost').
+tera('vaporeon','bulky setup', 'ground').
+tera('vaporeon','bulky setup', 'poison').
+move('vaporeon','bulky setup', 'calm mind').
+move('vaporeon','bulky setup', 'protect').
+move('vaporeon','bulky setup', 'scald').
+move('vaporeon','bulky setup', 'wish').
+pokemon('veluza', 85).
+ability('veluza', 'sharpness').
+item('veluza', 'choice band').
+item('veluza', 'choice scarf').
+item('veluza', 'sitrus berry').
+role('veluza', 'setup sweeper').
+ability('veluza','setup sweeper', 'sharpness').
+item('veluza','setup sweeper', 'sitrus berry').
+tera('veluza','setup sweeper', 'dark').
+tera('veluza','setup sweeper', 'psychic').
+tera('veluza','setup sweeper', 'water').
+move('veluza','setup sweeper', 'aqua cutter').
+move('veluza','setup sweeper', 'fillet away').
+move('veluza','setup sweeper', 'night slash').
+move('veluza','setup sweeper', 'psycho cut').
+role('veluza', 'fast attacker').
+ability('veluza','fast attacker', 'sharpness').
+item('veluza','fast attacker', 'choice band').
+item('veluza','fast attacker', 'choice scarf').
+tera('veluza','fast attacker', 'dark').
+tera('veluza','fast attacker', 'water').
+move('veluza','fast attacker', 'aqua cutter').
+move('veluza','fast attacker', 'aqua jet').
+move('veluza','fast attacker', 'flip turn').
+move('veluza','fast attacker', 'night slash').
+move('veluza','fast attacker', 'psycho cut').
+pokemon('venomoth', 84).
+ability('venomoth', 'tinted lens').
+item('venomoth', 'heavy-duty boots').
+role('venomoth', 'setup sweeper').
+ability('venomoth','setup sweeper', 'tinted lens').
+item('venomoth','setup sweeper', 'heavy-duty boots').
+tera('venomoth','setup sweeper', 'bug').
+tera('venomoth','setup sweeper', 'poison').
+tera('venomoth','setup sweeper', 'steel').
+tera('venomoth','setup sweeper', 'water').
+move('venomoth','setup sweeper', 'bug buzz').
+move('venomoth','setup sweeper', 'quiver dance').
+move('venomoth','setup sweeper', 'sleep powder').
+move('venomoth','setup sweeper', 'sludge wave').
+pokemon('venusaur', 84).
+ability('venusaur', 'chlorophyll').
+ability('venusaur', 'overgrow').
+item('venusaur', 'leftovers').
+role('venusaur', 'bulky support').
+ability('venusaur','bulky support', 'chlorophyll').
+ability('venusaur','bulky support', 'overgrow').
+item('venusaur','bulky support', 'leftovers').
+tera('venusaur','bulky support', 'steel').
+tera('venusaur','bulky support', 'water').
+move('venusaur','bulky support', 'giga drain').
+move('venusaur','bulky support', 'leech seed').
+move('venusaur','bulky support', 'sleep powder').
+move('venusaur','bulky support', 'sludge bomb').
+move('venusaur','bulky support', 'substitute').
+role('venusaur', 'bulky attacker').
+ability('venusaur','bulky attacker', 'chlorophyll').
+ability('venusaur','bulky attacker', 'overgrow').
+item('venusaur','bulky attacker', 'leftovers').
+tera('venusaur','bulky attacker', 'dark').
+tera('venusaur','bulky attacker', 'steel').
+tera('venusaur','bulky attacker', 'water').
+move('venusaur','bulky attacker', 'earth power').
+move('venusaur','bulky attacker', 'energy ball').
+move('venusaur','bulky attacker', 'knock off').
+move('venusaur','bulky attacker', 'sleep powder').
+move('venusaur','bulky attacker', 'sludge bomb').
+move('venusaur','bulky attacker', 'synthesis').
+move('venusaur','bulky attacker', 'toxic').
+pokemon('vespiquen', 99).
+ability('vespiquen', 'pressure').
+item('vespiquen', 'heavy-duty boots').
+role('vespiquen', 'bulky support').
+ability('vespiquen','bulky support', 'pressure').
+item('vespiquen','bulky support', 'heavy-duty boots').
+tera('vespiquen','bulky support', 'steel').
+move('vespiquen','bulky support', 'air slash').
+move('vespiquen','bulky support', 'hurricane').
+move('vespiquen','bulky support', 'roost').
+move('vespiquen','bulky support', 'spikes').
+move('vespiquen','bulky support', 'toxic').
+move('vespiquen','bulky support', 'toxic spikes').
+move('vespiquen','bulky support', 'u-turn').
+pokemon('victreebel', 90).
+ability('victreebel', 'chlorophyll').
+item('victreebel', 'life orb').
+role('victreebel', 'setup sweeper').
+ability('victreebel','setup sweeper', 'chlorophyll').
+item('victreebel','setup sweeper', 'life orb').
+tera('victreebel','setup sweeper', 'dark').
+tera('victreebel','setup sweeper', 'grass').
+move('victreebel','setup sweeper', 'poison jab').
+move('victreebel','setup sweeper', 'power whip').
+move('victreebel','setup sweeper', 'sucker punch').
+move('victreebel','setup sweeper', 'swords dance').
+role('victreebel', 'fast attacker').
+ability('victreebel','fast attacker', 'chlorophyll').
+item('victreebel','fast attacker', 'life orb').
+tera('victreebel','fast attacker', 'fire').
+move('victreebel','fast attacker', 'power whip').
+move('victreebel','fast attacker', 'sludge wave').
+move('victreebel','fast attacker', 'sunny day').
+move('victreebel','fast attacker', 'weather ball').
+role('victreebel', 'wallbreaker').
+ability('victreebel','wallbreaker', 'chlorophyll').
+item('victreebel','wallbreaker', 'life orb').
+tera('victreebel','wallbreaker', 'grass').
+tera('victreebel','wallbreaker', 'steel').
+move('victreebel','wallbreaker', 'knock off').
+move('victreebel','wallbreaker', 'power whip').
+move('victreebel','wallbreaker', 'sleep powder').
+move('victreebel','wallbreaker', 'sludge wave').
+move('victreebel','wallbreaker', 'strength sap').
+move('victreebel','wallbreaker', 'sucker punch').
+pokemon('vigoroth', 85).
+ability('vigoroth', 'vital spirit').
+item('vigoroth', 'eviolite').
+role('vigoroth', 'bulky attacker').
+ability('vigoroth','bulky attacker', 'vital spirit').
+item('vigoroth','bulky attacker', 'eviolite').
+tera('vigoroth','bulky attacker', 'ground').
+move('vigoroth','bulky attacker', 'body slam').
+move('vigoroth','bulky attacker', 'bulk up').
+move('vigoroth','bulky attacker', 'earthquake').
+move('vigoroth','bulky attacker', 'slack off').
+role('vigoroth', 'bulky setup').
+ability('vigoroth','bulky setup', 'vital spirit').
+item('vigoroth','bulky setup', 'eviolite').
+tera('vigoroth','bulky setup', 'ghost').
+move('vigoroth','bulky setup', 'body slam').
+move('vigoroth','bulky setup', 'bulk up').
+move('vigoroth','bulky setup', 'knock off').
+move('vigoroth','bulky setup', 'slack off').
+pokemon('vikavolt', 83).
+ability('vikavolt', 'levitate').
+item('vikavolt', 'heavy-duty boots').
+role('vikavolt', 'bulky support').
+ability('vikavolt','bulky support', 'levitate').
+item('vikavolt','bulky support', 'heavy-duty boots').
+tera('vikavolt','bulky support', 'electric').
+move('vikavolt','bulky support', 'bug buzz').
+move('vikavolt','bulky support', 'discharge').
+move('vikavolt','bulky support', 'energy ball').
+move('vikavolt','bulky support', 'sticky web').
+move('vikavolt','bulky support', 'thunderbolt').
+move('vikavolt','bulky support', 'volt switch').
+pokemon('vileplume', 85).
+ability('vileplume', 'effect spore').
+item('vileplume', 'leftovers').
+role('vileplume', 'bulky attacker').
+ability('vileplume','bulky attacker', 'effect spore').
+item('vileplume','bulky attacker', 'leftovers').
+tera('vileplume','bulky attacker', 'steel').
+tera('vileplume','bulky attacker', 'water').
+move('vileplume','bulky attacker', 'giga drain').
+move('vileplume','bulky attacker', 'leech seed').
+move('vileplume','bulky attacker', 'sleep powder').
+move('vileplume','bulky attacker', 'sludge bomb').
+move('vileplume','bulky attacker', 'strength sap').
+pokemon('virizion', 82).
+ability('virizion', 'justified').
+item('virizion', 'life orb').
+role('virizion', 'setup sweeper').
+ability('virizion','setup sweeper', 'justified').
+item('virizion','setup sweeper', 'life orb').
+tera('virizion','setup sweeper', 'rock').
+move('virizion','setup sweeper', 'close combat').
+move('virizion','setup sweeper', 'leaf blade').
+move('virizion','setup sweeper', 'stone edge').
+move('virizion','setup sweeper', 'swords dance').
+pokemon('vivillon', 83).
+ability('vivillon', 'compound eyes').
+item('vivillon', 'heavy-duty boots').
+role('vivillon', 'fast bulky setup').
+ability('vivillon','fast bulky setup', 'compound eyes').
+item('vivillon','fast bulky setup', 'heavy-duty boots').
+tera('vivillon','fast bulky setup', 'flying').
+tera('vivillon','fast bulky setup', 'steel').
+move('vivillon','fast bulky setup', 'bug buzz').
+move('vivillon','fast bulky setup', 'hurricane').
+move('vivillon','fast bulky setup', 'quiver dance').
+move('vivillon','fast bulky setup', 'sleep powder').
+role('vivillon', 'tera blast user').
+ability('vivillon','tera blast user', 'compound eyes').
+item('vivillon','tera blast user', 'heavy-duty boots').
+tera('vivillon','tera blast user', 'ground').
+move('vivillon','tera blast user', 'hurricane').
+move('vivillon','tera blast user', 'quiver dance').
+move('vivillon','tera blast user', 'sleep powder').
+move('vivillon','tera blast user', 'tera blast').
+pokemon('volbeat', 90).
+ability('volbeat', 'prankster').
+item('volbeat', 'heavy-duty boots').
+role('volbeat', 'bulky attacker').
+ability('volbeat','bulky attacker', 'prankster').
+item('volbeat','bulky attacker', 'heavy-duty boots').
+tera('volbeat','bulky attacker', 'steel').
+tera('volbeat','bulky attacker', 'water').
+move('volbeat','bulky attacker', 'encore').
+move('volbeat','bulky attacker', 'lunge').
+move('volbeat','bulky attacker', 'roost').
+move('volbeat','bulky attacker', 'thunder wave').
+role('volbeat', 'bulky support').
+ability('volbeat','bulky support', 'prankster').
+item('volbeat','bulky support', 'heavy-duty boots').
+tera('volbeat','bulky support', 'steel').
+tera('volbeat','bulky support', 'water').
+move('volbeat','bulky support', 'encore').
+move('volbeat','bulky support', 'roost').
+move('volbeat','bulky support', 'thunder wave').
+move('volbeat','bulky support', 'u-turn').
+pokemon('volcanion', 79).
+ability('volcanion', 'water absorb').
+item('volcanion', 'assault vest').
+item('volcanion', 'choice scarf').
+item('volcanion', 'choice specs').
+item('volcanion', 'heavy-duty boots').
+role('volcanion', 'bulky attacker').
+ability('volcanion','bulky attacker', 'water absorb').
+item('volcanion','bulky attacker', 'assault vest').
+item('volcanion','bulky attacker', 'choice scarf').
+item('volcanion','bulky attacker', 'choice specs').
+item('volcanion','bulky attacker', 'heavy-duty boots').
+tera('volcanion','bulky attacker', 'fire').
+tera('volcanion','bulky attacker', 'ground').
+tera('volcanion','bulky attacker', 'water').
+move('volcanion','bulky attacker', 'earth power').
+move('volcanion','bulky attacker', 'flame charge').
+move('volcanion','bulky attacker', 'flamethrower').
+move('volcanion','bulky attacker', 'haze').
+move('volcanion','bulky attacker', 'sludge bomb').
+move('volcanion','bulky attacker', 'steam eruption').
+pokemon('volcarona', 77).
+ability('volcarona', 'flame body').
+ability('volcarona', 'swarm').
+item('volcarona', 'heavy-duty boots').
+role('volcarona', 'fast bulky setup').
+ability('volcarona','fast bulky setup', 'flame body').
+ability('volcarona','fast bulky setup', 'swarm').
+item('volcarona','fast bulky setup', 'heavy-duty boots').
+tera('volcarona','fast bulky setup', 'fire').
+tera('volcarona','fast bulky setup', 'grass').
+tera('volcarona','fast bulky setup', 'steel').
+move('volcarona','fast bulky setup', 'bug buzz').
+move('volcarona','fast bulky setup', 'fiery dance').
+move('volcarona','fast bulky setup', 'fire blast').
+move('volcarona','fast bulky setup', 'giga drain').
+move('volcarona','fast bulky setup', 'morning sun').
+move('volcarona','fast bulky setup', 'quiver dance').
+role('volcarona', 'tera blast user').
+ability('volcarona','tera blast user', 'flame body').
+ability('volcarona','tera blast user', 'swarm').
+item('volcarona','tera blast user', 'heavy-duty boots').
+tera('volcarona','tera blast user', 'ground').
+tera('volcarona','tera blast user', 'water').
+move('volcarona','tera blast user', 'bug buzz').
+move('volcarona','tera blast user', 'fiery dance').
+move('volcarona','tera blast user', 'fire blast').
+move('volcarona','tera blast user', 'giga drain').
+move('volcarona','tera blast user', 'quiver dance').
+move('volcarona','tera blast user', 'tera blast').
+pokemon('walking wake', 79).
+ability('walking wake', 'protosynthesis').
+item('walking wake', 'choice specs').
+item('walking wake', 'life orb').
+role('walking wake', 'wallbreaker').
+ability('walking wake','wallbreaker', 'protosynthesis').
+item('walking wake','wallbreaker', 'choice specs').
+tera('walking wake','wallbreaker', 'fire').
+tera('walking wake','wallbreaker', 'water').
+move('walking wake','wallbreaker', 'draco meteor').
+move('walking wake','wallbreaker', 'flamethrower').
+move('walking wake','wallbreaker', 'flip turn').
+move('walking wake','wallbreaker', 'hydro pump').
+role('walking wake', 'fast attacker').
+ability('walking wake','fast attacker', 'protosynthesis').
+item('walking wake','fast attacker', 'life orb').
+tera('walking wake','fast attacker', 'fire').
+move('walking wake','fast attacker', 'draco meteor').
+move('walking wake','fast attacker', 'flamethrower').
+move('walking wake','fast attacker', 'hydro steam').
+move('walking wake','fast attacker', 'sunny day').
+pokemon('weavile', 79).
+ability('weavile', 'pickpocket').
+item('weavile', 'choice band').
+item('weavile', 'heavy-duty boots').
+role('weavile', 'fast attacker').
+ability('weavile','fast attacker', 'pickpocket').
+item('weavile','fast attacker', 'choice band').
+item('weavile','fast attacker', 'heavy-duty boots').
+tera('weavile','fast attacker', 'dark').
+tera('weavile','fast attacker', 'fighting').
+tera('weavile','fast attacker', 'ice').
+move('weavile','fast attacker', 'ice shard').
+move('weavile','fast attacker', 'knock off').
+move('weavile','fast attacker', 'low kick').
+move('weavile','fast attacker', 'swords dance').
+move('weavile','fast attacker', 'triple axel').
+pokemon('weezing', 88).
+ability('weezing', 'levitate').
+item('weezing', 'leftovers').
+role('weezing', 'bulky attacker').
+ability('weezing','bulky attacker', 'levitate').
+item('weezing','bulky attacker', 'leftovers').
+tera('weezing','bulky attacker', 'steel').
+move('weezing','bulky attacker', 'fire blast').
+move('weezing','bulky attacker', 'gunk shot').
+move('weezing','bulky attacker', 'pain split').
+move('weezing','bulky attacker', 'sludge bomb').
+move('weezing','bulky attacker', 'toxic spikes').
+move('weezing','bulky attacker', 'will-o-wisp').
+pokemon('weezing-galar', 86).
+ability('weezing-galar', 'levitate').
+item('weezing-galar', 'leftovers').
+role('weezing-galar', 'bulky support').
+ability('weezing-galar','bulky support', 'levitate').
+item('weezing-galar','bulky support', 'leftovers').
+tera('weezing-galar','bulky support', 'steel').
+move('weezing-galar','bulky support', 'defog').
+move('weezing-galar','bulky support', 'fire blast').
+move('weezing-galar','bulky support', 'gunk shot').
+move('weezing-galar','bulky support', 'pain split').
+move('weezing-galar','bulky support', 'strange steam').
+move('weezing-galar','bulky support', 'will-o-wisp').
+pokemon('whimsicott', 84).
+ability('whimsicott', 'prankster').
+item('whimsicott', 'heavy-duty boots').
+item('whimsicott', 'leftovers').
+role('whimsicott', 'fast support').
+ability('whimsicott','fast support', 'prankster').
+item('whimsicott','fast support', 'heavy-duty boots').
+item('whimsicott','fast support', 'leftovers').
+tera('whimsicott','fast support', 'poison').
+tera('whimsicott','fast support', 'steel').
+move('whimsicott','fast support', 'encore').
+move('whimsicott','fast support', 'giga drain').
+move('whimsicott','fast support', 'moonblast').
+move('whimsicott','fast support', 'stun spore').
+move('whimsicott','fast support', 'u-turn').
+role('whimsicott', 'bulky support').
+ability('whimsicott','bulky support', 'prankster').
+item('whimsicott','bulky support', 'leftovers').
+tera('whimsicott','bulky support', 'poison').
+tera('whimsicott','bulky support', 'steel').
+move('whimsicott','bulky support', 'encore').
+move('whimsicott','bulky support', 'leech seed').
+move('whimsicott','bulky support', 'moonblast').
+move('whimsicott','bulky support', 'substitute').
+pokemon('whiscash', 88).
+ability('whiscash', 'oblivious').
+item('whiscash', 'leftovers').
+item('whiscash', 'life orb').
+role('whiscash', 'setup sweeper').
+ability('whiscash','setup sweeper', 'oblivious').
+item('whiscash','setup sweeper', 'life orb').
+tera('whiscash','setup sweeper', 'ground').
+tera('whiscash','setup sweeper', 'steel').
+move('whiscash','setup sweeper', 'dragon dance').
+move('whiscash','setup sweeper', 'earthquake').
+move('whiscash','setup sweeper', 'liquidation').
+move('whiscash','setup sweeper', 'stone edge').
+role('whiscash', 'bulky support').
+ability('whiscash','bulky support', 'oblivious').
+item('whiscash','bulky support', 'leftovers').
+tera('whiscash','bulky support', 'ghost').
+tera('whiscash','bulky support', 'poison').
+tera('whiscash','bulky support', 'steel').
+move('whiscash','bulky support', 'earthquake').
+move('whiscash','bulky support', 'hydro pump').
+move('whiscash','bulky support', 'ice beam').
+move('whiscash','bulky support', 'spikes').
+move('whiscash','bulky support', 'stealth rock').
+pokemon('wigglytuff', 96).
+ability('wigglytuff', 'competitive').
+item('wigglytuff', 'leftovers').
+role('wigglytuff', 'bulky support').
+ability('wigglytuff','bulky support', 'competitive').
+item('wigglytuff','bulky support', 'leftovers').
+tera('wigglytuff','bulky support', 'poison').
+tera('wigglytuff','bulky support', 'steel').
+move('wigglytuff','bulky support', 'alluring voice').
+move('wigglytuff','bulky support', 'dazzling gleam').
+move('wigglytuff','bulky support', 'fire blast').
+move('wigglytuff','bulky support', 'knock off').
+move('wigglytuff','bulky support', 'protect').
+move('wigglytuff','bulky support', 'thunder wave').
+move('wigglytuff','bulky support', 'wish').
+pokemon('wo-chien', 83).
+ability('wo-chien', 'tablets of ruin').
+item('wo-chien', 'leftovers').
+role('wo-chien', 'bulky support').
+ability('wo-chien','bulky support', 'tablets of ruin').
+item('wo-chien','bulky support', 'leftovers').
+tera('wo-chien','bulky support', 'poison').
+move('wo-chien','bulky support', 'giga drain').
+move('wo-chien','bulky support', 'knock off').
+move('wo-chien','bulky support', 'leech seed').
+move('wo-chien','bulky support', 'protect').
+move('wo-chien','bulky support', 'ruination').
+move('wo-chien','bulky support', 'stun spore').
+pokemon('wugtrio', 91).
+ability('wugtrio', 'gooey').
+item('wugtrio', 'choice band').
+role('wugtrio', 'fast attacker').
+ability('wugtrio','fast attacker', 'gooey').
+item('wugtrio','fast attacker', 'choice band').
+tera('wugtrio','fast attacker', 'dark').
+tera('wugtrio','fast attacker', 'ground').
+tera('wugtrio','fast attacker', 'water').
+move('wugtrio','fast attacker', 'aqua jet').
+move('wugtrio','fast attacker', 'liquidation').
+move('wugtrio','fast attacker', 'stomping tantrum').
+move('wugtrio','fast attacker', 'throat chop').
+pokemon('wyrdeer', 87).
+ability('wyrdeer', 'intimidate').
+item('wyrdeer', 'assault vest').
+item('wyrdeer', 'leftovers').
+role('wyrdeer', 'bulky attacker').
+ability('wyrdeer','bulky attacker', 'intimidate').
+item('wyrdeer','bulky attacker', 'assault vest').
+item('wyrdeer','bulky attacker', 'leftovers').
+tera('wyrdeer','bulky attacker', 'ground').
+move('wyrdeer','bulky attacker', 'body slam').
+move('wyrdeer','bulky attacker', 'earthquake').
+move('wyrdeer','bulky attacker', 'megahorn').
+move('wyrdeer','bulky attacker', 'psychic noise').
+move('wyrdeer','bulky attacker', 'thunder wave').
+pokemon('yanmega', 82).
+ability('yanmega', 'speed boost').
+ability('yanmega', 'tinted lens').
+item('yanmega', 'choice specs').
+item('yanmega', 'heavy-duty boots').
+role('yanmega', 'wallbreaker').
+ability('yanmega','wallbreaker', 'tinted lens').
+item('yanmega','wallbreaker', 'choice specs').
+tera('yanmega','wallbreaker', 'bug').
+move('yanmega','wallbreaker', 'air slash').
+move('yanmega','wallbreaker', 'bug buzz').
+move('yanmega','wallbreaker', 'giga drain').
+move('yanmega','wallbreaker', 'u-turn').
+role('yanmega', 'tera blast user').
+ability('yanmega','tera blast user', 'speed boost').
+item('yanmega','tera blast user', 'heavy-duty boots').
+tera('yanmega','tera blast user', 'ground').
+move('yanmega','tera blast user', 'air slash').
+move('yanmega','tera blast user', 'bug buzz').
+move('yanmega','tera blast user', 'protect').
+move('yanmega','tera blast user', 'tera blast').
+pokemon('zacian', 69).
+ability('zacian', 'intrepid sword').
+item('zacian', 'choice band').
+item('zacian', 'life orb').
+role('zacian', 'fast attacker').
+ability('zacian','fast attacker', 'intrepid sword').
+item('zacian','fast attacker', 'choice band').
+item('zacian','fast attacker', 'life orb').
+tera('zacian','fast attacker', 'fighting').
+move('zacian','fast attacker', 'close combat').
+move('zacian','fast attacker', 'crunch').
+move('zacian','fast attacker', 'play rough').
+move('zacian','fast attacker', 'psychic fangs').
+move('zacian','fast attacker', 'swords dance').
+move('zacian','fast attacker', 'wild charge').
+pokemon('zacian-crowned', 64).
+ability('zacian-crowned', 'intrepid sword').
+item('zacian-crowned', 'rusted sword').
+role('zacian-crowned', 'setup sweeper').
+ability('zacian-crowned','setup sweeper', 'intrepid sword').
+item('zacian-crowned','setup sweeper', 'rusted sword').
+tera('zacian-crowned','setup sweeper', 'fighting').
+move('zacian-crowned','setup sweeper', 'behemoth blade').
+move('zacian-crowned','setup sweeper', 'close combat').
+move('zacian-crowned','setup sweeper', 'play rough').
+move('zacian-crowned','setup sweeper', 'swords dance').
+pokemon('zamazenta', 71).
+ability('zamazenta', 'dauntless shield').
+item('zamazenta', 'chesto berry').
+item('zamazenta', 'choice band').
+item('zamazenta', 'leftovers').
+role('zamazenta', 'bulky setup').
+ability('zamazenta','bulky setup', 'dauntless shield').
+item('zamazenta','bulky setup', 'chesto berry').
+item('zamazenta','bulky setup', 'leftovers').
+tera('zamazenta','bulky setup', 'steel').
+move('zamazenta','bulky setup', 'body press').
+move('zamazenta','bulky setup', 'crunch').
+move('zamazenta','bulky setup', 'iron defense').
+move('zamazenta','bulky setup', 'iron head').
+move('zamazenta','bulky setup', 'rest').
+move('zamazenta','bulky setup', 'stone edge').
+move('zamazenta','bulky setup', 'substitute').
+role('zamazenta', 'bulky attacker').
+ability('zamazenta','bulky attacker', 'dauntless shield').
+item('zamazenta','bulky attacker', 'choice band').
+tera('zamazenta','bulky attacker', 'dark').
+tera('zamazenta','bulky attacker', 'fighting').
+tera('zamazenta','bulky attacker', 'steel').
+move('zamazenta','bulky attacker', 'close combat').
+move('zamazenta','bulky attacker', 'crunch').
+move('zamazenta','bulky attacker', 'iron head').
+move('zamazenta','bulky attacker', 'psychic fangs').
+move('zamazenta','bulky attacker', 'stone edge').
+pokemon('zamazenta-crowned', 68).
+ability('zamazenta-crowned', 'dauntless shield').
+item('zamazenta-crowned', 'rusted shield').
+role('zamazenta-crowned', 'bulky setup').
+ability('zamazenta-crowned','bulky setup', 'dauntless shield').
+item('zamazenta-crowned','bulky setup', 'rusted shield').
+tera('zamazenta-crowned','bulky setup', 'fighting').
+tera('zamazenta-crowned','bulky setup', 'ghost').
+move('zamazenta-crowned','bulky setup', 'body press').
+move('zamazenta-crowned','bulky setup', 'heavy slam').
+move('zamazenta-crowned','bulky setup', 'iron defense').
+move('zamazenta-crowned','bulky setup', 'stone edge').
+pokemon('zangoose', 85).
+ability('zangoose', 'toxic boost').
+item('zangoose', 'toxic orb').
+role('zangoose', 'fast attacker').
+ability('zangoose','fast attacker', 'toxic boost').
+item('zangoose','fast attacker', 'toxic orb').
+tera('zangoose','fast attacker', 'normal').
+move('zangoose','fast attacker', 'close combat').
+move('zangoose','fast attacker', 'facade').
+move('zangoose','fast attacker', 'knock off').
+move('zangoose','fast attacker', 'quick attack').
+move('zangoose','fast attacker', 'swords dance').
+pokemon('zapdos', 78).
+ability('zapdos', 'static').
+item('zapdos', 'heavy-duty boots').
+role('zapdos', 'bulky attacker').
+ability('zapdos','bulky attacker', 'static').
+item('zapdos','bulky attacker', 'heavy-duty boots').
+tera('zapdos','bulky attacker', 'electric').
+tera('zapdos','bulky attacker', 'steel').
+move('zapdos','bulky attacker', 'discharge').
+move('zapdos','bulky attacker', 'heat wave').
+move('zapdos','bulky attacker', 'hurricane').
+move('zapdos','bulky attacker', 'roost').
+move('zapdos','bulky attacker', 'thunderbolt').
+move('zapdos','bulky attacker', 'u-turn').
+pokemon('zapdos-galar', 77).
+ability('zapdos-galar', 'defiant').
+item('zapdos-galar', 'choice band').
+item('zapdos-galar', 'choice scarf').
+item('zapdos-galar', 'life orb').
+role('zapdos-galar', 'fast attacker').
+ability('zapdos-galar','fast attacker', 'defiant').
+item('zapdos-galar','fast attacker', 'choice band').
+item('zapdos-galar','fast attacker', 'choice scarf').
+item('zapdos-galar','fast attacker', 'life orb').
+tera('zapdos-galar','fast attacker', 'dark').
+tera('zapdos-galar','fast attacker', 'fighting').
+tera('zapdos-galar','fast attacker', 'steel').
+move('zapdos-galar','fast attacker', 'brave bird').
+move('zapdos-galar','fast attacker', 'bulk up').
+move('zapdos-galar','fast attacker', 'close combat').
+move('zapdos-galar','fast attacker', 'knock off').
+move('zapdos-galar','fast attacker', 'u-turn').
+pokemon('zarude', 77).
+ability('zarude', 'leaf guard').
+item('zarude', 'choice band').
+item('zarude', 'choice scarf').
+item('zarude', 'leftovers').
+item('zarude', 'life orb').
+role('zarude', 'fast attacker').
+ability('zarude','fast attacker', 'leaf guard').
+item('zarude','fast attacker', 'choice band').
+item('zarude','fast attacker', 'choice scarf').
+tera('zarude','fast attacker', 'dark').
+tera('zarude','fast attacker', 'fighting').
+tera('zarude','fast attacker', 'grass').
+move('zarude','fast attacker', 'close combat').
+move('zarude','fast attacker', 'knock off').
+move('zarude','fast attacker', 'power whip').
+move('zarude','fast attacker', 'u-turn').
+role('zarude', 'fast bulky setup').
+ability('zarude','fast bulky setup', 'leaf guard').
+item('zarude','fast bulky setup', 'leftovers').
+item('zarude','fast bulky setup', 'life orb').
+tera('zarude','fast bulky setup', 'dark').
+tera('zarude','fast bulky setup', 'fighting').
+tera('zarude','fast bulky setup', 'grass').
+move('zarude','fast bulky setup', 'close combat').
+move('zarude','fast bulky setup', 'knock off').
+move('zarude','fast bulky setup', 'power whip').
+move('zarude','fast bulky setup', 'swords dance').
+move('zarude','fast bulky setup', 'synthesis').
+pokemon('zebstrika', 87).
+ability('zebstrika', 'sap sipper').
+item('zebstrika', 'life orb').
+role('zebstrika', 'fast attacker').
+ability('zebstrika','fast attacker', 'sap sipper').
+item('zebstrika','fast attacker', 'life orb').
+tera('zebstrika','fast attacker', 'ground').
+move('zebstrika','fast attacker', 'high horsepower').
+move('zebstrika','fast attacker', 'overheat').
+move('zebstrika','fast attacker', 'supercell slam').
+move('zebstrika','fast attacker', 'volt switch').
+pokemon('zekrom', 71).
+ability('zekrom', 'teravolt').
+item('zekrom', 'leftovers').
+role('zekrom', 'setup sweeper').
+ability('zekrom','setup sweeper', 'teravolt').
+item('zekrom','setup sweeper', 'leftovers').
+tera('zekrom','setup sweeper', 'electric').
+tera('zekrom','setup sweeper', 'fairy').
+tera('zekrom','setup sweeper', 'grass').
+tera('zekrom','setup sweeper', 'steel').
+move('zekrom','setup sweeper', 'bolt strike').
+move('zekrom','setup sweeper', 'dragon dance').
+move('zekrom','setup sweeper', 'outrage').
+move('zekrom','setup sweeper', 'substitute').
+pokemon('zoroark', 83).
+ability('zoroark', 'illusion').
+item('zoroark', 'choice specs').
+item('zoroark', 'life orb').
+role('zoroark', 'setup sweeper').
+ability('zoroark','setup sweeper', 'illusion').
+item('zoroark','setup sweeper', 'life orb').
+tera('zoroark','setup sweeper', 'poison').
+move('zoroark','setup sweeper', 'dark pulse').
+move('zoroark','setup sweeper', 'encore').
+move('zoroark','setup sweeper', 'focus blast').
+move('zoroark','setup sweeper', 'nasty plot').
+move('zoroark','setup sweeper', 'psychic').
+move('zoroark','setup sweeper', 'sludge bomb').
+role('zoroark', 'wallbreaker').
+ability('zoroark','wallbreaker', 'illusion').
+item('zoroark','wallbreaker', 'choice specs').
+tera('zoroark','wallbreaker', 'poison').
+move('zoroark','wallbreaker', 'dark pulse').
+move('zoroark','wallbreaker', 'flamethrower').
+move('zoroark','wallbreaker', 'focus blast').
+move('zoroark','wallbreaker', 'psychic').
+move('zoroark','wallbreaker', 'sludge bomb').
+move('zoroark','wallbreaker', 'trick').
+move('zoroark','wallbreaker', 'u-turn').
+pokemon('zoroark-hisui', 80).
+ability('zoroark-hisui', 'illusion').
+item('zoroark-hisui', 'choice specs').
+item('zoroark-hisui', 'life orb').
+role('zoroark-hisui', 'wallbreaker').
+ability('zoroark-hisui','wallbreaker', 'illusion').
+item('zoroark-hisui','wallbreaker', 'choice specs').
+item('zoroark-hisui','wallbreaker', 'life orb').
+tera('zoroark-hisui','wallbreaker', 'fighting').
+tera('zoroark-hisui','wallbreaker', 'normal').
+move('zoroark-hisui','wallbreaker', 'bitter malice').
+move('zoroark-hisui','wallbreaker', 'flamethrower').
+move('zoroark-hisui','wallbreaker', 'focus blast').
+move('zoroark-hisui','wallbreaker', 'hyper voice').
+move('zoroark-hisui','wallbreaker', 'nasty plot').
+move('zoroark-hisui','wallbreaker', 'trick').
+move('zoroark-hisui','wallbreaker', 'u-turn').
+role('zoroark-hisui', 'fast attacker').
+ability('zoroark-hisui','fast attacker', 'illusion').
+item('zoroark-hisui','fast attacker', 'life orb').
+tera('zoroark-hisui','fast attacker', 'fighting').
+tera('zoroark-hisui','fast attacker', 'normal').
+move('zoroark-hisui','fast attacker', 'focus blast').
+move('zoroark-hisui','fast attacker', 'hyper voice').
+move('zoroark-hisui','fast attacker', 'poltergeist').
+move('zoroark-hisui','fast attacker', 'will-o-wisp').

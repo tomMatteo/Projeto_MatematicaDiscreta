@@ -11,34 +11,34 @@ with open("pokemon.pl", "w", encoding="utf-8") as arquivo:
         
 
         arquivo.write(
-            f"pokemon('{nome}', {nivel}).\n"
+            f"pokemon('{nome.lower()}', {nivel}).\n"
         )
 
         for ability in pokemon["abilities"]:
             arquivo.write(
-                f"ability('{nome}', '{ability}').\n"
+                f"ability('{nome.lower()}', '{ability.lower()}').\n"
             )
         for item in pokemon.get("items", []):
             arquivo.write(
-                f"item('{nome}', '{item}').\n"
+                f"item('{nome.lower()}', '{item.lower()}').\n"
             )
         for role, setup in pokemon["roles"].items():
             arquivo.write(
-                f"role('{nome}', '{role}').\n"
+                f"role('{nome.lower()}', '{role.lower()}').\n"
             )
             for ability in setup["abilities"]:
                 arquivo.write(
-                    f"ability('{nome}','{role}', '{ability}').\n"
+                    f"ability('{nome.lower()}','{role.lower()}', '{ability.lower()}').\n"
                 )
             for item in setup.get("items", []):
                 arquivo.write(
-                    f"item('{nome}','{role}', '{item}').\n"
+                    f"item('{nome.lower()}','{role.lower()}', '{item.lower()}').\n"
                 )
             for tera in setup["teraTypes"]:
                 arquivo.write(
-                    f"tera('{nome}','{role}', '{tera}').\n"
+                    f"tera('{nome.lower()}','{role.lower()}', '{tera.lower()}').\n"
                 )
             for move in setup["moves"]:
                 arquivo.write(
-                    f"move('{nome}','{role}', '{move}').\n"
+                    f"move('{nome.lower()}','{role.lower()}', '{move.lower()}').\n"
                 )
