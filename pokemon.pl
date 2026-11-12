@@ -928,7 +928,7 @@ ability('raikou', 'pressure').
 ability('rampardos', 'sheer-force').
 ability('rayquaza', 'air-lock').
 ability('regice', 'clear-body').
-ability('regidrago', 'dragon's-maw').
+ability('regidrago', 'dragons-maw').
 ability('regieleki', 'transistor').
 ability('regigigas', 'slow-start').
 ability('regirock', 'clear-body').
@@ -1044,7 +1044,7 @@ ability('typhlosion-hisui', 'blaze').
 ability('tyranitar', 'sand-stream').
 ability('umbreon', 'synchronize').
 ability('ursaluna', 'guts').
-ability('ursaluna-bloodmoon', 'mind's-eye').
+ability('ursaluna-bloodmoon', 'minds-eye').
 ability('ursaring', 'guts').
 ability('ursaring', 'quick-feet').
 ability('urshifu', 'unseen-fist').
@@ -1760,9 +1760,9 @@ ability('rayquaza', 'setup-sweeper', 'air-lock').
 ability('rayquaza', 'fast-attacker', 'air-lock').
 ability('rayquaza', 'fast-bulky-setup', 'air-lock').
 ability('regice', 'bulky-attacker', 'clear-body').
-ability('regidrago', 'setup-sweeper', 'dragon's-maw').
-ability('regidrago', 'fast-attacker', 'dragon's-maw').
-ability('regidrago', 'tera-blast-user', 'dragon's-maw').
+ability('regidrago', 'setup-sweeper', 'dragons-maw').
+ability('regidrago', 'fast-attacker', 'dragons-maw').
+ability('regidrago', 'tera-blast-user', 'dragons-maw').
 ability('regieleki', 'fast-support', 'transistor').
 ability('regieleki', 'tera-blast-user', 'transistor').
 ability('regigigas', 'bulky-attacker', 'slow-start').
@@ -1949,8 +1949,8 @@ ability('tyranitar', 'bulky-setup', 'sand-stream').
 ability('tyranitar', 'bulky-support', 'sand-stream').
 ability('umbreon', 'bulky-support', 'synchronize').
 ability('ursaluna', 'bulky-attacker', 'guts').
-ability('ursaluna-bloodmoon', 'bulky-setup', 'mind's-eye').
-ability('ursaluna-bloodmoon', 'bulky-attacker', 'mind's-eye').
+ability('ursaluna-bloodmoon', 'bulky-setup', 'minds-eye').
+ability('ursaluna-bloodmoon', 'bulky-attacker', 'minds-eye').
 ability('ursaring', 'bulky-attacker', 'guts').
 ability('ursaring', 'setup-sweeper', 'quick-feet').
 ability('urshifu', 'fast-attacker', 'unseen-fist').
