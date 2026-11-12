@@ -14,36 +14,36 @@ movefatos = """"""
 for nome, pokemon in dados.items():
     nivel = pokemon["""level"""]
     
-    
-    pokemonfatos += f"""pokemon("{nome.lower()}", {nivel}).\n"""
+    nome = nome.replace(' ', '-').replace("'", '')
+    pokemonfatos += f"""pokemon('{nome.lower()}', {nivel}).\n"""
 
     for ability in pokemon["""abilities"""]:
-        
-        ability2fatos += f"""ability("{nome.lower()}", "{ability.lower()}").\n"""
+        ability = ability.replace(' ', '-')
+        ability2fatos += f"""ability('{nome.lower()}', '{ability.lower()}').\n"""
     
     for item in pokemon.get("""items""", []):
-        
-        item2fatos += f"""item("{nome.lower()}", "{item.lower()}").\n"""
+        item = item.replace(' ', '-')
+        item2fatos += f"""item('{nome.lower()}', '{item.lower().replace(' ', '-')}').\n"""
     
     for role, setup in pokemon["""roles"""].items():
-        
-        rolefatos += f"""role("{nome.lower()}", "{role.lower()}").\n"""
+        role = role.replace(' ', '-')
+        rolefatos += f"""role('{nome.lower()}', '{role.lower().replace(' ', '-')}').\n"""
     
         for ability in setup["""abilities"""]:
-            
-            ability3fatos += f"""ability("{nome.lower()}","{role.lower()}", "{ability.lower()}").\n"""
+            ability = ability.replace(' ', '-')
+            ability3fatos += f"""ability('{nome.lower()}', '{role.lower().replace(' ', '-')}', '{ability.lower().replace(' ', '-')}').\n"""
         
         for item in setup.get("""items""", []):
-            
-            item3fatos +=  f"""item("{nome.lower()}","{role.lower()}", "{item.lower()}").\n"""
+            item = item.replace(' ', '-')
+            item3fatos +=  f"""item('{nome.lower()}', '{role.lower().replace(' ', '-')}', '{item.lower().replace(' ', '-')}').\n"""
         
         for tera in setup["""teraTypes"""]:
-            
-            terafatos += f"""tera("{nome.lower()}","{role.lower()}", "{tera.lower()}").\n"""
+            tera = tera.replace(' ', '-')
+            terafatos += f"""tera('{nome.lower()}', '{role.lower().replace(' ', '-')}', '{tera.lower().replace(' ', '-')}').\n"""
         
         for move in setup["""moves"""]:
-            
-            movefatos += f"""move("{nome.lower()}","{role.lower()}", "{move.lower()}").\n"""
+            move = move.replace(' ', '-')
+            movefatos += f"""move('{nome.lower()}', '{role.lower().replace(' ', '-')}', '{move.lower().replace(' ', '-')}').\n"""
         
 with open("pokemon.pl", "w", encoding="utf-8") as arquivo:
     arquivo.write(
