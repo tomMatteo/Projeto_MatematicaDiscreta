@@ -11,7 +11,10 @@ moves_by_role(Pokemon, Result) :-
           Result).
 
 move(Pokemon, Move) :-
-    move(Pokemon, _, Move).
+    distinct([Pokemon, Move], move(Pokemon, _, Move)).
+
+tera(Pokemon, Tera) :-
+    distinct([Pokemon, Tera], tera(Pokemon, _, Tera)).
 
 relation(Relation, Value, Result) :-
     findall(Pokemon,
